@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-922 - the one with the donor
+<EPISODE_START>
+the one with the donor
 [scene: central perk. charlie, joey and rachel are on the couches]
 charlie: (while joey's giving her a massage) oh! that feels sooo good!
 rachel: (speaking to herself and reading cosmopolitan) oh, lucky me! coffee and a live sex show!
@@ -31,22 +31,27 @@ phoebe: ok, that'll be great!
 joey: oh, ain't that nice? the three of you trying on slutty lingerie together.
 rachel: that's not what we're gonna do!
 joey: why would you ruin it, who was that hurtin'?
-opening credits[scene: doctor connelly's office]
+[scene: doctor connelly's office]
 chandler: (looking at the picture of the female reproductive system) wow! fortunately she has a very pretty face!
 monica: oh, i so can't believe this! my uterus is an inhospitable environment? i was trying so hard to be a good hostess!
 chandler: oh, i can't believe my sperm have low motility because, let me tell you, when i was growing up they sure seem to be in a hurry to get places!!
-doctor connelly: (entering) hi there.
+doctor
+connelly: (entering) hi there.
 chandler: hi.
 monica: hi.
-doctor connelly: i'm sorry there wasn't better news from your test last week but i wanted to talk to you about your options.
+doctor
+connelly: i'm sorry there wasn't better news from your test last week but i wanted to talk to you about your options.
 monica: ok.
-doctor connelly: above all, even though your chances of conceiving through natural means aren't great, you never know! so, keep having sex on a regular basis.
+doctor
+connelly: above all, even though your chances of conceiving through natural means aren't great, you never know! so, keep having sex on a regular basis.
 chandler: oh, damn it!
 (dr. connelly glares at chandler)
 monica: don't worry, after a while he'll tune it out.
-doctor connelly: ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.
+doctor
+connelly: ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.
 monica: (long pause) ok.
-doctor connelly: and, of course, if you feel that neither of those is right for you, you can always adopt.
+doctor
+connelly: and, of course, if you feel that neither of those is right for you, you can always adopt.
 chandler: is that a hint? because we love you doctor connelly but we don't think we'd want you to be our child! (dr. connelly glares at him) wow, talking about an inhospitable environment!
 [scene: central perk. joey and charlie on the couch. rachel enters]
 rachel: hi! ok, you're ready to go pick up phoebe and go shopping?
@@ -93,12 +98,14 @@ ross: (puzzled) what?
 ross: (looking astonished) what? no! i am not going to give them ben!
 [scene: professor sherman's office, ross is relating to professor sherman]
 ross: the data we are receiving from mri scans and dna testing of these fossils are - are staggering.
-professor sherman: mmm-mm.
+professor
+sherman: mmm-mm.
 ross: (reading from a notepad) i mean, we've been accepting leakey's dates as a given, but if they're off by even a hundred thousand years or so then you can - you can just throw most of our assumptions, you know, right in the trash. (he throws the notepad in the waste bin) so-so what i am saying is - is is that (he picks the notepad back from the waste bin) is that the repercussions could be huge! i mean, not just in palaeontology, but if-if you think about it, in evolutionary biology, uh, genetics, geology, uh, i mean, truly the mind boggles!
 (turns to look at professor sherman, only to discover that he is sleeping)
 ross: oh, that's not what you want...
 [scene: shop, rachel, charlie and phoebe walk in]
-shop assistant: (to a girl) incentive for men?
+shop
+assistant: (to a girl) incentive for men?
 phoebe: oh, i'll take some of that.
 rachel: pheebs, that's for men!
 phoebe: no, i know, this way when i go to the party later mike will know i am over him cause i'm gonna smell like another guy. (to the shop assistant) yeah.
@@ -210,7 +217,8 @@ chandler: oh! thanks, i'm crazy about our place. hey! speaking of crazy... do yo
 zack: uhm... no. although i did have an uncle who voted for dukakis.
 chandler: (very seriously) that's really not the kind of thing we are looking for zack.
 zack: (looking very puzzled) okaaay... so eh... so tell me, how did you guys meet.
-monica: oh, friends first, drunk in london, you know the story. i've got a better question for you: do you or any of your blood relatives have diabetes?
+monica: oh, friends first, drunk in london, you know the story. i've got a better question for
+you: do you or any of your blood relatives have diabetes?
 zack: (after a pause, very confused) no...
 monica: eh... heart disease, alzheimers, gout?
 zack: you guys don't have people for dinner a lot, huh?
@@ -218,7 +226,8 @@ monica: we're just making conversation. (chandler makes an agreeing-sound)
 zack: ok. i heard a joke today. it's pretty funny...
 chandler: you know what's not funny? male pattern baldness (monica stretches her neck to look behind zack's head and then gives chandler an "ok" sign)
 zack: ok listen, you guys have shown a lot of interest in me tonight and i'm flattered and... and quite frankly a little frightened. can we just talk about something else?
-monica & chandler: sure! alright...
+monica &
+chandler: sure! alright...
 zack: ravioli's delicious!
 chandler: i noticed you were enjoying that ravioli with a beautiful set of teeth. did you have braces as a child?
 zack: no i didn't.
@@ -245,7 +254,8 @@ rachel: (looks ashamed) i try...
 [scene: prof. sherman's office. sherman is still asleep on his chair, blocking the door.]
 (ross takes his suitcase and tries to get out but ends up falling on prof. sherman's laps, thereby waking him up)
 ross: (to the still half asleep professor) oh my god! you really want me to be the keynote speaker? thank you! (hugs him whilst still on his lap)
-prof. sherman: (confused) you're welcome. (ross hugs him again)
+prof.
+sherman: (confused) you're welcome. (ross hugs him again)
 [scene: central perk. joey is sitting on the sofa, eating a cookie.]
 (phoebe walks in wearing a fancy, revealing dress, and stands before joey)
 joey: (impressed) wow! you look... (drops the cookie)... stop-eating hot! which is like the highest level of hotness!
@@ -320,10 +330,11 @@ monica: so this is it, we're really gonna adopt?
 chandler: (smiling) yeah.
 monica: (excitedly) oh my god, we're gonna be parents!
 chandler: we are gonna be great parents.
-monica: and it could be soon. i mean, think about it: right now, somewhere out there (they go look through the window) our baby could be being conceived.
+monica: and it could be soon. i mean, think about
+it: right now, somewhere out there (they go look through the window) our baby could be being conceived.
 chandler: wait, if we're lucky, and we're really really really quiet, we may be able to hear the sound of a condom breaking!
 (they hug)
-closing credits[scene: zack's office]
+[scene: zack's office]
 chandler: hey, zack!
 zack: (hardly enthusiastic) hey chandler.
 chandler: look, i just wanted to apologize for last night. i got the feeling we made you a little uncomfortable.
@@ -335,4 +346,5 @@ chandler: my wife and i have some boundary issues, you know, sometimes we ask in
 jeanette: (to zack) here are the boards for friday's pitch (hands him something).
 zack: oh, thank you.
 (jeanette walks out)
-chandler: you wouldn't know if jeanette's planning on keeping her baby, would ya?<EPISODE_END>
+chandler: you wouldn't know if jeanette's planning on keeping her baby, would ya?r
+<EPISODE_END>

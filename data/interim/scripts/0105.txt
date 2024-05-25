@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the east german laundry detergent
+<EPISODE_START>
+the one with the east german laundry detergent
 [scene: central perk, all six are there.]
 monica: would you let it go? it's not that big a deal.
 ross: not that big a deal? it's amazing. ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. all right, as far as i'm concerned, there is nothing a guy can do that even comes close. am i right?
@@ -7,8 +8,7 @@ chandler: we can? all right, i'm tryin' that.
 joey: ok, you know what blows my mind? women can see breasts any time they want. you just look down and there they are. how you get any work done is beyond me.
 phoebe: oh, ok, you know what i don't get? the way guys can do so many mean things, and then not even care.
 (long pause.)
-ross: multiple orgasms!
-opening credits
+ross: multiple orgasms!r
 [scene: central perk, all are there.]
 chandler: so, saturday night, the big night, date night, saturday night, sat-ur-day night!
 joey: no plans, huh?
@@ -265,8 +265,7 @@ rachel: i could not have done this without you.
 (rachel stands up and kisses ross. he is stunned. a moment of silence follows.)
 ross: ok, um, uh, more clothes in the dryer? (ross turns and bangs his head on an open dryer door.) i'm fine, i'm fine.
 rachel: are you sure?
-ross: no.
-closing credits
+ross: no.r
 [scene: central perk, ross, rachel, and phoebe are there. ross has an icepack to his head.]
 rachel: oh, are you sure you're ok?
 ross: yeah.
@@ -284,4 +283,5 @@ rachel: where's chandler?
 phoebe: oh, he needed some time to grieve.
 (chandler runs by the window outside, joyous.)
 chandler: i'm free! i'm free!
-phoebe: that oughta do it.<EPISODE_END>
+phoebe: that oughta do it.r
+<EPISODE_END>

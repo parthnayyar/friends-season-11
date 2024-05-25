@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the vows
+<EPISODE_START>
+the one with the vows
 [scene: monica and chandler's, monica is at the kitchen table and chandler is in the living room.]
 monica: do you realize that four weeks from today we’re getting married? four weeks baby!! four weeks!!!
 chandler: do you realize you get louder each week?
@@ -9,8 +10,7 @@ chandler: right. so uh, have you written yours yet?
 monica: no! but i know exactly what i’m going to say.
 chandler: do you happen to know what i’m going to say?
 monica: (handing him a pad of paper and a pen) let’s just do it right now. okay? it won’t be hard. just say what’s in your heart. (she goes back, sits down, and starts feverishly writing.)
-chandler: (watching in her) (in his head) look at her go! she must love me more than i love her! what’s wrong with me? ooh, don’t open that door.
-opening credits
+chandler: (watching in her) (in his head) look at her go! she must love me more than i love her! what’s wrong with me? ooh, don’t open that door.r
 [scene: joey and rachel's, chandler is getting help writing his vows from joey and ross.]
 chandler: (writing) monica, there are no words… (to joey and ross) there are no words! this should not be this hard!
 joey: all right, uh… (to ross) oh hey, you’ve done this before ross, well what did you say when you made up your vows?
@@ -31,7 +31,8 @@ ross: well, why don’t you just start with something simple. like umm, monica f
 chandler: yeah, i’m not sure i can do that.
 [flashback to when chandler was introduced to monica in the one with the thanksgiving flashbacks.]
 ross: ...everyone, this is chandler!
-fat monica: hi, i'm ross's little sister.
+fat
+monica: hi, i'm ross's little sister.
 chandler: (seeing her) okay.
 [cut to the girls.]
 rachel: okay. okay. okay. umm, maybe you can start with, "chandler, even though we were friends; there was a part of me that always knew i wanted more."
@@ -179,7 +180,8 @@ rachel: i know!! i know!! i know!
 phoebe: you know?!!!
 rachel: yes, i know! and joey knows! but ross doesn't know so you have to stop screaming!!
 ross: (entering) what's going on?
-phoebe and rachel: ohhh!!!
+phoebe and
+rachel: ohhh!!!
 rachel: (trying to divert his attention from the window by jumping up and down) hi!! hi!
 ross: what?! what?!
 rachel: nothing! oh god, we're just so excited that you want to get this apartment!
@@ -305,8 +307,7 @@ joey: what? i don’t get it.
 (ross points to the explanation and he gets it.)
 ross: (to chandler) oh man, this is hilarious.
 monica: chandler!!
-chandler: don’t worry honey, we’ll make yours funnier.
-ending credits
+chandler: don’t worry honey, we’ll make yours funnier.r
 [scene: monica and chandler's, ross and joey are reading chandler’s new vows.]
 chandler: okay, what do you guys think?
 ross: (quietly) dude!
@@ -315,4 +316,5 @@ chandler: you really like it?
 ross: dude! how-how did you write this?
 chandler: i stole monica’s and changed the name.
 ross: you can’t do that!
-joey: if he goes first he can!<EPISODE_END>
+joey: if he goes first he can!r
+<EPISODE_END>

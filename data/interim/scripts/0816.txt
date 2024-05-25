@@ -1,5 +1,7 @@
-<EPISODE_START>the one where joey tells rachel
-lisa kudrow: (voiceover) previously on friends
+<EPISODE_START>
+the one where joey tells rachel
+lisa
+kudrow: (voiceover) previously on friends
 [scene: central perk, joey is talking to ross]
 joey: there’s this woman, that i like.  a lot.  well, it’s
 complicated.  she’s with this other guy.  for a long time.  and i
@@ -32,8 +34,7 @@ ross: y’know what? i-i gotta go. (starts to leave.)
 joey: oh come on ross! hey ross-ross don’t…
 ross: (stops) i just—y’know—i-i just have one—rachel?!
 (he exits and starts to walk away, passes a window, stops, and says "rachel?!" again. joey sighs and turns around to face gunther.)
-gunther: rachel?!!
-opening credits
+gunther: rachel?!!r
 [scene: central perk, rachel and chandler are on the couch.]
 rachel: oh-oh! okay, she’s kicking!
 chandler: oh! (puts his hand on her belly.) she’s growing inside you.
@@ -240,12 +241,12 @@ rachel: oh joey honey i don’t…i don’t want to lose…
 joey: hey-hey-hey, hey! you can’t. okay? ever!
 rachel: i’m so sorry.
 joey: oh no-no rach, please, don’t be sorry. okay? don’t be sorry. (they hug again.) y’know i was only kidding you.
-rachel: yeah, that was a real good one.
-closing credits
+rachel: yeah, that was a real good one.r
 [scene: a restaurant, joey and rachel are still hugging as a waiter walks by the table to talk to the annoying waiter from before who is watching.]
 waiter no. 2: is this your table?
 waiter: yeah.
 waiter no. 2: god, you’re gonna be here all night!
 waiter: i know! i haven’t even read them the specials yet!
 waiter no. 2: what’s the matter with them?
-waiter: i don’t know. i think maybe one of them is dying. (pause) i kinda hope it’s the girl. (the other waiter is shocked.) the guy is really cute!<EPISODE_END>
+waiter: i don’t know. i think maybe one of them is dying. (pause) i kinda hope it’s the girl. (the other waiter is shocked.) the guy is really cute!r
+<EPISODE_END>

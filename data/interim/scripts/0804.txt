@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the videotape
+<EPISODE_START>
+the one with the videotape
 [scene: the hallway, chandler and monica are returning from their honeymoon.]
 chandler: wait. before we go in, i just want you to know i love you. i had a great time on our honeymoon, and i can’t wait to go in there and spend the rest of our life together.
 monica: you’re really sticking with the shell necklace huh? (points to necklace of shells he’s wearing.)
@@ -25,9 +26,7 @@ chandler: we really…didn’t get a chance to…
 phoebe: you have got to be kidding me!
 monica: we didn’t get anything for anyone.
 joey: hm-mm! yeah nice necklace!
-monica: that you can have.
-opening credits
-{transcriber’s note: tradition was broken here as there were no commercials immediately after the opening credits, just more show.}
+monica: that you can have.r
 [scene: monica and chandler's, ross and rachel are entering with the rest of the gang already inside.]
 rachel: hi!
 all: hey!
@@ -275,7 +274,8 @@ rachel: oh please. (he does so.)
 ross: oh, oh there go the clothes.
 rachel: you are undressing very quickly.
 ross: six months rachel, six months.
-ross and rachel: ah. (pause) oh.
+ross and
+rachel: ah. (pause) oh.
 ross: hey. we-we look…we look pretty good.
 rachel: that’s what i was gonna say.
 ross: oh nice tan!
@@ -284,7 +284,8 @@ ross: ah….
 rachel: have you been working out?
 ross: i have been working out.
 rachel: really? wow, this is so much better than i…
-ross and rachel: ohh! ew!
+ross and
+rachel: ohh! ew!
 ross: oh that’s not pretty.
 rachel: oh! oh!
 ross: no!
@@ -296,10 +297,10 @@ rachel: make it stop!!
 ross: no!!
 rachel: have to make it stop!!
 ross: no!!!
-(they both get out of the chair and run for the vcr.)
-closing credits
+(they both get out of the chair and run for the vcr.)r
 [scene: monica and chandler's, monica and chandler have gone through the phone book and found greg and jenny’s number which monica has just dialed.]
 monica: (on phone) hello greg? (listens) hi, this is monica from the plane? listen, the number that you gave me 853-5… (listens) (to chandler) that is their old number! jenny’s been giving it out since they moved!
 chandler: jenny! that is so jenny!
 monica: (on phone) hey listen umm, how would you like to get together? say next saturday? (listens) okay, how about sunday? (listens) okay umm, the week after that? (listens) the week after that? (listens) y’know what greg? y’know what? we are good, interesting, funny people with good questions and if you and your precious jenny can’t see that then… (listens) january 15th? (chandler dances.) we’ll see you then! (listens) okay!
-(she hangs up the phone and they hug.)<EPISODE_END>
+(she hangs up the phone and they hug.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with all the jealousy
+<EPISODE_START>
+the one with all the jealousy
 [scene: monica and rachel's, rachel is getting ready for her first day.]
 rachel: (running in from her bedroom, wearing only a towel) okay. hey. umm. does everybody hate these shoes?
 chandler: oh yeah, but don't worry. i don't think anybody's gonna focus on that as long as your wearing that towel dress.
@@ -24,9 +25,8 @@ rachel: oh.
 chandler: (to ross) hey, so can you make it on friday?
 ross: what? oh yeah, yeah i think so. why am i invited to this again?
 chandler: well apparently albert has no friends. he's very excited about the bachelor party though. i think actually the only reason he's getting married is so he can see a stripper.
-phoebe: a stripper at a bachelor party, that is so clich�. why don't you get a magician?!
-chandler: well, if the magician can open my beer with his but cheeks, then all right.
-opening credits
+phoebe: a stripper at a bachelor party, that is so clich. why don't you get a magician?!
+chandler: well, if the magician can open my beer with his but cheeks, then all right.r
 [scene: chandler and joey's, ross and chandler are entering, joey is on the phone.]
 ross: she's having lunch with him. she's having lunch with him. and you should of seen the hug she gave him when she got the job. and, and, and, (to joey) he's really good looking. (joey gives an enthusiastic thumbs up) what am i gonna do?
 chandler: don't do anything. keep it inside. learn how to hide your feelings! (pause) don't cry outloud.
@@ -141,9 +141,11 @@ man: (to rachel) ah, excuse me, are you rachel green?
 rachel: yes.
 man: (being joined by the rest of the barbershop quartet) one, two, three...
 quartet: (singing) congratulations on your first week at your brand new job! it won't be long before your the boss.
-the bass barber: omm-pah, omm-pah, omm-pah.
+the bass
+barber: omm-pah, omm-pah, omm-pah.
 quartet: (singing) and you know who will be there to support... you?! your one and only boyfriend...
-the bass barber: it's nice to have a boyfriend.
+the bass
+barber: it's nice to have a boyfriend.
 quartet: your loyal loving boyfriend ross..... ross!
 commercial break
 [scene: monica and rachel's, ross and rachel are entering the living room from her bedroom.]
@@ -264,14 +266,15 @@ ross: what?
 (she runs over and gives him a very passionate kiss.)
 ross: huh.
 rachel: (to chandler) well, there's a kiss that he won't forget for a couple of hours, y'know.
-chandler: yeah. either that, or you just turned him on and sent him off to a stripper.
-closing credits
+chandler: yeah. either that, or you just turned him on and sent him off to a stripper.r
 [scene: the moondance diner.]
 man: (entering) is there a julio here?
 julio: (to him) i am julio.
 (the rest of barbershop quartet enters, and joins him.)
 man: (singing) mister pretensous, (monica stands up in the background) you think there's no one finer, well but your poems are unpublished, and you work in a diner.
 quartet: your no god's gift to women, that's all in your headdddd. you are just a buttmunch.
-bass singer: no one likes a buttmunch.
+bass
+singer: no one likes a buttmunch.
 quartet: and your also bad in bedd-edd-edd!.
-(monica waves at julio.)<EPISODE_END>
+(monica waves at julio.)r
+<EPISODE_END>

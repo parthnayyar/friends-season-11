@@ -1,4 +1,5 @@
-<EPISODE_START>the one with rachel's inadvertant kiss
+<EPISODE_START>
+the one with rachel's inadvertant kiss
 [scene: central perk, everyone is there as rachel enters, happily.]
 rachel: good, you guys are all here!
 ross: hey! what's up?
@@ -21,8 +22,7 @@ monica: let me try. (gets up to join them.)
 phoebe: okay. (they shake hands and she pulls away suddenly) oh my god! what did i ever do to you?! (rubbing her hand.)
 monica: did i squeeze it too hard?
 phoebe: let's just say, i'm glad i'm not chandler.
-(chandler tries to comprehend that remark.)
-opening credits
+(chandler tries to comprehend that remark.)r
 [scene: monica and rachel's, joey is standing at the window waving at ross.]
 joey: that's right ross, i can see you in your new apartment! and you can see me! same as yesterday, (to monica) same as the day before.
 monica: is he doing his shark attack bit yet?
@@ -45,12 +45,14 @@ joey: i ended up at ross's place. oh, i musta missed counted or something. (look
 monica: no joey, i think he's just watchin' tv.
 (it's only when the camera cuts to ross's apartment that we see that the tv is turned off and ross is indeed doing a bit. he then tries to hide his smirk.)
 [scene: monica and rachel's, later that day, gary is kissing phoebe good-bye.]
-gary's radio: we've lost visual contact with the suspect.
+gary's
+radio: we've lost visual contact with the suspect.
 gary: okay, now i've really have to go!
 phoebe: but it's just so unfair that our date has to get cut short just 'cause some guy shot at a store clerk.
 gary: i know, but it's my job, sweethart!
 phoebe: okay, then maybe i can come too!
-gary's radio: suspect has just emerged naked from the sewer.
+gary's
+radio: suspect has just emerged naked from the sewer.
 phoebe: all right, you go. (they kiss.)
 gary: bye-bye.
 phoebe: 'kay, bye!
@@ -104,24 +106,33 @@ chandler: i gotta check out this hot girl! (he heads to the window but realizes 
 joey: damnit!! did you move?!
 ross: yes. i lived with you guys for a while and then i found this place. (joey just stares at him) i'm ross.
 (joey makes a frustrated face and noise and walks away. he knocks on the next door and it's answered by an old man.)
-the old man: yes?
+the old
+man: yes?
 joey: (looking around) uhh do you happen to have a hot girl in there?
-the old man: no. i'm all alone.
+the old
+man: no. i'm all alone.
 joey: yeah. sorry about that. (he walks away and knocks on the next door which is answered by a little girl.) oh, hey little girl. uhh, is-is your mommy, or sister, or babysitter by any chance a hot girl?
-the little girl: daddy!!
+the little
+girl: daddy!!
 joey: later! (he runs away down the hall and hides behind a corner to a whole other corridor.) oh man! (walks down the hallway in desperation.) hot girl! hot girl!!
 [scene: rachel's job interview, she is waiting outside mr. zelner's (the interviewer) office banging her pen between her teeth.]
-mr. zelner: hi rachel!
+mr.
+zelner: hi rachel!
 rachel: hi!
-mr. zelner: come on in.
+mr.
+zelner: come on in.
 (they go inside.)
-mr. zelner: it's really nice to see you again.
+mr.
+zelner: it's really nice to see you again.
 rachel: thank you.
-mr. zelner: (sees that she has some ink on her lip from her pen.) oh rachel, uhh… (he points to his lip to get her to notice the ink on hers.)
+mr.
+zelner: (sees that she has some ink on her lip from her pen.) oh rachel, uhh… (he points to his lip to get her to notice the ink on hers.)
 rachel: what?
-mr. zelner: just ah… (he points again.)
+mr.
+zelner: just ah… (he points again.)
 rachel: excuse me?
-mr. zelner: here let me… (he goes to wipe it off himself.)
+mr.
+zelner: here let me… (he goes to wipe it off himself.)
 rachel: (stopping him) wh-whoa! all right, okay-okay, i see, i see what's going on here! now listen, look-look, i'm sorry if i gave you the wrong impression, but i am not some hussy who will just sleep around to get ahead! now even though i (he tries to interrupt and tell her about the ink), hey-hey-hey, even though i kissed you, that does not give you the right to demand sex from me. i do not want, this job that bad. good day, sir. (she storms out of his office.)
 [scene: monica and rachel's, rachel is returning from her interview attempt.]
 rachel: (entering) ugh, you will not believe what that sleaze-ball from ralph lauren did too me!
@@ -154,15 +165,19 @@ commercial break
 [scene: the lobby in ross's building, we see a flyer that is on the bulletin board that reads, "are you the hot girl who waved at me? if so, give me a call!" and it's signed, joey 629-9*** (the last couple of numbers have been ripped off). anyhoo, ross is getting his mail.]
 ross: (to the woman checking her mail next to him) hey!
 (a man walks up.)
-the man: (to ross) excuse me. (he puts up a flyer that has a sketch drawing of joey and it reads, "warning! intruder! if you see this creep - call the cops!") you should check this out, tell the other tenants. apparently he's running around looking for some kind of a hot girl.
+the
+man: (to ross) excuse me. (he puts up a flyer that has a sketch drawing of joey and it reads, "warning! intruder! if you see this creep - call the cops!") you should check this out, tell the other tenants. apparently he's running around looking for some kind of a hot girl.
 ross: (to the woman checking her mail) who isn't?
 (for the first time we see that the woman ross is talking too is in fact the hot girl that joey is looking for. she just kinda stares at him.)
 ross: i don't, i don't think we've meet. i-i'm ross.
-the hot girl: i know. you're the guy who wouldn't chip in for the handyman.
+the hot
+girl: i know. you're the guy who wouldn't chip in for the handyman.
 ross: nevermind! (goes back to his mailbox.)
-the hot girl: no, i-i actually thought it was unfair the way everyone reacted. i mean you had just moved in.
+the hot
+girl: no, i-i actually thought it was unfair the way everyone reacted. i mean you had just moved in.
 ross: i had just moved in. thank you! listen umm…
-the hot girl: jen.
+the hot
+girl: jen.
 ross: jen, i know this may sound a little…(makes some kind of crazy noise) but uh, would you maybe wanna grab a cup of coffee sometime, or…
 jen: sure! that would be nice.
 ross: umm?
@@ -198,17 +213,23 @@ ross: sure. (he opens the door to joey. needless to say, joey's stunned.) joey�
 joey: dahhhhh!! (ross has a puzzled look on his face.) no! noooo!! (storms off.)
 [scene: mr. zelner's office, rachel has come back again to try and do that second interview.]
 rachel: ah, first, i-i would like to say thank you for agreeing to see me again.
-mr. zelner: that's quite all right, but i feel obligated to tell you that this meeting is being videotaped.
+mr.
+zelner: that's quite all right, but i feel obligated to tell you that this meeting is being videotaped.
 rachel: (looks around for the camera) okay. umm, well, first i would like to start by apologizing for kissing you and uh, for yelling at you.
-mr. zelner: fair enough.
-rachel: now you're probably going to hire one of the people who did not ah, (she puts her hands on his desk blotter and he moves it. rachel then doesn't know where to put her hands.) who did, who did not umm, yell at you and storm out, and i think that's a big mistake and here's why. i made a huge fool of myself and i came back, that shows courage. when i thought you wanted sex in exchange for this job, i said no. that shows integrity. and, i was not afraid to stand up for myself and that shows courage. (suddenly realizes that she said courage twice.) okay umm, now i know i already said courage, but y'know you gotta have courage. and umm, and finally when i thought you were making sexual advances in the workplace, i said no and i was not litigious. {by the way, litigious means to want to litigate and litigate is to make a lawsuit against.  so she didn't want to sue him.   don't worry, i had to look it up too.} so there you go, you got, you got (counts them off with her fingers) courage, you got integrity, you got (pause) courage again, and not litigious. look mr…
-mr. zelner: zelner.
+mr.
+zelner: fair enough.
+rachel: now you're probably going to hire one of the people who did not ah, (she puts her hands on his desk blotter and he moves it. rachel then doesn't know where to put her hands.) who did, who did not umm, yell at you and storm out, and i think that's a big mistake and here's why. i made a huge fool of myself and i came back, that shows courage. when i thought you wanted sex in exchange for this job, i said no. that shows integrity. and, i was not afraid to stand up for myself and that shows courage. (suddenly realizes that she said courage twice.) okay umm, now i know i already said courage, but y'know you gotta have courage. and umm, and finally when i thought you were making sexual advances in the workplace, i said no and i was not litigious. {by the way, litigious means to want to litigate and litigate is to make a lawsuit against.  so she didn't want to sue him. don't worry, i had to look it up too.} so there you go, you got, you got (counts them off with her fingers) courage, you got integrity, you got (pause) courage again, and not litigious. look mr…
+mr.
+zelner: zelner.
 rachel: zelner! right! i knew that! i really, really want this job and i think, i think i would be really good at it.
-mr. zelner: y'know what? i may regret this but uh, i'm going to give you a shot.
+mr.
+zelner: y'know what? i may regret this but uh, i'm going to give you a shot.
 rachel: (gasps) oh! you are?
-mr. zelner: um-hmm.
+mr.
+zelner: um-hmm.
 rachel: really? oh thank you! oh… oh, would it be completely inappropriate to give you a hug?
-mr. zelner: yes!
+mr.
+zelner: yes!
 rachel: okay, well then how about a handshake? (she goes to shake his hand but misses and touches his groin.) oh god i'm sorry! oh god, i'm sorry! i did not mean to touch that—i mean you there. there. uhh, okay, so thank-thank you, i'm going to leave now thank you very much uh-huh, thank you so—hey! i'll see you monday! (exits.)
 [scene: a restaurant, chandler, monica, phoebe, and gary are on a double date. chandler is yawning.]
 phoebe: you tired chandler?
@@ -246,8 +267,7 @@ chandler: y'know what i just realized? you just freaked out about our relationsh
 monica: did not.
 chandler: yes you did! admit it! you freaked out!
 monica: okay, i freaked out a little.
-chandler: little?! you freaked out big time! okay? and i fixed it! we have switched places! i am the relationship and king and you are the crazy, irrational screw up! (does a dance of joy.) (monica glares at him.) and now we're back.
-ending credits
+chandler: little?! you freaked out big time! okay? and i fixed it! we have switched places! i am the relationship and king and you are the crazy, irrational screw up! (does a dance of joy.) (monica glares at him.) and now we're back.r
 [scene: looking through ross's window, he's doing more pantomimes. the first one is he's walking a dog that has stopped, then suddenly tugs him forward.]
 [cut to the inside of monica and rachel's apartment, monica and rachel are sitting at the table.]
 rachel: (laughs) i cannot believe ross is buying this!
@@ -255,4 +275,5 @@ monica: thank god! i can't watch him anymore!
 chandler: (entering) you guys ready fore the movies?
 rachel: yeah! oh by the way, thank you for loaning us pamela and yasmine.
 (we see through the big window from the outside and see that monica and rachel have pictures of their faces pasted onto cardboard cutouts of pamela anderson and yasmine bleeth wearing their baywatch swimsuits.)
-ross: (from his apartment) man! they cannot get enough! (makes like he's a robot and waves at the cutouts.)<EPISODE_END>
+ross: (from his apartment) man! they cannot get enough! (makes like he's a robot and waves at the cutouts.)r
+<EPISODE_END>

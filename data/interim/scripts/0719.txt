@@ -1,4 +1,5 @@
-<EPISODE_START>the one with ross and monica’s cousin
+<EPISODE_START>
+the one with ross and monica’s cousin
 [scene: central perk, monica and phoebe are on the couch as joey enters.]
 phoebe: (to joey) oh hey! how was your audition?
 joey: i’m sorry, do i know you?
@@ -20,8 +21,7 @@ phoebe: what’s the matter?
 joey: they want me to be totally naked in the movie!
 monica: wow!
 joey: i know! my grandmother’s gonna see this!
-phoebe: grandma’s gonna have to get in line.
-opening credits
+phoebe: grandma’s gonna have to get in line.r
 [scene: monica and chandler's, (although its really just monica’s now with matthew perry in rehab) monica is folding her laundry with ross reading the paper and phoebe standing in the kitchen.]
 phoebe: hey the wedding is so close! are you getting nervous?
 monica: yeah. but a part of me also can’t wait ‘til it’s over. chandler and i have this pact not to have sex again until the wedding.
@@ -114,23 +114,32 @@ chandler: umm, so this aunt marilyn is-is-is-is she coming to the wedding?
 monica: wafer thin ice!
 [scene: a casting director’s office, joey is entering for his callback.]
 joey: hey, i’m back!
-the casting director: hi-hi joey.
+the casting
+director: hi-hi joey.
 joey: uh so, will-will i be reading the same scene again?
-the casting director: actually, i tried to call to you. you didn’t need to come down here today.
+the casting
+director: actually, i tried to call to you. you didn’t need to come down here today.
 joey: oh great! y’know i would’ve been perfect for this part, but whatever! y’know, thanks for making a bad decision and ruining your movie! good day! (starts to leave.)
-the casting director: wait joey! you didn’t need to come down because the director saw your tape from yesterday and loved it.
+the casting
+director: wait joey! you didn’t need to come down because the director saw your tape from yesterday and loved it.
 joey: and scene! huh? wasn’t that fun? we did a little improv there. yeah! okay! so you-you-you-you were saying?
-the casting director: well, the director thinks you’re really right for the part and wants to meet you tomorrow.
+the casting
+director: well, the director thinks you’re really right for the part and wants to meet you tomorrow.
 joey: wow! sure! that’s great!
-the casting director: oh and your agent said you were okay with the nudity.
+the casting
+director: oh and your agent said you were okay with the nudity.
 joey: yeah! yeah sure, just long as it’s handled tastefully and that barn is not too cold.
-the casting director: terrific! well uh, there’s one more thing. uhh, uh it’s really important to the director that everything in this movie is authentic. yeah and so in your love scene with sarah she talks about how she’s never seen a naked man who wasn’t jewish. so… (laughs.)
+the casting
+director: terrific! well uh, there’s one more thing. uhh, uh it’s really important to the director that everything in this movie is authentic. yeah and so in your love scene with sarah she talks about how she’s never seen a naked man who wasn’t jewish. so… (laughs.)
 joey: so…what?
-the casting director: so uh well the director is insisting that whoever play that part be authentically, anatomically not jewish. do you know what i’m saying?
+the casting
+director: so uh well the director is insisting that whoever play that part be authentically, anatomically not jewish. do you know what i’m saying?
 joey: yes!
-the casting director: okay.
+the casting
+director: okay.
 joey: no. what?
-the casting director: an italian catholic immigrant at this time would not be…
+the casting
+director: an italian catholic immigrant at this time would not be…
 joey: barmifsaed?
 (the casting director shakes her head.)
 [scene: monica and chandler's, joey is telling monica what the casting director was trying to get too.]
@@ -163,7 +172,8 @@ rachel: have at it.
 monica: okay. (opens the fridge.) all right, turkey. eh, that won’t work. cheese? (picks it up) that won’t work. olive loaf? (picks it up) i hope that won’t work.
 rachel: are you makin’ him a sandwich?
 monica: no it’s umm, more like a wrap. okay so uh, i’m gonna go guys.
-phoebe and rachel: okay.
+phoebe and
+rachel: okay.
 monica: i guess you can get back to deciding on what to get me for a present! (runs out.)
 rachel: (to phoebe, after monica’s gone) we have to get her a present?!
 phoebe: okay but look! look at what i got! it’s her address book! (holds it up.) we have a guest list!
@@ -203,7 +213,8 @@ woman: oh thank you.
 (the other woman declines.)
 phoebe: thank you. (to the other woman) no? (she nods.) all right. (she goes to another pairing.) oh, it’s so nice to see you.
 woman: no.
-the other woman: no thanks.
+the other
+woman: no thanks.
 phoebe: okay. (goes over to rachel.) hey rach?
 rachel: yeah?
 phoebe: who the hell are all these people?
@@ -216,7 +227,8 @@ rachel: ohhhh!
 woman: i’m very interested to find out who’s been doing her taxes these last four years.
 rachel: that’s great!
 woman: so, what time is monica supposed to get here?
-phoebe and rachel: (to each other) i don’t know.
+phoebe and
+rachel: (to each other) i don’t know.
 rachel: (to the woman) excuse us for a minute. (they go into the kitchen.) you didn’t tell her to come?!
 phoebe: you were supposed to tell her!
 rachel: no i wasn’t! you were supposed to tell her to come and i was supposed to bring the cake!
@@ -273,15 +285,18 @@ phoebe: sur-surprise.
 rachel: …monica.
 [scene: the casting director’s office, joey is there to show off to the director, so to speak.]
 joey: and what’s cool is, the character is from naples, right?
-the director: yeah.
+the
+director: yeah.
 joey: my whole family’s from naples!
-the director: oh that’s great! okay, well i’ve heard everything i need to hear. i just need to uh, leslie…
-the casting director: joey, this is awkward part.
-joey: oh! hey right! not a problem. (he starts taking off his clothes.) i totally understand. you need to y’know make sure i don’t have any horrible scars or tattoos. don’t you worry; i have nothing to hide. (he drops his pants and stands back up and looks down.) so there you go, that’s me. (we cut to a camera angle looking at the casting director and movie director through joey’s legs.) one hundred percent natural! (suddenly, there’s a thud as something falls off.) (everyone is shocked.) i tell ya, that has never happened before.
-ending credits
+the
+director: oh that’s great! okay, well i’ve heard everything i need to hear. i just need to uh, leslie…
+the casting
+director: joey, this is awkward part.
+joey: oh! hey right! not a problem. (he starts taking off his clothes.) i totally understand. you need to y’know make sure i don’t have any horrible scars or tattoos. don’t you worry; i have nothing to hide. (he drops his pants and stands back up and looks down.) so there you go, that’s me. (we cut to a camera angle looking at the casting director and movie director through joey’s legs.) one hundred percent natural! (suddenly, there’s a thud as something falls off.) (everyone is shocked.) i tell ya, that has never happened before.r
 [scene: phoebe's apartment, phoebe is getting out linens for cassie who is in the bathroom.]
 phoebe: cassie, are you finding everything okay in there?
 cassie: yeah! thank you so much for letting me stay here.
 phoebe: oh! no problem! i… (cassie emerges from the bathroom and we once again visit slow motion barry white background music land with the sexy hair-flipping thing going on, only this time phoebe is entranced. for more information on denise richards you can visit your local library or look her up on the internet at her official website at www.deniserichards.com.)
 cassie: (noticing her) what?
-phoebe: (in her head) say something! say anything! ask her out! she’s not your cousin!<EPISODE_END>
+phoebe: (in her head) say something! say anything! ask her out! she’s not your cousin!r
+<EPISODE_END>

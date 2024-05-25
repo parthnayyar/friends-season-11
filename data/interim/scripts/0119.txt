@@ -1,8 +1,8 @@
-<EPISODE_START>the one where the monkey gets away
-{transcriber's note: the credits list two characters, tia and samantha, who i assume are the sweaty women joey and chandler meet. however, i don't know which is which, so i've simply called them woman #1 and woman #2.}
+<EPISODE_START>
+the one where the monkey gets awayr
 [scene: central perk, rachel is talking to a customer.]
-rachel: okay, okay, i checked. we have: earl grey, english breakfast, cinnamon stick, camomile, mint medley, blackberry, and.. oh, wait, there's one more, um.. lemon soother. you're not the guy that asked for the tea, are you? (guy shakes his head) okay.
-opening credits
+rachel: okay, okay, i checked. we
+have: earl grey, english breakfast, cinnamon stick, camomile, mint medley, blackberry, and.. oh, wait, there's one more, um.. lemon soother. you're not the guy that asked for the tea, are you? (guy shakes his head) okay.r
 [scene: central perk, monica enters with some mail.]
 monica: mail call, rachel green, bunk seven.
 rachel: thank you. (examines it) oh, cool! free sample of coffee!
@@ -39,7 +39,8 @@ phoebe: i-i'm sorry it wasn't one of those movies with, like, y'know, guns and b
 joey: hey, i don't need violence to enjoy a movie. just so long as there's a little nudity.
 monica: there was nudity!
 joey: i meant female nudity. alright? i don't need to see lou grant frolicking.
-monica and phoebe: hugh! hugh grant!
+monica and
+phoebe: hugh! hugh grant!
 ross: alright, i've gotta go. c'mon, marcel! c'mon! we're gonna go take a bath. yes we are, aren't we? yes, we are.
 chandler: they're still just friends, right?
 rachel: (to marcel) and i will see you tomorrow!
@@ -86,16 +87,21 @@ monica: okay, you stay here, and just wait by the phone. spray lysol in my shoe,
 (they all leave)
 rachel: anybody wanna trade? oh...
 [cut to a hallway in the building, monica and phoebe are knocking on a door. mr. heckles emerges.]
-mr. heckles: whaddyou want?
+mr.
+heckles: whaddyou want?
 monica: mr. heckles, our friend lost a monkey. have you seen it?
-mr. heckles: i left a belgian waffle out here, did you take it?
+mr.
+heckles: i left a belgian waffle out here, did you take it?
 monica: no!
 phoebe: why would you leave your belgian waffle in the hall?
-mr. heckles: i wasn't ready for it.
+mr.
+heckles: i wasn't ready for it.
 monica: a monkey. have you seen a monkey?
-mr. heckles: saw regis philbin once...
+mr.
+heckles: saw regis philbin once...
 phoebe: okay, thank you, mr. heckles. (they move off)
-mr. heckles: you owe me a waffle.
+mr.
+heckles: you owe me a waffle.
 [cut to monica and rachel's.]
 rachel: (on the phone) okay, he's a, he's a black capuchian monkey with a white face... (enter ross) ...with, with russian dressing and, and pickles on the side. okay. thanks.
 ross: hey. how did, uh, how'd it go today?
@@ -228,25 +234,33 @@ both: hey! hey, bananaman!
 phoebe: oh, this is so intense. one side of my butt is totally asleep, and the other side has no idea.
 (mr. heckles opens the door)
 ross: hi, did you order some bananas?
-mr. heckles: what about it?
+mr.
+heckles: what about it?
 ross: gimme back my monkey.
-mr. heckles: i don't have a monkey.
+mr.
+heckles: i don't have a monkey.
 rachel: then what's with all the bananas?
-mr. heckles: potassium.
+mr.
+heckles: potassium.
 (there is a monkey-like noise from within and ross pushes past mr. heckles and enters his apartment)
 ross: marcel? marcel? okay, where is he? where is he? marcel? marcel?
 (marcel jumps into view wearing a pink dress. everybody gasps)
 ross: marcel! what've you done to him?
-mr. heckles: that's my monkey. that's patti, patti the monkey.
+mr.
+heckles: that's my monkey. that's patti, patti the monkey.
 ross: are you insane? c'mere, marcel, c'mon. (marcel starts to go to him)
-mr. heckles: c'mere, patti. (marcel turns round)
+mr.
+heckles: c'mere, patti. (marcel turns round)
 ross: c'mere, marcel. (turns to ross)
-mr. heckles: c'mere, patti. (turns to mr. heckles)
+mr.
+heckles: c'mere, patti. (turns to mr. heckles)
 luisa: (out of shot) here, monkey. here, monkey! here, monkey! (marcel runs to the door and into luisa's cage, which she slams shut) gotcha.
 ross: okay, gimme my monkey back.
-mr. heckles: that's my monkey.
+mr.
+heckles: that's my monkey.
 luisa: you're both gonna have to take this up with the judge.
-mr. heckles: that's not my monkey. just the dress is mine, you can send that back whenever.
+mr.
+heckles: that's not my monkey. just the dress is mine, you can send that back whenever.
 ross: alright, i want my monkey.
 luisa: no!
 rachel: oh, c'mon, luisa!
@@ -267,9 +281,9 @@ ross: alright. (he goes to get the glasses. then he hesitates and turns off the 
 barry: rachel.
 rachel: barry?!
 barry: i can't. i can't do it, i can't marry mindy. i think i'm still in love with you.
-ross and rachel: oh!
-ross: we have got to start locking that door!
-closing credits
+ross and
+rachel: oh!
+ross: we have got to start locking that door!r
 [scene: central perk, monica, joey, phoebe, and chandler are looking through monica's high school yearbook]
 monica: this is me in the sound of music. see the von trapp kids?
 phoebe: nope.
@@ -279,4 +293,5 @@ monica: well, high school was not my favourite time.
 joey: i dunno, i loved high school. y'know? it was just four years of parties and dating and sex.
 chandler: yeah, well i went to boarding school with four hundred boys. any sex i had would've involved a major lifestyle choice.
 monica: gosh, doesn't it seem like a million years ago?
-phoebe: oh. oooh! ooh! ooh! (she stands up and starts to dance around) ooh! my butt cheek is waking up! oooh! ooh!<EPISODE_END>
+phoebe: oh. oooh! ooh! ooh! (she stands up and starts to dance around) ooh! my butt cheek is waking up! oooh! ooh!r
+<EPISODE_END>

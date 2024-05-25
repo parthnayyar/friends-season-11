@@ -1,11 +1,13 @@
-<EPISODE_START>the one with the yeti
+<EPISODE_START>
+the one with the yeti
 [scene: chandler and joey's, monica and chandler are making out on one of the chairs.]
 joey: (entering) hey! hey! hey! hey!! none of that, not while you're living under my roof!
 monica: what?!
 joey: look, just because i know about you two, doesn't mean i like looking at it.
 chandler: aren't you supposed to be at an audition for another hour?
 joey: well, i'm sorry if i'm not a middle-aged black woman! (starts for his room.) and i'm also sorry if sometimes i go to the wrong audition! okay, look, if i have to pretend i don't know about you two, then you two are gonna have to pretend there's nothing to know about.
-chandler and monica: okay.
+chandler and
+monica: okay.
 monica: sorry.
 chandler: sorry.
 (they wait for joey to go into his room and close the door and then start making out again.)
@@ -13,8 +15,7 @@ joey: (from the bedroom) i can hear that!
 monica: (to chandler) rachel's at work.
 (they both go to her apartment.)
 (pause.)
-joey: i can still hear you!
-opening credits
+joey: i can still hear you!r
 [scene: central perk, joey, chandler, and monica are there as phoebe enters carrying a large box.]
 phoebe: hey!
 joey: hey!
@@ -269,7 +270,7 @@ all: what?!
 monica: oh, sweetie. oh, look at you. you're shivering.
 phoebe: here. (she wraps her coat around his shoulders.)
 rachel: ross, honey, is there anything we can do?
-ross: yeah. you can help me get my furniture back from gunther.
-ending credits
+ross: yeah. you can help me get my furniture back from gunther.r
 [scene: a curbside newsstand, phoebe is whistling and walking up to it wearing her fur coat. she stops and starts to look through a magazine and notices a squirrel on a nearby tree chirping at her.]
-phoebe: (to the squirrel) okay, stop tormenting me! this mink! okay, they're mean! and they hate squirrels! and y'know, okay, most of these probably wanted to be coats! (the squirrel stares at her.) all right, fine, now i get it. (to the clerk.) here. (she hands him her coat.) you take it. (to the squirrel.) are you happy now? i'm cold!<EPISODE_END>
+phoebe: (to the squirrel) okay, stop tormenting me! this mink! okay, they're mean! and they hate squirrels! and y'know, okay, most of these probably wanted to be coats! (the squirrel stares at her.) all right, fine, now i get it. (to the clerk.) here. (she hands him her coat.) you take it. (to the squirrel.) are you happy now? i'm cold!r
+<EPISODE_END>

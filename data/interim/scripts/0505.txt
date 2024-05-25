@@ -1,4 +1,5 @@
-<EPISODE_START>the one with all the kips
+<EPISODE_START>
+the one with all the kips
 [scene: chandler and joey's, 3:02 a.m., chandler is up. there's a knock on the door and chandler answers it.]
 monica: (quietly) hi!
 chandler: (quietly) hi! (they both start kissing.)
@@ -15,8 +16,7 @@ chandler: yeah, i can say that i have a conference and you can say you have a ch
 monica: ohh, i've always wanted to go to this culinary fair that they have in jersey!
 chandler: okay, y'know your not though. let's go. (he starts for his bedroom.)
 monica: wait! what about joey?
-(chandler opens the bathroom door to reveal joey passed out on the toilet with a toothbrush in his mouth.)
-opening credits
+(chandler opens the bathroom door to reveal joey passed out on the toilet with a toothbrush in his mouth.)r
 [scene: monica and rachel's, the next morning, chandler, joey, and phoebe are eating breakfast.]
 monica: (entering from her room) hey, guess what i'm doing this weekend! i'm going to this culinary fair in new jersey.
 phoebe: oh weird, chandler just told us he's got a conference there!
@@ -94,14 +94,17 @@ rachel: sorry. sorry.
 ross: okay, i uh, i can't see you anymore.
 rachel: yeah, i know. it's ridiculous! i can't see you either.
 [scene: chandler and monica's weekend, a hotel clerk is showing them their new room.]
-hotel clerk: i think you'll find this room more to your liking.
+hotel
+clerk: i think you'll find this room more to your liking.
 chandler: okay, great. (he grabs the remote and turns on the tv to the chase.)
-hotel clerk: (watching the chase) they say he's only got half a tank left.
+hotel
+clerk: (watching the chase) they say he's only got half a tank left.
 chandler: half a tank? we still got a lot of high-speed chasing to do!
 monica: we're switching rooms again.
 chandler: what? why?
 monica: this is a garden view room, and we paid for an ocean view room.
-hotel clerk: our last ocean view room was unacceptable to you.
+hotel
+clerk: our last ocean view room was unacceptable to you.
 monica: (to chandler) excuse me, umm, can i talk to you over here for just a second?
 chandler: uh-huh. (he doesn't take his eyes off the tv.)
 monica: chandler!
@@ -176,7 +179,8 @@ ross: that's not advice!
 joey: i told ya.
 ross: i'm going to the bathroom. (gets up and exits.)
 joey: man, if anyone asked me to give up any of you, i couldn't do it.
-chandler and phoebe: yeah, me either.
+chandler and
+phoebe: yeah, me either.
 monica: maybe i could do it.
 rachel: (entering) hi!
 joey: hi, rach.
@@ -277,8 +281,7 @@ monica: i know, it's great!
 (she goes over and kisses chandler.)
 joey: aww, i don't want to see that!
 [cut to phoebe and rachel.]
-phoebe: we're so stupid! do you know what's going on in there? they're trying to take joey!
-ending credits
+phoebe: we're so stupid! do you know what's going on in there? they're trying to take joey!r
 [scene: monica and rachel's, the gang, minus ross are playing madlibs. phoebe is reading hers.]
 phoebe: the most popular phoebe in tennis is called the overhand phoebe. and if you win, you must slap your opponent on the phoebe and say, "hi, phoebe!"
 monica: oh that's cute! we really all enjoyed it. but y'know, it doesn't count.
@@ -290,4 +293,5 @@ chandler: fun's over!
 monica: wait-wait, guys! if-if we follow the rules, it's still fun and it means something!
 rachel: uh-huh!
 joey: i think i'm gonna take-off.
-monica: guys, rules are good! rules help control the fun! (they all leave and close the door on monica.) ohhh! (throws her notepad down in disgust.)<EPISODE_END>
+monica: guys, rules are good! rules help control the fun! (they all leave and close the door on monica.) ohhh! (throws her notepad down in disgust.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with frank jr.
+<EPISODE_START>
+the one with frank jr.
 [scene: chandler and joey’s, there is lumber all over the apartment]
 chandler: (entering) hey!
 joey: hey!
@@ -11,8 +12,7 @@ joey: no, an entertainment unit, with a mail cubby built right in. it’s a one 
 chandler: okay. (notices that joey is wearing some really tight jeans) my word! those are snug.
 joey: oh yeah. these are my old work pants, sergio valente’s.
 (chandler goes to his bedroom and opens the door. however, only the top half opens, and he trips into his bedroom over the bottom half.)
-joey: power saw kinda got away from me there.
-opening credits
+joey: power saw kinda got away from me there.r
 [scene: outside central perk, phoebe is pacing back and forth waiting for someone.]
 rachel: (joining phoebe outside) hey pheebs.
 phoebe: hey!
@@ -197,7 +197,8 @@ girl: he touched my fanny.
 frank: no, she touched mine first!
 girl: that’s my job!
 frank: so wait, what’s the deal here, i can have sex with you, but i can’t touch you?
-phoebe and girl: ewww!!!
+phoebe and
+girl: ewww!!!
 phoebe: you can’t have sex with her!
 girl: what’d you think i was, a hooker?
 frank: no, your a masseuse, it’s cool, i’m not a cop.
@@ -287,8 +288,7 @@ ross: yeah, um, okay see, you were, you were on the list but my friend, chandler
 isabella: y'know it’s ironic...
 ross: what?
 isabella: ...because i have a list of five goofy coffee house guys and yesterday i bumped you for that guy over there. (points at a guy and leaves)
-ross: (to the rest of the gang) we’re just gonna be friends.
-closing credits
+ross: (to the rest of the gang) we’re just gonna be friends.r
 [scene: chandler and joey’s, they are admiring the entertainment center]
 joey: y'know what?
 chandler: umm?
@@ -299,4 +299,5 @@ chandler: oh, i think i have the cash.
 (joey successfully enters the entertainment center, and chandler closes the door on joey.)
 joey: you are dogged man! i totally fit!
 chandler: yeah, you got me. (picks up a 2x4 and puts it through the handles so that the doors won’t open) i’m out five big ones! (puts the money in the crack between the door and frame) here you go.
-joey: thank you. cha-ching! (chandler starts to leave) oh, well hello mr. lincoln. better luck next time buddy. (chandler leaves and closes the door) and the drinks are on me!<EPISODE_END>
+joey: thank you. cha-ching! (chandler starts to leave) oh, well hello mr. lincoln. better luck next time buddy. (chandler leaves and closes the door) and the drinks are on me!r
+<EPISODE_END>

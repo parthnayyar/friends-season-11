@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the thumb
+<EPISODE_START>
+the one with the thumb
 [scene: central perk, everyone but phoebe is there.]
 phoebe: (entering) hi guys!
 all: hey, pheebs! hi!
@@ -16,8 +17,7 @@ joey: yeah. cushions the blow.
 chandler: yeah, it's like when you're a kid, and your parents put your dog to sleep, and they tell you it went off to live on some farm.
 ross: that's funny, that, no, because, uh, our parents actually did, uh, send our dog off to live on a farm.
 monica: uh, ross.
-ross: what? wh- hello? the millners' farm in connecticut? the millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....oh my god, chi chi!
-opening credits
+ross: what? wh- hello? the millners' farm in connecticut? the millners, they had this unbelievable farm, they had horses, and, and rabbits that he could chase and it was- it w- .....oh my god, chi chi!r
 [scene: chandler and joey's, chandler is helping joey rehearse for a part.]
 chandler: "so how does it feel knowing you're about to die?"
 joey: "warden, in five minutes my pain will be over. but you'll have to live with the knowledge that you sent an honest man to die."
@@ -94,7 +94,8 @@ rachel: well, then can we meet him?
 monica: nope. schhorry.
 [scene: iridium, monica and paula are at work.]
 monica: i mean, why should i let them meet him? i mean, i bring a guy home, and within five minutes they're all over him. i mean, they're like- coyotes, picking off the weak members of the herd.
-paula: listen. as someone who's seen more than her fair share of bad beef, i'll tell you: that is not such a terrible thing. i mean, they're your friends, they're just looking out after you.
+paula: listen. as someone who's seen more than her fair share of bad beef, i'll tell
+you: that is not such a terrible thing. i mean, they're your friends, they're just looking out after you.
 monica: i know. i just wish that once, i'd bring a guy home that they actually liked.
 paula: well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..
 [scene: monica and rachel's, chandler is smoking out on the balcony, phoebe is absent.]
@@ -131,7 +132,8 @@ all: loved him! yeah! he's great!
 monica: wait a minute! we're talking about someone that i'm going out with?
 all: yeah!
 rachel: and did you notice...? (she spreads her thumb and index finger.)
-the guys: (reluctantly) yeah.
+the
+guys: (reluctantly) yeah.
 joey: know what was great? the way his smile was kinda crooked.
 phoebe: yes, yes! like the man in the shoe!
 ross: ...what shoe?
@@ -150,7 +152,8 @@ commercial break
 monica: hi.. how was the game?
 ross: well..
 all: we won!! thank you! yes!
-monica: fantastic! i have one question: how is that possible?
+monica: fantastic! i have one
+question: how is that possible?
 joey: alan.
 ross: he was unbelievable. he was like that-that-that bugs bunny cartoon where bugs is playing all the positions, right, but instead of bugs it was first base-alan, second base-alan, third base-...
 rachel: i mean, it-it was like, it was like he made us into a team.
@@ -181,7 +184,7 @@ lizzie: please, let me do something.
 phoebe: okay, alright, you buy me a soda, and then we're even. okay?
 lizzie: okay.
 phoebe: okay.
-[scene: chandler's office, chandler looks around, opens his desk drawer, takes a puff of a cigarette, sprays around some air freshener, and takes some breath spray.  he types for a little while, opens the drawer again, and takes another drag of the cigarette.   while not paying attention, he sprays the breath spray around the room, takes a squirt of air freshener and gags.]
+[scene: chandler's office, chandler looks around, opens his desk drawer, takes a puff of a cigarette, sprays around some air freshener, and takes some breath spray.  he types for a little while, opens the drawer again, and takes another drag of the cigarette. while not paying attention, he sprays the breath spray around the room, takes a squirt of air freshener and gags.]
 [scene: a street, phoebe and lizzie are at a hot dog vendor.]
 lizzie: keep the change. (to phoebe) sure you don't wanna pretzel?
 phoebe: no, i'm fine.
@@ -285,8 +288,7 @@ alan: wow.
 monica: i'm, i'm really sorry.
 alan: yeah, i'm sorry too. but, i gotta tell you, i am a little relieved.
 monica: relieved?
-alan: yeah, well, i had a great time with you.. i just can't stand your friends.
-closing credits
+alan: yeah, well, i had a great time with you.. i just can't stand your friends.r
 [scene: monica and rachel's, everyone is mopping around and eating ice cream.]
 rachel: remember when we went to central park and rented boats?.. that was fun.
 ross: yeah. he could row like a viking.
@@ -301,4 +303,5 @@ chandler: ...that's it. i'm getting cigarettes.
 all: no no no!
 chandler: (leaving) i don't care, i don't care! game's over! i'm weak! i've gotta smoke! i've gotta have the smoke!
 phoebe: (shouting as he leaves) if you never smoke again i'll give you seven thousand dollars!
-chandler: (returns) yeah, alright.<EPISODE_END>
+chandler: (returns) yeah, alright.r
+<EPISODE_END>

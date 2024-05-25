@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-1017-1018 - the last one
+<EPISODE_START>
+the last one
 [scene: monica and chandler's apartment. it's a scene from 1016 tow rachel's going away party.]
 jennifer aniston (v.o.): previously on friends.
 monica: erica, are you okay?
@@ -23,7 +23,6 @@ rachel: ah.
 ross: who's laughing now?
 rachel: i know!
 (they kiss.)
-opening credits
 [scene: the delivery room at the hospital. monica, chandler and erica are there. erica is in labor, and she is breathing heavily.]
 monica: breathe, breathe, breathe... good.
 chandler: next time, can i say breathe?
@@ -294,7 +293,8 @@ rachel: hi! oh my gosh!
 (chandler enters carrying his daughter.)
 chandler: hey.
 (everybody turns around.)
-phoebe, ross, rachel: hey.
+phoebe, ross,
+rachel: hey.
 (they turn back around to see the baby monica's carrying, but then they realise what the surprise is. ross, mike, phoebe and rachel gasp and stare at chandler and his baby. joey hasn't figured it out yet.)
 joey: (to monica) hey, so what is the big surprise?
 rachel: oh.
@@ -481,7 +481,8 @@ ross: hey, i need a ticket.
 phoebe: just one? i drive you all the way down here, and i don't get to see how it works out?
 ross: fine, two tickets, i need two tickets.
 phoebe: we're on our honeymoon.
-ticket agent: and the destination?
+ticket
+agent: and the destination?
 ross: i don't care. whatever is the cheapest.
 phoebe: i'm so lucky i married you.
 [scene: the gate. rachel is still searching for her boarding pass.]
@@ -566,16 +567,20 @@ rachel: well...
 (the passenger stands up and gets his suitcase from the overhead compartment.)
 rachel: wait, what are you doing?
 passenger #1: well, i can't take this plane now.
-air stewardess: excuse me, sir, where are you going?
+air
+stewardess: excuse me, sir, where are you going?
 passenger #1: i have to get off this plane, okay? her friend has a feeling something's wrong with the left philange.
 rachel: could i get some peanuts?
 passenger #2: what's wrong with the plane?
-air stewardess: there's nothing wrong with the plane.
+air
+stewardess: there's nothing wrong with the plane.
 passenger #1: yeah! the left philange!
-air stewardess: there is no philange!
+air
+stewardess: there is no philange!
 passenger #1: oh my god. this plane doesn't even have a philange!
 passenger #2: i'm not flying on it!
-air stewardess: ma'am, please sit down!
+air
+stewardess: ma'am, please sit down!
 passenger #3: what's going on?
 passenger #1: we're all getting off. there is no philange!
 (everybody walks out of the plane.)
@@ -664,11 +669,14 @@ phoebe: he went home. he didn't want to see anybody.
 rachel: (on the answering machine) ross, hi. it's me. i just got back on the plane. and i just feel awful. that is so not how i wanted things to end with us. it's just that i wasn't expecting to see you, and all of a sudden you're there and saying these things... and... and now i'm just sitting here and thinking of all the stuff i should have said, and i didn't. i mean, i didn't even get to tell you that i love you too. because of course i do. i love you. i love you. i love you. what am i doing? i love you! oh, i've gotta see you. i've gotta get off this plane.
 ross: oh my god!
 rachel: (on the answering machine) excuse me?
-air stewardess: (on the answering machine) miss? please, sit down!
+air
+stewardess: (on the answering machine) miss? please, sit down!
 rachel: (on the answering machine) i'm sorry. i'm really sorry, but i need to get off the plane, okay? i need to tell someone that i love love them.
-air stewardess: (on the answering machine) miss, i can't let you off the plane.
+air
+stewardess: (on the answering machine) miss, i can't let you off the plane.
 ross: let her off the plane!
-air stewardess: (on the answering machine) i am afraid you are gonna have to take a seat.
+air
+stewardess: (on the answering machine) i am afraid you are gonna have to take a seat.
 rachel: (on the answering machine) oh, please, miss, you don't understand!
 ross: try to understand!
 rachel: (on the answering machine) oh, come on, miss, isn't there any way that you can just let me off...
@@ -713,5 +721,5 @@ rachel: (crying) do you guys have to go to the new house right away, or do you h
 monica: we got some time.
 rachel: okay, should we get some coffee?
 chandler: sure. where?
-(they all leave the apartment. joey helps chandler with the stroller in the hallway, while monica and rachel have their arms around each other. everybody walks downstairs to central perk. the camera goes inside the apartment again, and it pans around. we see the keys on the counter, and the final shot is of the frame around the peephole. the screen fades to black.)
-the end<EPISODE_END>
+(they all leave the apartment. joey helps chandler with the stroller in the hallway, while monica and rachel have their arms around each other. everybody walks downstairs to central perk. the camera goes inside the apartment again, and it pans around. we see the keys on the counter, and the final shot is of the frame around the peephole. the screen fades to black.)r
+<EPISODE_END>

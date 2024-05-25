@@ -1,4 +1,5 @@
-<EPISODE_START>the one after vegas
+<EPISODE_START>
+the one after vegas
 [scene: the wedding chapel, continued from last season. chandler and monica are about to get married.]
 chandler: okay! (stands up) this is it! (claps his hands) we're gonna get
 married!
@@ -34,9 +35,9 @@ phoebe: yeah, if you get married in vegas, you’re only married in vegas.
 monica: what are you talking about? if you get married in vegas you’re married everywhere.
 phoebe: (shocked) really?!
 monica: yeah!
-phoebe: oh my god!—eh! well…
-opening credits
-{transciber’s note: in case you haven’t heard, courteney cox got married to david arquette during hiatus and changed her name to courteney cox arquette. but david was a busy boy during the off season for not only did he marry but everyone else as well. for they’re all listed as jennifer aniston arquette, lisa kudrow arquette, in an interesting twist matt leblanc arquette, matthew perry arquette, david schwimmer arquette, and even the creators of the show are now david crane arquette and marta kauffman arquette. i just wonder what the new sleeping arrangements are…}
+phoebe: oh my god!—eh! well…r
+{transciber’s
+note: in case you haven’t heard, courteney cox got married to david arquette during hiatus and changed her name to courteney cox arquette. but david was a busy boy during the off season for not only did he marry but everyone else as well. for they’re all listed as jennifer aniston arquette, lisa kudrow arquette, in an interesting twist matt leblanc arquette, matthew perry arquette, david schwimmer arquette, and even the creators of the show are now david crane arquette and marta kauffman arquette. i just wonder what the new sleeping arrangements are…}
 [scene: rachel’s hotel room, she’s waking up with a horrendous hangover.]
 rachel: ohhh! (looks in the mirror and sees that she still has her mustache and groans.)
 (suddenly, there’s movement beside her, startling her. it’s ross! he wakes up and they both start screaming in terror. then they both grab their heads having aggravated their hangovers.)
@@ -90,7 +91,8 @@ monica: oh hi! hi! y’know, we were just talking about bacon.
 phoebe: no, we were talking about tennis. tennis is more believable.
 (ross and rachel enter.)
 ross: hey!
-the girls: hey!
+the
+girls: hey!
 chandler: hey!
 (they both sit down and rachel pours them both some coffee. they’re acting like nothing’s happened and everyone is just staring at them.)
 ross: what?
@@ -281,8 +283,7 @@ ross: okay. (sits down next to phoebe.) you uh, you wanna hear something weird?
 phoebe: always.
 ross: i didn’t get the annulment.
 phoebe: what?!
-ross: we’re still married! don’t tell rachel. see you later. (he gets up leaving phoebe in shock.)
-ending credits
+ross: we’re still married! don’t tell rachel. see you later. (he gets up leaving phoebe in shock.)r
 [scene: the hallway, joey is coming up the stairs and sees chandler trying to open the lock.]
 joey: what are you doing?
 chandler: the key’s stuck in the lock.
@@ -292,4 +293,5 @@ joey: i’m not finished.
 chandler: oh.
 (joey goes back into the apartment, runs back into the hallway, throws his shoulder against the door, and knocks it down off it’s hinges.)
 chandler: nice job joe! you’re quite the craftsmen.
-(joey pats him on the stomach and heads to bed.)<EPISODE_END>
+(joey pats him on the stomach and heads to bed.)r
+<EPISODE_END>

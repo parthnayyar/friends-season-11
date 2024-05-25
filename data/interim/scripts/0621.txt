@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross meets elizabeth’s dad
+<EPISODE_START>
+the one where ross meets elizabeth’s dad
 [scene: central perk, phoebe, rachel, chandler, and monica are there. rachel is reading everyone’s horoscope.]
 rachel: okay, chandler!
 chandler: okay.
@@ -17,8 +18,7 @@ joey: am i psyched? the lead in my own tv series? i’ve dreamed about this for 
 phoebe: no! joey, you’re going to be great!
 joey: but i got to act with a robot pheebs, and-and i don’t know anything about technology! i can’t even use chandler’s computer except to find porn! and-and that’s only ‘cause it’s right there when you turn it on!
 monica: i think our lover’s spat will start a little early this month.
-phoebe: (in a sexy voice to chandler) i’ll be waiting.
-opening credits
+phoebe: (in a sexy voice to chandler) i’ll be waiting.r
 [scene: central perk, time lapse. phoebe is now looking at the covers of two different books.]
 chandler: are you judging them by their covers? because you’re really not supposed to do that.
 phoebe: no, i’m just deciding which one to use—i’m gonna start writing another book!
@@ -39,17 +39,23 @@ all: of course we’ll help! yeah! we’ll be here!
 ross: thanks!
 monica: we know how tough those parent/teacher conferences can be.
 [scene: pier 59 studios, it’s the set of mac and c.h.e.e.s.e. the producer is showing joey around the set.]
-the producer: (walking into mac’s office) so uh, here’s your office set!
+the
+producer: (walking into mac’s office) so uh, here’s your office set!
 joey: wow! huh? (picks up the phone) mac macaveli, private investigator!
-the producer: (checking his watch) let’s get you into wardrobe for a fitting.
+the
+producer: (checking his watch) let’s get you into wardrobe for a fitting.
 joey: okay. hey uh, when do i get to meet the robot?
-the producer: i’m sorry, why don’t we do that right now? he’s right here. (points to a guy.)
+the
+producer: i’m sorry, why don’t we do that right now? he’s right here. (points to a guy.)
 joey: okay.
-the producer: joey tribbiani, this is…
+the
+producer: joey tribbiani, this is…
 joey: oh wow! he’s so lifelike! (starts touching the guy’s cheeks) unbelievable! (he starts tugging on the guy’s ears.
-the producer: this is wayne, the man who created and operates c.h.e.e.s.e.
+the
+producer: this is wayne, the man who created and operates c.h.e.e.s.e.
 joey: (slaps wayne on his cheek) how do you do there, wayne? (backs away.)
-the producer: i’ll let you two guys get acquainted, huh? (walks away.)
+the
+producer: i’ll let you two guys get acquainted, huh? (walks away.)
 joey: okay. sorry about that…(mimics that cheek thing he just did.) uh, so where’s c.h.e.e.s.e.?
 wayne: c.h.e.e.s.e. is right here. (he puts on his headset, picks up the controller, and wheels c.h.e.e.s.e. in. c.h.e.e.s.e. is just a plain old robot on tracks; he kinda looks like no. 5 in the movie short circuit.)
 c.h.e.e.s.e.: (wayne with a computerized voice) nice to meet you mac!
@@ -89,7 +95,8 @@ phoebe: you’re elizabeth’s father, huh? i can see now where she gets her rug
 monica: (obviously attracted to him) is-is-is there a-a mrs. stevens?
 chandler: there’s a mr. bing!
 paul: no, unfortunately lizzie’s mom passed away shortly after she was born. i raised her by myself.
-phoebe and monica: (sympathetic) ohh!
+phoebe and
+monica: (sympathetic) ohh!
 paul: i get that a lot.
 ross: okay umm, why don’t we all take a seat, y’know? and uh, and i’ll get us all some uh some coffees—(he goes to pull out elizabeth’s chair, but paul steps in)—yeah, why don’t you. (paul pulls out her chair) uh and you guys can talk about whatever, whatever you want. y’know? whatever pops into your head. (he turns his back to paul and elizabeth and points to himself for chandler, monica, and phoebe. then he goes to order the coffee.)
 monica: y’know, it is so strange seeing ross here this time of day, ‘cause usually he’s got the children’s hospital.
@@ -99,7 +106,8 @@ monica: and he’s a great brother!
 paul: i had a sister.
 monica: ohh!
 paul: she passed away.
-monica and phoebe: (sympathetic) ohh!
+monica and
+phoebe: (sympathetic) ohh!
 paul: oh, you don’t have to do that every time.
 chandler: but uh ross, ross is a great guy! i was roommates with him in college. uh, funny story… (he starts laughing then notices that paul isn’t happy.) you’re roommate in college died didn’t he?
 paul: a part of him did yes.
@@ -299,10 +307,10 @@ elizabeth: i like ross.
 ross: ohhh! kids!
 rachel: (returning) wait-wait-wait, i just thought of another story about how nice ross is!
 ross: that’s okay rach, we’re not liking ross right now.
-rachel: oh! i’ve got a lot of those too!
-ending credits
+rachel: oh! i’ve got a lot of those too!r
 [scene: mac’s office, mac is talking to c.h.e.e.s.e. about their case.]
 joey: well, it turns out you were right c.h.e.e.s.e.
 c.h.e.e.s.e.: the shipment never made it through omaha?
 joey: you got it! and the rabbi’s beard, 100% horsehair. nice catch c.h.e.e.s.e.! (pauses as he waits for c.h.e.e.s.e.’s next line.) it’s your line c.h.e.e.s.e.! (suddenly c.h.e.e.s.e. goes crazy and starts flinging it’s arms and advancing on joey behind the desk.) wayne! wayne!!
-(the camera cuts to wayne who’s busy making out with sarah and rubbing c.h.e.e.s.e.’s controller on her back causing c.h.e.e.s.e. to go crazy. joey starts throwing books at c.h.e.e.s.e. to get him to stop.)<EPISODE_END>
+(the camera cuts to wayne who’s busy making out with sarah and rubbing c.h.e.e.s.e.’s controller on her back causing c.h.e.e.s.e. to go crazy. joey starts throwing books at c.h.e.e.s.e. to get him to stop.)r
+<EPISODE_END>

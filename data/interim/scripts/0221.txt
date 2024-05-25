@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the two bullies
+<EPISODE_START>
+the one with the two bullies
 [scene: monica and rachel's apartment. everyone is there. monica is watching stock prices on a business channel.]
 joey: hey monica, why are we watchin' the business channel?
 monica: 'cause i was going by it the other day and i saw that there was a stock with my
@@ -34,33 +35,43 @@ ross: oh yeah.
 chandler: hey, you just wanna forget about raquetball and hang out here?
 ross: yeah alright.
 [they sit at the couch]
-big bully: [walks back from the counter] hey you're in our seats.
+big
+bully: [walks back from the counter] hey you're in our seats.
 ross: oh, sorry we didn't know.
-little bully: [walks back from the counter] hey, we were sitting there.
+little
+bully: [walks back from the counter] hey, we were sitting there.
 chandler: ok, there is one more way to say it, who knows it?
-little bully: is that supposed to be funny?
+little
+bully: is that supposed to be funny?
 chandler: no actually, i was just going for colorful.
-big bully: what's with this guy?
-little bully: what's with you?
+big
+bully: what's with this guy?
+little
+bully: what's with you?
 ross: uh, nothing, nothing's with him. enjoy your coffee.
 [as they're walking off, little bully grabs chandlers hat from
 behind and puts it on himself]
 chandler: what just happened?
-little bully: i just took your hat. see, i can be funny too. my, my joke is that i, i took
+little
+bully: i just took your hat. see, i can be funny too. my, my joke is that i, i took
 your hat.
 chandler: that, that is funny. can i have it back?
-little bully: no.
+little
+bully: no.
 chandler: no?
-big bully: no.
+big
+bully: no.
 ross: ok, ok, you know what? i think you're very funny. kudos on that hat joke. but, come
 on guy just, just give him back the hat.
-big bully: why should we?
+big
+bully: why should we?
 ross: because it's a special hat. [chandler looks at ross funny] see
 he bought it 'cause he was feeling really down one day so he got the hat to cheer himself
 up, ya know. now chandler...
 chandler: stop talking, stop talking now. let me just get this straight. you're actually
 stealing my hat?
-big bully: you got a problem with that?
+big
+bully: you got a problem with that?
 chandler: no, just wanna make sure we're on the same page.
 [scene: monica and rachel's apartment. joey and rachel are sitting there and monica
 walks in.]
@@ -73,15 +84,17 @@ monica: how can i not do it? i have $127 in the bank.
 joey: monica, relax, go get a beer.
 monica: i don't want a beer.
 joey: who said it was for you?
-ross and chandler: [both enter looking down] hhhiiii.
+ross and
+chandler: [both enter looking down] hhhiiii.
 rachel: what's the matter with you?
 chandler: the mean guys at the coffee house took my hat.
 rachel: noo.
 joey: you're kiddin'.
-ross: it was ridiculous. ya know, these guys, they were bullies, actual bullies, ya know.  we're grown ups, this kinda stuff isn't supposed to happen anymore.
+ross: it was ridiculous. ya know, these guys, they were bullies, actual bullies, ya know. we're grown ups, this kinda stuff isn't supposed to happen anymore.
 rachel: oohhh.
 ross: hi.
-rachel: hi. [ross turns to rachel and they hug]
+rachel: hi.
+[ross turns to rachel and they hug]
 chandler: ohhh [turns as if to hug someone] oh no, wait a minute, i have no one.
 joey: hey, woah, let's go down there and get your hat back.
 chandler: na, forget it, it's probably stripped and sold for parts by now.
@@ -104,7 +117,8 @@ joey: see, didn't i tell ya these pillows would be a good idea?
 phoebe: oh god, here we go. for the first time in my life i'm gonna say 'hi birthfather'.
 rachel: we love you, we're here for you.
 joey: yeah good luck, good luck.
-phoebe: thanks. [gets out of the cab]
+phoebe: thanks.
+[gets out of the cab]
 joey: hey rach, you uh, you want some sandwich?
 rachel: ohh, what is in that?
 joey: olive loaf and ham spread, no mayo.
@@ -116,7 +130,8 @@ please no.
 joey: get him a bone, get a bone. you gotta bone?
 rachel: are you kidding me?
 phoebe: look kibbles, bits. oh god, alright, get the hell off my leg you yippity piece of
-crap. [flings the dog off and jumps in the cab. the dog keeps jumping up to the window.]
+crap.
+[flings the dog off and jumps in the cab. the dog keeps jumping up to the window.]
 ok, alright, we have a problem.
 joey: well why don't you just reach out and take his trampoline.
 rachel: ok, here, i know what we can do. [grabs joey's sadwich and throws it out the
@@ -135,38 +150,51 @@ ross: what?
 chandler: do you have to be a century 21 real-estate agent to get to
 wear those really cool jackets?
 ross: do you say this stuff to girls?
-big bully: hehehehey, isn't that the guy who used to wear your hat?
-little bully: and look where they're sitting.
+big
+bully: hehehehey, isn't that the guy who used to wear your hat?
+little
+bully: and look where they're sitting.
 ross: you're joking, right? you guys just walked through the door.
-big bully: maybe we didn't make it clear enough.
-little bully: yeah.
-big bully: this couch belongs to us.
+big
+bully: maybe we didn't make it clear enough.
+little
+bully: yeah.
+big
+bully: this couch belongs to us.
 chandler: alright, i'll tell you what, you call the couch and then, and then we'll call
 the couch, and we'll see who it comes to.
-big bully: you know what i keep wondering? why you two are still sitting here.
+big
+bully: you know what i keep wondering? why you two are still sitting here.
 ross: alright, that's it. i've had enough of this, alright. gunther,
 these guys are trying to take our seat.
 gunther: fellas, these guys were here first.
-big bully: oh, sorry, i didn't realize.
-little bully: sorry.
+big
+bully: oh, sorry, i didn't realize.
+little
+bully: sorry.
 gunther: there you go.
 ross: thank you gunther. we didn't want to have to go and do that.
-little bully: he told on us?
-big bully: you told on us?
+little
+bully: he told on us?
+big
+bully: you told on us?
 ross: well pal, you didn't give me much of a choice. [flicks the ends of the big bully's
 tie]
 chandler: don't play with his things.
 ross: i know.
-big bully: alright, let's take this outside.
+big
+bully: alright, let's take this outside.
 ross: let's, let's take this outside? who talks like that?
-big bully: the guy that's about to kick your ass talks like that.
+big
+bully: the guy that's about to kick your ass talks like that.
 chandler: you had to ask.
 ross: yeah.
 [the bullies grab the back of the couch that ross and chandler are sitting in and tip
 back]
 ross: ok, ok look, see, the thing is we're, we're not gonna fight
 you guys.
-little bully: well then here's the deal, you won't have to so long as never ever show your
+little
+bully: well then here's the deal, you won't have to so long as never ever show your
 faces in this coffee house ever again.
 chandler: i think you played the gunther card too soon.
 [scene: back in the cab in front of phoebe's dad's house.]
@@ -194,7 +222,7 @@ there and kick your wall street butt.'
 monica: hey, i made $17 before breakfast, what have you done?
 joey: well uh, i had breakfast here so technically i saved $3.50.
 rachel: how did you make $17.
-monica: well, my financially challenged friends,  i split my money
+monica: well, my financially challenged friends, i split my money
 and i bought some shares of chp and zxy.
 joey: how come those?
 monica: well, chp because i used to have a crush on eric estrada. and zxy becuase i think
@@ -213,7 +241,7 @@ phoebe: yeah, but he did have to have a bunch of stitches and he
 said that only once in a blue moon does a dog's ear grow back so...still hoping.
 rachel: ok, so phoebe, now are you gonna call your dad and let him know that his dog is
 ok?
-phoebe: i, i don't wanna meet my father over the phone.  what am i
+phoebe: i, i don't wanna meet my father over the phone. what am i
 gonna say, like 'hi, i'm phoebe, the daughter you abandoned. oh, by the way, i broke your
 dog.'
 joey: hey phoebs, if you want, i'll do it.
@@ -225,7 +253,8 @@ joey: [dials the phone] it's a woman.
 phoebe: so talk to her.
 joey: [in a fake voice] uhh, hello miss buffay. i know where your
 dog is. i want you to know that he'll be returned to you, almost as good as new, within,
-within 24 hours. uh, goodbye. [hangs up]
+within 24 hours. uh, goodbye.
+[hangs up]
 rachel: why the voice.
 joey: [in the voice] hard to say.
 [scene: chandler and joey's apartment. ross is sitting at the bar, chandler serves up
@@ -278,22 +307,30 @@ rachel: nobody does honey.
 [scene: phoebe's dad's house. phoebe is returning the dog who is bandaged up and has a
 plastic cone around it's neck.]
 phoebe: hi.
-mrs buffay: schnoodle. oh my god, what the hell happened to my dog?
+mrs
+buffay: schnoodle. oh my god, what the hell happened to my dog?
 phoebe: it was an accident, and, and the woman who did this would never ever hurt a dog on
 purpose. she's a vegetarian.
-mrs buffay: what are these, stitches?
+mrs
+buffay: what are these, stitches?
 phoebe: yeah, eight of them. that's 56 to him. you know also, if, if it's raining, you
 can't let him look up too long 'cause that cone'll fill up really really fast.
-mrs buffay: yeah well, thanks for bringing back what's left of him.
+mrs
+buffay: yeah well, thanks for bringing back what's left of him.
 phoebe: sure, oh, is, is frank home.
-mrs buffay: how do you know frank?
+mrs
+buffay: how do you know frank?
 phoebe: just from a, from a long time ago. is he here?
-mrs buffay: yeah. frank.
-frank: yeah. what? [a young guy comes around the corner]
+mrs
+buffay: yeah. frank.
+frank: yeah. what?
+[a young guy comes around the corner]
 phoebe: oh, ok, um, i mean frank senior.
-mrs buffay: he went out for groceries.
+mrs
+buffay: he went out for groceries.
 phoebe: ok so will he be back soon?
-mrs buffay: well he left four years ago so we're expecting him back any minute now.
+mrs
+buffay: well he left four years ago so we're expecting him back any minute now.
 phoebe: alright, i'm, i'm gonna go. i'm sorry about the dog, everything. i'm sorry.
 [she turns to leave, frank follows]
 frank: hey lady. hey wait up. how do you know my dad?
@@ -339,63 +376,84 @@ chandler: you burn your mouth?
 ross: cannot feel my tounge.
 [they leave. as they're walking out, the bullies are walking in.]
 chandler: bullies, big bullies.
-little bully: oh, look who's here, it's the weenies.
-big bully: did we not make ourselves clear the other day.
+little
+bully: oh, look who's here, it's the weenies.
+big
+bully: did we not make ourselves clear the other day.
 ross: yes, and that's why we're here.
 chandler: yes, we're standing out ground...apparently.
-little bully: let's do this alright.
+little
+bully: let's do this alright.
 ross: woah, ho-ho, whad'ya got there, a weapon?
-little bully: it's a nice watch, i don't wanna break it on your ribs.
+little
+bully: it's a nice watch, i don't wanna break it on your ribs.
 chandler: alright, let's do this.
-little bully: alright.
+little
+bully: alright.
 [they all put up their fists and prepare to fight]
 chandler: question. if i don't care about my watch, can i use it as a weapon?
 ross: whad'ya mean?
 chandler: well, it's sharp, it's metal, i think i can do some, you know, serious damage
 with it.
-big bully: no, you can't use your watch.
-chandler: ok. [reaches in his pocket]
-big bully: or your keys.
+big
+bully: no, you can't use your watch.
 chandler: ok.
-little bully: look, here's what we'll do. we'll put all keys and watches in the hat over
-there. alright. [they all put their keys and watches in the hat and put it on a mail box]
+[reaches in his pocket]
+big
+bully: or your keys.
+chandler: ok.
+little
+bully: look, here's what we'll do. we'll put all keys and watches in the hat over
+there. alright.
+[they all put their keys and watches in the hat and put it on a mail box]
 alright, c'mon man, let's do this.
 [they all jump in the street and prepare to fight]
 ross: before i forget, are we hitting faces?
-big bully: of course we're hitting faces, why wouldn't you hit faces?
+big
+bully: of course we're hitting faces, why wouldn't you hit faces?
 ross: well because i have to work on monday, i have a big presentation.
-little bully: actually, you know, uh, i gotta show this apartment tomorrow and uh, you
+little
+bully: actually, you know, uh, i gotta show this apartment tomorrow and uh, you
 know, this no faces thing might not be a bad idea.
-big bully: ok, nothing from the neck up. [everyone gets ready for the fight] or the waist
+big
+bully: ok, nothing from the neck up. [everyone gets ready for the fight] or the waist
 down. dana's ovulating.
-little bully: oh really, you guys tryin' again?
-big bully: yeah.
+little
+bully: oh really, you guys tryin' again?
+big
+bully: yeah.
 chandler: ok, so let me just get this straight. so we're uh, strictly talking about the
 middle?
-big bully: c'mon!
+big
+bully: c'mon!
 ross: hey, hey, woah, you want some of this, huh? you want a piece of this, huh? i'm
 standin here, huh.
-chandler: hey, hey, those guys are takin our stuff! [some guy runs off with the hat]
+chandler: hey, hey, those guys are takin our stuff!
+[some guy runs off with the hat]
 ross: hey.
-big bully: hey.
+big
+bully: hey.
 [they all run off after the guy]
 [scene: central perk. the four guys are returning after getting the hat back.]
 ross: god, that was, that was amazing, that was incredible. you
 guys, you guys kicked butt.
-little bully: us, what about you guys? man you really, bing, gave it to old mr. clean back
+little
+bully: us, what about you guys? man you really, bing, gave it to old mr. clean back
 there. he was a big guy.
 ross: yeah he was wasn't he.
 chandler: yeah, i wouldn't know having missed everything.
-big bully: don't do that to yourself. any one of us could have tripped over that little
+big
+bully: don't do that to yourself. any one of us could have tripped over that little
 girls jump-rope.
 ross: so, listen guys, are we uh, are we ok here?
-little bully: we're ok.
+little
+bully: we're ok.
 ross: alright.
 chandler: ok so, can i have my hat back?
-little bully: no.
+little
+bully: no.
 chandler: huh. [reaches over and grabs the hat and bolts for the door but slips and falls
-behind the couch]
-closing credits
+behind the couch]r
 [scene: the 50's theme cafe. monica is working the grill, the rest are at a table.]
 rachel: look at her.
 chandler: hi monica.
@@ -406,5 +464,5 @@ chandler: guys guys, check this out.
 the rest of the staff have to get on the counter and start singing along and dancing.
 after a couple of couruses, chandler pulls out a handful of coins and drops them on the
 table.]
-joey: excellent.
-end<EPISODE_END>
+joey: excellent.r
+<EPISODE_END>

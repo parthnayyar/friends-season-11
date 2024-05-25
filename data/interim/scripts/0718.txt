@@ -1,4 +1,5 @@
-<EPISODE_START>the one with joey’s award
+<EPISODE_START>
+the one with joey’s award
 [scene: central perk, phoebe and monica are there as joey is entering excitedly.]
 joey: hey! you guys! you’re not gonna believe this! i just got off the phone with my agent…
 phoebe: oh my god! (joey looks at her.) i’m sorry, too soon. you go.
@@ -17,8 +18,7 @@ rachel: oh, stop that! don’t kid about that! (gasps) will all the stars be the
 joey: many are scheduled to appear.
 rachel: oh my god! oh my god! i can’t go! i’m gonna be too nervous!
 monica: (to joey) okay, i’ll go!
-rachel: no!! you are getting married! this is all i have.
-opening credits
+rachel: no!! you are getting married! this is all i have.r
 [scene: n.y.u, ross is giving a lecture.]
 ross: …and it was ernst muhlbrat who first hypothesized that the velociraptor would expand it’s collar and emit a high pitched noise to frighten it’s predator. (a student raises his hand.) yes mr. lewis?
 lewis: what kinda noise?
@@ -45,12 +45,15 @@ monica: really? (looks.) my god, he’s really cute.
 phoebe: go for it.
 monica: phoebe, i’m engaged!
 phoebe: i’m just saying, get his number just in case. but no chandler is in an accident and can’t perform sexually and he would want you to take a lover to satisfy the needs that he can no longer fulfill.
-the cute guy: (to monica) hi!
+the cute
+guy: (to monica) hi!
 monica: op, can i just tell you something? very flattered but umm, i’m engaged. (points to her ring.)
-the cute guy: wow! uh, this is kind of embarrassing. i was actually coming over to
+the cute
+guy: wow! uh, this is kind of embarrassing. i was actually coming over to
 talk to your friend.
 monica: well you should be embarrassed. (leaves.)
-the cute guy: (to phoebe) i thought you knew i was looking at you.
+the cute
+guy: (to phoebe) i thought you knew i was looking at you.
 phoebe: i did, but that was really fun.
 [scene: joey and rachel's, joey is sitting in the chair.]
 joey: (pretending to be an announcer) and the winner is…joey tribbiani! (he then gets excited and goes over to the counter to practice his acceptance speech using a bottle of maple syrup as the award.) oh… wow! i honestly never expected this. i uh, i didn’t prepare a speech. but umm, i’d like to thank (rachel enters quietly) my parents, who’ve always been there for me. i’d also like to thank my friends, chandler, monica, phoebe, rachel…
@@ -130,7 +133,9 @@ joey: okay. can i squeeze your ass?
 rachel: on tv?! yeah!
 joey: ‘kay!
 [cut to the presenter.]
-the presenter: …in the category of favorite returning male character the nominees are: john wheeler from general hospital (applause), gavin grant from the young and the restless (applause), dunkin harrington from passions (applause), and joey tribbiani from days of our lives (applause). and the soapie goes to…(she opens the envelope)…gavin grant from the young and the restless!
+the
+presenter: …in the category of favorite returning male character the nominees
+are: john wheeler from general hospital (applause), gavin grant from the young and the restless (applause), dunkin harrington from passions (applause), and joey tribbiani from days of our lives (applause). and the soapie goes to…(she opens the envelope)…gavin grant from the young and the restless!
 joey: what the?! (joey pounds the table and starts yelling at rachel, and which is drowned out by applause. rachel is desperately trying to tell joey that he’s on tv right now. he finally notices and he does his gracious loser face.)
 commercial break
 [scene: the 2001 soapie awards, the announcer is introducing the next presenter.]
@@ -198,17 +203,21 @@ phoebe: oh my god! you’re right! go! (monica starts to leave.) go tell chandle
 rachel: i cannot believe i’m gonna meet jessica ashley!
 joey: okay wait-wait p-please be cool! okay? i work with this woman.
 rachel: okay, i’m totally cool! (she coolly knocks on the door)
-jessica ashley: come in.
+jessica
+ashley: come in.
 (the enter.)
 joey: hey jessica.
 rachel: (coolly) hey jess.
 joey: ah, this is my friend rachel.
-jessica ashley: hi.
+jessica
+ashley: hi.
 rachel: ‘sup? (joey glares at her.)
 joey: uh listen, here’s your soapie. i accepted it for ya. (hands it to her.)
-jessica ashley: (shocked) oh my god! i won! do you have any idea what this means?! (she rolls her eyes and throws it onto the couch.)
+jessica
+ashley: (shocked) oh my god! i won! do you have any idea what this means?! (she rolls her eyes and throws it onto the couch.)
 joey: well, that-that-that’s it? you’re gonna, you’re gonna put it on your self or anything?
-jessica ashley: no, i try to save that for real awards. now, if you’ll excuse me. (she exits.)
+jessica
+ashley: no, i try to save that for real awards. now, if you’ll excuse me. (she exits.)
 joey: (to rachel) take it back?
 rachel: absolutely.
 joey: y-y-yeah! (as they start to leave, rachel pauses and steals a vase with flowers in it.) yeah you do. (they exit.)
@@ -236,8 +245,7 @@ ross: uh-hmm, yeah-yeah do you like it? do-do you looove it? i just want you to 
 morse: what?! why?
 ross: ‘cause i know what you’re trying to pull here. okay? it’s not gonna work.
 morse: i’m not trying to pull anything. look i love you dude.
-ross: y’know what? i-i’m not even gonna talk about this. okay? this little thing is over. i know you have a girlfriend! okay—(ned looks shocked)—yeah! and i know about the other professors! how do you think that makes me feel ned?! you used me! you don’t love me and you never did! (ross turns around to make a grand exit but runs into two colleagues.) ah professor winston, professor fredrickson, i’ll be right with you. (to ned) don’t make this worse and i’ll give you a c. (to the professors) shall we? (they leave.)
-ending credits
+ross: y’know what? i-i’m not even gonna talk about this. okay? this little thing is over. i know you have a girlfriend! okay—(ned looks shocked)—yeah! and i know about the other professors! how do you think that makes me feel ned?! you used me! you don’t love me and you never did! (ross turns around to make a grand exit but runs into two colleagues.) ah professor winston, professor fredrickson, i’ll be right with you. (to ned) don’t make this worse and i’ll give you a c. (to the professors) shall we? (they leave.)r
 [scene: joey and rachel's, phoebe is entering.]
 phoebe: rach?
 rachel: i’ll be out in a second.
@@ -246,4 +254,5 @@ phoebe: oh. (picks it up.) it’s just so unexpected! i…i uh…boy i’ll tell
 rachel: (entering from her room) honey, we have to go. our reservations are at 8:00.
 phoebe: …in reservations at 8:00 by neil simon. (to an imaginary neil simon) thank-thank you neil. thank you for the words. (blows him a kiss.)
 rachel: okay honey, you can finish this later we’re gonna be late. we gotta go.
-phoebe: please, don’t play the music. just uh one more. live from new york! it’s saturday night!!<EPISODE_END>
+phoebe: please, don’t play the music. just uh one more. live from new york! it’s saturday night!!r
+<EPISODE_END>

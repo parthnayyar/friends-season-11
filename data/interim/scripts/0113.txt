@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the boobies
+<EPISODE_START>
+the one with the boobies
 [scene: monica and rachel's, chandler walks in and starts raiding the fridge. then rachel comes out of the shower with a towel wrapped round her waist, drying herself with another towel. chandler and rachel startle each other and she drops the towel for a second and snatches the rug off the couch.]
 rachel: that is it! you just barge in here, you don't knock
 chandler: i'm sorry!
@@ -9,8 +10,7 @@ chandler: can i just say one thing?
 rachel: what? what?!
 chandler: that's a relatively open weave and i can still see your... nipular areas.
 rachel: oh!!
-(she storms off)
-opening credits
+(she storms off)r
 [scene: central perk, phoebe is there with her boyfriend roger, talking to rachel and monica.]
 phoebe: oh, honey, honey, tell them the story about your patient who thinks things are, like, other things. y'know? like, the phone rings and she takes a shower.
 roger: that's pretty much it.
@@ -48,30 +48,41 @@ roger: it's textbook.
 joey: hey you guys. hey, you all know my dad, right?
 all: hey! hey, mr. trib!
 monica: hey, how long are you in the city?
-mr. tribbiani: just for a coupla days. i got a job midtown. i figure i'm better off staying with the kid than hauling my ass back and forth on the ferry. (sees roger) i don't know this one.
+mr.
+tribbiani: just for a coupla days. i got a job midtown. i figure i'm better off staying with the kid than hauling my ass back and forth on the ferry. (sees roger) i don't know this one.
 phoebe: oh, this is my friend roger.
 roger: hi.
-mr. tribbiani: hey, hey. good to meet you, roger.
+mr.
+tribbiani: hey, hey. good to meet you, roger.
 roger: you too, sir.
-mr. tribbiani: (to phoebe) what happened to the, uh, puppet guy?
+mr.
+tribbiani: (to phoebe) what happened to the, uh, puppet guy?
 joey: dad, dad. (shakes his head)
-mr. tribbiani: oh, 'scuse me. so ross, uh, how's the wife? (ross whines and lays his head on chandler's shoulder) off there too, uh? uh, chandler, quick, say something funny!
+mr.
+tribbiani: oh, 'scuse me. so ross, uh, how's the wife? (ross whines and lays his head on chandler's shoulder) off there too, uh? uh, chandler, quick, say something funny!
 (chandler stays stonefaced)
 [scene: chandler and joey's, mr. tribbiani is on the phone.]
-mr. tribbiani: gotta go. i miss you too, i love you, but it's getting real late now
+mr.
+tribbiani: gotta go. i miss you too, i love you, but it's getting real late now
 joey: (snatches the phone) hey ma. listen, i made the appointment with dr. bazida, and... excuse me? (to his dad) did you know this isn't ma?
 (his dad nods. cut to later. joey is chopping mushrooms)
-mr. tribbiani: her name's ronni. she's a pet mortician.
+mr.
+tribbiani: her name's ronni. she's a pet mortician.
 joey: sure. so how long you been... (goes back to chopping)
-mr. tribbiani: remember when you were a little kid, i used to take you to the navy yard and show you the big ships?
+mr.
+tribbiani: remember when you were a little kid, i used to take you to the navy yard and show you the big ships?
 joey: since then?!
-mr. tribbiani: no, it's only been six years. i just wanted to put a nice memory in your head so you'd know that i wasn't always such a terrible guy. ...joe. y'ever been in love?
+mr.
+tribbiani: no, it's only been six years. i just wanted to put a nice memory in your head so you'd know that i wasn't always such a terrible guy. ...joe. y'ever been in love?
 joey: ...i d'know.
-mr. tribbiani: then y'haven't. you're burning your tomatoes.
+mr.
+tribbiani: then y'haven't. you're burning your tomatoes.
 joey: you're one to talk. (puts the mushrooms in a saucepan)
-mr. tribbiani: joe, your dad's in love big time. and the worst part of it is, it's with two different women.
+mr.
+tribbiani: joe, your dad's in love big time. and the worst part of it is, it's with two different women.
 joey: oh man. please tell me one of 'em is ma.
-mr. tribbiani: of course, course one of 'em's ma. what's the matter with you.
+mr.
+tribbiani: of course, course one of 'em's ma. what's the matter with you.
 [scene: monica and rachel's, joey is lamenting to everyone about hid dad's affair.]
 joey: it's like if you woke up one day and found out your dad was leading this double life. he's like actually some spy, working for the c.i.a. (considers) that'd be cool.... this blows!
 rachel: i know, i mean, why can't parents just stay parents? (she walks over near chandler and his gaze stays very obviously on her chest) why do they have to become people? why do they have... (notices chandler) why can't you stop staring at my breasts?
@@ -129,35 +140,45 @@ ronni: now, y'see, most people, when their pets pass on, they want 'em sorta lai
 chandler: joey, if i go first, i wanna be looking for my keys.
 ronni: that's a good one!
 (joey's dad enters.)
-mr. tribbiani: hey, joe.
+mr.
+tribbiani: hey, joe.
 joey: dad, ronni's here.
-mr. tribbiani: huh?
+mr.
+tribbiani: huh?
 ronni: hi.
-mr. tribbiani: hey! hello, babe! wh what're what're you doing here?
+mr.
+tribbiani: hey! hello, babe! wh what're what're you doing here?
 ronni: oh, uh, well, you left your good hair at my apartment, i figured you'd need it tomorrow for your meeting. (hands him the hair)
-mr. tribbiani: thank you. uh...
+mr.
+tribbiani: thank you. uh...
 chandler: so, who's up for a big game of kerplunk?
 ronni: look, i uh, i shouldn'ta come. i-i'd better get going, i don't wanna miss the last train.
-mr. tribbiani: i don't want you taking that thing.
+mr.
+tribbiani: i don't want you taking that thing.
 ronni: oh, where'm i gonna stay, here?
 joey: who-ah-ho.
-mr. tribbiani: we'll go to a hotel.
+mr.
+tribbiani: we'll go to a hotel.
 ronni: (shrugs) we'll go to a hotel.
 joey: no you won't.
 ronni: no we won't.
 joey: if you go to a hotel you'll be...doing stuff. i want you right here where i can keep an eye on you.
-mr. tribbiani: you're gonna keep an eye on us?
+mr.
+tribbiani: you're gonna keep an eye on us?
 joey: that's right, mister, and i don't care how old you are, as long as you're under my roof you're gonna live by my rules. and that means no sleeping with your girlfriend.
 ronni: wow. he's strict.
 joey: now dad, you'll be in my room, ronni uh, you can stay in chandler's room.
 ronni: thanks. you're, uh, you're a good kid.
 chandler: c'mon, i'll show you to my room. ...that sounds so weird when it's not followed by "no thanks, it's late."
 joey: okay. now this is just for tonight. starting tomorrow, you gotta make a change. this has gone on long enough.
-mr. tribbiani: what kinda change?
+mr.
+tribbiani: what kinda change?
 joey: well, either you break it off with ronni
-mr. tribbiani: i can't do that!
+mr.
+tribbiani: i can't do that!
 joey: then you gotta come clean with ma! this is not right!
-mr. tribbiani: yeah, but this is
+mr.
+tribbiani: yeah, but this is
 joey: i don't wanna hear it! now go to my room!
 [scene: chandler and joey's, night. chandler and joey are sharing the sofabed in the living room. joey is restless.]
 chandler: hey, kicky. what're you doing?
@@ -188,7 +209,8 @@ ronni: great.
 rachel: hey, listen, ronni, how long would you say chandler's been in the shower?
 ronni: oh, like, uh, five minutes?
 rachel: perfect. fasten your seatbelts, it's peepee time. (she goes into joey and chandler's apartment, where mr. tribbiani is reading the paper) hey, mr. trib.
-mr. tribbiani: hey. morning, dear.
+mr.
+tribbiani: hey. morning, dear.
 (rachel goes up to the door of their bathroom)
 rachel: chandler bing? it's time to see your thing.
 (she opens the door and whips back the curtain. it's joey. they both scream)
@@ -215,21 +237,29 @@ all: ...no, we hate him.
 rachel: we're sorry.
 [scene: chandler and joey's apartment, joey is trying to turn the sofabed back into a sofa. someone knocks on the door and it rears up at him.]
 joey: ma! what're you doing here?
-mrs. tribbiani: i came to give you this (gives him a bag of groceries) and this. (whacks him round the ear)
+mrs.
+tribbiani: i came to give you this (gives him a bag of groceries) and this. (whacks him round the ear)
 joey: oww! big ring!
-mrs. tribbiani: why did you have to fill your father's head with all that garbage about making things right? things were fine the way they were! there's chicken in there, put it away. for god's sake, joey, really. (she gives the sofabed a tiny push and it folds away)
+mrs.
+tribbiani: why did you have to fill your father's head with all that garbage about making things right? things were fine the way they were! there's chicken in there, put it away. for god's sake, joey, really. (she gives the sofabed a tiny push and it folds away)
 joey: hold on, you-you knew?
-mrs. tribbiani: of course i knew! what did you think? your father is no james bond. you should've heard some of his cover stories. "i'm sleeping over at my accountant's," i mean, what is that? please!
+mrs.
+tribbiani: of course i knew! what did you think? your father is no james bond. you should've heard some of his cover stories. "i'm sleeping over at my accountant's," i mean, what is that? please!
 joey: so then how could you i mean, how could you?!
-mrs. tribbiani: do you remember how your father used to be? always yelling, always yelling nothing made him happy, nothing made him happy, not that wood shop, not those stupid little ships in the bottle, nothing. now he's happy! i mean, it's nice, he has a hobby.
+mrs.
+tribbiani: do you remember how your father used to be? always yelling, always yelling nothing made him happy, nothing made him happy, not that wood shop, not those stupid little ships in the bottle, nothing. now he's happy! i mean, it's nice, he has a hobby.
 joey: ma, i don't mean to be disrespectful, but... what the hell are you talking about?! i mean, what about you?
-mrs. tribbiani: me? i'm fine. look, honey, in an ideal world, there'd be no her, and your father would look like sting. and i'll tell you something else. ever since that poodle-stuffer came along, he's been so ashamed of himself that he's been more attentive, he's been more loving... i mean, it's like every day's our anniversary.
+mrs.
+tribbiani: me? i'm fine. look, honey, in an ideal world, there'd be no her, and your father would look like sting. and i'll tell you something else. ever since that poodle-stuffer came along, he's been so ashamed of himself that he's been more attentive, he's been more loving... i mean, it's like every day's our anniversary.
 joey: i'm...happy...for you?
-mrs. tribbiani: well don't be, because now everything's screwed up. i just want it the way it was.
+mrs.
+tribbiani: well don't be, because now everything's screwed up. i just want it the way it was.
 joey: ma, i'm sorry. i just did what i thought you'd want.
-mrs. tribbiani: i know you did, cookie. oh, i know you did. so tell me. did you see her?
+mrs.
+tribbiani: i know you did, cookie. oh, i know you did. so tell me. did you see her?
 joey: yeah. you're ten times prettier than she is.
-mrs. tribbiani: that's sweet. could i take her?
+mrs.
+tribbiani: that's sweet. could i take her?
 joey: with this ring? (her engagement ring.) no contest.
 [scene: central perk. phoebe is there with roger.]
 roger: what's wrong, sweetie?
@@ -262,14 +292,16 @@ all: awww.
 phoebe: yeah, right.
 all: aaawwwwww!!
 rachel: what happened?
-phoebe: i don't know, i mean, he's a good person, and he can be really sweet, and in some ways i think he is so right for me, it's just... i hate that guy!
-closing credits
+phoebe: i don't know, i mean, he's a good person, and he can be really sweet, and in some ways i think he is so right for me, it's just... i hate that guy!r
 [scene: monica and rachel's. phoebe is reading the paper and joey enters.]
 phoebe: hey, joey. what's going on?
-joey: clear the tracks for the boobie payback express. next stop: rachel green. (he goes into the bathroom. we hear a scream and he comes out, closely followed by monica in a towel)
+joey: clear the tracks for the boobie payback express. next
+stop: rachel green. (he goes into the bathroom. we hear a scream and he comes out, closely followed by monica in a towel)
 monica: joey!! what the hell were you doing?!
 joey: sorry. wrong boobies.
 (he leaves. cut to monica entering chandler and joey's apartment. she sneaks up to the shower door)
 monica: hello, joey.
 (she whips back the curtain to reveal joey's dad)
-mr. tribbiani: oh! ...hello, dear. (she whips the curtain shut in horror)<EPISODE_END>
+mr.
+tribbiani: oh! ...hello, dear. (she whips the curtain shut in horror)r
+<EPISODE_END>

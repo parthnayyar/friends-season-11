@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the race car bed
+<EPISODE_START>
+the one with the race car bed
 [scene: central perk, the whole gang is there, ross is telling a story about what happened at work and the rest of the gang are thinking to themselves, denoted by italics.]
 ross: so i told carl, ‘nobody, no matter how famous their parents are, nobody is allowed to climb on the dinosaur.’ but of course this went in one ear and out.....
 rachel: i love how he cares so much about stuff. if i squint i can pretend he’s alan alda.
@@ -6,8 +7,7 @@ monica: oh good, another dinosaur story. when are those gonna become extinct?
 chandler: if i was a superhero who could fly and be invisible, that would be the best.
 gunther: what does rachel see in this guy? i love rachel. i wish she was my wife.
 (joey is singing in his head.)
-phoebe: who’s singing?
-opening credits
+phoebe: who’s singing?r
 [scene: monica and rachel's, the whole gang is there including janice, they’re watching happy days.]
 ross: hey. when you guys were kids and you played happy days, who were you? i was always richie.
 monica: i was always joanne.
@@ -17,11 +17,13 @@ phoebe: ewww! oh! it’s the mattress king!
 joey: booo!!
 chandler: (to janice) don’t look honey. change the channel! change the channel!
 janice: wait! wait! i wanna see this. after i divorce him, half of that kingdom is gonna be mine.
-matress king: (on tv) ‘despair fills the mattress showroom. my kingdom is suddenly without a queen. i’m so depressed i’m going to slash... my prices!! check it out! four ninety-nine for a pillow top queen set! i’m going medieval on prices!
+matress
+king: (on tv) ‘despair fills the mattress showroom. my kingdom is suddenly without a queen. i’m so depressed i’m going to slash... my prices!! check it out! four ninety-nine for a pillow top queen set! i’m going medieval on prices!
 chandler: what a wank!
 janice: oh, i cannot believe he’s using our divorce to sell mattresses.
 monica: i know! and four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves. (they all stare at her) and i’m appalled for you by the way.
-matress king: (on tv) i’m close. i’m cheap. i’m the king.
+matress
+king: (on tv) i’m close. i’m cheap. i’m the king.
 [scene: central perk, rachel is on the phone, everyone else is there except joey.]
 rachel: ‘okay. (listens) okay, daddy we’ll see you tomorrow night. (listens) okay bye-bye.’ (hangs up)
 ross: we?
@@ -97,27 +99,37 @@ phoebe: oh, it’s the compulsively neat one by the window, okay.
 guy: gotcha. (he and his helper walk in carrying the racecar bed.)
 [scene: restaurant, rachel and ross and dr. green are having dinner.]
 rachel: hi daddy!
-dr. green: this where they put it? what, there no table available in the kitchen! hello, baby.
+dr.
+green: this where they put it? what, there no table available in the kitchen! hello, baby.
 rachel: you remember ross.
-dr. green: um-hmm.
+dr.
+green: um-hmm.
 ross: nice to see you again dr. green.
-dr. green: so! (they both try to sit next to rachel but dr. green is successful.) (to ross) how’s the library?
+dr.
+green: so! (they both try to sit next to rachel but dr. green is successful.) (to ross) how’s the library?
 ross: ugh, museum.
-dr. green: what happened to the library?
+dr.
+green: what happened to the library?
 ross: there never was a library. i mean there are libraries, its just that i ah, i never worked at one.
-dr. green: you know what’s really good here, the lobster. what do you say shall i just order three.
+dr.
+green: you know what’s really good here, the lobster. what do you say shall i just order three.
 ross: yeah, if you’re really hungry. (dr. green stares at him) it was a joke, i made a joke.
 rachel: yeah, actually daddy ross is allergic to lobster.
-dr. green: what kind of person is allergic to lobster? i guess the kind of person that works at a library.
+dr.
+green: what kind of person is allergic to lobster? i guess the kind of person that works at a library.
 ross: it’s not a library...
-dr. green: (interrupting him) i know!! it’s a museum! what, you’re the only one around here who can make a joke! at least mine was funny. ah, waiter, we will have two lobsters and a menu. (nods at ross, and mouths i don’t know to the waiter.)
+dr.
+green: (interrupting him) i know!! it’s a museum! what, you’re the only one around here who can make a joke! at least mine was funny. ah, waiter, we will have two lobsters and a menu. (nods at ross, and mouths i don’t know to the waiter.)
 [scene: after dinner.]
 ross: so, dr. green, how’s the old boat.
-dr. green: they found rust. you know what rust does to a boat?
+dr.
+green: they found rust. you know what rust does to a boat?
 ross: it gives it a nice antiquey look.
-dr. green: (he stares at ross) rust, is boat cancer, ross.
+dr.
+green: (he stares at ross) rust, is boat cancer, ross.
 ross: wow. i’m sorry, when i was a kid i lost a bike to that. (rachel giggles at that)
-dr. green: excuse me for a moment, will you please, i want to say good night to the levines, before we go.
+dr.
+green: excuse me for a moment, will you please, i want to say good night to the levines, before we go.
 rachel: okay.
 ross: okay! (picks up a knife and pretends to stab his heart.)
 rachel: aw honey stop! it’s not that bad.
@@ -129,22 +141,29 @@ ross: so?
 rachel: so. ross, i’ve bugged him about this a million times, he’s not gonna change.
 ross: you really serve people sneezers?
 rachel: well um, i don’t.
-dr green: you kids ready?
+dr
+green: you kids ready?
 ross: thanks again, dr. green.
-dr. green: all right.
+dr.
+green: all right.
 (ross takes a twenty and slips it underneath the bill when dr. green isn’t looking.)
-dr. green: oh, wait, wait, wait, wait, i think i forgot my receipt.
+dr.
+green: oh, wait, wait, wait, wait, i think i forgot my receipt.
 ross: oh, ah, you don’t need that.
-dr. green: why not?
+dr.
+green: why not?
 ross: the carbon, it’s messy, i mean it gets on your fingers and causes, the, the ah, night blindness.
-dr. green: (gets his receipt and notices the twenty) what is this? who put a twenty down here? huh?
+dr.
+green: (gets his receipt and notices the twenty) what is this? who put a twenty down here? huh?
 ross: oh, yeah, that would be me, um, i have, i have a problem i-i tip way too much, way, way, too much, it’s a sickness really.
 rachel: yeah it is, it is. (to ross) we really, really have to do something about that.
 ross: i know.
-dr. green: excuse me, you think i’m cheap?
+dr.
+green: excuse me, you think i’m cheap?
 rachel: oh daddy, no he didn’t mean anything by that, he really didn’t.
 ross: nothing i do means anything, really.
-dr. green: this is nice. i pay two hundred dollars for dinner, you put down twenty, and you come out looking like mr. big shot. you really want to be mr. big shot? here, i’ll tell you what, you pay the whole bill, mr. big shot, all right. (rips up the bill, and throws it at ross, then leaves)
+dr.
+green: this is nice. i pay two hundred dollars for dinner, you put down twenty, and you come out looking like mr. big shot. you really want to be mr. big shot? here, i’ll tell you what, you pay the whole bill, mr. big shot, all right. (rips up the bill, and throws it at ross, then leaves)
 ross: well mr. big shot is better than ‘wethead’.
 [scene: classroom, joey is lecturing on facial expressions.]
 joey: okay, some tricks of the trade. now, i’ve never been able to cry as an actor, so if i’m in a scene where i have to cry, i cut a hole in my pocket, take a pair of tweezers, and just start pulling. or ah, or, let’s say i wanna convey that i’ve just done something evil. that would be the basic ‘i have a fishhook in my eyebrow and i like it’ (does it by raising one eyebrow, and showing off the pretend fishhook.) okay, let’s say i’ve just gotten bad news, well all i do there is try and divide 232 by 13. (looks all confused) and that’s how it’s done. great soap opera acting tonight everybody, class dismissed.
@@ -212,46 +231,61 @@ joey: because, monica, the guy’s so good, and i really, really want this part.
 phoebe: well, if you really, really want it, then it’s okay.
 [scene: monica and rachel's, rachel is greeting her father for their brunch.]
 rachel: (opening the door) hi daddy.
-dr. green: baby. ross.
+dr.
+green: baby. ross.
 ross: dr. green. how are you? (offers his hand, and dr. green puts his scarf on it.)
-dr. green: thanks for dinner last night.
+dr.
+green: thanks for dinner last night.
 ross: thank you for teaching me a valuable lesson.
-dr. green: nice hair. what’d ya do? swim here?
+dr.
+green: nice hair. what’d ya do? swim here?
 ross: (to rachel) okay, that’s it, i can’t take it anymore.
 rachel: what? what? he’s interested in you. he-he likes your hair, he just wants to know how you got here.
 ross: oh, please. sweetie it’s hopeless, okay, i’m just gonna go. (starts to leave rubbing his neck)
 rachel: what?!
 ross: look, look i’m sorry. it’s just that....
-dr. green: ross? what’s with the neck?
+dr.
+green: ross? what’s with the neck?
 rachel: he’s got this thing. and i keep telling him to go to my chiropractor...
-dr. green: you’re still going to that chiropractor, that man couldn’t get into medical school in extapa!
+dr.
+green: you’re still going to that chiropractor, that man couldn’t get into medical school in extapa!
 ross: thank you! that’s what i keep saying.
 rachel: excuse me, dr. bobby happens to be an excellent doctor.
 ross: uh.
-dr. green: wait a minute, his name is dr. bobby?
+dr.
+green: wait a minute, his name is dr. bobby?
 rachel: well that’s his last name.
 ross: and his first name.
-dr. green: he’s bobby bobby?
+dr.
+green: he’s bobby bobby?
 rachel: it’s robert bobby.
-dr. green: oh.
+dr.
+green: oh.
 rachel: and um, excuse me, he helps me.
 ross: oh-ho please. ask her how?
-dr. green: what do you need help for?
+dr.
+green: what do you need help for?
 rachel: with my alignment. i’ve got one leg shorter than the other.
-dr. green: oh god!
+dr.
+green: oh god!
 ross: argue with that.
 rachel: what? it’s true, my right leg is two inches shorter.
-dr. green: come on! you’re just titling! (to ross) her legs are fine!
+dr.
+green: come on! you’re just titling! (to ross) her legs are fine!
 ross: i know that!
-dr. green: so, why do you let her go to a chiropractor for?
+dr.
+green: so, why do you let her go to a chiropractor for?
 rachel: i’m sorry, let her?
 ross: what can i do, she doesn’t listen to me about renter’s insurance either.
-dr. green: wait a minute, you don’t have renter’s insurance?!
+dr.
+green: wait a minute, you don’t have renter’s insurance?!
 rachel: no.
-dr. green: well what if somebody steals something? how are you gonna run after him with one leg shorter than the other?!
+dr.
+green: well what if somebody steals something? how are you gonna run after him with one leg shorter than the other?!
 (both he and ross start laughing)
 ross: hey, would you ah, would you like some juice?
-dr. green: i’d love some juice. thanks.
+dr.
+green: i’d love some juice. thanks.
 ross: okay. (to rachel) wow! this is going so well. did you see us? did you see?
 rachel: yeah honey, i’m standing right there! why didn’t you just tell him about the mole i haven’t got checked yet.
 ross: excellent!
@@ -267,7 +301,7 @@ joey: oh-ho-kay, i’m talking to the king. (starts to go to a back room)
 jester: hey! you can’t go back there!
 (joey goes to the door, but stops and looks through the window at janice and the mattress king, her ex-husband, kissing.)
 janice: oh my god.
-(joey fakes a scream.)
-closing credits
+(joey fakes a scream.)r
 [scene: monica’s bedroom, chandler is playing with the bed.]
-chandler: varrrrrroom! hey! watch it lady! varrrrrrrrrrom! (makes a screeching sound as he pretends to stomp on the brakes.) hey-hey good lookin’! (honks the bed’s little horn on the steering wheel.) varrrrrrrrroom. (notices rachel and stops) all right, i’ll leave. my bed’s so boring.<EPISODE_END>
+chandler: varrrrrroom! hey! watch it lady! varrrrrrrrrrom! (makes a screeching sound as he pretends to stomp on the brakes.) hey-hey good lookin’! (honks the bed’s little horn on the steering wheel.) varrrrrrrrroom. (notices rachel and stops) all right, i’ll leave. my bed’s so boring.r
+<EPISODE_END>

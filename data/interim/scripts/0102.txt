@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the sonogram at the end
+<EPISODE_START>
+the one with the sonogram at the end
 [scene central perk, everyone's there.]
 monica: what you guys don't understand is, for us, kissing is as important as any part of it.
 joey: yeah, right!.......y'serious?
@@ -8,9 +9,9 @@ monica: absolutely.
 chandler: yeah, i think for us, kissing is pretty much like an opening act, y'know? i mean it's like the stand-up comedian you have to sit through before pink floyd comes out.
 ross: yeah, and-and it's not that we don't like the comedian, it's that-that... that's not why we bought the ticket.
 chandler: the problem is, though, after the concert's over, no matter how great the show was, you girls are always looking for the comedian again, y'know? i mean, we're in the car, we're fighting traffic... basically just trying to stay awake.
-rachel: yeah, well, word of advice: bring back the comedian. otherwise next time you're gonna find yourself sitting at home, listening to that album alone.
-joey: (pause)....are we still talking about sex?
-opening credits
+rachel: yeah, well, word of
+advice: bring back the comedian. otherwise next time you're gonna find yourself sitting at home, listening to that album alone.
+joey: (pause)....are we still talking about sex?r
 [scene: museum of prehistoric history, ross and a co-worker (marsha) are setting up an exhibit which includes some mannequins of cave people.]
 ross: no, it's good, it is good, it's just that- mm- doesn't she seem a little angry?
 marsha: well, she has issues.
@@ -59,7 +60,8 @@ rachel: oh god, oh god, oh god oh god oh god oh god.... (starts to look under th
 phoebe: no, look, don't touch that!
 rachel: oh, like i wasn't dreading tomorrow enough, having to give it back to him... 'hi barry! remember me? i'm the girl in the veil who stomped on your heart in front of your entire family!' oh god and now i'm gonna have to return the ring, without the ring, which makes it so much harder...
 monica: easy rach, we'll find it. (to all) won't we!
-chandler and joey: oh! yeah!
+chandler and
+joey: oh! yeah!
 joey: alright, when'd'ya have it on last?
 phoebe: doy! probably right before she lost it!
 chandler: you don't get a lot of 'doy' these days...
@@ -92,37 +94,52 @@ ross: i have no idea. no matter what i do, though, i'm still gonna be a father.
 (joey starts to eat the rest of the lasagne and everyone turns and stares at him.)
 joey: .....well, this is still ruined, right?
 [scene, monica and rachel's, monica and ross are pouring wine for their parents.]
-mrs. geller: oh, martha ludwin's daughter is gonna call you. (tastes a snack) mmm! what's that curry taste?
+mrs.
+geller: oh, martha ludwin's daughter is gonna call you. (tastes a snack) mmm! what's that curry taste?
 monica: curry.
-mrs. geller: mmmm!
+mrs.
+geller: mmmm!
 ross: i- i think they're great! i, i really do.
-mr. geller: (to ross) do you remember the ludwins? the big one had a thing for you, didn't she?
-mrs. geller: they all had a thing for him.
+mr.
+geller: (to ross) do you remember the ludwins? the big one had a thing for you, didn't she?
+mrs.
+geller: they all had a thing for him.
 ross: aw, mom...
 monica: i'm sorry, why is this girl going to call me?
-mrs. geller: oh, she just graduated, and she wants to be something in cooking, or food, or.... i don't know. anyway, i told her you had a restaurant-
+mrs.
+geller: oh, she just graduated, and she wants to be something in cooking, or food, or.... i don't know. anyway, i told her you had a restaurant-
 monica: no mom, i don't have a restaurant, i work in a restaurant.
-mrs. geller: well, they don't have to know that... (she starts to fluff the same pillow monica fluffed multiple times earlier.)
+mrs.
+geller: well, they don't have to know that... (she starts to fluff the same pillow monica fluffed multiple times earlier.)
 monica: ross, could you come and help me with the spaghetti, please?
 ross: yeah. (they go to the kitchen.)
-mrs. geller: oh, we're having spaghetti! that's.... easy.
+mrs.
+geller: oh, we're having spaghetti! that's.... easy.
 monica: i know this is going to sound unbelievably selfish, but, were you planning on bringing up the whole baby/lesbian thing? because i think it might take some of the heat off me.
 [time lapse, everyone is now eating.]
-mrs. geller: what that rachel did to her life.... we ran into her parents at the club, they were not playing very well.
-mr. geller: i'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!
-mrs. geller: well, at least she had the chance to leave a man at the altar...
+mrs.
+geller: what that rachel did to her life.... we ran into her parents at the club, they were not playing very well.
+mr.
+geller: i'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!
+mrs.
+geller: well, at least she had the chance to leave a man at the altar...
 monica: what's that supposed to mean?
-mrs. geller: nothing! it's an expression.
+mrs.
+geller: nothing! it's an expression.
 monica: no it's not.
-mr. geller: don't listen to your mother. you're independent, and you always have been! even when you were a kid... and you were chubby, and you had no friends, you were just fine! and you would read alone in your room, and your puzzles...
+mr.
+geller: don't listen to your mother. you're independent, and you always have been! even when you were a kid... and you were chubby, and you had no friends, you were just fine! and you would read alone in your room, and your puzzles...
 [time lapse.]
-mr. geller: look, there are people like ross who need to shoot for the stars, with his museum, and his papers getting published. other people are satisfied with staying where they are- i'm telling you, these are the people who never get cancer.
+mr.
+geller: look, there are people like ross who need to shoot for the stars, with his museum, and his papers getting published. other people are satisfied with staying where they are- i'm telling you, these are the people who never get cancer.
 [time lapse.]
-mr. geller: ...and i read about these women trying to have it all, and i thank god 'our little harmonica' doesn't seem to have that problem.
+mr.
+geller: ...and i read about these women trying to have it all, and i thank god 'our little harmonica' doesn't seem to have that problem.
 monica: (trying desperately to change the subject) so, ross, what's going on with you? any stories? (digs her elbow into his hand.) no news, no little anecdotes to share with the folks?
 ross: (pulls his hand away) okay! okay. (to his parents) look, i, uh- i realise you guys have been wondering what exactly happened between carol and me, and, so, well, here's the deal. carol's a lesbian. she's living with a woman named susan. she's pregnant with my child, and she and susan are going to raise the baby.
 (stunned silence ensues.)
-mrs. geller: (to monica) and you knew about this?!
+mrs.
+geller: (to monica) and you knew about this?!
 commercial break
 [scene: central park, everyone's there.]
 joey: your folks are really that bad, huh?
@@ -246,16 +263,17 @@ carol: ross. you're not actually suggesting helen willick-bunch-geller? 'cause i
 ross: of course not, i'm... suggesting geller-willick-bunch.
 susan: oh, no, nonononono, you see what he's doing? he knows no-one's gonna say all those names, so they'll wind up calling her geller, then he gets his way!
 ross: my way?! you-you think this is my way? believe me, of all the ways i ever imagined this moment in my life being, this is not my way- y'know what? uh, um, this is too hard. i'm not, i can't do-
-dr. oberman: (entering) knock knock!how are we today? any nausea?
+dr.
+oberman: (entering) knock knock!how are we today? any nausea?
 all: yeah. yeah. a little.
-dr. oberman: well, i was just wondering about the mother-to-be, but.. thanks for sharing. (to carol) uh, lie back..
+dr.
+oberman: well, i was just wondering about the mother-to-be, but.. thanks for sharing. (to carol) uh, lie back..
 ross: you- uh- y'know what, i'm gonna go. i don't- i don't think i can be involved in this particular thing right now.
 (he turns to go, but the sound of the sonogram catches hes ear.  he returns and stares at it.)
 ross: oh my god.
 susan: look at that.
-carol: i know.
-closing credits
-[scene: monica and rachel's apartment, everyone is watching the tape of the sonogram.   rachel is on the phone.]
+carol: i know.r
+[scene: monica and rachel's apartment, everyone is watching the tape of the sonogram. rachel is on the phone.]
 ross: well? isn't that amazing?
 joey: what are we supposed to be seeing here?
 chandler: i dunno, but.. i think it's about to attack the enterprise.
@@ -270,4 +288,5 @@ ross: you are, you're welling up.
 monica: am not!
 ross: you're gonna be an aunt.
 monica: (pushes him and starts to cry) oh shut up!
-rachel: (on phone) hi, mindy. hi, it-it's rachel. yeah, i'm fine. i-i saw barry today. oh, yeah, yeah he-he told me. no, no, it's okay. i hope you two are very happy, i really do. oh, oh, and mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- i just hope they have his old hairline and your old nose. (slams the phone down.) (to everyone) okay, i know it was a cheap shot, but i feel so much better now.<EPISODE_END>
+rachel: (on phone) hi, mindy. hi, it-it's rachel. yeah, i'm fine. i-i saw barry today. oh, yeah, yeah he-he told me. no, no, it's okay. i hope you two are very happy, i really do. oh, oh, and mind, y'know, if-if everything works out, and you guys end up getting married and having kids- and everything- i just hope they have his old hairline and your old nose. (slams the phone down.) (to everyone) okay, i know it was a cheap shot, but i feel so much better now.r
+<EPISODE_END>

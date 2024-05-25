@@ -1,5 +1,5 @@
-<EPISODE_START>the one with the flashback
-{transcriber's note: rachel has two friends that are not named, so i referred to them as friend no. 1 and friend no. 2.}
+<EPISODE_START>
+the one with the flashbackr
 [scene: central perk, the whole gang is there including janice.]
 janice: janice has a question. who of the six of you has sleep with the six of you?
 phoebe: wow, it’s like a dirty math problem.
@@ -8,14 +8,14 @@ janice: come on over the years none of you ever y'know, got drunk and stupid.
 joey: well, that’s really a different question.
 janice: i’m sorry i find it hard to believe that a group of people who spends as much time together as you guys do has never bumped uglies.
 joey: well, there was that one time that monica and rachel got together.
-monica and rachel: what?!!
+monica and
+rachel: what?!!
 rachel: excuse me, there was no time!
 joey: okay, but let’s say there was. how might that go?
 janice: okay, okay, well then answer me this. has any of you ever.... almost?
 rachel: does anybody need more coffee?
 ross: yeah, i’ll take some.
-joey: hey, there’s a dog out there!
-opening credits
+joey: hey, there’s a dog out there!r
 [scene: monica and phoebe’s, three years earlier, phoebe, monica, and ross are there]
 phoebe: oh, that is so unfortunate.
 ross: what?
@@ -124,20 +124,27 @@ phoebe: i’m just taking it to be re-wired.
 monica: oh, well don’t take it to the same place you took the stereo, ‘cause they’ve had that thing for over a week.
 (there is a knock on the door, phoebe answers it, its mr. heckles)
 phoebe: no, no, mr. heckles no one is making any noise up here.
-mr. heckles: you’re disturbing my oboe practice.
+mr.
+heckles: you’re disturbing my oboe practice.
 phoebe: you don’t play the oboe!
-mr. heckles: i could play the oboe!
+mr.
+heckles: i could play the oboe!
 phoebe: then i’m gonna have to ask you to keep it down. (slams the door in his face.)
 (in the hallway, eric is moving in)
-mr. heckles: (to eric) who are you?
+mr.
+heckles: (to eric) who are you?
 eric: hi, i’m eric, i’m gonna be chandler’s new roommate.
-mr. heckles: i’m chandler’s new roommate.
+mr.
+heckles: i’m chandler’s new roommate.
 eric: i-i-i don’t think so.
-mr. heckles: i could be chandler’s new roommate.
+mr.
+heckles: i could be chandler’s new roommate.
 eric: but, he told me over the phone.
-mr. heckles: he told me in person.
+mr.
+heckles: he told me in person.
 eric: that’s weird.
-mr. heckles: well, i’m going to go into my new apartment now. (goes over to the door and opens it) ehh! (eric leaves)
+mr.
+heckles: well, i’m going to go into my new apartment now. (goes over to the door and opens it) ehh! (eric leaves)
 (inside chandler’s apartment, chandler is coming in from his bedroom, sees mr. heckles, and screams.)
 [scene: the hallway, joey is moving in, monica is leaving.]
 monica: hi, again.
@@ -268,8 +275,7 @@ monica: hey, are you okay?
 ross: my wife’s a lesbian.
 joey: cool!!
 chandler: ross-joey, joey-ross. (they shake hands)
-ross: hi.
-closing credits
+ross: hi.r
 [scene: the bar, chandler is playing pool, as rachel enters.]
 chandler: i can’t believe you came back.
 rachel: don’t say anything. i don’t wanna speak, i don’t wanna think. i just want you to take me and kiss me and make love to me right here, right now.
@@ -280,4 +286,6 @@ friend no. 2: you missed the exit!
 rachel: oh, sorry.
 friend no. 1: my god, what were you thinking about?
 rachel: um, (shyly) barry.
-her friends: awwww!!<EPISODE_END>
+her
+friends: awwww!!r
+<EPISODE_END>

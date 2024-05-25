@@ -1,10 +1,10 @@
-<EPISODE_START>the one with all the wedding dresses
+<EPISODE_START>
+the one with all the wedding dresses
 [scene: joey’s bedroom, he is asleep and snoring loudly. chandler enters wondering who left their engine running.]
 chandler: are you kidding me?! joey. joey! joey! joey! joey! joey! joey! joey! joey! joey!!
 joey: (joining in, in his sleep) joey. joey. joey. joey! joey!!
 (chandler acts disgusted, but is happy that joey has stopped snoring. however, just as he is about to leave, joey starts snoring again. so to get him to stop, he slams the door shut, waking joey.)
-chandler: oh. oh, did-did-did i wake you?
-opening credits
+chandler: oh. oh, did-did-did i wake you?r
 [scene: central perk, chandler is getting another cup of coffee.]
 chandler: gunther, can i get another cup of coffee, please? (gunther starts to pour him another cup.) so uh, what do you do when you’re not working here?
 gunther: you don’t need to fill these silences.
@@ -84,20 +84,26 @@ rachel: no, just singing. (does a little song.)
 [scene: beatrice bridal shop, monica and phoebe are there to pick up emily’s dress.]
 monica: oh my god! ohh! look at this one! it’s so beautiful!
 phoebe: yeah, but y’know, about have of these are gonna end up getting divorced.
-the saleslady: may i help you ladies?
+the
+saleslady: may i help you ladies?
 monica: oh, yes, umm, i’m here to pick up a dress that you have on hold.
-the saleslady: yes, what’s the name, please?
+the
+saleslady: yes, what’s the name, please?
 monica: emily waltham.
-the saleslady: yes! i have it right here. (phoebe and monica both gasp at the dress.) would you like to try it on ms. waltham?
+the
+saleslady: yes! i have it right here. (phoebe and monica both gasp at the dress.) would you like to try it on ms. waltham?
 monica: (laughs) okay.
 [time lapse. monica is wearing the dress and starring at herself in the mirror.]
 phoebe: you’re the most beautiful bride i’ve ever seen.
 monica: i am, aren’t i?
-the saleslady: ms. waltham?
+the
+saleslady: ms. waltham?
 monica: yes?
-the saleslady: we’re closing.
+the
+saleslady: we’re closing.
 monica: all right. (goes to take off the dress.)
-the saleslady: and could i get my ring back?
+the
+saleslady: and could i get my ring back?
 (she disgustedly takes the ring off and gives it back.)
 [scene: joey’s bedroom, he’s snoring again and chandler is there to roll him over.]
 chandler: all right buddy, time to roll over. (rolls him over, and discovers a surprise) (looking down) no-no! (covers his eyes) no, no-n-n-n-no!! you are going to a clinic! you’re going to a clinic, and a pyjama store!
@@ -134,7 +140,8 @@ chandler: nothing.
 rachel: nothing.
 joey: i am… (looks in his date book.) free!
 ross: great! because emily and i are getting married in a month!
-joey and chandler: what?!
+joey and
+chandler: what?!
 ross: yep!
 rachel: in a month?
 ross: yeah!
@@ -166,11 +173,14 @@ rachel: oh, i know, i know, it’s-it’s so, it’s so totally like, "whoa! can
 joshua: wow! uhh, rachel uhh, you’re a real special lady, but my divorce isn’t final yet and, and, and we’ve been on four days, so i’m thinking "no, but thanks."
 gunther: you idiot!!!!!
 [scene: the sleep clinic, joey is having trouble staying awake.]
-sleep clinic worker: your name, please?
+sleep clinic
+worker: your name, please?
 joey: joey tribbiani.
-sleep clinic worker: um-hmm, and did you stay up all night in preparation for your sleep study. (joey doesn’t answer) uh, sir? (joey starts snoring)
+sleep clinic
+worker: um-hmm, and did you stay up all night in preparation for your sleep study. (joey doesn’t answer) uh, sir? (joey starts snoring)
 chandler: (answering for him) yes he did.
-sleep clinic worker: alll right, we’ll call you in a few minutes.
+sleep clinic
+worker: alll right, we’ll call you in a few minutes.
 (as she leaves, a beautiful woman enters and sits down across from the boys.)
 chandler: (waking joey) hey, check out that girl! she is really hot!
 joey: (sleepily) yeah, she is. wow! (falls back asleep, loudly) how you doin’?
@@ -288,7 +298,7 @@ rachel: i’m not gonna marry chandler!
 phoebe: not after this!
 rachel: okay, you guys, just relax. (she goes over to open the door, and as she does, she says.) i doooo. (sees that it’s joshua, not chandler that knocked on the door.)
 joshua: i gotta go.
-rachel: oh, wait, joshua! joshua! (pause) (comes back inside) yeah, well, that oughta do it.
-closing credits
+rachel: oh, wait, joshua! joshua! (pause) (comes back inside) yeah, well, that oughta do it.r
 [scene: chandler’s bedroom, he is sleeping with marjorie. all of the sudden, marjorie starts talking in her sleep, awakening chandler. after a little bit, she quiets back down, and chandler tries to get back to sleep. there’s a short pause until she starts screaming, causing chandler to scream with her. she quickly calms down. this all wakes up joey, who comes over wearing the mouth guard, opens the top half of chandler’s door, and starts to complain about the noise.]
-joey: (muffled by the mouth guard) dude! i am trying to sleep! (shrugs to say, "what’s up with that?")<EPISODE_END>
+joey: (muffled by the mouth guard) dude! i am trying to sleep! (shrugs to say, "what’s up with that?")r
+<EPISODE_END>

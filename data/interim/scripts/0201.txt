@@ -1,7 +1,7 @@
-<EPISODE_START>the one with ross' new girlfriend
+<EPISODE_START>
+the one with ross' new girlfriend
 [scene: central perk, phoebe is recapping last season, and as she talks we see a montague of scenes from ross and rachel.]
-phoebe: ok, so this is pretty much what's happened so far. ross was in love with rachel since, you know, forever, but every time he tried to tell her, something kind of got in the way, like cats, and italian guys. finally chandler was like "forget about her" but when ross was in china on his dig, chandler let it slip that ross was in love with rachel. she was like, "oh my god." so she went to the airport to meet him when he came back, but what she didn't know was, that ross was getting off the plane with another woman. uh-oh! so, that's pretty much everything you need to know. but, enough about us. so, how've you been?
-opening credits
+phoebe: ok, so this is pretty much what's happened so far. ross was in love with rachel since, you know, forever, but every time he tried to tell her, something kind of got in the way, like cats, and italian guys. finally chandler was like "forget about her" but when ross was in china on his dig, chandler let it slip that ross was in love with rachel. she was like, "oh my god." so she went to the airport to meet him when he came back, but what she didn't know was, that ross was getting off the plane with another woman. uh-oh! so, that's pretty much everything you need to know. but, enough about us. so, how've you been?r
 [scene, the airport, continued from last season, rachel is waiting for ross to come of the plane, when she sees he's coming off with another woman.]
 rachel: oh my god. oh my god. (she decides to make a break for it.) excuse me. move! move! emergency! excuse me! (she tries climbing over a bench and falls down.)
 ross: (seeing her) rach!
@@ -231,8 +231,7 @@ ross: you deserve to be with someone who appreciates you, and who gets how funny
 rachel: no, i think that was the whole all.
 ross: okay.  okay. (they hug.) okay.
 [cut back inside, joey is on the phone.]
-joey: i swear to god, dad. that's not how they measure pants.
-closing credits
+joey: i swear to god, dad. that's not how they measure pants.r
 [scene: central perk, julie is wanting to get her hair cut from phoebe.]
 julie: i was thinking of doing it a little shorter, you know, like andie mcdowell's new haircut?
 phoebe: oh yeah!  oh, i can do that.
@@ -242,4 +241,5 @@ julie: great! (julie leaves)
 phoebe: (to rachel) ok, i just wanna be really sure this time. andie mcdowell's the girl from four weddings and a funeral, right?
 rachel: no. no no no no no. that's rodney mcdowell. andie mcdowell is the guy from planet of the apes.
 phoebe: oh, yeah. ok, thank you.
-rachel: you're welcome.<EPISODE_END>
+rachel: you're welcome.r
+<EPISODE_END>

@@ -1,11 +1,13 @@
-<EPISODE_START>the one with the holiday armadillo
+<EPISODE_START>
+the one with the holiday armadillo
 [scene: monica, chandler, and phoebe's, chandler is on the phone, rachel and monica are sitting in the kitchen.]
 chandler: buh-bye. (hangs up the phone) i just got us reservations at michelle’s and tickets to the musicman to celebrate our first holiday season as a betroughed couple.
 monica: betrothed… (corrects him)
 chandler: …betrothed couple.
 phoebe: (entering carrying a skull) hey!
 chandler: hey!
-rachel and monica: hi!
+rachel and
+monica: hi!
 phoebe: haaaa... (puts the skull on the table) ... ahhhh!
 chandler: pheebs?
 phoebe: huh?
@@ -29,8 +31,7 @@ rachel: (to monica) did you know he was in there?
 monica: no.
 chandler: how long have we been home?
 monica: about a half an hour.
-chandler: lovely!
-opening credits
+chandler: lovely!r
 [scene: central perk, chandler is getting a cup of coffee and sits down next to monica.]
 chandler: hey, you know what i was thinking? when we get married, are you gonna change your last name to bing?
 monica: no.
@@ -108,14 +109,16 @@ chandler: mustached bastard…
 monica: (sees two people exit) okay, those people just left, come on! quick! give him the money and get their table!
 chandler: (walks up to the maitre d') excuse me...
 [chandler can't find his money in the pocket. in the meantime, another couple shows up, and chandler turns away to look for his money]
-male guest: (to the maitre d') good evening. (shakes his hand)
+male
+guest: (to the maitre d') good evening. (shakes his hand)
 chandler: (finds his money) ahh-hahaha! (turns around to give the maitre d' his money, but he isn't there anymore)
 [scene: the hallway, phoebe comes up the stairs and hears drumming coming from joey and rachel's, so she enters smiling and then sees that rachel, not joey, is the one playing.]
 rachel: (stopping at phoebe’s entrance) ha!
 phoebe: so you like the drums! that's, that's great! y’know, i was worried, that, you know, they would maybe an unbearable living situation. all right, okay, well, apparently not! so, yay!
 joey: hey-hey, pheebs, check it out, we already learned a song. (to rachel) ready? one, two, three, four...
 [rachel hits some tom-toms and ends up on the 'crash'-cymbal, which is in fact a ride-cymbal, but whatever...]
-rachel and joey: tequila!!
+rachel and
+joey: tequila!!
 phoebe: that's fun. (she exits disappointedly.)
 commercial break
 [scene: central perk, gunther is serving chandler and monica coffee.]
@@ -268,12 +271,12 @@ ross: come on, come on, we’re-we’re-we’re lighting the candles!
 rachel: oh.
 phoebe: oh.
 (they both go over to light the candles.)
-phoebe: okay, i understand why superman is here, but why is there a porcupine at the easter bunny’s funeral?
-ending credits
+phoebe: okay, i understand why superman is here, but why is there a porcupine at the easter bunny’s funeral?r
 [scene: joey and rachel's, rachel is closing the door on the tarantula cage.]
 rachel: i got it!
 joey: (yelling from the bedroom) is it back in the cage?
 rachel: its back in cage!
 joey: cage closed?
 rachel: joey, would you just come out here and stop being such a baby!
-(joey throws open his door and stands there still in the superman costume then slowly makes his way to the bathroom while keeping both eyes on the cage.)<EPISODE_END>
+(joey throws open his door and stands there still in the superman costume then slowly makes his way to the bathroom while keeping both eyes on the cage.)r
+<EPISODE_END>

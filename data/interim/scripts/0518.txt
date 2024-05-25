@@ -1,4 +1,5 @@
-<EPISODE_START>the one where rachel smokes
+<EPISODE_START>
+the one where rachel smokes
 [scene: central perk, joey, chandler, monica, and phoebe are there. joey is holding a deck of cards out to chandler.]
 joey: okay, pick a card.
 chandler: okay. (he picks the 9 of spades)
@@ -17,8 +18,7 @@ ross: (sets ben down) well, it's not for sure but umm, we met this guy in the pa
 joey: (reading the card) whoa! this guy is like the biggest commercial casting director in town! (ross gasps) ben takes one lousy walk in the park and gets an audition!! (ross and carol stare at him, then joey realizes what he just said.) i mean, way to go ben! (gives ben the thumbs up, which ben returns.) man! i've been in that park a million times and no one offered me an audition.
 ross: i know, it's crazy! we were just pushing ben on the swings…
 joey: i'm always on the swings! what am i doing wrong?!
-chandler: that.
-opening credits
+chandler: that.r
 [scene: monica and rachel's, everyone is eating breakfast, ross is heading for the bathroom.]
 rachel: (entering from her room) okay, gotta go! wish me luck!
 joey: luck!
@@ -138,11 +138,13 @@ ross: oh god, this is so nerve wracking! how-how do you do this?
 joey: well, unfortunately, i don't get many callbacks so…
 carol: is it a good sign that they asked us to hang around after the audition?
 joey: who knows?
-the casting director: (entering) okay uh, we have narrowed it down to raymond, ben, kyle, and joey. the rest of you, thank you very much.
+the casting
+director: (entering) okay uh, we have narrowed it down to raymond, ben, kyle, and joey. the rest of you, thank you very much.
 ross: yes!! i knew it!! (to the people who didn't make it.) bye-bye! so long! later!
 joey: oh this is great! i might actually get to play ben's dad!
 ross: yeah!
-the casting director: actually, that can't happen. yeah because you all have such different looks, we're putting you with raymond and kyle with ben. so it'll be either you two (points to joey and raymond) or you two. (points to kyle and ben.) (exits.)
+the casting
+director: actually, that can't happen. yeah because you all have such different looks, we're putting you with raymond and kyle with ben. so it'll be either you two (points to joey and raymond) or you two. (points to kyle and ben.) (exits.)
 joey: man, this is gonna be kinda weird.
 ross: yeah, it is.
 kyle: yeah. it's gonna be weird.
@@ -151,7 +153,8 @@ kyle: oh, oh, i thought we were just talking.
 commercial break
 [scene: chandler and joey's, ross and chandler are talking.]
 phoebe: (entering, carrying two garbage bags) hey!
-ross and chandler: hi!
+ross and
+chandler: hi!
 phoebe: is it okay if i leave this stuff here 'til rachel's birthday party?
 chandler: ah sure. what's in 'em?
 phoebe: umm, cups.
@@ -227,26 +230,34 @@ joey: (goes over to ben) hi ben! so you wanna be an actor huh? i gotta tell ya, 
 ross: (entering, angrily) joey!
 joey: (angrily) ross!
 ross: (angrily) ben! (pause.) (happily.) i mean, ben! ben!
-the casting director: (entering) okay, raymond, joey you're up.
+the casting
+director: (entering) okay, raymond, joey you're up.
 (raymond and joey go in the office.)
 joey: hi!
-the casting director: okay, uh well, let's try one. whenever you guys are ready. (some dude puts down a couple bowls of soup in front of them.)
+the casting
+director: okay, uh well, let's try one. whenever you guys are ready. (some dude puts down a couple bowls of soup in front of them.)
 joey: uh-oh.
-the casting director: is there a problem?
+the casting
+director: is there a problem?
 joey: well this is noodle soup and uh, i've been working with tomato. but that's okay, no problem. no problem. hmm, noodle soup.
-the casting director: y'know, that's-that's fine, but the line is, "hmm, soup."
+the casting
+director: y'know, that's-that's fine, but the line is, "hmm, soup."
 joey: oh, what did i say?
-the casting director: hmm, noodle soup.
+the casting
+director: hmm, noodle soup.
 joey: how's that different? (she looks at him until he gets it.) oh! yeah!
-the casting director: all right, let's try one.
+the casting
+director: all right, let's try one.
 (raymond and joey both eat a spoonful and joey turns to raymond and says…)
 joey: hmm, noodle soup.
-the casting director: okay. let's do it again.
+the casting
+director: okay. let's do it again.
 joey: okay.
 (they do it again.)
 joey: hmm, soup. (pause.) i mean, noodle soup. i mean soup!
 raymond: come on!!!!
-the casting director: y'know what? we need to move on.
+the casting
+director: y'know what? we need to move on.
 joey: no! no! i-i can do it one more time! see? look! (eats another spoonful) hmm, noodle soup. damnit! (storms out.)
 [scene: the smoker's balcony, kim and nancy are cheating and are caught by rachel.]
 rachel: hey! hey-hey-hey!!
@@ -301,12 +312,12 @@ joey: no, it's just ah, i care so damn much about little ben that uh, it was mor
 ross: there you go. thank you!
 joey: thank you! so, did-did he get it?
 ross: no.
-joey: eh, what are you gonna do?
-ending credits
+joey: eh, what are you gonna do?r
 [scene: the smoker's balcony, kim and nancy are out smoking as chandler sticks his head out the door.]
 chandler: (to kim and nancy) oh, hi! excuse me, is uh rachel green here? i was supposed to meet her for lunch.
 kim: oh, she doesn't come down here any more. you can find her up on ten.
 chandler: okay, great.
 (kim exhales and chandler stares at it longingly.)
 kim: (to nancy) so we talked about the (chandler sneaks closer to her cigarette) whole presentation yesterday at lunch (closer) and he wondered if one person would be enough (closer) to get a take on the trip (still closer) and i said, "yeah, absolutely!" (she's interrupted by chandler who has reached his goal and takes a drag from her cancer stick.)
-chandler: i'll catch you guys later. (exits.)<EPISODE_END>
+chandler: i'll catch you guys later. (exits.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one where no-one's ready
+<EPISODE_START>
+the one where no-one's ready
 [scene: rachel and monica's, everyone is getting ready to go to a banquet]
 joey: all right they got water, orange juice, and what looks like cider. (takes a
 glass from the fridge.)
@@ -14,7 +15,8 @@ ross: no, four minutes ago you had a half hour, we have to be out the door at
 twenty to eight.
 joey: relax ross, we'll be ready. it only takes us two minutes to get dressed.
 ross: well, you know, i'd feel a whole lot better if you got dressed now.
-chandler and joey: okay. (they don't move)
+chandler and
+joey: okay. (they don't move)
 rachel: (entering from bathroom) hey-hey! oh, look at you, all sexy.
 ross: really.
 rachel: ooooh! wow!! oh, hi.
@@ -27,8 +29,7 @@ hair's done.
 rachel: yeah, i just have to get dressed.
 ross: yay! and that takes what? just six or seven minutes.
 rachel: yeah! once, i figure out what i'm wearing.
-joey: glass of fat?
-opening credits
+joey: glass of fat?r
 [scene: monica and rachel's. ross is acting nervous]
 joey: what's a matter ross? what you're nervous about your speech?
 ross: no! do you wanna hear it?
@@ -78,7 +79,8 @@ phoebe: i don't know, you might be the first one.
 monica: rach, did you check the machine?
 rachel: uh, no. wait, you know what, this is the outfit that makes my calves look
 fat. nevermind.
-chandler: well, joey, i wrote a little song today. it's called: get up.
+chandler: well, joey, i wrote a little song today. it's
+called: get up.
 joey: all right! you can have the chair.
 chandler: really!
 joey: oh my, would you look at that! (holds up crossed fingers)
@@ -105,7 +107,8 @@ hope, you don't mind, you know, my hand right here. (holds his hand a couple of 
 front of joey's face) op, not touching, can't get mad! not touching can't get mad! not
 touching can't get mad! (joey flings some dip onto phoebe's dress)
 phoebe: ah! oh my god! you r-r-rotten boys!
-chandler and joey: sorry phoebe.
+chandler and
+joey: sorry phoebe.
 joey: i'm so sorry.
 phoebe: what am i gonna do?
 ross: no, no, don't, don't, rub it! don't! (clapping) what gets out hummus?! what
@@ -115,7 +118,8 @@ monica: if it is a new message, what is he calling to say?
 phoebe: okay, thanks. yeah, i'll try that.
 chandler: maybe he's calling to say your obsessive and crazy.
 monica: so, should i call him back?
-the guys: noo! (monica starts to go back into her room and stops) no!
+the
+guys: noo! (monica starts to go back into her room and stops) no!
 chandler: all right, fine, you know what, we'll both sit in the chair. (sits on
 joey's lap) i'm soooo, comfortable.
 joey: me too. in fact, i think i might be a little too comfortable.
@@ -158,7 +162,8 @@ monica: (on machine) "hi, it's monica. i'm just checking in 'cause i got this
 message from you and i didn't know if it was old or new or what. so, i'm just checkin'. so
 let me know, or don't, whatever. i'm breezy."
 joey: hey, you can't say you're breezy, that, that totally negates the breezy.
-woman's voice: (on machine) hola, it's me, yesterday was really fun. call me
+woman's
+voice: (on machine) hola, it's me, yesterday was really fun. call me
 about this weekend, okay.
 joey: now she sounded breezy.
 commercial break
@@ -217,7 +222,8 @@ joey: hey, opposite, is opposite! (leaves)
 chandler: he's got nothing!
 phoebe: (entering from rachel's room, wearing a huge bow to cover the stain) okay,
 i'm ready.
-ross and chandler: oh, aaaah!
+ross and
+chandler: oh, aaaah!
 phoebe: rachel, didn't have anything that i liked, so, but she had this christmas
 ribbon, and i thought, 'all right, fine i'll be political.'
 chandler: what are you supporting?
@@ -378,10 +384,10 @@ ross: so we're a little late.
 rachel: come on. (they start to leave) oh! and, uh, by the way....
 ross: what?
 rachel: i'm going commando, too.
-ross: awwww!!!
-closing credits
+ross: awwww!!!r
 [scene: at the banquet]
-sherman whitfield: dr. geller, sherman whitfield, london institute.
+sherman
+whitfield: dr. geller, sherman whitfield, london institute.
 ross: wow! what a pleasure.
 whitfield: (sits down) well, i have to tell you, i was quite impressed with your
 paper on pre-cretaceous fossils. yeah, it confirmed everything that i have written.
@@ -393,4 +399,5 @@ chandler: i mean, i was sitting there.
 whitfield: but, you got up!
 chandler: but, i never left the room!
 whitfield: but, you left the chair area.
-chandler: all right, that's it, give me your underwear.<EPISODE_END>
+chandler: all right, that's it, give me your underwear.r
+<EPISODE_END>

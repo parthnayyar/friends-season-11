@@ -1,4 +1,5 @@
-<EPISODE_START>the one with joey’s porsche
+<EPISODE_START>
+the one with joey’s porsche
 [scene: monica and rachel's, the gang is there except for rachel and ross, who both come storming in. rachel is still going off about ross’s secret marriage.]
 rachel: i cannot believe that you didn’t tell me that we are still married!!
 ross: look i was going to tell you!
@@ -13,10 +14,9 @@ ross: rach, come on, if you think about it, it’s actually kinda funny. (he lau
 phoebe: okay, this is inexcusable. i am shocked to my very core!
 ross: phoebe, i told her you already knew.
 phoebe: another lie. you have a sickness!
-chandler: ross, just for my own piece of mind, you’re not married to anymore of us are ya?
-opening credits
+chandler: ross, just for my own piece of mind, you’re not married to anymore of us are ya?r
 [scene: central perk, joey and monica are at the counter getting some more coffee.]
-joey: oh! hey, somebody left their keys. (looks at them) ooohh, to a porsche! {transcriber’s note: oh come on! who would leave the keys to their porsche behind? if i had a porsche, i’d have the keys surgically attached to my hand!} hey gunther, these yours?
+joey: oh! hey, somebody left their keys. (looks at them) ooohh, to a porsche! hey gunther, these yours?
 gunther: yeah, that’s what i drive. i make four bucks an hour, i saved up for 350 years!
 joey: na-uh! (to everyone there) hey did anybody lose their keys?
 monica: joey, why don’t you put them in the lost and found?
@@ -103,17 +103,23 @@ guy #2: really! you got a place upstate?
 joey: sure!
 guy #2: well, i’ll see you later.
 joey: okay, take it easy.
-the porsche owner: hey! that’s my car.
+the porsche
+owner: hey! that’s my car.
 joey: really? oh uh, oh just give me five more minutes with it.
-the porsche owner: what-what are you doing?
+the porsche
+owner: what-what are you doing?
 joey: oh i-i uh, found the keys and now i’m just polishing her up.
-the porsche owner: but it’s my car!
+the porsche
+owner: but it’s my car!
 joey: yeah, but it’s my wax.
-the porsche owner: listen, i-i-i don’t come to this city much so i don’t know if you’re crazy or this is some kind of street theater, but could i have my keys.
+the porsche
+owner: listen, i-i-i don’t come to this city much so i don’t know if you’re crazy or this is some kind of street theater, but could i have my keys.
 joey: sure. here. (he hands them over.) i’ll uh, save your parking spot.
-the porsche owner: i’m not coming back.
+the porsche
+owner: i’m not coming back.
 joey: why not?
-the porsche owner: i live upstate.
+the porsche
+owner: i live upstate.
 joey: yeah, so did i.
 (the guy gets in and drives off.)
 [scene: monica and rachel's, the triplets are all in their crib as monica and phoebe watch them.]
@@ -256,11 +262,11 @@ rachel: hey, thanks ross, for taking care of all of this.
 ross: eh, no problem.
 (they hug.)
 rachel: i’m gonna need a copy of those.
-ross: totally. (exits.)
-ending credits
+ross: totally. (exits.)r
 [scene: the street, joey is messing with a car cover and still wearing the porsche stuff. this guy playing street football catches a pass next to the car cover joey is fooling around with.]
 joey: hey! hey! be careful around my porsche!
 woman: (the same one from before approaches) hi joey.
 joey: hey! how you doin’?
 woman: (to her friend) he has the most amazing porsche under there!
-joey: i’d love to show ya, but i just tucked her in. she’s sleeping. (the women both laugh) hey uh, would you two girls like to go for a drink? (just then the same guy with the football dives to make a catch, lands on the car cover, and collapses it. it turns out that joey set up a bunch of boxes to make it look like a porsche.)<EPISODE_END>
+joey: i’d love to show ya, but i just tucked her in. she’s sleeping. (the women both laugh) hey uh, would you two girls like to go for a drink? (just then the same guy with the football dives to make a catch, lands on the car cover, and collapses it. it turns out that joey set up a bunch of boxes to make it look like a porsche.)r
+<EPISODE_END>

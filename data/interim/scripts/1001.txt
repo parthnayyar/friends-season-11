@@ -1,4 +1,5 @@
-<EPISODE_START>1001 - the one after joey and rachel kiss
+<EPISODE_START>
+the one after joey and rachel kiss
 [scene: barbados, monica and chandler's room. they both enter from ross's room. monica still has her big, frizzy hair.]
 monica: oh, the way you crushed mike at ping pong was such a turn-on.you wanna...? (plays with her finger on chandlers chest)
 chandler: you know, i'd love to, but i'm a little tired.
@@ -38,8 +39,7 @@ rachel: ooh...
 chandler: wow!
 monica: (in her monica-excited-way... too loud!) oh my god, i love how thin these walls are!
 (in the rooms next door, joey, rachel, ross and charlie stop kissing and try to understand what the yelling was about. after a while they continue kissing. we're back in chandler and monica's room. monica has some of her own hair stuffed in her mouth by chandler.)
-monica: (muffled) thank you.
-opening credits
+monica: (muffled) thank you.r
 (rachel and joey's)
 rachel: hey, you know, before you said that nothing could happen between us? what changed?
 joey: well, i only said that because of ross, you know. then i saw him kissing charlie...
@@ -119,7 +119,8 @@ rachel: (still can't find him) how are you doing this?
 (joey now enters the room through the door, monica, chandler and phoebe are following him.)
 joey: pssst...
 rachel: how... wha... hey! what are you... what is this? have you guys been listening this entire time?
-monica, chandler and phoebe: ye-ah!
+monica, chandler and
+phoebe: ye-ah!
 phoebe: now, what is this?
 rachel: ah, what is this? well, lets see, we kissed for ten minutes and now we're talking to our friends about it, so i guess this is sixth grade!
 phoebe: oh no... have you thought about it how complicated this could get? what about ross?
@@ -150,7 +151,8 @@ rachel: forgotten.
 (they want to kiss, but just before their lips touch, rachel pulls back quickly, gasping)
 joey: what's wrong?
 rachel: nothing...
-joey's voice, but she sees ross: seriously... what is it?
+joey's voice, but she sees
+ross: seriously... what is it?
 rachel: nothing... it's really... it's nothing... come here, come here...
 (again, just before their lips touch, she pulls back, gasping)
 joey's voice/ross: what's wrong?
@@ -306,7 +308,8 @@ chandler: so if you want people to see them, then by definition you're not havin
 monica: well, if i had them taken out, then i wouldn't be able to do this. (she pushes chandler on the couch and brushes her hair and shells against chandler's chest) you like that, right? (again, she brushes her hair against his chest and hums...)
 chandler: what are you singing?
 monica: it's "bolero" from "10".
-chandler: it's "ride of the valkyries" from "apocalypse now"... see, here's the thing: the corn rose were really a solution to your frizzy hair problem. and now that we're home, we don't have that problem anymore, so if you think about it... i hate them!
+chandler: it's "ride of the valkyries" from "apocalypse now"... see, here's the
+thing: the corn rose were really a solution to your frizzy hair problem. and now that we're home, we don't have that problem anymore, so if you think about it... i hate them!
 monica: you what? you said you liked them.
 chandler: did i? let's refresh. i believe what i said was that i could see your scalp.
 monica: fine, so you don't like them. everybody else does.
@@ -395,5 +398,5 @@ chandler: i think you know.
 monica: really? i don't really feel like it.
 chandler: this is what i want to do.
 monica: okay, i just don't get why you like it so much.
-chandler: (picks up the "miss congeniality" dvd) she's an fbi agent, posing as a beauty contestant.
-the end<EPISODE_END>
+chandler: (picks up the "miss congeniality" dvd) she's an fbi agent, posing as a beauty contestant.r
+<EPISODE_END>

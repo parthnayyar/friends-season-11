@@ -1,4 +1,5 @@
-<EPISODE_START>the one with all the poker
+<EPISODE_START>
+the one with all the poker
 (the whole gang is helping rachel mail out resumes while whistling the theme from the bridge on the river kwai.)
 ross: uh, rach, we're running low on resumes over here.
 monica: do you really want a job with popular mechanics?
@@ -8,11 +9,11 @@ ross: rach, did you proofread these?
 rachel: uh... yeah, why?
 ross: uh, nothing, i'm sure they'll be impressed with your excellent compuper skills.
 rachel: (upset) oh my goood! oh, do you think it's on all of them?
-joey: oh no, i'm sure the xerox machine caught a few.
-opening credits
+joey: oh no, i'm sure the xerox machine caught a few.r
 [scene: central perk, ross and chandler are sitting at a table. rachel is working. monica and phoebe enter.]
 monica: hey, guys.
-chandler and ross: hey.
+chandler and
+ross: hey.
 rachel: hey... hi, ladies... uh, can i get you anything? (to monica, quietly): did you bring the mail?
 monica: lots of responses.
 rachel: (to monica): really? (out loud): sure, we have scones left! (to monica): ok, read them to me.
@@ -76,7 +77,8 @@ rachel: oh, no-no-no-no-no-no, that's ok, i don't need them. i'm going for fours
 ross: oh, you're... (gives up)
 (monica comes back to the table with plates of food.)
 monica: alright, here we go. we've got salmon roulettes and assorted crudites.
-phoebe and rachel: ooooooo!
+phoebe and
+rachel: ooooooo!
 joey: whoa, whoa, whoa, monica, what're you doin'? this is a poker game. you can't serve food with more than one syllable. it's gotta be like chips, or dip, or pretz...(look of realization)
 chandler: (changing subject) ok, so at this point, the dealer...
 monica: alright, you know, we got it, we got it. let's play for real. high stakes... big bucks...
@@ -139,19 +141,24 @@ monica: well, what's the job?
 rachel: assistant buyer. oh! i would be shopping... for a living!
 (knock on door.)
 monica: ok, look. that is aunt iris. this woman has been playing poker since she was five. you gotta listen to every word she says. (opens door) hi!
-aunt iris: is tony randall dead?
+aunt
+iris: is tony randall dead?
 rachel: no.
 monica: i don't think so.
 rachel: why?
-aunt iris: well, he may be now, because i think i hit him with my car.
+aunt
+iris: well, he may be now, because i think i hit him with my car.
 monica: what?
 rachel: oh my god!
 monica: really?
-aunt iris: no! that's bluffing. lesson number one. (walks into kitchen) let me tell you something... everything you hear at a poker game is pure crap. (to phoebe): nice earrings.
+aunt
+iris: no! that's bluffing. lesson number one. (walks into kitchen) let me tell you something... everything you hear at a poker game is pure crap. (to phoebe): nice earrings.
 phoebe: thank y... (thinks about it)
-aunt iris: girls, sit down.
+aunt
+iris: girls, sit down.
 monica: uh, aunt iris? this is phoebe, and that's rachel...
-aunt iris: yeah, yeah, yeah, yeah, yeah, listen, i am parked at a meter. let's do it.
+aunt
+iris: yeah, yeah, yeah, yeah, yeah, listen, i am parked at a meter. let's do it.
 [scene: ross's apartment, everyone but rachel is seated around his table. the lion sleep tonight plays in the background.]
 phoebe: ross, could we please, please, please listen to anything else?
 ross: alright.
@@ -170,7 +177,8 @@ joey: alright now listen, you guys, we talked about it, and if you don't want to
 chandler: oh yes, yes, we could play some other game... like, uh, i don't know... pictionary?
 (the guys all duck under the table.)
 monica: ha, ha, very funny, very funny. but i think we'd like to give poker another try. shall we, ladies?
-phoebe and rachel: yes, we should. i think we should.
+phoebe and
+rachel: yes, we should. i think we should.
 ross: uh, rach, do you want me to shuffle those?
 rachel: no, no, thats ok. y'know, i think i'm gonna give it a go.
 ross: alright.
@@ -306,8 +314,7 @@ ross: you got me.
 joey: (to ross): ahhh, that's alright. y'know, that's a tough hand to beat.
 chandler: (to ross): i thought we had them!
 ross: oh, well, when you don't have the cards, you don't have the cards, you know. (looks at rachel) but, uh... look how happy she is. (smiles)
-(chandler and joey look at her, and then look back at him. they dive for ross's hand to see what he had, and he tries to stop them from looking.)
-closing credits
+(chandler and joey look at her, and then look back at him. they dive for ross's hand to see what he had, and he tries to stop them from looking.)r
 [scene: monica and rachel's, all six are playing pictionary at monica's apartment. monica is drawing a picture, and the three guys are guessing. she draws what looks like an airplane.]
 chandler: airplane! airport! airport '75! airport '77! airport '79!
 (timer goes off.)
@@ -326,4 +333,5 @@ ross: uh.... bean! bean!
 joey: (triumphantly) the unbearable likeness of being!
 rachel: yes!
 monica: that, you get? that, you get?
-(monica picks up a glass to take a drink, everyone ducks as though she was about to throw it.)<EPISODE_END>
+(monica picks up a glass to take a drink, everyone ducks as though she was about to throw it.)r
+<EPISODE_END>

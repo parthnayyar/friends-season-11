@@ -1,4 +1,5 @@
-<EPISODE_START>the one with five steaks and an eggplant
+<EPISODE_START>
+the one with five steaks and an eggplant
 [scene: at chandler and joey's. ross and chandler are there. ross is watching wrestling.]
 ross: man, i sure miss julie.
 chandler: spanish midgets. spanish midgets wrestling. julie. ok, yes, i see how you got there. (phone rings)
@@ -289,5 +290,5 @@ waitress: here's your check. that'll be $4.12.
 joey: let me get that. (to chandler) you got five bucks?
 machine: here comes the beep, you know what to do.
 jade: hi, it's me. listen, bob. i'm probably way out of line here. i mean, it has been 3 years, and you're probably seeing someone else now, but if we could just have one night together, just for old time's sake, one hot, steamy, wild night...
-(joey lunges for phone and misses.)
-end<EPISODE_END>
+(joey lunges for phone and misses.)r
+<EPISODE_END>

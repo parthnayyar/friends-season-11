@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross hugs rachel
+<EPISODE_START>
+the one where ross hugs rachel
 [scene: central perk, it’s the same scene from the end of last week’s show. phoebe and rachel are sitting on the couch as ross enters.]
 ross: hey!
 rachel: hey, so did everything go okay with the annulment?
@@ -35,9 +36,9 @@ rachel: what was that?!
 phoebe: sorry, mix up. hey, how was the movie?
 rachel: i haven’t seen it yet!
 phoebe: well then you’d better hurry! the angelica! go! go! (bangs on the roof again and off they go.)
-rachel: noooooooo!!
-opening credits
-{transciber’s note: in case you’re wondering, and i know you are. their names are all back to normal. just in a slightly smaller font than usual to allow courteney cox arquette to fit on one line and not be smaller than the rest of their names. now, on with the show…}
+rachel: noooooooo!!r
+{transciber’s
+note: in case you’re wondering, and i know you are. their names are all back to normal. just in a slightly smaller font than usual to allow courteney cox arquette to fit on one line and not be smaller than the rest of their names. now, on with the show…}
 [scene: monica and rachel's, chandler and monica are cuddling on the couch.]
 chandler: y’know when we move in together, can i get a gumball machine?
 monica: of course! joey wouldn’t let you have one?
@@ -67,7 +68,8 @@ phoebe: no, why?
 monica: i have some pretty exciting news!
 phoebe: (gasps) you’re pregnant!
 monica: no! chandler and i are moving in together!
-phoebe: ooh! that’s good! wow! but now if you were pregnant, what would you name it? hint: phoebe.
+phoebe: ooh! that’s good! wow! but now if you were pregnant, what would you name it?
+hint: phoebe.
 (ross returns from getting some coffee.)
 ross: hey! hi!
 monica: hey!
@@ -87,7 +89,7 @@ phoebe: ross, you’re being ridiculous! okay? you are cute and smart and sweet 
 ross: oh yeah? have you ever dated anyone who has been divorced three times?
 phoebe: y’know that’s really fair. y’know? most guys who have been divorced three times are like 60. ross, nobody cares about this except you! this-this embarrassment thing is all in your head! here, i’ll show you! come here.
 ross: what?! why?
-(she grabs his arm and drags him over to a table where three beautiful women are sitting. now, i’m going to go out on a limb and say that their names are stephanie, karin, and meg. okay, so i looked at the credits. of course, only meg is named later on, so i’ll have to guess who is stephanie and who is karin. but, we’ll cross that bridge when we come to it.)
+(she grabs his arm and drags him over to a table where three beautiful women are sitting)
 phoebe: (to the girls) hi! hi! listen, my friend ross is about to be divorced for the third time, but wouldn’t you date him?
 ross: and if you wait right here, i’ll go get ross. (phoebe grabs his arm and prevents him from escaping.)
 [scene: monica and rachel's, monica is pacing anxiously waiting for rachel.]
@@ -117,7 +119,8 @@ chandler: rach…
 monica: yeah, he’s gonna work on that.
 rachel: ohh! this is so exciting! oh god… (gasps and starts to sing) come and knock on my door…
 monica: (singing) we’ll be waiting for you…
-{transciber’s note: i’ll finish that one for those of you who don’t know what they’re talking about. where the towels are hers and hers and his, three’s company too! yeah, that’s the theme song for three’s company.}
+{transciber’s
+note: i’ll finish that one for those of you who don’t know what they’re talking about. where the towels are hers and hers and his, three’s company too! yeah, that’s the theme song for three’s company.}
 commercial break
 [scene: central perk, phoebe is hosting an impromptu roundtable discussion with stephanie, karin, and meg about ross’s three divorces.]
 ross: …once you know the stories, it’s not that bad. first marriage, wife’s hidden sexuality, not my fault. second marriage, said the wrong name at the altar, a little my fault. third marriage, well they really shouldn’t allow you to get married when you’re that drunk and have writing all over your face, nevada’s fault.
@@ -253,8 +256,7 @@ rachel: monica and chandler are really moving in here and i have to move out and
 ross: oh my—come here! come here! (he hugs her.) it’s okay. everything’s gonna be okay.
 rachel: thank you.
 ross: of course.
-(ross suddenly realizes something.)
-ending credits
+(ross suddenly realizes something.)r
 [scene: central perk, joey and phoebe are talking.]
 joey: so, ross and rachel got married, monica and chandler almost got married, do you think you and i should hook up?
 phoebe: oh we do, but not just yet.
@@ -265,4 +267,5 @@ phoebe: i know. then, i’m gonna marry chandler for the money and you’ll marr
 joey: great!
 phoebe: but then we ditch those two and that’s when we get married. we’ll have chandler’s money and rachel’s kids and getting custody will be easy because of rachel’s drinking problem.
 joey: oh-oh, what about ross?
-phoebe: i don’t want to go into the whole thing, but umm, we have words and i kill him.<EPISODE_END>
+phoebe: i don’t want to go into the whole thing, but umm, we have words and i kill him.r
+<EPISODE_END>

@@ -1,7 +1,8 @@
-<EPISODE_START>friends
-1004 - the one with the cake
+<EPISODE_START>
+the one with the cake
 monica: (she enters) hey guys!
-ross, rachel and chandler: hey!
+ross, rachel and
+chandler: hey!
 chandler: honey, i got us that room at the woodford inn this weekend.
 monica: that place in vermont? you can take a hint!
 rachel: wait, you can't go away this weekend! it's emma's birthday!
@@ -19,13 +20,13 @@ ross: yeah, we want everyone to be there. as much as i hate to delay your doing 
 rachel: and i mean, you know, you guys... this is a big deal. i mean, how can we have her first birthday party without her aunt and her uncle!
 monica: all right, we'll stay. we can just drive up after the party.
 chandler: fine, but if we end up not doing this maxim thing because of this party...
-monica: believe me, that is not why we won't be doing that!
-opening credits
+monica: believe me, that is not why we won't be doing that!r
 [scene: rachel and joey's apartment]
 rachel: you know pheebs, when i was little, on my birthday, my daddy would hide a present in every room of the house, and then he would draw a treasure map to help me find 'em all.
 phoebe: oooh, i love family traditions like that. when uhm... when ursula and i were kids, on our birthday, our stepdad would sell his blood to buy us food!
 ross: (he enters) hey guys!
-rachel and phoebe: hi!
+rachel and
+phoebe: hi!
 ross: hey, i brought the camera for emma's video.
 rachel: oh, good, good! we had this idea to make a birthday video for emma and we'll give it to her when she is 18.
 phoebe: oh, cool!! wow, it's like a time capsule!
@@ -39,12 +40,14 @@ rachel: i said it's still nap time.
 ross: (taping joey with the cam) hey, there is uncle joey!
 joey: hey!
 ross: hey, say something to emma on her 18th birthday!
-joey: 18, uh? (starts to prepare himself to say his "how you doin'" line) ross: joey, no!
+joey: 18, uh? (starts to prepare himself to say his "how you doin'" line)
+ross: joey, no!
 joey: what, what!? it's for her hot friends!
 ross: when they see this you'll be 52!
 joey: and starting to think about settling down!
 rachel: hey joey, will you please set this up for people to put emma's presents on?
-joey: i'd love to! yeah! joey: (to phoebe) we were supposed to bring presents?
+joey: i'd love to! yeah!
+joey: (to phoebe) we were supposed to bring presents?
 phoebe: yeah! i wrote emma a song.
 joey: oh, yeah! how was i supposed to know?
 phoebe: joey, it's a birthday party.
@@ -59,11 +62,13 @@ monica: all right... you're right. we're sorry. now let's wake up emma and get t
 rachel: no really, she didn't sleep well last night, so we can't wake her up.
 monica: are you freaking kidding me, green?
 (someone knocks on the door. rachel goes to open it)
-jack and judy: hi!
+jack and
+judy: hi!
 ross: (points the camcorder towards them to record their entrance) hey!
 monica: so glad you came!
 jack: i can't believe emma is already one!
-judy: (to monica) i remember your first birthday! ross was jealous of all the attention we were giving you. he pulled on his testicles so hard! we had to take him to the emergency room! ross: (pointing the camcorder at himself) there's something you didn't know about your dad!
+judy: (to monica) i remember your first birthday! ross was jealous of all the attention we were giving you. he pulled on his testicles so hard! we had to take him to the emergency room!
+ross: (pointing the camcorder at himself) there's something you didn't know about your dad!
 joey: hey mr. and mrs. geller! let me help you with that.
 jack: thank you!
 joey: oh man, this is great, uh? the three of us together again! you know what would be fun? if we gave this present to emma from all of us!
@@ -73,7 +78,8 @@ monica: i can't believe emma is still asleep!
 chandler: i know, what are we gonna do?
 monica: i've got a plan. i've got a plan. i'm going to ram this platter really hard into your ribs. you're gonna scream out and that'll wake her up!
 chandler: i'm not going to vermont with this monica!
-joey: hey pheebs, you know what? i was thinking... since you wrote a song, maybe i could do something for emma using my talents! phoebe: so you’re gonna... hit on her?
+joey: hey pheebs, you know what? i was thinking... since you wrote a song, maybe i could do something for emma using my talents!
+phoebe: so you’re gonna... hit on her?
 joey: no, no, no! my talents as an actor!
 phoebe: oh!
 joey: you know, i could like maybe... i could do a dramatic reading of one of her books!
@@ -199,7 +205,8 @@ phoebe: no, lets just draw straws.
 joey: or.. we could flip a coin, and then multiply the..
 chandler: i'm begging you stop.
 joey: right.
-monica: ok, how about this: we got wind up toys for emma for her birthday. we can make them race, and whoever comes in last, stays!
+monica: ok, how about
+this: we got wind up toys for emma for her birthday. we can make them race, and whoever comes in last, stays!
 phoebe: (visibly excited) yeah!! let's do that!
 chandler: (also very excited) that sounds more fun than the thing we were going to do in vermont!
 monica: everybody get your toys! (they all run toward the table with toys)
@@ -226,5 +233,69 @@ phoebe: yeah, see you later!
 monica: no! no, no... wait! we didn't lose. (turns to chandler) the rules clearly stated that the last one to cross the finish line was the loser. well, our dog never crossed the finish line, so technically...
 chandler: they left.
 (monica turns to see the closed door.)
-[ scene: the freeway. rachel is driving monica's porsche, while using her mobile phone. ross is sitting next to her.]
-rachel: (into the phone) no, there isn't time to go to the bakery. we're just gonna come home... everybody left? alright, well just tell emma we're gonna be there as soon as we can. (emotionally) bye... (she hangs up, closes her phone, turns around and puts it in her bag which is in the back of the car. while doing this and not looking at the road, she turns the steering wheel by accident, which makes the car swerve.) ross: rachel! rachel: ooh! god! sorry! ross: (sarcastically) i can't believe they gave you a ticket. you're such a good driver. (ross fastens his seat belt.) rachel: emma's awake. ross: yeah? rachel: i can't believe this. this is her first birthday. she's awake. we're not even there. everybody left. we still have this stupid obscene cake. ross: hey, maybe i can fix that, you know. try to turn it into something else. (he opens the box) rachel: oh, why do you even bother? i already ruined her first birthday... and do you know how important these early experiences are ross? very! according to the back cover of that book that you gave me. ross: rach, she's not going to remember this. rachel: (shakes her head) i guess... oh, i just had such an idea of what this day would be like, you know? emma laughing and everybody gathered around her cake singing "happy birthday". then we would all go into... hey get out of the road you stupid student driver!!! (honks furiously, and ross looks at her in disbelief and rachel looks at him.) they have to learn! ross: (looks back at the cake) hey! rachel: what? ross: it's not bad. rachel: (she looks at the cake) oh my god! look what... you made it into a bunny. how did you do that? ross: well, i just made these two things uhm... cheeks. and then i split this to make ears. rachel: well, i'm very impressed. ross: some can sing, some can dance. i apparently can turn phallic cakes into woodland creatures. [ scene: rachel and joey's apartment. chandler, monica and emma are sitting on the floor, and emma's stuffed animals are lined up in front of them.] monica: now another way to organise your stuffed animals, is by size. chandler: i'm sorry, is this a game for emma or for monica? monica: game? chandler: emma, you even know it's your birthday today? you're one! one-year-old, that's little. (with his index finger he shows her how old she is. emma also points her finger and babbles...) chandler: ooh! that's my girl! monica: that's how old you are. chandler: did i teach her that? did i just... impart wisdom? monica: (embraces emma tightly) ooh, i want one... chandler: me too... (there's a couple of seconds of silence. then chandler looks around...) chandler: there's no-one around. why don't we just take this one? monica: ...and head to canada! chandler: i was kidding. monica: i wasn't. let's get going! (phoebe enters the apartment again.) phoebe: hey, are ross and rachel back? chandler: no, not yet. phoebe: oh good, i didn't miss the party. monica: what about your massage client? phoebe: i just felt so bad, missing this. so i just slipped him a little something, you know. as long as i'm back in five or six hours, it will be alright. (joey comes running into the apartment, out of breath.) joey: okay, if ross and rachel ask, i've been here the whole time. the whole time! (ross and rachel enter.) joey: (to ross and rachel) i've been here the whole time! ross: joey, we just saw you come in. you ran past us on the stairs. rachel: i don't care that you left. i'm just glad that you're here. thanks you guys! chandler: hey, guys! come on! you gotta see what emma just did. rachel: what? chandler: emma, how old are you? how old are you today? (holds up his index finger again) emma: wo-ish. (and holds up her finger) (ross and rachel gasp) rachel: oh! emma, that's right! you're that many! ross: oh my god! our daughter's a genius! rach, this means... rachel: (angrily) no, no science camp! ross: damnit! i'll put a candle on the cake. rachel: oh!... oh and emma, look at your stuffed animals lined up so neatly! monica: thanks! ross: okay, here we go! emma's first birthday cake... well hey... well, blow out the candle. come on emma. chandler: let's do it, come on! (rachel wipes away some tears.) ross: what's wrong? are you okay? rachel: oh yeah, nothing! these are happy tears! this is just what i wanted. phoebe: (pointing at cake) hey, you made it into a bunny. joey: what is wrong with me. it looked more delicious when it was a penis. ending credits [scene: rachel and joey's apartment. it's just ross and rachel. they put the camera on a tripod in the kitchen and they are standing in front of the camera.] rachel: okay. ross: okay, you ready? rachel: yeah. ross: a-a-and... record. rachel: okay. (they both look into the camera, and ross waves.) hi emma. well, your first birthday is over, and it was really... (there's a lot of yelling and screaming coming from the hallway, and they get up to look at what's the noise all about. in the hallway, monica, chandler, joey and phoebe are having another wind-up animal race, yelling and screaming fanatically.) phoebe: (yelling at the top of her voice) go, go, go alan! run you, hairy bastard! e<EPISODE_END>
+[scene: the freeway. rachel is driving monica's porsche, while using her mobile phone. ross is sitting next to her.]
+rachel: (into the phone) no, there isn't time to go to the bakery. we're just gonna come home... everybody left? alright, well just tell emma we're gonna be there as soon as we can. (emotionally) bye... (she hangs up, closes her phone, turns around and puts it in her bag which is in the back of the car. while doing this and not looking at the road, she turns the steering wheel by accident, which makes the car swerve.)
+ross: rachel!
+rachel: ooh! god! sorry!
+ross: (sarcastically) i can't believe they gave you a ticket. you're such a good driver. (ross fastens his seat belt.)
+rachel: emma's awake.
+ross: yeah?
+rachel: i can't believe this. this is her first birthday. she's awake. we're not even there. everybody left. we still have this stupid obscene cake.
+ross: hey, maybe i can fix that, you know. try to turn it into something else. (he opens the box)
+rachel: oh, why do you even bother? i already ruined her first birthday... and do you know how important these early experiences are ross? very! according to the back cover of that book that you gave me.
+ross: rach, she's not going to remember this.
+rachel: (shakes her head) i guess... oh, i just had such an idea of what this day would be like, you know? emma laughing and everybody gathered around her cake singing "happy birthday". then we would all go into... hey get out of the road you stupid student driver!!! (honks furiously, and ross looks at her in disbelief and rachel looks at him.) they have to learn!
+ross: (looks back at the cake) hey!
+rachel: what?
+ross: it's not bad.
+rachel: (she looks at the cake) oh my god! look what... you made it into a bunny. how did you do that?
+ross: well, i just made these two things uhm... cheeks. and then i split this to make ears.
+rachel: well, i'm very impressed.
+ross: some can sing, some can dance. i apparently can turn phallic cakes into woodland creatures. 
+[scene: rachel and joey's apartment. chandler, monica and emma are sitting on the floor, and emma's stuffed animals are lined up in front of them.]
+monica: now another way to organise your stuffed animals, is by size.
+chandler: i'm sorry, is this a game for emma or for monica?
+monica: game?
+chandler: emma, you even know it's your birthday today? you're one! one-year-old, that's little. (with his index finger he shows her how old she is. emma also points her finger and babbles...)
+chandler: ooh! that's my girl!
+monica: that's how old you are.
+chandler: did i teach her that? did i just... impart wisdom?
+monica: (embraces emma tightly) ooh, i want one...
+chandler: me too... (there's a couple of seconds of silence. then chandler looks around...)
+chandler: there's no-one around. why don't we just take this one?
+monica: ...and head to canada!
+chandler: i was kidding.
+monica: i wasn't. let's get going! (phoebe enters the apartment again.)
+phoebe: hey, are ross and rachel back?
+chandler: no, not yet.
+phoebe: oh good, i didn't miss the party.
+monica: what about your massage client?
+phoebe: i just felt so bad, missing this. so i just slipped him a little something, you know. as long as i'm back in five or six hours, it will be alright. (joey comes running into the apartment, out of breath.)
+joey: okay, if ross and rachel ask, i've been here the whole time. the whole time! (ross and rachel enter.)
+joey: (to ross and rachel) i've been here the whole time!
+ross: joey, we just saw you come in. you ran past us on the stairs.
+rachel: i don't care that you left. i'm just glad that you're here. thanks you guys!
+chandler: hey, guys! come on! you gotta see what emma just did.
+rachel: what?
+chandler: emma, how old are you? how old are you today? (holds up his index finger again)
+emma: wo-ish. (and holds up her finger) (ross and rachel gasp)
+rachel: oh! emma, that's right! you're that many!
+ross: oh my god! our daughter's a genius! rach, this means...
+rachel: (angrily) no, no science camp!
+ross: damnit! i'll put a candle on the cake.
+rachel: oh!... oh and emma, look at your stuffed animals lined up so neatly!
+monica: thanks!
+ross: okay, here we go! emma's first birthday cake... well hey... well, blow out the candle. come on emma.
+chandler: let's do it, come on! (rachel wipes away some tears.)
+ross: what's wrong? are you okay?
+rachel: oh yeah, nothing! these are happy tears! this is just what i wanted.
+phoebe: (pointing at cake) hey, you made it into a bunny.
+joey: what is wrong with me. it looked more delicious when it was a penis.
+[scene: rachel and joey's apartment. it's just ross and rachel. they put the camera on a tripod in the kitchen and they are standing in front of the camera.]
+rachel: okay.
+ross: okay, you ready?
+rachel: yeah.
+ross: a-a-and... record.
+rachel: okay. (they both look into the camera, and ross waves.) hi emma. well, your first birthday is over, and it was really... (there's a lot of yelling and screaming coming from the hallway, and they get up to look at what's the noise all about. in the hallway, monica, chandler, joey and phoebe are having another wind-up animal race, yelling and screaming fanatically.)
+phoebe: (yelling at the top of her voice) go, go, go alan! run you, hairy bastard!
+<EPISODE_END>

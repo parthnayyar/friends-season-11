@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the ring
+<EPISODE_START>
+the one with the ring
 [scene: monica, chandler, and phoebe's, phoebe is at the sink and chandler is looking at a ring brochure.]
 chandler: pheebs, can you help me pick out an engagement ring for monica? i can’t figure this out! it’s so hard! should i get her a (turning to each page) tiffany cut or a princess cut or a—ah-ah! paper cut!
 phoebe: now, have you told anyone else?
@@ -17,8 +18,7 @@ ross: oh perfect, we were just gonna see if you wanted to go.
 chandler: oh well, we don’t because we got…the…other pl-place.
 (joey returns with a piece of pizza as chandler and phoebe exit.)
 ross: how rude.
-joey: oh, i’m sorry. you wanna bite? (holds his piece out for him.)
-opening credits
+joey: oh, i’m sorry. you wanna bite? (holds his piece out for him.)r
 [scene: central perk, phoebe and rachel are sitting on the couch.]
 phoebe: so how are things going with paul?
 rachel: good. although y’know, he-he’s a private guy. y’know, i wish i could get him to open up a little bit, share some feelings.
@@ -101,24 +101,32 @@ chandler: y’know, i’m so glad i picked you to help me with this.
 phoebe: huh? can you just imagine getting down on one knee and handing her this gorgeous piece of weaponry?
 chandler: yeah, i’m gonna stick with the ring. (goes to another display counter.) oh, this one’s nice! (pointing to another ring.) i like this one! sir? uh, kind sir? can i see this one?
 phoebe: (coming over after returning the musket) wait a minute, no, this is, this is the reason you brought me. okay? i know how to haggle. so let me handle this from here on out.
-male jeweler: can i help you?
+male
+jeweler: can i help you?
 chandler: uh-uh, yes. i would like to see that ring please.
 phoebe: or not, whatever.
-male jeweler: this ring is from the 1920s, it’s a one and a half carat diamond with sapphires on either side.
+male
+jeweler: this ring is from the 1920s, it’s a one and a half carat diamond with sapphires on either side.
 chandler: sir, can i ask you to umm, could you…hold out that ring and ask me to marry you?
-male jeweler: okay. (holds out the ring, deadpan.) will you marry me?
+male
+jeweler: okay. (holds out the ring, deadpan.) will you marry me?
 chandler: (choking up) oh my god that’s it, that’s the ring! how much is it?
 phoebe: chandler, i-i will handle this! (to the jeweler) how much is it?
-male jeweler: 8,600.
+male
+jeweler: 8,600.
 phoebe: we will give you $10.
-male jeweler: (angrily) are you interested in this ring?!
+male
+jeweler: (angrily) are you interested in this ring?!
 chandler: yes! yes, but i can only pay $8,000.
-male jeweler: okay, i can let it go at eight.
+male
+jeweler: okay, i can let it go at eight.
 phoebe: we stand firm at $10.
-male jeweler: (ignoring her) how would you like to pay?
+male
+jeweler: (ignoring her) how would you like to pay?
 chandler: uh, credit card. (reaches for it then realizes) oh no! no-no, but i left my credit card with joey. (to phoebe) okay, i’ll go get it. you guard the ring.
 phoebe: okay. (to the jeweler) listen, i’m sorry about before. do you have anything her for $10.
-male jeweler: uh yes, i have these two rather beautiful $5 bills. (holds them up from his pocket.)
+male
+jeweler: uh yes, i have these two rather beautiful $5 bills. (holds them up from his pocket.)
 phoebe: i’ll give you $1 for them.
 [scene: central perk, ross and joey are there.]
 ross: hey, remember how chandler and phoebe blew us off yesterday?
@@ -146,10 +154,13 @@ monica: oh, we have some…
 rachel: no you don’t!
 [scene: the jewelry store, phoebe is busy trying on virtually everything in the store. she’s got earrings, rings, bracelets, and enough necklaces to put mr. t to shame on.]
 phoebe: okay umm, i’d also like to try on the tiara. (the male jeweler hands it to her.) oh yeah. okay. (puts it on.) (to the jeweler) what do you think, too much?
-male jeweler: a tad.
+male
+jeweler: a tad.
 phoebe: okay. then, take the tiara back and let me hold the musket again. (he hands it to her and phoebe poses in front of one of those small mirrors.) something’s missing. it’s not… okay oh, let me see the ring my friend picked out.
-male jeweler: (to the female jeweler) where’s the 1920s princess cut ring.
-female jeweler: i just sold it to that gentleman. (points to the one walking out the store.)
+male
+jeweler: (to the female jeweler) where’s the 1920s princess cut ring.
+female
+jeweler: i just sold it to that gentleman. (points to the one walking out the store.)
 phoebe: oh my god!! (she runs after him, but sets of the security system, which locks the store’s door and brings down a set of bars behind her, caging her in.) no! what?! help me! let me out! now! (points the musket at them.)
 commercial break
 [scene: joey and rachel's, paul is still crying as chandler enters.]
@@ -275,8 +286,7 @@ rachel: (who has just entered) ugh! no more crying! please! i just dumped one cr
 chandler: i’m gonna ask monica to marry me.
 rachel: oh my god! oh my god! oh chandler!! (hugs him.) you guys are gonna be so happy!
 chandler: i know.
-joey: (holding an empty tissue box) where’s all the tissues?! (throws the box down in disgust.)
-ending credits
+joey: (holding an empty tissue box) where’s all the tissues?! (throws the box down in disgust.)r
 [scene: joey and rachel's, continued from earlier. chandler is showing rachel the ring.]
 chandler: check out the ring.
 rachel: (gasps) nice! one and a half carat easy.
@@ -287,4 +297,5 @@ ross: chandler’s gonna ask monica to marry him!
 phoebe: oh i know, i helped pick out the ring.
 (chandler laughs, turns, and sees that ross and joey aren’t happy.)
 ross: you told her before you told us?
-chandler: well, she walked in when i was looking at the ring brochures. you can understand that, right? (ross and joey look at each other and go back to watching the game on tv.) guys? guys? (walks in front of them again.)<EPISODE_END>
+chandler: well, she walked in when i was looking at the ring brochures. you can understand that, right? (ross and joey look at each other and go back to watching the game on tv.) guys? guys? (walks in front of them again.)r
+<EPISODE_END>

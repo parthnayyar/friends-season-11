@@ -1,4 +1,5 @@
-<EPISODE_START>the one with a chick. and a duck
+<EPISODE_START>
+the one with a chick. and a duck
 [scene: outside central perk, rachel and phoebe are helping monica learn how to roller skate by rolling her between themselves.]
 rachel: so who’s idea was it to put everybody in the diner on skates?
 monica: oh, some idiot customer put a suggestion in the suggestion box.
@@ -10,8 +11,7 @@ gunther: (bringing rachel a mug) rachel, i made you a cocoa.
 phoebe: oh my god, are you guys okay?
 gunther: are you all right?
 joey: (leaving central perk and seeing monica laying on top of rachel who is moaning in pain.) oh my.
-(they both turn and give him a dirty look.)
-opening credits
+(they both turn and give him a dirty look.)r
 [scene: chandler and joey's, joey is watching quincy m.e. as chandler is walking into the living room from his bedroom.]
 chandler: (sporting a goatee) hey.
 joey: hey. y'know with that goatee you kinda look like satan.
@@ -353,9 +353,9 @@ rachel: um-hmm, yeah.
 (he leaves)
 rachel: (after he closes the door) see ya.
 (in the hallway, ross all dejected, sits down on the step.)
-chandler: (coming out of his apartment and seeing ross) what did you do?
-closing credits
-[scene: chandler and joey’s bathroom: chandler is watching the duck swim in the bathtub.]
+chandler: (coming out of his apartment and seeing ross) what did you do?r
+[scene: chandler and joey’s
+bathroom: chandler is watching the duck swim in the bathtub.]
 joey: what ‘cha doing?
 chandler: having a swim.
 joey: what about the chick?
@@ -367,4 +367,5 @@ joey: sure.
 chandler: see, i told you they don’t swim. (he goes to take it out)
 joey: (stopping him) wait. give him a minute.
 chandler: noo! (takes him out) oh, it’s okay, it’s okay, baby, baby, baby.
-(joey picks up and turns on a hair dryer.)<EPISODE_END>
+(joey picks up and turns on a hair dryer.)r
+<EPISODE_END>

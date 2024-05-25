@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the invitation
+<EPISODE_START>
+the one with the invitation
 [scene: central perk, joey and chandler are sitting and talking.]
 chandler: y’know what? it seems like all of the sudden; so much has happened.
 joey: i know. ross is getting married.
@@ -26,8 +27,7 @@ phoebe: so you guys’ll stay here and hang out with me?
 chandler: yeeeeahhhh.
 joey: yeah. yeah.
 chandler: but i’ll tell you something. one of these days we’re get off of our buts and rent die hard again!
-joey: yeah we are!
-opening credits
+joey: yeah we are!r
 [scene: ross’s apartment, he and emily are addressing their invitations.]
 emily: so what did he decide? does your uncle nathan get an invite or not?
 ross: ohh, god, nobody likes him, and he’s so cheap, he’d never fly to london in a million years. yeah, invite him? hey, did i do these neat enough? (hands her some envelopes.)
@@ -69,7 +69,8 @@ ross: okay... okay, maybe i will...
 ross:  see, i see.... big passion in your future.
 rachel: really?
 ross: i do.
-rachel: oh ross, you're so great. [she playfully rubs his head and gets up]
+rachel: oh ross, you're so great.
+[she playfully rubs his head and gets up]
 [ross gets up, pleased with himself and starts to walk past joey.]
 joey: it's never gonna happen.
 [cut to later]
@@ -77,12 +78,14 @@ joey: it's never gonna happen.
 ross: hey, i have a question. well, actually, it's not so much a question as.. more of a general wondering... ment.
 rachel: okay.
 ross: okay. umm, for a while now, i've been wanting to, um....
-rachel: ohhh!!!! [looking at something behind ross]
+rachel: ohhh!!!!
+[looking at something behind ross]
 ross: yes, yes, that's right...
 rachel: oh, look at the little cat! [a small kitten is on the roof behind ross] look at it!
 ross: what? [the cat jumps on his shoulders] ow!
 [cut to inside, monica, joey and phoebe are singing while outside, ross and rachel are trying to get the cat off of ross' shoulder.]
-monica, joey, and phoebe: [singing] i'm on top of the world, looking down on creation and the only explanation i can find...
+monica, joey, and
+phoebe: [singing] i'm on top of the world, looking down on creation and the only explanation i can find...
 [the next clip is from the one with the east german laundry detergent.]
 [scene: the laundromat, rachel is fighting with that old, annoying woman for a cart.]
 rachel: all right, listen, missy. if you want this cart, you're gonna have to take me with it!
@@ -250,7 +253,7 @@ rachel: (on phone) ross, hi, it's rachel. i'm just calling to say that um, every
 [scene, monica and rachel's, the next morning, ross is checking his messages.]
 ross: rach, i got a message from you.
 (rachel comes out of her room, suddenly she remembers leaving the message.)
-rachel: oh my god. oh my god ross, no, hang up the phone, give me the phone ross, give me the phone, give me the phone, give me the. . . (she jumps the couch and lands on ross's back, finally getting the phone from him. ross has a confused expression on his face.)
+rachel: oh my god. oh my god ross, no, hang up the phone, give me the phone ross, give me the phone, give me the phone, give me the... (she jumps the couch and lands on ross's back, finally getting the phone from him. ross has a confused expression on his face.)
 ross: you're over me?
 rachel: ohhhhhhhh god. (climbs off his back)
 ross: wha... you're uh, you're, you're over me?
@@ -266,7 +269,8 @@ rachel: really?
 ross: really. it's always been you, rach.
 rachel: oh, god.
 (ross and rachel hug.)
-chandler and joey: ohhh.
+chandler and
+joey: ohhh.
 [the next clip is from the one where ross and rachel.... you know.]
 [scene: the auditorium, ross and rachel are about to... you know.]
 ross: i've no idea, could be. listen, i'm sorry i had to work tonight.
@@ -302,35 +306,46 @@ chandler: i knew it!!!!
 [scene: central perk, rachel is deciding on whether or not to go to the wedding.]
 [cut to another clip, this one is from the one with the prom video]
 [scene: monica and rachel's, the gang is watching the prom video and rachel is about to make her entrance on the video.  the italics are portions of the prom video.]
-mrs. geller: rachel's coming up the path.  doesn't she look pretty. jack... (rachel enters with a huge nose)
+mrs.
+geller: rachel's coming up the path.  doesn't she look pretty. jack... (rachel enters with a huge nose)
 rachel: oh my god.
 monica: you know what this is, this is us getting ready for the prom.
 rachel: oh.
 ross: you know what, you guys, we don't have to watch this.
 all: oh yeah we do. c'mon.
-mrs. geller: get a shot of monica. where's monica.
-mr. geller: wait, how do you zoom out? (zooms out and we see an extremely overweight monica eating a big sandwich) there she is.
+mrs.
+geller: get a shot of monica. where's monica.
+mr.
+geller: wait, how do you zoom out? (zooms out and we see an extremely overweight monica eating a big sandwich) there she is.
 monica: shut up, the camera adds ten pounds.
 chandler: ahh, so how many cameras are actually on you?
 [cut to later]
 monica: oh, dad, turn it off.
-mr. geller: it is off.  right ross? (pans over to see ross with an afro and moustache)
+mr.
+geller: it is off.  right ross? (pans over to see ross with an afro and moustache)
 joey: lookin' good mr. cotter.
 [cut to later]
 rachel: i can't go to my own prom without a date, i can't, it's too late.
 monica: if you're not going then i don't want to go either.
-mrs. geller: (to ross on the stairs) i have a wonderful idea. you should take rachel to the prom.
+mrs.
+geller: (to ross on the stairs) i have a wonderful idea. you should take rachel to the prom.
 [cut to later]
 ross: y'know what?  i think we've seen enough, let's turn it off.
 all: no, no, no.
 ross: ok, fine, well i'm not gonna watch, alright.
-mr. geller: c'mon kid, let's go.
-mrs. geller: ahh, are you hadsome.
-mr. geller: let's show 'em.
+mr.
+geller: c'mon kid, let's go.
+mrs.
+geller: ahh, are you hadsome.
+mr.
+geller: let's show 'em.
 ross: (walks down the stairs and grabs the flowers out of the vase on the endtable) okay dad.
-mr. geller: (going downstairs) rachel, ready or not, here comes your knight in shining—oh no. (chip has shown up and the four are leaving.)
-rachel, monica, roy, and chip: bye.
-mrs. geller: oh, dear. jack, how do i turn this off?
+mr.
+geller: (going downstairs) rachel, ready or not, here comes your knight in shining—oh no. (chip has shown up and the four are leaving.)
+rachel, monica, roy, and
+chip: bye.
+mrs.
+geller: oh, dear. jack, how do i turn this off?
 monica: (to ross) i can't believe you did that.
 ross: yeah, well.
 [rachel, seeing what he did for her, gets up, walks across the room, and kisses ross]
@@ -339,12 +354,12 @@ phoebe: see, he's her lobster.
 monica: (seeing the decision) nooooo. you’re really not going?
 rachel: yeah. it’s just gonna be too hard. y’know? i mean, it’s ross. how can i watch him get married? y’know it’s just, it’s for the best, y’know it is, it’s… y’know, plus, somebody’s got to stay here with phoebe! y’know she’s gonna be pretty big by then, and she needs someone to help her tie her shoes; drive her to the hospital in case she goes into labour.
 monica: you don’t have a car. and your license expired.
-rachel: i know. (starts to cry) yeah, see, there’s so much to do and i have so little time to do it in.
-closing credits
+rachel: i know. (starts to cry) yeah, see, there’s so much to do and i have so little time to do it in.r
 [scene: central perk, chandler, joey, and phoebe are reading a book about things to do whilst in london.]
 chandler: all right, check it out. check this out. it says here that there’s a place you can go to rent videos of all the museums! (reading from the book.) "it’s almost as good as being there."
 joey: it’s better! you can’t go to a museum in your underwear!
 chandler: well, you could, but... probably just the one time.
 joey: i bet we could get videos of all the sites, get a vcr in our hotel room... we'd never even have to go outside!
 chandler: if we do that, we gotta get die hard.
-joey: oh-ho! i bet the british version is gooooood!<EPISODE_END>
+joey: oh-ho! i bet the british version is gooooood!r
+<EPISODE_END>

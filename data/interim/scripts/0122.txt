@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the ick factor
+<EPISODE_START>
+the one with the ick factor
 (scene: central perk. everyone is there.)
 monica: tell him.
 rachel: no.
@@ -21,8 +22,7 @@ ross: i love it, when we share.
 (ross goes over to the counter. chandler follows him.)
 chandler: you're okay there?
 ross: i can't belive you two had sex in her dream.
-chandler: i'm sorry, it was a one-time-thing. i was very drunk and i was somebody else's subconscious.
-opening credits
+chandler: i'm sorry, it was a one-time-thing. i was very drunk and i was somebody else's subconscious.r
 [scene: central perk, continued from earlier, chandler is sitting on the table.]
 chandler: hello rachel.
 rachel: get off.
@@ -98,7 +98,7 @@ joey: would you let it go ross. it was just a dream. it doesn't mean...
 ross: oh, oh. oh, oh. oh this is it. oh my god it's baby time. baby time.
 joey: all right, relax, relax. just relax, just relax. be cool, be cool.
 (ross dials a number on his cellular phone)
-ross: (on phone) yeah, hi, i was just beeped. (pause) no, andr� is not here. (to joey) third time today. (on phone) yes, i'm sure... no, sir. i don't perform those kind of services.
+ross: (on phone) yeah, hi, i was just beeped. (pause) no, andr is not here. (to joey) third time today. (on phone) yes, i'm sure... no, sir. i don't perform those kind of services.
 joey: services? (ross looks at him) oh, services.
 ross: (on phone) yeah, you want 55-jumbo. yeah, that's right. that's right, jumbo with a u, sir. (pause) no, belive me, you don't want me. judging by his number, i'd be a huge disappointment. (pause) all rightie, bye bye.
 (phoebe and chandler enter)
@@ -126,7 +126,8 @@ joey: oh... yeah, you do.
 ross: 'the hills were alive with the sound of music.'
 (phoebe, joey and ross laughs)
 joey: (reaches for hi scones) my scones.
-phoebe, joey, and ross: 'my scones.'
+phoebe, joey, and
+ross: 'my scones.'
 (phoebe, joey and ross laughs again)
 chandler: okay, i don't sound like that. that is so not true.
 (joey and chandler laughs)
@@ -134,60 +135,84 @@ chandler: that is so not... that is so not... that... oh, shut up!
 (phoebe, joey and ross laugh)
 [scene: monica and rachel's, monica and young ethan are sitting in the couch.]
 monica: did not.
-young ethan: i am telling you, up until i was, like nine, i thought that gunpoint was an actual place where crimes happen.
+young
+ethan: i am telling you, up until i was, like nine, i thought that gunpoint was an actual place where crimes happen.
 monica: how was that possible?
-young ethan: well, think about it. it's always on the news. 'a man is being held up, at gunpoint.' 'tourists are being terrorised, at gunpoint.' and i just kept thinking: why does people continue to go there? (he checks his watch.) oh, ah. i should go.
+young
+ethan: well, think about it. it's always on the news. 'a man is being held up, at gunpoint.' 'tourists are being terrorised, at gunpoint.' and i just kept
+thinking: why does people continue to go there? (he checks his watch.) oh, ah. i should go.
 monica: okay.
 (they kiss)
-young ethan: okay.
+young
+ethan: okay.
 monica: unless...
-young ethan: what?
+young
+ethan: what?
 monica: uh, ah. unless you wanna stay over? i mean, i'm going to, so...
-young ethan: yeah, i'd really like that.
+young
+ethan: yeah, i'd really like that.
 (they kiss)
-young ethan: uuh, before we get into any staying-over-stuff, there is something you should know.
+young
+ethan: uuh, before we get into any staying-over-stuff, there is something you should know.
 monica: okay, is this like 'i have an early class tomorrow' or 'i'm secretly married to a goat?'
-young ethan: well it's somewhere in between. you see, in a strictly technical sense, of course, i'm not uh..., well i, i mean i haven't ever uh...
+young
+ethan: well it's somewhere in between. you see, in a strictly technical sense, of course, i'm not uh..., well i, i mean i haven't ever uh...
 monica: ethan?
-young ethan: yeah?
+young
+ethan: yeah?
 monica: are you a virgin?
-young ethan: well, if that's what you kids are calling it these days then, yes i am. i uh, i've kinda been waiting for the right person.
+young
+ethan: well, if that's what you kids are calling it these days then, yes i am. i uh, i've kinda been waiting for the right person.
 monica: really?
-young ethan: yeah. you do know i was talking about you, right?
+young
+ethan: yeah. you do know i was talking about you, right?
 (they kiss)
 [time lapse. they are now in monica's bedroom, on the bed.]
-young ethan: wow!
+young
+ethan: wow!
 monica: you keep saying that.
-young ethan: you know, you read about it, you see it in the movies. even when you practice it at home, man oh man, it is nothing like that.
+young
+ethan: you know, you read about it, you see it in the movies. even when you practice it at home, man oh man, it is nothing like that.
 (they kiss)
 monica: listen, uh, you told me something that was really difficult for you. and i, i-i figured if you could be honest, then i can to.
-young ethan: oh god, don't tell me, i did it wrong.
+young
+ethan: oh god, don't tell me, i did it wrong.
 monica: no-no. nothing wrong about that.
-young ethan: oh.
+young
+ethan: oh.
 monica: um, okay, here it goes. i'm not 22. i'm, i'm 25... and thirteen months.
-young ethan: huh!
+young
+ethan: huh!
 monica: but i figured, you know, that shouldn't change anything. i mean, what the hell does it matter how old we are.
 (they kiss)
-young ethan: uh, listen um, as long as we're telling stuff, uh, i have another one for you. i'm a little younger than i said.
+young
+ethan: uh, listen um, as long as we're telling stuff, uh, i have another one for you. i'm a little younger than i said.
 monica: you're not a senior?
-young ethan: oh, i'm a senior... in high school.
+young
+ethan: oh, i'm a senior... in high school.
 monica: ok...ay.
 commercial break
 [scene: monica's bedroom, continued from earlier.]
 monica: what we did was wrong. oh god, i just had sex with somebody that wasn't alive during the bicentennial.
-young ethan: i just had sex.
+young
+ethan: i just had sex.
 monica: ethan, focus. how could you not tell me?
-young ethan: well, you never told me how old you were.
+young
+ethan: well, you never told me how old you were.
 monica: well, that's different. my lie didn't make one of us a felon in 48 states. what were you thinking?
-young ethan: i wasn't thinking. i was too busy fallin'...
+young
+ethan: i wasn't thinking. i was too busy fallin'...
 monica: don't say it. (closes ethan's mouth with her hand)
-young ethan: ...in love with you.
+young
+ethan: ...in love with you.
 monica: really?
-young ethan: (nods) sorry.
+young
+ethan: (nods) sorry.
 monica: well,fall out of it. you know, you shouldn't even be here, it's a school night. oh god, oh god. i'm like those women that you see with shiny guys named chad. i'm joan collins.
-young ethan: who?
+young
+ethan: who?
 [scene: monica and rachel's, everyone exept monica is there.]
-ross: (on phone) okay, andr� should be there in like 45 minutes. all rightie, bye bye. (to phoebe) just easier that way.
+ross: (on phone) okay, andr should be there in like 45 minutes. all rightie, bye bye. (to phoebe) just easier that way.
 chandler: oh, come on. you told me about the last dream.
 rachel: no, forget it.
 chandler: oh, why not. was i doing anything particularly... saucy?
@@ -205,7 +230,8 @@ rachel: there were times when it wasn't even me.
 (chandler and joey laughs, until they look at each other then recoil in horror.)
 phoebe: that is so sweet, you guys. (hugs them)
 (monica enters, wearing a walkman, so she doesn't hear what the others say)
-ross, rachel, and phoebe: hey, mon.
+ross, rachel, and
+phoebe: hey, mon.
 rachel: mon, ethan called again. mon?
 all: (shouting) mon!
 (monica takes of her walkman)
@@ -221,7 +247,8 @@ joey: listen, the next time you talk to him, can you ask him which one the stron
 (ross and chandler laughs)
 ross: oh, yeah.
 monica: ha,ha, ha, oh my life is just so amusing. could we drop it now?
-joey, chander, and ross: sorry.
+joey, chander, and
+ross: sorry.
 ross: it's morphin time!
 joey: stegosaurus!
 chandler: tyrannosaurus!
@@ -255,23 +282,28 @@ phoebe: uh uh.
 [scene: central perk. everyone exept phoebe and chandler is there. ross's beeper goes off and everyone exept him react.]
 monica: aren't you gonna...
 ross: oh, carol and i have a new system. if she punches in 911, it means she's having a baby, otherwise i just ignore it.
-joey: what about andr�?
+joey: what about andr?
 ross: oh, well this morning he got a call from who i think was our cousin nathan, and frankly, it was a little more than i needed to know.
 (ethan enters)
-young ethan: hey.
+young
+ethan: hey.
 monica: that was gonna be my opener.
 rachel: (understands that monica and ethan wanna be alone) hey, did you guys check out those new hand-dryers in the bathroom?
 ross: i thought that was just a rumour.
 rachel: true story.
 joey: they're here already?
 (rachel, ross and ross go to the bathroom)
-young ethan: all right, look. i've gotta tell you something. i'm not 17. i only said so that you'd think i was cute and vunerable. i'm actually 30, i have a wife, i have a job, i'm your congressman. monica, this is ridiculous, we're great together. we can talk, we make each other laugh, and the sex. oh, man, okay i have no frame of graft, but i thought that was great.
+young
+ethan: all right, look. i've gotta tell you something. i'm not 17. i only said so that you'd think i was cute and vunerable. i'm actually 30, i have a wife, i have a job, i'm your congressman. monica, this is ridiculous, we're great together. we can talk, we make each other laugh, and the sex. oh, man, okay i have no frame of graft, but i thought that was great.
 monica: it was.
-young ethan: then, what's the problem?
+young
+ethan: then, what's the problem?
 monica: ethan, it's um... it's icky.
-young ethan: icky? you're actually gonna throw this away because it's icky?
+young
+ethan: icky? you're actually gonna throw this away because it's icky?
 monica: this isn't easy for me either. i wish things were different, i... if you were a few years older, or if i was a few years younger, or if we lived in biblical times, i would really...
-young ethan: no, don't say it. (closes monica's mouth with his hand)
+young
+ethan: no, don't say it. (closes monica's mouth with his hand)
 monica: ...love you.
 (ross, rachel and joey come back from the bathroom. they discover that monica and ethan aren't finished talking to each other yet.)
 ross: are you're hands still wet?
@@ -303,8 +335,7 @@ ross: i'm having... i'm having a baby. (jumps back onto the table again) i'm hav
 rachel: i don't know where the phone is.
 (ross runs from the table, over the couch but slips and falls onto the floor)
 rachel: ross?
-ross: i'm hurt.
-closing credits
+ross: i'm hurt.r
 [scene: the hallway, ross is eagerly waiting for the others to get ready, to go to the hospital.]
 ross: monica, let's go. come on now people, woman in labor.
 (chandler struts out from his apartment)
@@ -327,4 +358,5 @@ ross: that's nice. get out let's go, come on.
 joey: all right, i'm going. i'm going.
 (they all go down the stairs, but ross turns around, looking like his in a coma. the others also turns around to get him.)
 chandler: here we go, here we go.
-rachel: rossy, rossy.<EPISODE_END>
+rachel: rossy, rossy.r
+<EPISODE_END>

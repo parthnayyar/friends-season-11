@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the apothecary table
+<EPISODE_START>
+the one with the apothecary table
 [scene: monica and chandler's, everyone is there as joey enters happily.]
 joey: hey!
 ross: hey!
@@ -16,8 +17,7 @@ joey: oh we kissed it up real nice.
 chandler: so you kissed her, so what happened after that?
 joey: i came over here to tell you guys.
 chandler: so she’s just waiting over there for ya?
-(joey nods yes, but suddenly realizes what he did and runs out of the apartment and back to his place.)
-opening credits
+(joey nods yes, but suddenly realizes what he did and runs out of the apartment and back to his place.)r
 [scene: central perk, joey and janine are pretty much making out at one of the tables as monica and rachel look on from the couch.]
 janine: i gotta go.
 joey: okay. (they kiss.)
@@ -297,8 +297,7 @@ monica: (chasing her) you’d better run!
 chandler: did you hear that?
 joey: yeah uh, what am i gonna do?
 chandler: yeah, i’m sorry man. (pause) you wanna go watch?
-joey: yeah! (they head downstairs.)
-ending credits
+joey: yeah! (they head downstairs.)r
 [scene: central perk, ross, chandler, and monica are there as joey enters.]
 ross: hey!
 joey: how ya doin’?
@@ -311,4 +310,5 @@ joey: yeah! yeah. i’ll be all right.
 ross: y’know what would cheer you up?
 joey: what?
 ross: i’m giving this lecture on erosion theories tomorrow night, i think you should come.
-joey: (laughing hysterically) you’re right! that did cheer me up!<EPISODE_END>
+joey: (laughing hysterically) you’re right! that did cheer me up!r
+<EPISODE_END>

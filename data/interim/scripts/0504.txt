@@ -1,4 +1,5 @@
-<EPISODE_START>the one where phoebe hates pbs
+<EPISODE_START>
+the one where phoebe hates pbs
 [scene: monica and rachel's, rachel has just gotten home and is going through the mail. she finds something that's monica's and goes over and knocks on her closed bedroom door.]
 monica: (in a sexy voice) come in. i've been waiting for you.
 (rachel enters.)
@@ -18,8 +19,7 @@ monica: but why?! did he get in touch with emily?
 joey: well no, not yet. he's calling everyone on her side of the family hoping that someone will help him get in touch with her.
 ross: (on phone) i-i-i don't care if i said some other girl's name you prissy, old twit!
 joey: ross! way to suck up to the family.
-chandler: (entering, happily, with a bottle of champagne, thinking that monica is the only one there) ha-ha-ha-(sees everyone)-enh-enh. i'm so glad you guys are all here! my office finally got wrinkle free fax paper!
-opening credits
+chandler: (entering, happily, with a bottle of champagne, thinking that monica is the only one there) ha-ha-ha-(sees everyone)-enh-enh. i'm so glad you guys are all here! my office finally got wrinkle free fax paper!r
 [scene: monica and rachel's, the next morning, phoebe, chandler, ross, and monica are eating breakfast.]
 joey: (entering, wearing a tux) hey!
 chandler: oh no-no-no-no-no-no, vomit tux! no-no, vomit tux!
@@ -90,13 +90,17 @@ monica: yeah, i'm sure your ex-wife will be more than happy to move to another c
 ross: it could happen.
 [scene: unitel video, studio 55, joey's telethon, he is being shown around by the stage director.]
 joey: (to the pledge volunteers) how ya doin'? welcome. good to see ya!
-stage director: this will be your phone.
+stage
+director: this will be your phone.
 joey: that's great. but uh, i'm not really expecting a lot of calls.
-stage director: no you answer it and take pledges.
+stage
+director: no you answer it and take pledges.
 joey: but i'm the host!
-stage director: no, gary collins is the host. you'll be answering the phones.
+stage
+director: no, gary collins is the host. you'll be answering the phones.
 joey: you don't seem to understand. see, i was dr. drake remoray.
-stage director: well, here's your phone doctor. (she walks away.)
+stage
+director: well, here's your phone doctor. (she walks away.)
 [scene: monica and rachel's, phoebe, rachel, and monica are there.]
 phoebe: i cannot believe i can't find a selfless good deed! y'know that old guy that lives next to me? well, i snuck over there and-and raked up all the leaves on his front stoop. but he caught me and force-fed me cider and cookies. then i felt wonderful. that old jackass!
 rachel: maybe joey's right. maybe all good deeds are selfish.
@@ -179,14 +183,19 @@ joey: what?! what good is that gonna do anybody?
 phoebe: well, it helps the bee look tough in front of his bee friends. the bee is happy and i am definitely not.
 joey: now, y'know the bee probably died after he stung ya.
 phoebe: (thinks for a moment.) aw, dammit! (slams the phone down.)
-stage director: back on in 30 seconds people!
+stage
+director: back on in 30 seconds people!
 (joey gets up and moves to the other end of his row to talk to the guy sitting there.)
 joey: hey, excuse me, would you mind switching with me?
-pbs volunteer: hey, no way, i'm in the shot man.
+pbs
+volunteer: hey, no way, i'm in the shot man.
 joey: come on man! you've been here all day!
-pbs volunteer: yeah, i-i'm taking pledges here, eh?
-stage director: we're on in 3, 2, (points to gary collins.)
-gary collins: welcome back to our fall telethon. now if you've been enjoying the performance of cirque du soleil, (as he is speaking, joey and the volunteer getting into a shoving match.) and you'd like to see more of the same kind of programming, it's very simple. all you have to do (joey is knocked down.) is call in your pledge and at that time tell the operator, one of our volunteers, what kind of programming you'd like to… (just as the volunteer sits down, joey pulls him to the ground.)
+pbs
+volunteer: yeah, i-i'm taking pledges here, eh?
+stage
+director: we're on in 3, 2, (points to gary collins.)
+gary
+collins: welcome back to our fall telethon. now if you've been enjoying the performance of cirque du soleil, (as he is speaking, joey and the volunteer getting into a shoving match.) and you'd like to see more of the same kind of programming, it's very simple. all you have to do (joey is knocked down.) is call in your pledge and at that time tell the operator, one of our volunteers, what kind of programming you'd like to… (just as the volunteer sits down, joey pulls him to the ground.)
 [scene: monica and rachel's, monica and phoebe are cooking, chandler is reading a magazine.]
 ross: (entering) okay, that's it. i cannot make this decision! it is too difficult, so i'm just gonna leave it entirely to the gods of fate. (he holds up and starts shaking a…)
 monica: a magic eight ball?! you can't be serious, you can't make this decision with a toy!
@@ -204,7 +213,8 @@ joey: and you don't a little good about donating the money?
 phoebe: no, it sucks. i was saving up to buy a hamster.
 joey: a hamster? what, those things are like 10 bucks.
 phoebe: yeah, not the one i had my eye on.
-gary collins: (on tv.) it looks like we have surpassed last year's pledge total! thank you viewers! the pledge that did it was taken by one of our volunteers…(he walks over to where joey is sitting.) oh boy! and may i say one of our sharpest dressed volunteers, (joey stands up.) mr. joseph tribbiani!
+gary
+collins: (on tv.) it looks like we have surpassed last year's pledge total! thank you viewers! the pledge that did it was taken by one of our volunteers…(he walks over to where joey is sitting.) oh boy! and may i say one of our sharpest dressed volunteers, (joey stands up.) mr. joseph tribbiani!
 phoebe: oh, look-look, joey's on tv! isn't that great? my pledge got joey on tv! oh that makes me feel—oh no! (realizes that her deed made her happy and therefore it's selfish and covers her mouth in horror.)
 [scene: monica and rachel's, later that day. monica is coming out of the bathroom carrying her cleaning gear.]
 chandler: (entering) look, maybe i got carried away before. but there's something you gotta know. if i'm the best, it's only because you've made me the best.
@@ -239,8 +249,8 @@ ross: no. no. you-you can't help. i mean, i kinda have to do this without your h
 rachel: well, i-i know you can do that too. i'm just, i'm just saying if you need somebody to talk to… hi!
 ross: thanks.
 rachel: ross? look, whatever this relationship stuff that emily wants, just give it to her. come on, the bottom line here is that you love her. so just fix whatever she wants fixed. just do it. (the phone starts ringing.) i mean, you're gonna have to try. you'll just gonna hate yourself if you don't. (the phone keeps ringing.) oh come on answer it! it's driving me crazy!
-ross: (answering the phone.) hello. (listens) hi sweetie. (listens.) good. look umm, yes i've been thinking about that thing that you wanted me to do and, i can do it. (rachel gives him a thumbs up.) so will you come to new york? (rachel wants to know what she said, and he gives her a thumbs up and she goes over and hugs him. all the time not knowing what's going on.)
-ending credits
+ross: (answering the phone.) hello. (listens) hi sweetie. (listens.) good. look umm, yes i've been thinking about that thing that you wanted me to do and, i can do it. (rachel gives him a thumbs up.) so will you come to new york? (rachel wants to know what she said, and he gives her a thumbs up and she goes over and hugs him. all the time not knowing what's going on.)r
 [scene: central perk, ??????? is playing, as chandler peaks his head out of the storage closet and sneaks back to his seat and pretends he's reading something. then a short while later monica pokes her head out of the closet and sneaks back to her seat and sits down, pretending as if nothing has happened.]
 monica: never done that before.
-chandler: nope.<EPISODE_END>
+chandler: nope.r
+<EPISODE_END>

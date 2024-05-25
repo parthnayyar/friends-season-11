@@ -1,8 +1,8 @@
-<EPISODE_START>the one with joey's new girlfriend
+<EPISODE_START>
+the one with joey's new girlfriend
 [scene: central perk, the gang's all there. ross has a slip of paper that he throws on the ground tying to get rachel's attention.]
 ross: (picking up the slip of paper) hello! what's this? oh right its that girl's phone number. (rachel ignores him) yeah-yeah, there it is, just a phone number a really hot girl gave me. (he holds it so that rachel can see it, she continues to ignore him) it's no big deal, i mean it is her home phone number, but...(rachel still ignores him) whoa! (throws it in her lap) whoa-whoops, i almost lost this baby! yeah, the lovely amanda gives me her number and i-i go and drop it. (he waves it in front of rachel's face. then suddenly phoebe has to sneeze and rachel quickly grabs the slip of paper and gives it to phoebe for her to sneeze into.)
-phoebe: thank you.
-opening credits
+phoebe: thank you.r
 [scene: central perk, the next morning. chandler, monica, ross, and rachel are there.]
 gunther: rachel?
 rachel: yeah?
@@ -252,8 +252,7 @@ gunther: what?
 joey: (opening the door wearing nothing but a sock, and holding a dart board over the `little general.') hey! (chandler turns down the tv) now, we're not actually gonna be sleeping in her, but do you mind?
 [scene: monica and rachel's, monica, with a blanket draped over her shoulders, opens the door to a similarly clad chandler.]
 chandler: can i sleep on your couch?
-(monica nods `yes.' and they both walk to the couch looking all depressed.)
-closing credits
+(monica nods `yes.' and they both walk to the couch looking all depressed.)r
 [scene: central perk, phoebe is singing, with everyone else present.]
 phoebe: (singing) and i'm still waiting for my paper mache man. thank you my babies.
 (applause)
@@ -266,4 +265,5 @@ rachel: (confused) okay.
 gunther: so umm, are we cool?
 rachel: (really confused) okay.
 gunther: i knew you'd understand.
-(gunther walks away, leaving rachel with a `what just happened?' look on her face.)<EPISODE_END>
+(gunther walks away, leaving rachel with a `what just happened?' look on her face.)r
+<EPISODE_END>

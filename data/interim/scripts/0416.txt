@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the fake party
+<EPISODE_START>
+the one with the fake party
 [scene: monica and rachel's erm, chandler and joey's, chandler, monica, and phoebe are there. phoebe is stressing out about something.]
 monica: what is it hon?
 phoebe: i-i can’t find anything that i want to eat! everything i eat makes me nauseous! i’m telling you, being pregnant is no piece of cake—ooh! cake! (chandler shrugs, and phoebe grimaces.) no.
@@ -14,8 +15,7 @@ phoebe: (she smells his head) no!
 joey: oh! wait-wait! (reaches inside the shower.) is it my bologna sandwich?
 phoebe: yes. yes. yes. i can’t believe it! the baby wants bologna! maybe he wants me to eat meat? i can’t eat meat!
 joey: oh, wait-wait! (reaches into the shower again.) maybe it’s a pickle?!
-(phoebe grimaces at the smell.)
-opening credits
+(phoebe grimaces at the smell.)r
 [scene: central perk, chandler, monica, joey and rachel are there. rachel is writing something on a pad, and then crumples it up and throws it on the floor.]
 chandler: what are you writing?
 rachel: well, joshua’s coming in tomorrow and since i don’t have the guts to ask him out, i’m going to sell him a coat and put this note in the pocket.
@@ -78,7 +78,8 @@ ross: well, as much as i’d like to meet josh and warn him, emily and i aren’
 joey: awwww!
 emily: (entering) hello?
 rachel: surprise!!!
-chandler and joey: surprise!!
+chandler and
+joey: surprise!!
 emily: no one’s ever thrown me a surprise party before!
 rachel: well, it was all ross’s idea.
 emily: you’re so sweet! and i’m so surprised!
@@ -139,7 +140,8 @@ joshua: uhh, yeah, i think i’m going to take-off too.
 rachel: no! you guys can’t leave yet! you have to stay, we-we got the whole big thing planned!
 ross: what big thing?
 [cut to later, the whole group is seated on the floor and rachel is explaining the rules of spin the bottle.]
-rachel: (spinning the bottle) so, spin the bottle works like this: i spin the bottle, it lands on gunther, so i would have to kiss gunther. (she crawls over to where gunther is sitting and sees the look of anticipation on gunther’s face and decides not to kiss him.) all right. who wants to go first?
+rachel: (spinning the bottle) so, spin the bottle works like
+this: i spin the bottle, it lands on gunther, so i would have to kiss gunther. (she crawls over to where gunther is sitting and sees the look of anticipation on gunther’s face and decides not to kiss him.) all right. who wants to go first?
 emily: i’ll go.
 all: yay!
 (emily spins the bottle and it lands on joey.)
@@ -205,7 +207,8 @@ rachel: gimme a ‘y!’
 all: y!
 rachel: what do you get? (she throws her pom-poms to joey and phoebe and performs a cartwheel.) emily!! (tries to do another one.) emil—whoa!! (she falls in chandler’s room.) okay! so that’s me as a cheerleader! ta-dum! (gunther’s the only one that claps.)
 (joey and monica rush over to her.)
-joey and monica: are you all right?
+joey and
+monica: are you all right?
 rachel: i’m fine! i’m fine! i’m just losing a tooth, it’s no big deal. i have a dentist! y’know. i’m gonna go put some ice on it. excuse me. (she goes over to the ice and joey and monica follow her.) what do i do now? what do i do now?
 monica: i think you’re done.
 joey: okay, time to take off the bra. (she glares at him.)
@@ -282,8 +285,7 @@ rachel: oh! oh, i love that but.
 (they move to kiss, but realise that chandler is staring at them. chandler urges them on.)
 rachel: you wanna go inside and have some coffee?
 joshua: yeah.
-rachel: okay. (joshua goes inside and to chandler.) every time.
-closing credits
+rachel: okay. (joshua goes inside and to chandler.) every time.r
 [scene: monica and rachel's erm, chandler and joey's, the next day. phoebe is busy making a sandwich.]
 joey: oooh, what you got there?
 phoebe: pastrami.
@@ -294,4 +296,5 @@ phoebe: okay.
 joey: (he starts looking longingly at the sandwich.) oh mama! uh when-when is the baby due?
 phoebe: six months.
 joey: ugh. now if a cow should die of natural causes, i can have one of those right?
-phoebe: not if i get there first.<EPISODE_END>
+phoebe: not if i get there first.r
+<EPISODE_END>

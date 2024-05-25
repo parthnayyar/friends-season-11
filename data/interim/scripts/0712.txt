@@ -1,4 +1,5 @@
-<EPISODE_START>the one where they’re up all night
+<EPISODE_START>
+the one where they’re up all night
 [scene: the building’s roof, the entire gang plus tag are there to look for a comet. they’re looking for a comet on a roof of a new york apartment building. yeah, that’s realistic. you might as well look for the moon on a bright sunny day.]
 monica: (looking up) ross, when’s this comet thing start?
 ross: well, technically it seven billion years ago… (well, technically you’d be able to see it for days, well nights; that is if you could see it with all of the bright lights of new york.)
@@ -15,8 +16,7 @@ rachel: oh i don’t-i don’t know.
 ross: man, look at all those stars! (yeah, you can see what? five of them from the city?) infinite space. it really, really makes you wonder, doesn’t it?
 joey: (looking through his binoculars at a nearby building) y’know what else makes you wonder?
 ross: huh?
-joey: check out the rack on this chick! (turns around to point it out to ross and finds that ross is glaring at him. so he quickly puts his binoculars to his eyes and starts looking for the comet.)
-opening credits
+joey: check out the rack on this chick! (turns around to point it out to ross and finds that ross is glaring at him. so he quickly puts his binoculars to his eyes and starts looking for the comet.)r
 [scene: the roof, continued from earlier.]
 monica: okay, we’ve been out here for two hours and we haven’t seen any stupid comets. can we go now? i mean, chandler’s getting chilly. (she walks over to where chandler is bundled up in a big coat and shivering.)
 chandler: (with a quivering voice) no, i’m not!
@@ -52,7 +52,8 @@ monica: it is in the living room where there is also a light! and no one will ki
 chandler: what?! (monica kicks him in the shin.) ow! (he gets out of bed and heads into the living room.)
 [scene: phoebe's apartment, there is a beeping noise coming from the living room and phoebe sleepily goes to investigate.]
 phoebe: (crossing her fingers and closing her eyes) please don’t be a space ship. please don’t be a space ship. (she turns on the light and looks around and finds that it’s the smoke detector that’s beeping.) oh thank god! (she moves a chair over and starts to investigate how to make the beeping turn off, in frustration she yanks the thing off of the wall. she sets it down and heads for bed, just as she gets there it beeps again. she opens the cover and removes the battery, but it still beeps.) how could you be beeping?! i just disconnected you! i took out your battery! how can…
-smoke detector: beep!
+smoke
+detector: beep!
 phoebe: don’t interrupt me!!
 [scene: the roof, ross and joey are banging on the door.]
 ross: rachel!! monica!!
@@ -174,17 +175,23 @@ tag: how did you know they were in my bottom drawer?
 rachel: (pause as she realizes her lame attempt to shift the blame has failed) i am so hot for you right now.
 [scene: phoebe's apartment, there is someone pounding on the door and phoebe sleepily walks over and answers it. as she nears the door, the pounding stops and she can hear the smoke detector’s wail.]
 phoebe: oh my god! how did you get back here?!
-a disembodied voice: (yelling through the door) phoebe buffay?!
+a disembodied
+voice: (yelling through the door) phoebe buffay?!
 phoebe: (scared) fire alarm? (she opens the door to reveal a fireman holding the blanket with the smoke detector.) oh! hi, officer—fireman, can-can i help you?
-the fireman: we found your fire alarm in the trash chute.
+the
+fireman: we found your fire alarm in the trash chute.
 phoebe: that’s not mine.
-the fireman: yes it is.
+the
+fireman: yes it is.
 phoebe: how do you know?
-the fireman: the next time you want to dump a fire alarm in a trash chute, don’t wrap it in a blanket that says, "property of phoebe buffay not monica."
+the
+fireman: the next time you want to dump a fire alarm in a trash chute, don’t wrap it in a blanket that says, "property of phoebe buffay not monica."
 phoebe: okay do you—okay, do you have a search warrant? because the last time i checked this was still america!
-the fireman: please reattach this, it’s against the law to disconnect them.
+the
+fireman: please reattach this, it’s against the law to disconnect them.
 phoebe: fine! (she takes the blanket.) but please god; tell me how to stop them from going off!
-the fireman: there’s a reset button under the plastic cover.
+the
+fireman: there’s a reset button under the plastic cover.
 phoebe: there’s a reset button?! ugh, thank you! thank you! (he exits and she goes to shut it off.) there’s a reset button! my god! why didn’t i see that! (she takes off the plastic cover and looks for the button.) reset button, reset button, where is there a reset button? (finds it.) oh here it is! (picks it up off of the floor.) oh! (she presses it hard, but of course it would help if the button was still attached to the detector. in frustration she presses it so hard it causes pain in her thumb.) ohh, god!
 [scene: the fire escape, joey is now hanging off of the bottom rung of the ladder that won’t move and ross is watching from above.]
 ross: okay, do-do you have a good grip?
@@ -215,8 +222,7 @@ ross: do not rush me!!
 (ross continues south and his now wrapped around joey’s legs.)
 joey: ross, you should know that my pants are startin’ to come down and i’m not wearing any underwear!
 (ross panics and falls off, dropping to the ground with a huge crash.)
-ross: oww!! my ankle! i really hurt my ankle! i think i twisted it when i—ooh, a quarter!
-ending credits
+ross: oww!! my ankle! i really hurt my ankle! i think i twisted it when i—ooh, a quarter!r
 [scene: monica and chandler's bedroom, they’re cuddling.]
 monica: that really was some of your best work.
 chandler: hm-hmm, i told you! (looks at the clock) i can’t believe that i’ve only got two hours before i call in sick for work.
@@ -225,4 +231,5 @@ chandler: well, you’re not gonna believe this, but if you have seven minutes�
 monica: really?!
 chandler: do you wanna?
 monica: okay! you get the vacuum cleaner and i’ll get the furniture polish!
-(she runs off leaving a stunned chandler behind.)<EPISODE_END>
+(she runs off leaving a stunned chandler behind.)r
+<EPISODE_END>

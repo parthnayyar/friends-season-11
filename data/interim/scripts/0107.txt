@@ -1,12 +1,12 @@
-<EPISODE_START>the one with the blackout
+<EPISODE_START>
+the one with the blackout
 [scene: central perk, rachel is introducing phoebe, who is playing her guitar for the crowd.]
 rachel: everybody? shh, shhh. uhhh... central perk is proud to present the music of miss phoebe buffay.
 (applause)
 phoebe: hi. um, i want to start with a song thats about that moment when you suddenly realize what life is all about. ok, here we go. (plays a chord, then the lights go out) ok, thank you very much.
 [scene: the atm vestibule of a bank, chandler is inside. the lights go out, and he realizes he is trapped inside.]
 chandler: oh, great. this is just...
-(chandler sees that there is a gorgeous model inside the vestibule with him. he makes a gesture of quiet exuberance.)
-opening credits
+(chandler sees that there is a gorgeous model inside the vestibule with him. he makes a gesture of quiet exuberance.)r
 [scene: monica and rachel's, monica is on the phone with her mother. phoebe, rachel, and ross are there.]
 rachel: wow, this is so cool, you guys. the entire city is blacked out!
 monica: mom says it's all of manhattan, parts of brooklyn and queens, and they have no idea when it's coming back on.
@@ -114,7 +114,8 @@ rachel: huh. (she agrees, but looks very confused)
 jill: would you like some gum?
 chandler: um, is it sugarless?
 jill: (checks) sorry, it's not.
-chandler: oh, then no thanks. what the hell was that? mental note: if jill goodacre offers you gum, you take it. if she offers you mangled animal carcass, you take it.
+chandler: oh, then no thanks. what the hell was that? mental
+note: if jill goodacre offers you gum, you take it. if she offers you mangled animal carcass, you take it.
 [scene: monica's apartment, phoebe is singing.]
 phoebe: (singing) new york city has no power, and the milk is getting sour. but to me it is not scary, 'cause i stay away from dairy.... la la la, la la, la la... (she writes the lyrics down)
 ross: (to joey) ok, here goes.
@@ -158,7 +159,8 @@ ross: yes, yes, that's right...
 rachel: oh, look at the little cat! (a small kitten is on the roof behind ross)
 ross: what? (the cat jumps on his shoulders) ow!
 [cut to inside. monica, joey and phoebe are singing while outside, ross and rachel are trying to get the cat off of ross' shoulder.]
-monica, joey, and phoebe: (singing) i'm on top of the world, looking down on creation and the only explanation i can find, is the wonders i've found ever since...
+monica, joey, and
+phoebe: (singing) i'm on top of the world, looking down on creation and the only explanation i can find, is the wonders i've found ever since...
 commercial break
 [scene: monica and rachel's, phoebe is holding the cat, monica is treating the scratches on ross' back. joey is holding the menorah over the wound.]
 monica: (to ross) this is just bactine. it won't hurt.
@@ -173,15 +175,20 @@ chandler: you know, on second thought, gum would be perfection. (jill gives him 
 [scene: the hallway of monica's building. phoebe and rachel are trying to find the cat's owner.]
 phoebe: (stops at a door) oh no, the mendels, they hate all living things, right?
 rachel: oh. (they knock at the next door, mr. heckles answers) hi. we just found this cat and we're looking for the owner.
-mr. heckles: er, yeah, it's mine.
+mr.
+heckles: er, yeah, it's mine.
 phoebe: (trying to hold back the struggling cat) he seems to hate you. are you sure?
-mr. heckles: yeah, it's my cat. give me my cat.
+mr.
+heckles: yeah, it's my cat. give me my cat.
 phoebe: wait a minute. what's his name?
-mr. heckles: ehhhh... b-buttons.
+mr.
+heckles: ehhhh... b-buttons.
 rachel: bob buttons?
-mr. heckles: mmm. bob buttons. here, bob buttons.
+mr.
+heckles: mmm. bob buttons. here, bob buttons.
 phoebe: (the cat runs away from her) oooh! you are a very bad man!
-mr. heckles: (as phoebe and rachel leave) you owe me a cat.
+mr.
+heckles: (as phoebe and rachel leave) you owe me a cat.
 [scene: rachel has gone off on her own to look for the cat's owner.]
 rachel: here, kitty-kitty. here kitty-kitty. where did you go, little kitty-kitty-kitty? here kitty-kitty-kitty-kitty...
 (while looking at the floor for the cat, rachel runs into a pair of legs. she slowly gets up and sees a gorgeous italian hunk holding the cat. who, by the way, you'll hate very, very soon. the man. not the cat.)
@@ -273,11 +280,11 @@ joey: (does a maniacal laugh) bwah-hah-hah!
 ross: ok, guys, guys? i have the definitive one. mwwwooooo-hah-hah...
 (the lights come back on, and rachel and paolo are making out. ross clutches his chest.)
 ross: oh.. oh... oh.
-joey: hey ross. this probably isn't the best time to bring it up, but you have to throw a party for monica.
-closing credits
+joey: hey ross. this probably isn't the best time to bring it up, but you have to throw a party for monica.r
 [scene: atm vestibule, the power has come back on.]
 jill: well, this has been fun.
 chandler: yes. yes, thanks for letting me use your phone... and for saving my life.
 jill: well, goodbye chandler. i had a great blackout. (she kisses him on the cheek) see ya.
 (she leaves. chandler presses his face to the glass door after her, stroking the window lovingly. he then turns to the security camera and starts talking to it.)
-chandler: hi, um, i'm account number 7143457. and, uh, i don't know if you got any of that, but i would really like a copy of the tape.<EPISODE_END>
+chandler: hi, um, i'm account number 7143457. and, uh, i don't know if you got any of that, but i would really like a copy of the tape.r
+<EPISODE_END>

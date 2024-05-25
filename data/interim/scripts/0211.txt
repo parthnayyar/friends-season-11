@@ -1,11 +1,13 @@
-<EPISODE_START>the one with the lesbian wedding
+<EPISODE_START>
+the one with the lesbian wedding
 [at ross's. carol and susan are picking ben up]
 ross: ok. here's his diaper bag, and his uh, mr. winky, and uh...oh, him. hi!
 carol: so how did everything go?
 ross: oh, great. great. there was a projectile, uh, throwing up incident, but he started it.
 carol: well, we've gotta go.
 ross: ok.
-susan: [clears her throat]
+susan:
+[clears her throat]
 carol: oh, right. um, i've got some news. it's about us.
 ross: oh, you and me?
 carol: uh, no, susan and me.
@@ -25,7 +27,8 @@ ross: uh-huh.
 ross: this is so cool. you're actually gonna be on television.
 joey: it really hit me last night. i'm gonna be on days of our lives. and then i started thinkin' about all of u, and how these are the days of our lives..
 monica: yes! carol and susan's caterer had a mountain bike accident this weekend, and she's in a full body cast.
-ross, chandler & joey: yes!
+ross, chandler &
+joey: yes!
 monica: they want me to do it, which is really cool, seeing as i've never catered before, and i really need the money, and this isn't a problem for you, is it?
 ross: would it matter?
 monica: oh, you are so great! [kisses him] thank you!
@@ -46,7 +49,8 @@ monica: what?
 joey: it's like, you got so many lines to learn so fast, that sometimes you need a minute to remember your next one. so while you're thinkin' of it, you take this big pause where you look all intense, you know, like this.
 chandler: oh, ok.
 joey: there's my scene, there's my scene. [joey on tv] "mrs. wallace, i'm dr. drake ramoray, your sister's neurosurgeon.
-mrs. wallace: is she gonna be all right?
+mrs.
+wallace: is she gonna be all right?
 joey: i'm afraid the situation is much worse than we expected. your sister is suffering from a..subcranial hematoma. perhaps we can discuss this over coffee.
 chandler: nice!
 rachel: that's great!
@@ -82,34 +86,48 @@ rachel: i know, but it's just it's the first time, and i just don't want her to 
 phoebe: [mrs. adelman's voice] talk about crap. try listening to stella niedman tell the story of her and rod steiger for the hundredth time.
 joey: uh, pheebs, how long do you think this lady'll be with us?
 phoebe: i don't know. i mean, she obviously has some kind of unfinished business. [mrs. adelman's voice] sit up!
-mrs. green: [entering] there she is.
+mrs.
+green: [entering] there she is.
 rachel: mom!
-mrs green: sweetie! so this is where you work? oh, it's wonderful! is it a living room? is it a restaurant? who can tell? but i guess that's the fun.
+mrs
+green: sweetie! so this is where you work? oh, it's wonderful! is it a living room? is it a restaurant? who can tell? but i guess that's the fun.
 rachel: pretty much.
-mrs green: monica! you look gorgeous! last time i saw you, it was eat or be eaten.
+mrs
+green: monica! you look gorgeous! last time i saw you, it was eat or be eaten.
 rachel: this is joey, and phoebe, and this is chandler, and you remember ross.
-mrs green: oh hello, ross.
-ross: hi, mrs. green. [he gets up to shake her hand, but she ignores him.]
-mrs green: so, what do you think of my daughter in the apron with the big job?
+mrs
+green: oh hello, ross.
+ross: hi, mrs. green.
+[he gets up to shake her hand, but she ignores him.]
+mrs
+green: so, what do you think of my daughter in the apron with the big job?
 rachel: oh mom!
-mrs green: if you didn't pour the coffee, no one would have anything to drink.
+mrs
+green: if you didn't pour the coffee, no one would have anything to drink.
 chandler: believe me, sometimes that happens.
-mrs green: this is just so exciting. you know, i never worked. i went straight from my father's house to the sorority house to my husband's house. i am just so proud of you.
+mrs
+green: this is just so exciting. you know, i never worked. i went straight from my father's house to the sorority house to my husband's house. i am just so proud of you.
 rachel: really?
-mrs green: yes.
+mrs
+green: yes.
 phoebe: i know who it is you remind me of. evelyn dermer. 'course, that's before she got the lousy face lift. now she looks like soupy sales.
 joey: pheebs, who's evelyn dermer?
 phoebe: i don't know. who's soupy sales?
 [at rachel and monica's
-mrs green: oh my god, there's an unattractive nude man playing the cello.
+mrs
+green: oh my god, there's an unattractive nude man playing the cello.
 rachel: yeah, well just be glad he's not playing a smaller instrument.
-mrs green: [laughing] you have some life here, sweetie.
+mrs
+green: [laughing] you have some life here, sweetie.
 rachel: i know. and mom, i realize you and daddy were upset when i didn't marry barry and get the big house in the suburbs with all the security and everything, but this is just so much better for me, you know?
-mrs green: i do. you didn't love barry. and i've never seen you this happy. i look at you and i think, oh, this is what i want.
+mrs
+green: i do. you didn't love barry. and i've never seen you this happy. i look at you and i think, oh, this is what i want.
 rachel: for...me.
-mrs green: well, not just for you.
+mrs
+green: well, not just for you.
 rachel: well, what do you mean?
-mrs green: i'm uh, considering leaving your father.
+mrs
+green: i'm uh, considering leaving your father.
 monica: [entering] all right. tell me if this is too cute. lesbian wedding, chicken breasts.
 rachel: oh god. i think i'm gonna be sick.
 monica: why? it's not like i'm putting little nipples on them.
@@ -125,25 +143,35 @@ rachel: well, then, you know, couldn't she have just copied my haircut?
 chandler: you know, it's funny when my parents got divorced, they sent me to this shrink, and she told me that all kids have a tendency to blame themselves. but in your case it's actually kinda true.
 phoebe: that's him.
 chandler: damn. my mail order grandfather hasn't come yet.
-mr a: phoebe?
+mr
+a: phoebe?
 phoebe: yes, hi, mr. adelman. thanks for meeting me.
-mr a: oh, that's all right, although you did cut into my busy day of sitting.
+mr
+a: oh, that's all right, although you did cut into my busy day of sitting.
 phoebe: um, do you wanna sit?
-mr a: oh, no, please, i spent most of mid-morning trying to stand up. now uh, what can i do for you, my dear?
+mr
+a: oh, no, please, i spent most of mid-morning trying to stand up. now uh, what can i do for you, my dear?
 phoebe: i don't know how to say this, but i think when your wife's spirit left her body, it um, kind of stuck around in me.
-mr a: you're saying, my wife is in you?
+mr
+a: you're saying, my wife is in you?
 phoebe: yeah. ok, you don't have to believe me but um, can you think of any unfinished business she might have had, like any reason she'd be hanging around?
-mr a: well, i don't know what to tell you dear. the only thing i can think of is that she always used to say that before she died, she wanted to see everything.
+mr
+a: well, i don't know what to tell you dear. the only thing i can think of is that she always used to say that before she died, she wanted to see everything.
 phoebe: everything?
-mr a: everything.
+mr
+a: everything.
 phoebe: whoa, that's a lot of stuff.
-mr a: oh, wait, i remember, she also said she wanted to sleep with me one last time.
+mr
+a: oh, wait, i remember, she also said she wanted to sleep with me one last time.
 phoebe: i'm sorry, there's laughing in my head.
-mr a: [to joey] worth a shot, huh?
+mr
+a: [to joey] worth a shot, huh?
 [joey nods and shrugs.]
-mrs green: look at this.
+mrs
+green: look at this.
 rachel: these are from halloween three years ago.
-mrs green: oh, look, here's barry. did he have to come straight from the office?
+mrs
+green: oh, look, here's barry. did he have to come straight from the office?
 rachel: no, that was his costume. see, he's actually an orthodontist, but he came as a regular dentist.
 monica: um, you guys, you know when i said before, "thank you, but i don't really need your help"?
 rachel: actually, what i think you said was, "don't touch that, and get the hell out of my kitchen."
@@ -153,22 +181,30 @@ monica: if you want.
 phoebe: [enters] hey. what a day. i took her everywhere. the museum of modern art, rockefeller center, statue of liberty.
 rachel: she's still with you?
 phoebe: yeah. i guess she hasn't seen everything yet. i'll be right back, she has to go to the bathroom again. [takes mrs. green's chin in her hand and says, in mrs. adelman's voice] oh, such a pretty face.
-mrs green: this is so much fun, just the girls. you know what we should do? does anybody have any marijuana?
+mrs
+green: this is so much fun, just the girls. you know what we should do? does anybody have any marijuana?
 rachel: god!
 monica: all right, look, nobody's smoking pot around all this food.
-mrs green: that's fine. i never did it. i just thought i might. so, what's new in sex?
+mrs
+green: that's fine. i never did it. i just thought i might. so, what's new in sex?
 rachel: oh! what's new in sex?
-mrs green: the only man i've ever been with is your father.
+mrs
+green: the only man i've ever been with is your father.
 monica: i'm dicing, i'm dicing, i don't hear anything.
-mrs green: i mean, this is no offense to your dad, sweetie, but i was thinking there might be more.
+mrs
+green: i mean, this is no offense to your dad, sweetie, but i was thinking there might be more.
 rachel: oh, i'm sorry. you know what? i cannot have this conversation with you. i mean, god, you just come in here, and drop this bomb on me, before you even tell daddy. what? what do you want? do you want my blessing?
-mrs green: no.
+mrs
+green: no.
 rachel: you want me to talk you out of it?
-mrs green: no.
+mrs
+green: no.
 rachel: then what? what do you want?
-mrs green: i guess i just figured of all people you would understand this.
+mrs
+green: i guess i just figured of all people you would understand this.
 rachel: why on earth would i understand this?
-mrs green: you didn't marry your barry. i did.
+mrs
+green: you didn't marry your barry. i did.
 rachel: oh.
 monica: all right people, we're in trouble here. we've only got 12 hours and 36 minutes left. move, move, move!
 chandler: monica, i feel like you should have german subtitles.
@@ -212,8 +248,10 @@ chandler: well now you understand how i feel every single day, ok? the world is 
 phoebe: [mrs. adelman's voice] butterscotch? no one? all right, you'll be sorry later.
 [monica pushes ben down the aisle in a stroller. susan is escorted by both her parents. carol is escorted by ross.]
 carol: thank you.
-ross: any time. [he doesn't want to let her go]
-carol: ross. [he lets her go]
+ross: any time.
+[he doesn't want to let her go]
+carol: ross.
+[he lets her go]
 minister: you know, nothing makes god happier than when two people, any two people, come together in love. friends, family, we're gathered here today to join carol and susan in holy matrimony.
 phoebe: [mrs. adelman's voice] oh my god. now i've seen everything! [phoebe's voice] whoa, she's gone. she's gone. she's gone! go ahead, get married. go, go.
 [at the reception, monica and ross watch carol and susan getting their picture taken.]
@@ -226,9 +264,12 @@ phoebe: i know it's kind of weird, but i mean, she was a big part of my life the
 woman: you know, i uh, i couldn't help but overhear what you just said, and i think it's time for you to forget about rose, move on with your life...how 'bout we go get you a drink?
 phoebe: ok, that's so nice.
 [chandler tries to warn phoebe that the woman is coming on to her, but phoebe doesn't see him.]
-chandler: [to an attractive woman] i shouldn't even bother coming up with a line, right? [the woman walks away]
+chandler:
+[to an attractive woman] i shouldn't even bother coming up with a line, right?
+[the woman walks away]
 rachel: hey, mom? having fun?
-mrs green: oh, am i! i just danced with a wonderfully large woman. and three other girls made eyes at me over the buffet. oh, i'm not saying it's something i wanna pursue, but it's nice to know i have options.
+mrs
+green: oh, am i! i just danced with a wonderfully large woman. and three other girls made eyes at me over the buffet. oh, i'm not saying it's something i wanna pursue, but it's nice to know i have options.
 rachel: there's more alcohol, right?
 [susan approaches ross, who's looking lonely]
 susan: how you doin'?
@@ -240,14 +281,17 @@ ross: no, that's fine.
 susan: come on. i'll let you lead.
 ross: ok.
 [they dance; carol looks on lovingly.]
-chandler: [to the woman who just rejected him] all right look. penis schmenis. we're all people. [she walks away again.]
+chandler:
+[to the woman who just rejected him] all right look. penis schmenis. we're all people.
+[she walks away again.]
 [at monica and rachel's]
 monica: ok, which one of us do you think is gonna be the first one to get married?
 ross: well, mon, i was married.
 phoebe: yeah, me, too, technically.
 rachel: i had a wedding.
 monica: all right, just trying to start an interesting discussion.
-joey: i got one. which one of us do you think will be the last to get married? [they all look at chandler]
+joey: i got one. which one of us do you think will be the last to get married?
+[they all look at chandler]
 chandler: isn't ben in this?
-all: oh, yeah!
-end<EPISODE_END>
+all: oh, yeah!r
+<EPISODE_END>

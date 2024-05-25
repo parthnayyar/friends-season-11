@@ -1,4 +1,5 @@
-<EPISODE_START>the one with ross’ big step forward
+<EPISODE_START>
+the one with ross’ big step forward
 [scene: central perk, rachel is looking around the shop as phoebe returns from getting some more coffee.]
 rachel: phoebe?
 phoebe: yeah?
@@ -15,8 +16,7 @@ phoebe: yeah. yeah, i remember trying to steal a cardboard cutout of evander hol
 rachel: ah.
 phoebe: yeah.
 rachel: well, y’know what? i go see my doctor tomorrow, i’ll ask her about this. maybe she can give me a pill or something.
-phoebe: yeah. yeah, that’s what you need a good…pill.
-opening credits
+phoebe: yeah. yeah, that’s what you need a good…pill.r
 [scene: central perk, joey and ross are there as mona enters.]
 mona: hey! (to joey) hey!
 ross: hi!
@@ -87,21 +87,29 @@ nurse: hi!
 rachel: hi!
 nurse: just so you know, dr. long can’t be here today, she was called to the hospital, so dr. schiff will be seeing you.
 rachel: oh, okay. hey, can i ask you a question? was it me, or-or was the guy who took my blood sample really cute? y’know who i’m talking about, bald haircut, hairy fingers… (stops when she realizes it was her.)
-dr. schiff: (entering) hi rachel? i’m dr. schiff. (by the way, he’s an attractive man.)
+dr.
+schiff: (entering) hi rachel? i’m dr. schiff. (by the way, he’s an attractive man.)
 rachel: yes, you are.
-dr. schiff: so, how’s it going?
+dr.
+schiff: so, how’s it going?
 rachel: oh, really, really good. but enough about me, come on! where-where are you from? what do you do?
-dr. schiff: i’m a doctor.
+dr.
+schiff: i’m a doctor.
 rachel: right! right! i-i actually meant in your spare time, do you cook? do you ski? or do you just hang out with your wife or girlfriend?
-dr. schiff: uh, i don’t have a wife or girlfriend, but i do like to ski.
+dr.
+schiff: uh, i don’t have a wife or girlfriend, but i do like to ski.
 rachel: oh, i love to ski! how amazing is this?!
-dr. schiff: so, are you experiencing any discomfort?
+dr.
+schiff: so, are you experiencing any discomfort?
 rachel: no. i’m very comfortable.
-dr. schiff: any painful gas?
+dr.
+schiff: any painful gas?
 rachel: no! shoot, dr. schiff what kind of question is that?!
-dr. schiff: okay then, would you like to lie down on the table?
+dr.
+schiff: okay then, would you like to lie down on the table?
 rachel: well would you like me to lie down on the table?
-dr. schiff: i’m sorry, is there something going on here?
+dr.
+schiff: i’m sorry, is there something going on here?
 rachel: do you feel it too?
 [scene: central perk, monica and phoebe are there as rachel enters.]
 rachel: hi.
@@ -250,7 +258,7 @@ joey: this conversation never happened!
 rachel: never happened! good night!
 joey: good night!
 (they both go into their rooms and after a little while rachel pokes her head into the living room.)
-joey: get back in there! (rachel re-enters her room and closes the door.)
-closing credits
+joey: get back in there! (rachel re-enters her room and closes the door.)r
 [scene: joey and rachel's, rachel is there as phoebe enters.]
-phoebe: hi. listen, i’m sorry about that whole thing with roger. it really wasn’t right, and i, and i want to make it up to you, so umm, i brought you something that i think you’ll really enjoy. (goes into the hallway and returns carrying the evander holyfield cutout.) now, this is just a loan. okay? i’m gonna, i’m gonna want him back. so… (looks at him longingly) i’m gonna go now. (exits.) (pause) (entering) i’m sorry, i thought i could do it and i can’t! (she grabs the cutout and exits for good.)<EPISODE_END>
+phoebe: hi. listen, i’m sorry about that whole thing with roger. it really wasn’t right, and i, and i want to make it up to you, so umm, i brought you something that i think you’ll really enjoy. (goes into the hallway and returns carrying the evander holyfield cutout.) now, this is just a loan. okay? i’m gonna, i’m gonna want him back. so… (looks at him longingly) i’m gonna go now. (exits.) (pause) (entering) i’m sorry, i thought i could do it and i can’t! (she grabs the cutout and exits for good.)r
+<EPISODE_END>

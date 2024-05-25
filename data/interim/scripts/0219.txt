@@ -1,4 +1,5 @@
-<EPISODE_START>the one where eddie won't go
+<EPISODE_START>
+the one where eddie won't go
 [scene: chandler's bedroom. chandler is sleeping and eddie is there watching him.]
 [chandler wakes up]
 chandler: hey eddie. daahh!! what're you doin' here?
@@ -222,17 +223,21 @@ his pocket]
 [scene: joey is at the cab driver interview.]
 joey: all the way to the airport huh? you know that's over 30 miles, that's gonna cost
 you about so bucks.
-casting guy: excuse me, that's 50 bucks.
+casting
+guy: excuse me, that's 50 bucks.
 joey: what?
-casting guy: five oh dollars.
+casting
+guy: five oh dollars.
 joey: ohh, you know what it is? it's smudgy 'cause they're fax pages. now when i was on days
 of our lives as dr. drake remoray, they'd send over the whole script on real paper and
 everything.
-casting guy: that's great.
+casting
+guy: that's great.
 joey: and, and just so you know, if you wanted to expand this scene
 like, like have the cab crash or somethin', i could attend to the victims 'cause i have a
 background in medical acting.
-casting guy: ok, listen, thanks for coming in.
+casting
+guy: ok, listen, thanks for coming in.
 joey: no no, uh, don't thank me for comin' in. uh, at least let me finish. uh, we could
 take the expressway but uh, this time of day you're better off taking the budge. you
 were goin' for the word bridge there weren't ya. i'll have a good day. [gets up and
@@ -293,7 +298,8 @@ mover: 1200.
 ross: dollars? you spent $1200 dollars on a plastic bird?
 joey: uhhh, i was an impulse buyer, near the register.
 ross: go ahead, go ahead with the bird. ok, do you have anything for around 200?
-mover: uh, the dog. [points to a big poecelain greyhound]
+mover: uh, the dog.
+[points to a big poecelain greyhound]
 ross: huh.
 mover: yeah.
 ross: i'll take it. my gift to you man.
@@ -346,7 +352,8 @@ eddie: why doesn't my key work and what's all my stuff doin' downstairs?
 chandler: well, i'm, i'm sorry...[eddie forces his head in the door] ahhh. have we met?
 eddie: it's eddie you freak, your roommate.
 chandler: i, i'm sorry, i uh [unchains the door and opens it all the way] i already have a
-roommate. [joey turns around in the leather recliner]
+roommate.
+[joey turns around in the leather recliner]
 joey: hello.
 chandler: yeah, he's lived here for years, i don't, i don't know what you're talking about
 man.
@@ -360,12 +367,12 @@ chandler: see ya. [shuts the door] goodbuy you fruit drying
 psychopath. so you want me to help you unpack your stuff?
 joey: na, na i'm ok. oh and uh, just so you know, i'm not movin' back in 'cause i have to.
 well, i mean, i do have to. it's just that that place wasn't really, i mean, this is...
-chandler: welcome home man. [they hug and jump around]
+chandler: welcome home man.
+[they hug and jump around]
 joey: a little foos?
 chandler: absolutely.
 joey: what happened to the foosball?
-chandler: ah that's a cantelope.
-closing credits
+chandler: ah that's a cantelope.r
 [scene: chandler and joey's apartment. they are hauling out the porcelain dog from
 joey's room. chandler is holding the dog by the rear in a rather interesting position.]
 chandler: hey look, are we gonna have to bring this out every time ross comes over?
@@ -375,5 +382,5 @@ understand, if you hated it so much, why did you buy it in the first place?
 joey: well, i had a whole ceramic zoo thing goin' over there but now, without the other
 ones, it just looks tacky.
 chandler: so is he housetrained or is he gonna leave little bathroom
-tiles all over the place? stay. good, stay! good fake dog.
-end<EPISODE_END>
+tiles all over the place? stay. good, stay! good fake dog.r
+<EPISODE_END>

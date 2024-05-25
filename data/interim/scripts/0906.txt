@@ -1,15 +1,16 @@
-<EPISODE_START>906 - the one with the male nanny (200th episode)
+<EPISODE_START>
+the one with the male nanny (200th episode)
 dedicated to the great work of eric aasen, guineapig and many, many more
 [scene: chandler's hotel room in tulsa. he's fast asleep when the telephone rings.]
 chandler: (picking up the telephone, answering it with a frog in his throat) hello? (he clears his throat, but he still has the same frog in his throat when he speaks again) hello?
 monica: (in her apartment, screaming) i love my new job!
 chandler: honey, you're screaming.
-monica: you bet your ass i am! i just had the best first day ever! the kitchen: twice as big as allessandro's.
+monica: you bet your ass i am! i just had the best first day ever! the
+kitchen: twice as big as allessandro's.
 chandler: (yawning) oh, that's great.
 monica: yeah, a-a-and clean. not just health department clean... monica clean.
 chandler: (clearly not so interested) awesome.
-monica: oh, and the people are so nice. there's this one guy, geoffrey, he's the maitre d., chandler, you will love him. he is without a doubt, the funniest guy i have ever met. (chandler, who was almost asleep again, sits up straight in bed in an instant and can't believe what he just heard.)
-opening credits
+monica: oh, and the people are so nice. there's this one guy, geoffrey, he's the maitre d., chandler, you will love him. he is without a doubt, the funniest guy i have ever met. (chandler, who was almost asleep again, sits up straight in bed in an instant and can't believe what he just heard.)r
 [scene: central perk. phoebe and mike are on the couch, holding hands, while phoebe puts milk in her coffee.]
 mike: this is nice.
 phoebe: i know! (phoebe picks up a little packet of sugar, shakes it, and then realises she can't open it with one hand, but doesn't want to let go of mike's hand. she tries to tear open the packet with one hand.)
@@ -34,15 +35,19 @@ phoebe: it really is.
 joey: (sitting at his table) oh, i know it... it is amazing these little things open doors... huh! (mimes opening a door with his own keys, phoebe looks at him in a "yeah, yeah, yeah" way.)
 [scene: ross and rachel's apartment. both of them sitting on the couch, interviewing a nanny candidate.]
 rachel: so i don't go back to work for another four weeks, but we would like our nanny to start right away, so that emma could get a chance to know her.
-prospective nanny: (in a sweet, caring voice) i think that's really smart. the easier we can make the transition for her, the better. (ross and rachel seem pleased with the answer.)
+prospective
+nanny: (in a sweet, caring voice) i think that's really smart. the easier we can make the transition for her, the better. (ross and rachel seem pleased with the answer.)
 rachel: that's great, great. so do you have any questions for us?
-prospective nanny: not really.
+prospective
+nanny: not really.
 rachel: allright. well thank you so much for coming... (they're standing up and make their way to the door)
 ross: thank you.
 rachel: really nice to meet you... and we'll call you.
-prospective nanny: oh, you know, wait. i do have one question. (she starts playing with her hair) do you guys do random drug testing?
+prospective
+nanny: oh, you know, wait. i do have one question. (she starts playing with her hair) do you guys do random drug testing?
 ross: boy, we uhm... hadn't really thought of that.
-prospective nanny: that's cool. but... but if you do, i'm gonna need three days notice.
+prospective
+nanny: that's cool. but... but if you do, i'm gonna need three days notice.
 rachel: okidoki! (and she slams the door in the nanny's face while ross crumples up the application form) wow! we're never gonna find a nanny.
 ross: oh, come on rach, we will. i promise. we have more interviews (they sit down and rachel sighs) and worse comes to worse, we can always reconsider the uhm... the first one we met with.
 rachel: (indignant) what, the blonde with no bra?
@@ -60,16 +65,21 @@ david: well, it got me to new york anyway, and then i got on a cab at the airpor
 phoebe: wow. where is your luggage? (david thinks for a while)
 david: damn it!
 phoebe: a-allright, well... i'll call the cab company.
-david: wa... wa... wait! we can... call them later. can you just... just stand there f-f-for a moment? boy! there's an old russian expression, uhm... it goes: schto ya ztez vigul... ui! roughly translated that means uhm... this thing that i'm looking at: wow!
+david: wa... wa... wait! we can... call them later. can you just... just stand there f-f-for a moment? boy! there's an old russian expression, uhm... it
+goes: schto ya ztez vigul... ui! roughly translated that means uhm... this thing that i'm looking
+at: wow!
 phoebe: thank you! god, no! you should see me when... oh actually, no, i look pretty good.
-david: are... are you kidding? you know, when you don't see someone for a long time, a-a-and you kind of build them up in your head and you start thinking about: come on, don't be crazy. nobody is that beautiful, but... well, you are. (phoebe seems very charmed) well, so, uhm... are you seeing... anyone? (phoebe is still up on a cloud from what david just said)
+david: are... are you kidding? you know, when you don't see someone for a long time, a-a-and you kind of build them up in your head and you start thinking
+about: come on, don't be crazy. nobody is that beautiful, but... well, you are. (phoebe seems very charmed) well, so, uhm... are you seeing... anyone? (phoebe is still up on a cloud from what david just said)
 phoebe: no...
 [scene: monica and chandler's apartment. monica sits on the couch and phoebe is pacing up and down the room.]
 phoebe: i'm... i'm just... i'm the worst person ever. how can i not tell david that i'm seeing mike?
 monica: maybe he didn't give you a chance.
-phoebe: he said: are you seeing someone? and i said no...
+phoebe: he
+said: are you seeing someone? and i said no...
 monica: oh, well... that had been your window.
-phoebe: yeah! i mean, i don't know. i was just , i was looking, i was looking in his eyes and i was just thinking: oh my god! it's david. david's here. he's just, he's so irresistible.
+phoebe: yeah! i mean, i don't know. i was just , i was looking, i was looking in his eyes and i was just
+thinking: oh my god! it's david. david's here. he's just, he's so irresistible.
 monica: really? the scientist guy?
 phoebe: really? chandler?
 monica: continue...
@@ -109,7 +119,9 @@ rachel: oh, that's pretty.
 ross: (skeptic) so you're just like a... guy who's a nanny?
 sandy: i realise how it's... a bit unorthodox for some people, but i really believe, the most satisfying thing you can do with your life, is take care of a child.
 ross: (on a yeah, right tone) okay.
-sandy: like in my last job, i met daniel when he was three weeks old. and i got to watch him grow into this awesome person... when i left, i said: i'll see you soon... and he said to me: skdandy... (ross and rachel look puzzled) that was his name for me... i'll see you every day... right in... (points at his heart, but starts to cry before he can finish his sentence. rachel tries to comfort him, but ross has this "you've got to be kidding me" look all over him)
+sandy: like in my last job, i met daniel when he was three weeks old. and i got to watch him grow into this awesome person... when i left, i
+said: i'll see you soon... and he said to
+me: skdandy... (ross and rachel look puzzled) that was his name for me... i'll see you every day... right in... (points at his heart, but starts to cry before he can finish his sentence. rachel tries to comfort him, but ross has this "you've got to be kidding me" look all over him)
 ross: yeah, kids say all kinds of crap. (in the other room emma starts to cry.)
 rachel: oh god, she mu... she must need her diaper changed.
 sandy: oh, oh, i can do it for her, if you want...
@@ -295,7 +307,8 @@ joey: (kind of emotional) i am learning so much from you.
 [scene: monica and chandler's apartment. monica and joey are sitting at the dinner table. chandler comes from the bedroom with his suitcase.]
 chandler: well, i'm off to tulsa, so if your maitre d. friend has any funny oklahoma jokes, tell him to e-mail me at www.hahanotsomuch.com.
 monica: honey, you can relax. last night at work, geoffrey told this really sexist joke. after that, not so funny anymore.
-chandler: really...? see... that's the thing: you gotta keep it smart, people!
+chandler: really...? see... that's the
+thing: you gotta keep it smart, people!
 monica: okay, don't miss that flight. you know i love you.
 chandler: i love you too. (monica and chandler kiss. he turns to joey.) and... i like you as a friend. (they hug and pat each other on the back.)
 joey: allright. see you later!
@@ -338,5 +351,5 @@ joey: wow! you blow my mind...
 sandy: oh, i gotta go.
 joey: aaahh... how much do i owe you?
 sandy: twenty bucks.
-joey: it's like the cheapest college ever.
-end<EPISODE_END>
+joey: it's like the cheapest college ever.r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with ross’s denial
+<EPISODE_START>
+the one with ross’s denial
 [scene: monica and rachel's, joey, monica, and phoebe are there as chandler enters.]
 chandler: (entering) hey!
 phoebe: hey! check it out! this is unbelievable! joey has been holding his breath for almost four minutes!
@@ -21,8 +22,7 @@ joey: hey rach, listen i was thinkin’ uh, i’m gonna have an extra room over 
 rachel: oh, that’s true.
 joey: yeah, why don’t you move in with me? it’ll be great! we could stay up late, watch movies, and you know about naked thursday’s right?
 rachel: yeah, yeah i think i’m gonna find my own place.
-chandler: hey-hey! i thought naked thursday’s was just our thing man!
-opening credits
+chandler: hey-hey! i thought naked thursday’s was just our thing man!r
 [scene: central perk, ross is reading a magazine, eating a cookie, and drinking some coffee as phoebe enters.]
 phoebe: hey.
 ross: hey!
@@ -141,7 +141,8 @@ monica: look it is not my fault that your chairs are incredibly ugly!
 chandler: all right! that’s fine! that’s fine! i won’t bring over the chairs! i won’t bring anything over! i wouldn’t want to ruin the ambiance over here at grandma’s place!! (storms out.)
 [scene: chandler and joey's, joey is interviewing a potential roommate. and yes, she’s a female, non-smoker and very non-ugly.]
 joey: (exiting from chandler’s room with the new roommate) everything on your application looks really good—ohh! just one last question umm, are you and your friends gonna be over here all the time like partying and hanging out?
-the potential roommate: oh don’t worry, i’m not really a party girl.
+the potential
+roommate: oh don’t worry, i’m not really a party girl.
 joey: whoa!! now look, don’t be just blurtin’ stuff out. i want you to really think about your answers. okay?
 chandler: (entering) you can call off the roommate search! (to the potential roommate) hi! i’ll be living here. (heads for the bathroom.)
 joey: oh don’t listen to him, he’s just some guy who really wants the apartment, but i don’t think he’s gonna get it.
@@ -258,15 +259,22 @@ joey: thursday’s clearly not good for ya, pick a day!
 commercial break
 [scene: chandler and joey's, joey has the potential roommate back for another interview.]
 joey: (opening the door to the potential roommate) hi!
-the potential roommate: hi!
+the potential
+roommate: hi!
 joey: come in. thanks for comin’ back, umm, okay there have been a lot of people interested in the room, but i have narrowed it down and you are one of the finalists!
-the potential roommate: great!
+the potential
+roommate: great!
 joey: okay now, before i make my final decision i uh, i just want to make sure our personalities match. okay, so i made up a little test. now, i’m gonna say a word and then you say the first thing that comes to mind.
-the potential roommate: i can do that.
+the potential
+roommate: i can do that.
 joey: okay! here we go. pillow.
-the potential roommate: fight.
+the potential
+roommate: fight.
 joey: very good! okay. g.
-the potential roommate: string?
+the potential
+roommate: string?
 joey: excellent! okay umm, doggy.
-the potential roommate: kitten?
-joey: ooh, sorry! no-no-no, so close though, but—bye-bye! (he ushers her out the door.)<EPISODE_END>
+the potential
+roommate: kitten?
+joey: ooh, sorry! no-no-no, so close though, but—bye-bye! (he ushers her out the door.)r
+<EPISODE_END>

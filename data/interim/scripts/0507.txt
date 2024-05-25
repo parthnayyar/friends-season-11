@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross moves in
+<EPISODE_START>
+the one where ross moves in
 [scene: central perk, chandler and joey are there. joey is looking at a national geographic and giggling.]
 chandler: are you looking at naked tribe's women?
 joey: no, look. (shows him the magazine.)
@@ -21,10 +22,10 @@ ross: thanks you guys, i really appreciate this. all right, i'm gonna get packin
 (joey starts giggling.)
 ross: what?
 chandler: he thought you said gonad.
-(joey busts out laughing.)
-opening credits
+(joey busts out laughing.)r
 [scene: monica's restaurant, she is getting inspected by the health department, phoebe is watching.]
-health inspector: wow, monica, if every restaurant is as clean as yours, i'd have a
+health
+inspector: wow, monica, if every restaurant is as clean as yours, i'd have a
 tough time making a living.
 monica: oh, larry.
 phoebe: umm, do health inspectors work on commission?
@@ -314,11 +315,11 @@ ross: all right.
 joey: all right!
 chandler: all right, buddy!
 ross: so i'm a pimp huh? it's okay! look, i know that sometimes i can be a pain in the ass, but you just have to talk to me. tell me if something is bothering you. okay? and for my part i will do everything i can to keep my annoying habits just (does the 'quiet down' maneuver).
-(chandler and joey smile, but when ross turns away look at each other with looks of horror.)
-ending credits
+(chandler and joey smile, but when ross turns away look at each other with looks of horror.)r
 [scene: chandler and joey's and ross's, chandler is entering and when he closes the door joey pops his head out of the fort like before, but this time he's wearing a cowboy hat.]
 chandler: well, i see you've had a very productive day. don't you think the cowboy hat is a little much?
 ross: (popping up behind joey wearing an indian headdress) come on, it's fun!
 chandler: all right! (he joins them in the fort and comes up putting on a bonnet.) isn't this a woman's hat?
 joey: dude, stop talking crazy and make us some tea!
-(chandler does so.)<EPISODE_END>
+(chandler does so.)r
+<EPISODE_END>

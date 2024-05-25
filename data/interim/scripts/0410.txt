@@ -1,7 +1,9 @@
-<EPISODE_START>the one with the girl from poughkeepsie
+<EPISODE_START>
+the one with the girl from poughkeepsie
 [scene: chandler and joey's, joey, chandler, and phoebe are there as ross enters.]
 ross: hey!
-chandler, joey, and phoebe: hey!
+chandler, joey, and
+phoebe: hey!
 ross: i’m sorry i’m late, did i miss anything?
 phoebe: joey stuffing 15 oreos in his mouth. (joey, with an obvious mouth full, nods yes.)
 ross: 15? (joey nods again) your personal best! (ross takes an oreo and joey mumbles, no!)
@@ -15,8 +17,7 @@ ross: okay, it was just me and her at the back of the train, and i sat near the 
 chandler: were you so late because you were burring this woman?
 ross: no, i’m getting back down ‘cause she lives in poughkeepsie. she seems really great, but she’s like totally great, but she lives two and a half hours away.
 chandler: how can she be great if she’s from poughkeepsie? (laughs, at they all look at him) that joke would’ve killed in albany.
-joey: done! i did it! heh, who’s stupid now? (he smiles and has cookie remains all over his teeth.)
-opening credits
+joey: done! i did it! heh, who’s stupid now? (he smiles and has cookie remains all over his teeth.)r
 [scene: central perk, chandler, joey, rachel, and phoebe are there.]
 chandler: hey, look at this! (holding a newspaper) they’re lighting the big christmas tree tonight.
 phoebe: umm, that paper’s two weeks old.
@@ -67,7 +68,8 @@ mike: maybe, before the game we could enjoy some eight year old some small batch
 chandler: well, i don’t really know what that is, but let’s!!
 [scene: monica and rachel's, phoebe is working on a new song.]
 phoebe: hey! you guys, i’m writing a holiday song for everyone. do you want to hear it?
-monica, rachel, and joey: yes!
+monica, rachel, and
+joey: yes!
 phoebe: (singing) happy chanukah, monica! may your christmas be snowy, joey! happy new year, chandler and ross. spin the draddle, rachel!
 rachel: pheebs, that’s great!
 phoebe: oh, yay!
@@ -141,18 +143,24 @@ rachel: oh, between you telling him that i wanted to have a fling and me putting
 [scene: allesandro’s, joey is eating some cheese.]
 monica: hey, joey, could you pass the cheese?
 joey: yeah. listen uh, i’d prefer it if you didn’t call me joey. since i don’t know anyone here, i thought it’d be cool to try out a cool work nickname.
-a waiter: (entering) hey, dragon! here’s your tips from monday and tuesday. (hands him two envelopes)
+a
+waiter: (entering) hey, dragon! here’s your tips from monday and tuesday. (hands him two envelopes)
 joey: (opening an envelope) there’s like-there’s like 300 bucks in this one!
-the waiter: yeah, people get pretty generous around the holidays. and it never hurts to wear tight trousers.
+the
+waiter: yeah, people get pretty generous around the holidays. and it never hurts to wear tight trousers.
 monica: okay. could the waiters gather around to hear tonight’s specials? okay, first there is a chilean sea bass prepared with a mango relish on a bag—why is nobody writing these down?
-the waiter: because we can remember them.
+the
+waiter: because we can remember them.
 monica: because your all gonna make up fake specials and make me cook them like you did the other night?
-the waiter: well, sure, that too.
+the
+waiter: well, sure, that too.
 monica: okay, forget the specials for a minute. umm, all right here’s the thing, for the last two weeks i have umm, (quietly) tried really hard to create a positive atmosphere…
-the waiter: can’t hear you!
+the
+waiter: can’t hear you!
 monica: (louder) a positive atmosphere! but i-i-i have had it up to here. (she holds her hand over her head as an afterthought.) from now on, it is gonna be my way, or the highway! all right? does anybody have a problem with that?!! (joey looks at the money he’s holding, and doesn’t speak up.) hey new guy! i said, does anybody have a problem with that?!
 joey: no ma’am.
-the waiter: hey! he has a name, it’s dragon. do you wanna know your name? check your hat. (to another waiter) we did the hat right? (the other waiter nods yes.)
+the
+waiter: hey! he has a name, it’s dragon. do you wanna know your name? check your hat. (to another waiter) we did the hat right? (the other waiter nods yes.)
 commercial break
 [scene: allesandro’s, continued from earlier. the other waiters are gone and monica is confronting joey about his not speaking up.]
 monica: what the hell happened?!
@@ -201,19 +209,25 @@ chandler: have you ever been with a woman?
 rachel: what?! chandler, what is the matter with you?!
 chandler: so there is no good time to ask that question.
 [scene: a train to poughkeepsie, ross is asleep against the window.]
-the conductor: the next station is poughkeepsie. poughkeepsie!
-the woman from poughkeepsie: (outside ross’s window) ross? ross! (she knocks on the window) wake up! ross! (the train starts moving) ross! ross!! ross!!! ross!!!!
+the
+conductor: the next station is poughkeepsie. poughkeepsie!
+the woman from
+poughkeepsie: (outside ross’s window) ross? ross! (she knocks on the window) wake up! ross! (the train starts moving) ross! ross!! ross!!! ross!!!!
 [scene: allesandro’s, monica is cooking.]
 monica: i need more swordfish. (to one of the assistant chefs) can you get me some more swordfish?
-kitchen worker: i don’t speak english.
+kitchen
+worker: i don’t speak english.
 monica: you did a minute ago!
-kitchen worker: well, i don’t know what to tell ya!
+kitchen
+worker: well, i don’t know what to tell ya!
 monica: fine!
 (she goes into the freezer to get it herself, and leaves the door open. the waiter from earlier comes by and closes the door.)
 monica: okay! very funny! somebody let me out please?! come on, i’m cold! (she spills something.) and covered in marinara sauce! come on! let me out! (the door opens)
-the waiter: you found that handle, did ya?
+the
+waiter: you found that handle, did ya?
 monica: that’s not funny.
-the waiter: well that’s not true.
+the
+waiter: well that’s not true.
 monica: (starting to cry) i’m a good person. and i’m a good chef, and i don’t deserve to have marinara sauce all over me! y’know what, if you want me to quit this bad, then all you have to do is…
 joey: (interrupting) hey! chef geller! y’know that little speech you made the other day? well i got a problem with it!
 monica: you do?
@@ -221,28 +235,35 @@ joey: you bet i do! i just ah, wasn’t listening then, that’s all.
 monica: well if you want a problem? i’ll give you a problem!
 joey: what are you gonna do? you’re gonna fire me?
 monica: you bet your ass i’m gonna fire you! get out of my kitchen! get out!! (joey leaves) all right! anybody else got a problem? how ‘bout you chuckles? you think this is funny now?
-the waiter: no.
+the
+waiter: no.
 monica: how about if i dance around all covered in sauce? huh? you think it’s funny now?
-the waiter: no, it’s really good.
+the
+waiter: no, it’s really good.
 monica: good! now, take those salads to table 4, (to the kitchen worker from earlier) and you! get the swordfish! (to another assistant chef) and you! get a haircut!
 [scene: the train, it’s pulling into a station.]
-the conductor: last stop, montreal. this stop is montreal.
+the
+conductor: last stop, montreal. this stop is montreal.
 ross: (waking up) what? (notices that there is now a beautiful woman sitting next to him)
-woman on train: i made a bet with myself that you have beautiful eyes. now that i see them, i win.
+woman on
+train: i made a bet with myself that you have beautiful eyes. now that i see them, i win.
 ross: what?
-woman on train: we’re at my stop. but would you like to have coffee?
+woman on
+train: we’re at my stop. but would you like to have coffee?
 ross: (now fully awake) are we really in montreal?!
-woman on train: yes we are. so, coffee?
+woman on
+train: yes we are. so, coffee?
 ross: coffee sounds great. (they get up) wait, so, so you live in montreal?
-woman on train: oh, no. but it’s just a two hour ferry ride to nova scotia.
+woman on
+train: oh, no. but it’s just a two hour ferry ride to nova scotia.
 [scene: allesandro’s, joey is coming back in with his coat on.]
 joey: well i guess i should’ve thought about my wife and kids before i talked back to chef geller!
 monica: thanks.
 joey: yep! looks like it’s gonna be a leeeeean christmas at the dragon house this year.
 monica: enough!
-joey: (leaving) lean-lean-lean!
-closing credits
+joey: (leaving) lean-lean-lean!r
 [scene: central perk, phoebe is singing her holiday song.]
 phoebe: (singing) "went to the store, sat on santa's lap.                                 asked him to bring my friends all kind of crap.                                 said all you need is to write them a song.                                 they haven't heard it, so don't try and sing along.                                 no, don't sing along.
 monica, moncia, have a happy chanukah.                                 saw santa clause, he said hello to ross.                                 and plese tell joey, christmas will be snowy!                                 and rachel and chandler, have err-umm-glander!!"
-happy holidays, everybody!<EPISODE_END>
+happy holidays, everybody!r
+<EPISODE_END>

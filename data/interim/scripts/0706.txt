@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the nap partners
+<EPISODE_START>
+the one with the nap partners
 [scene: a restaurant, phoebe, rachel, and monica are having brunch.]
 monica: okay, the reason why i asked you guys out to brunch today is because i have been doing some thinking about who should be my maid of honor.
 rachel: oh my god! this is it! (she and phoebe hold hands.) (to phoebe) i really hope it’s you!
@@ -26,8 +27,7 @@ woman: excuse me, i-i couldn’t help overhearing, you’re marrying chandler
 bing?
 monica: yeah that’s right.
 woman: (sarcastically) huh, good luck!
-phoebe: aww, and good luck to you too! (to monica and rachel) what a nice lady!
-opening credits
+phoebe: aww, and good luck to you too! (to monica and rachel) what a nice lady!r
 [scene: ross's apartment, chandler, joey, and ross are finishing watching die hard on video.]
 chandler: die hard still great!
 joey: yep. hey, what do you say we make it a double feature?
@@ -38,7 +38,8 @@ joey: oh, well we watch it a second time and its die hard 2!
 ross: joey, we just saw it!
 joey: and?
 ross: and it’ll be cool to see it again! yeah!
-joey and ross: die hard!!!!!!
+joey and
+ross: die hard!!!!!!
 ross: dude, you didn’t say die hard. is everything okay?
 chandler: yeah, i just got uh, got plans.
 ross: well, john mclane had plans!
@@ -179,7 +180,8 @@ ross: it is time for you to give your maid of honor speech.
 rachel: ohh, wait a minute, we haven’t pre…
 ross: go!
 rachel: okay! okay! umm, webster’s dictionary defines marriage as… (ross and joey start writing.) okay!! forget that! that sucks!! okay, never mind! forget it! umm, umm, okay, uh… i met, i-i met, i met monica when we were just a couple of six year olds and i became friends with chandler when he was 25, although he seemed like a six year old.
-ross and joey: oh! that’s nice.
+ross and
+joey: oh! that’s nice.
 rachel: thank you. thank you very much. umm, i’ve known them separately and i’ve known them together and-and to know them as a couple is to know that you are truly in the presence of love. so i would like to raise my glass (grabs a glass and holds it up) to monica and chandler and the beautiful adventure they are about to embark upon together. i can think of no two people better prepared for the journey.
 joey: wow. (to ross) good speech.
 ross: yeah, it really was!
@@ -263,11 +265,11 @@ monica: (entering) hey, what’s going on?
 rachel: hey!
 phoebe: well, we just decided that rachel is gonna be your maid of honor.
 monica: (gasps) ohh, wow! that’s great! (rachel and monica hug.) oh wow! we really have to start planning! i have, i have a lot of really specific ideas! we should probably get together like four times per week. you can come over to my place; we’ll get together before work! what do you say, 6:30, my place? i’m so excited! (runs out leaving rachel completely stunned and phoebe laughing.)
-rachel: yeah okay, you laugh now, but she’s gonna be yours. (phoebe gets suddenly scared.)
-ending credits
+rachel: yeah okay, you laugh now, but she’s gonna be yours. (phoebe gets suddenly scared.)r
 [scene: joey and rachel's, joey and ross are napping together again and both wake up at the same time.]
 joey: great nap.
 ross: it really was.
 (suddenly rachel clears her throat and the camera cuts to the rest of the gang staring at them. needless to say joey and ross are shocked and slowly turn their heads to see the gang.)
 joey: (reacting first by jumping up) dude! what the hell are you doing?! god! (heads for his room leaving ross.)
-ross: (slowly stands up and says quietly) excuse me. (exits.)<EPISODE_END>
+ross: (slowly stands up and says quietly) excuse me. (exits.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one hundredth
+<EPISODE_START>
+the one hundredth
 [scene: the hospital, phoebe is arriving with ross, joey, and rachel in tow.]
 phoebe: (to the nurse) hi.
 nurse: hi.
@@ -24,8 +25,7 @@ rachel: you-you're not wearing a jacket.
 monica: oh man! i did it again!
 phoebe: (standing up) okay, so umm, somebody has to call frank and alice. (as she is talking joey is sticking the camera under her skirt.) and then my mom wants to know-(notices joey)-joey, what are you doing?!
 joey: i gotta get the before shot!
-(she shakes her head no.)
-opening credits
+(she shakes her head no.)r
 [scene: the delivery room, rachel and ross are entering.]
 rachel: hi, pheebs? okay, so just spoke to the nurse and the reason that your doctor is late is because uh, she's not coming.
 phoebe: what?!
@@ -48,7 +48,8 @@ phoebe: ooh, it's sympathy pains. ohh, that's so sweet!
 joey: are they? i didn't know i cared that much.
 (the doctor, dr. harad, enters.)
 ross: hello.
-dr. harad: hi! phoebe, i'm dr. harad, i'm going to be delivering your babies. i want you to know, you're gonna be in good hands. i've been doing this for a long time. i'll be back in a minute to do your internal, in the meantime, just relax because everything here looks great. and also, i love fonzie. (exits)
+dr.
+harad: hi! phoebe, i'm dr. harad, i'm going to be delivering your babies. i want you to know, you're gonna be in good hands. i've been doing this for a long time. i'll be back in a minute to do your internal, in the meantime, just relax because everything here looks great. and also, i love fonzie. (exits)
 chandler: did he just say, he loves fonzie?
 monica: that's what it sounded like.
 chandler: all right…
@@ -85,11 +86,14 @@ chandler: so they're going on dates? when?
 joey: i think saturday—(groans in pain again).
 frank: (to phoebe) what's with him?
 phoebe: umm, sympathy pains. i thought it was really sweet at first, but now i think he's just trying to steal my thunder.
-dr. harad: (entering) okay!
+dr.
+harad: (entering) okay!
 phoebe: hey.
-dr. harad: let's see what we got here. ohh, y'know, fonzie dated triplets.
+dr.
+harad: let's see what we got here. ohh, y'know, fonzie dated triplets.
 chandler: this-this fonzie person you keep referring too, is that uh, is that another doctor?
-dr. harad: oh no-no-no. fonzie is the nickname of arthur fonzerelli. the fonz.
+dr.
+harad: oh no-no-no. fonzie is the nickname of arthur fonzerelli. the fonz.
 chandler: all right.
 (dr. harad exits.)
 frank: it's not that weird, is it?
@@ -108,24 +112,32 @@ joey: (entering from the elevator caring gifts for the kids) hey, you guys! look
 [scene: the delivery room, ross has returned with another doctor. this one, is well, younger.]
 ross: okay, phoebe, this dr. oberman. he has no strong feelings about fonzie or any of the happy days gang.
 phoebe: hi! and you're going into what grade?
-dr. oberman: umm, i'm actually a first year resident, but i get that a lot, you see, i-i graduated early…
+dr.
+oberman: umm, i'm actually a first year resident, but i get that a lot, you see, i-i graduated early…
 phoebe: (interrupting) uh-huh, me too. ross, maybe i should've specified that i'd be needing a grown up doctor.
-dr. oberman: oh no, i'm fully qualified to…
+dr.
+oberman: oh no, i'm fully qualified to…
 phoebe: shh! doogie, shh! doesn't anybody understand that i'm gonna be having babies soon? huh? go! go little boy, go!
 (he runs out and frank watches him go.)
 frank: oh cool! you made him cry!
 [scene: another hospital room, joey has now been admitted and his doctor is about to break the bad news to him, monica, and chandler.]
-joey's doctor: mr. tribbiani, i'm afraid you've got kidney stones.
+joey's
+doctor: mr. tribbiani, i'm afraid you've got kidney stones.
 joey: umm, well, what else could it be?
-joey's doctor: it's kidney stones.
+joey's
+doctor: it's kidney stones.
 joey: or?
-joey's doctor: kidney stones!
+joey's
+doctor: kidney stones!
 [scene: the delivery room, dr. harad is back and checking on phoebe.]
-dr. harad: all right, you're getting there. oh, and y'know, these babies are very, very lucky.
+dr.
+harad: all right, you're getting there. oh, and y'know, these babies are very, very lucky.
 phoebe: they are. why?
-dr. harad: they have the honor of being born on the fonz's half-birthday.
+dr.
+harad: they have the honor of being born on the fonz's half-birthday.
 phoebe: happy birthday!
-dr. harad: just-just to clarify, i'm not fonzie. (phoebe nods in agreement as he leaves.)
+dr.
+harad: just-just to clarify, i'm not fonzie. (phoebe nods in agreement as he leaves.)
 rachel: honey, y'know i just gotta tell you, i think this is such a terrific thing you're having these babies for frank and alice.
 phoebe: i know, it is.
 rachel: yeah!
@@ -152,19 +164,23 @@ monica: feeling a little better sweetie?
 joey: well, maybe a little. i wish you hadn't seen me throw up.
 monica: me too.
 ross: (entering) hey! i just heard. what's up?
-joey's doctor: kidney stones! now, ordinarily mr. tribbiani, we try to break up the stones up with shock waves, but they're to close to the bladder now. which means we can either wait for you to pass them or else go up the urethra…
+joey's
+doctor: kidney stones! now, ordinarily mr. tribbiani, we try to break up the stones up with shock waves, but they're to close to the bladder now. which means we can either wait for you to pass them or else go up the urethra…
 joey: (interrupting) whoa-whoa! no-no-no-no-no, nothing is going up! okay? up, up is not an option—what's a urethra? (monica whispers what it is in his ear.) are you crazy?!
 [scene: the delivery room, rachel and frank are there.]
 phoebe: (to rachel) so did you ask him?
 rachel: no, i haven't had a chance to be alone with him yet.
 phoebe: well, i'm kinda on a clock here.
-dr. harad: (laughing) oh fonzie.
+dr.
+harad: (laughing) oh fonzie.
 rachel: y'know who i always liked? mork.
 (dr. harad drops what he's doing and stares at her.)
 phoebe: undo it. undo it. undo it.
-dr. harad: fonzie met mork. mork froze fonzie.
+dr.
+harad: fonzie met mork. mork froze fonzie.
 rachel: yeah, but umm… yes, but, fonzie was already cool, so he wasn't hurt, right?
-dr. harad: yeah, that's right.
+dr.
+harad: yeah, that's right.
 monica: (entering with chandler) hey!
 phoebe: hi!
 monica: (to phoebe) how are you doing?
@@ -172,9 +188,11 @@ phoebe: okay, doctor says any minute now.
 frank: hey, y'know, alice is gonna be here so soon, you couldn't just like do me a favor and like, like hold them in?
 phoebe: sorry frank, i'm kinda in the middle of the last favor you asked me to do.
 (a male nurse enters.)
-male nurse: hey!
+male
+nurse: hey!
 rachel: hi!
-male nurse: rachel.
+male
+nurse: rachel.
 rachel: monica, this is dan (points to him), one of the guys that we're gonna be going out with on saturday. (mouths "he's yours." to her.) uh dan, monica.
 dan: nice to meet you.
 monica: hello dan! i'm really looking forward to saturday night! really, really!
@@ -188,7 +206,8 @@ monica: so, why wait 'til saturday, are you free tomorrow?
 dan: sure! i'll get somebody to cover my shift.
 monica: oh, great!
 chandler: (to another female nurse) hey, how 'bout it? you, me, saturday night?
-delivery room nurse: no.
+delivery room
+nurse: no.
 chandler: all right. very good.
 phoebe: oo, this is a big one. eww! arghhhh!!
 [cut to joey's room, who's going throw his own contractions. plus, he has ross in a headlock.]
@@ -211,26 +230,33 @@ rachel: yeah. so frank, three babies. whew, that just seems like a lot, huh?
 frank: (laughs) not to me.
 rachel: yeah, fair enough.
 [scene: the delivery room, later on, rachel, chandler, monica, and frank are there as dr. harad is checking out phoebe.]
-dr. harad: okay, you're at ten centimeters. time to start having some babies. all right, i want only the father in here please.
+dr.
+harad: okay, you're at ten centimeters. time to start having some babies. all right, i want only the father in here please.
 (they all kiss her and wish her luck.)
 monica: bye dan!
 dan: uh, bye monica.
 chandler: bye, momi-moo.
 (everyone except frank leaves.)
-dr. harad: all right, i need a clamp, sterile towel, and channel 31.
+dr.
+harad: all right, i need a clamp, sterile towel, and channel 31.
 phoebe: what is that?
 (dan turns on the tv and the happy days theme song comes on.)
 phoebe: oh my god!
-dr. harad: oh, no-no-no, it's a good one! fonzie plays the bongos. all right, are you ready? it's time to start pushing.
+dr.
+harad: oh, no-no-no, it's a good one! fonzie plays the bongos. all right, are you ready? it's time to start pushing.
 [cut to joey's room, his doctor and ross are there.]
-joey's doctor: are you ready? it's time to try peeing. (joey makes a face like he is trying to pee.) wait-wait-wait-wait-wait! it's almost time to try peeing. (points at the bottle joey is to pee into.)
+joey's
+doctor: are you ready? it's time to try peeing. (joey makes a face like he is trying to pee.) wait-wait-wait-wait-wait! it's almost time to try peeing. (points at the bottle joey is to pee into.)
 [cut to the delivery room.]
-dr. harad: okay, now push! that's it push! just concentrate on pushing! yeah, here we go!
+dr.
+harad: okay, now push! that's it push! just concentrate on pushing! yeah, here we go!
 dan: i see the head.
 frank: yes, it has a head!
-dr. harad: all right. keep pushing! come on!
+dr.
+harad: all right. keep pushing! come on!
 frank: i can't believe there's somebody coming out of you right now. there's somebody coming out of you! is it? is it? it's my son.
-dr. harad: all right. here's your first baby.
+dr.
+harad: all right. here's your first baby.
 [cut to the waiting room, a triumphant frank rushes in.]
 frank: yesssss!!!!! we got a baby boy!!
 chandler: yes!
@@ -238,7 +264,8 @@ frank: frank jr. jr.!!
 rachel: oh, how does he look? how does he look?
 frank: so gross! (he runs back to the delivery room.)
 [cut to the delivery room, phoebe is about to give birth to the middle kid.]
-dr. harad: okay. you ready to push again?
+dr.
+harad: okay. you ready to push again?
 phoebe: i already had a baby. leave me alone.
 frank: okay, okay, come on, you can do it. you can do it!
 (phoebe screams in pain, and frank screams with her.)
@@ -246,7 +273,8 @@ frank: okay, okay, come on, you can do it. you can do it!
 frank: yeah!! little leslie is here! we got another one! oh my god, i can't believe i have two-two children. how scary is that? (he returns to the delivery room.)
 [cut to the delivery room, phoebe is at it for the last time.]
 frank: come on little chandler, it's time to be born. come on little chandler! come on!
-dr. harad: all right, he's coming. he's coming!
+dr.
+harad: all right, he's coming. he's coming!
 (they both stare at the newborn.)
 frank: hey, where's his thing?
 [cut to the waiting room, a thrice triumphant frank returns again.]
@@ -263,7 +291,8 @@ alice: (starting to cry) oh, we have our babies.
 [scene: joey's room, he is recovering from his birth.]
 joey: oh my god.
 ross: you did it, man.
-joey's doctor: would you like to see them? (he hands joey a little jar.)
+joey's
+doctor: would you like to see them? (he hands joey a little jar.)
 joey: they're so small! (both he and ross look at them with satisfied looks on their faces.)
 [scene: a hallway, monica and dan are talking.]
 dan: so, i'll call you tomorrow.
@@ -288,8 +317,7 @@ rachel: yeah, umm, no honey.
 phoebe: oh. it was a long shot. hey, you guys can i just like have a second alone with the babies.
 all: yeah, sure yeah. yeah.
 (they hand her the babies and leave them alone.)
-phoebe: so, here you are. it seems like yesterday i was talking to you in that little petri dish. everyone said labor was the hardest thing i'd ever have to do, but they were wrong this is. oh, i had the most fun with you guys! i wish i could take you home and see you everyday. okay, i'll settle for being your favorite aunt. i know alice's sister has a pool, but you lived in me. okay, so we're cool. yeah, we're gonna be great. little high fives! (imitates the high fives.) ahh! ahh! ahh! (one of the babies begins to cry.) well, if you're gonna cry. (she starts crying.)
-ending credits
+phoebe: so, here you are. it seems like yesterday i was talking to you in that little petri dish. everyone said labor was the hardest thing i'd ever have to do, but they were wrong this is. oh, i had the most fun with you guys! i wish i could take you home and see you everyday. okay, i'll settle for being your favorite aunt. i know alice's sister has a pool, but you lived in me. okay, so we're cool. yeah, we're gonna be great. little high fives! (imitates the high fives.) ahh! ahh! ahh! (one of the babies begins to cry.) well, if you're gonna cry. (she starts crying.)r
 [scene: the delivery room, everyone is hanging out with phoebe. frank, alice, and the kids aren't there.]
 monica: phoebe, we are so proud of you! you're amazing!
 phoebe: i know.
@@ -298,4 +326,5 @@ phoebe: yeah. you won't be able to take it.
 chandler: so uh, now that little chandler turned out to be a girl, what are they gonna name her?
 phoebe: they're gonna call her chandler.
 chandler: that's kind of a masculine name, don't you think?
-phoebe: works on you.<EPISODE_END>
+phoebe: works on you.r
+<EPISODE_END>

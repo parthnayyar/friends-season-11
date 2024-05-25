@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the rumor
+<EPISODE_START>
+the one with the rumor
 [scene: joey and rachel's, joey is reading what to expect when you’re expecting as rachel enters from her bedroom.]
 joey: hey rach listen, did you know that during pregnancy your fingers swell up to twice their size and never go back.
 rachel: (looking at her fingers) oh my…god! let me see that! (grabs the book from him.)
@@ -31,8 +32,7 @@ joey: but you gotta have turkey on thanksgiving! i mean, thanksgiving with no tu
 monica: all right fine! if it means that much to you! but just—there’s gonna be a ton left over.
 joey: no there won’t! i promise i will finish that turkey!
 monica: all right, you’re telling me you can eat an entire turkey in just one sitting?
-joey: that’s right! ‘cause i’m a tribbiani! (to rachel) and this is what we do! i mean we may not be great thinkers or world leaders, we don’t read a lot or run very fast, but damnit! we can eat!
-opening credits
+joey: that’s right! ‘cause i’m a tribbiani! (to rachel) and this is what we do! i mean we may not be great thinkers or world leaders, we don’t read a lot or run very fast, but damnit! we can eat!r
 [scene: monica and chandler's, chandler is watching football, and it’s actually the right game green bay at detroit (although not this year’s), as monica is getting everything ready.]
 monica: hey, isn’t weird to think about how next year at this time they’ll be a little baby at the table? (chandler turns around in horror.) (seeing him) rachel’s! but good to know where you’re at!
 phoebe: (entering) hey!
@@ -123,7 +123,8 @@ will: (glaring at rachel) rachel green.
 ross: aw—oh, that’s right. are-are you gonna be okay?
 will: oh, i’ll-i’ll be fine. just god i hate her ross! i hate her!
 ross: will, high school was-was a long time ago.
-will: look at her standing there with those yams! my two greatest enemies ross: rachel green and complex carbohydrates.
+will: look at her standing there with those yams! my two greatest enemies
+ross: rachel green and complex carbohydrates.
 rachel: (sees will) oh my god monica, who is that?
 monica: that’s will from high school!
 rachel: oh! i do not remember him! wow! he's really got that sexy, smoldering thing going on. (we see will angrily staring at rachel.) oh my god, he’s… look at the way he’s just staring at me. i think he’s trying to mouth something to me, but i can’t make it out. (will mouths, "i hate you.")
@@ -188,7 +189,8 @@ ross: that was in high school! it’s not like it was binding forever.
 will: then why did it have the word eternity in it?
 rachel: okay monica, did you know about this?!
 monica: i swear i didn’t. (to ross and will) hey! is that why you guys used to go up to your bedroom and lock the door?
-ross and will: yeah.
+ross and
+will: yeah.
 monica: hmm, a little relieved, i gotta say.
 ross: look rach i-i’m sorry, okay? i…i was a stupid kid, okay? the only reason i joined…
 will: co-founded!
@@ -274,8 +276,7 @@ will: so you knocked her up but you’re not gonna marry her. dude! (wants anoth
 phoebe: okay. (goes over and hugs him.) it’s exactly how i’d imagined it would be.
 joey: (entering, wearing the maternity pants from earlier) all right where’s that turkey!
 phoebe: joey! those are my maternity pants!
-joey: not now! these are my thanksgiving pants!
-closing credits
+joey: not now! these are my thanksgiving pants!r
 [scene: monica and chandler's, will has left and the rest of the gang is watching joey finish the turkey.]
 joey: well that’s it. i’m done. whew! (wipes his forehead.) there come the meat sweats. (chandler hands him a towel and he wipes his face.)
 monica: well joey, we’re all…we’re all very proud of you.
@@ -286,4 +287,5 @@ rachel: you can keep those pants by the way.
 (joey notices monica has gotten a pie.)
 joey: whoa—hey—wh-wh-what do you got there? what is that? pie?
 monica: yeah, you want some?
-joey: ah, just cut me a little sliver. (monica prepares to cut a little sliver.) a little bigger. (monica prepares to cut a bigger piece.) little bigger. (monica moves the knife again.) what?! are you afraid you’re gonna run out?! cut me a real piece!<EPISODE_END>
+joey: ah, just cut me a little sliver. (monica prepares to cut a little sliver.) a little bigger. (monica prepares to cut a bigger piece.) little bigger. (monica moves the knife again.) what?! are you afraid you’re gonna run out?! cut me a real piece!r
+<EPISODE_END>

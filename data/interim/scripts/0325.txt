@@ -1,4 +1,5 @@
-<EPISODE_START>the one at the beach
+<EPISODE_START>
+the one at the beach
 [scene: central perk, everyone except phoebe is there. bonnie is telling them of her sex-capades.]
 chandler: (to bonnie) so ah, your first sexual experience was with a woman?!
 bonnie: all right, i was 15, it was my best friend, ruth, and we got drunk on that hard cider, and then suddenly, i don’t know, we were, we were making out.
@@ -22,8 +23,7 @@ ross: that’s too bad.
 rachel: (sarcastic) ohh, big, fat bummerrr.
 phoebe: so great! okay! tomorrow we’re gonna drive out to montauk.
 joey: hey, bonnie had sex there!
-(rachel turns and gives him a look, and joey quickly apologises.)
-opening credits
+(rachel turns and gives him a look, and joey quickly apologises.)r
 [scene: outside central perk, chandler and monica are waiting for phoebe to arrive with the cab.]
 monica: (watching a happy couple walk by, arm in arm) would you look at them. am i ever gonna find a boyfriend again? i gonna die an old maid.
 chandler: you’re not gonna die an old maid, maybe an old spinster cook.
@@ -41,7 +41,8 @@ joey: (walking up carrying a brown paper bag) hey!
 monica: oh, hey! oh good, you brought food!
 joey: no, it’s just my luggage.
 (phoebe drives up.)
-chandler, monica, and joey: hey!!
+chandler, monica, and
+joey: hey!!
 joey: woo-hoo! all right! yeah!
 phoebe: oh, i am having the best karma this week. first, i find this woman who knew my parents, and then my client with the fuzzy back gives me his beach house.
 ross: yeah? what about ah, that bike messenger you hit?
@@ -67,27 +68,38 @@ monica: what’s with all this sand? (picking a handful of sand off of the floor
 phoebe: oh, yeah, bob said there might be flood damage.
 ross: yeah, either that, or he has a really big cat.
 [scene: phoebe sr. house, she is a real estate agent and is trying to sell a house over the phone. by the way, it’s still raining outside.]
-phoebe sr: well, yes, it’s kind’ve an unusual house. it has umm, three beautiful bedrooms and ah, no baths. but y'know, the ocean is right there.
+phoebe
+sr: well, yes, it’s kind’ve an unusual house. it has umm, three beautiful bedrooms and ah, no baths. but y'know, the ocean is right there.
 phoebe: (at the door) knock, knock, knock.
-phoebe sr: (on phone) ah, oh, hang on a second. (to phoebe) come in, come in. (on phone) all right, so think about it, and call me back. (hangs up)
+phoebe
+sr: (on phone) ah, oh, hang on a second. (to phoebe) come in, come in. (on phone) all right, so think about it, and call me back. (hangs up)
 phoebe: (entering) are you ah, phoebe abott?
-phoebe sr: ahh, yes.
+phoebe
+sr: ahh, yes.
 phoebe: hi phoebe abott, i’m your best friends daughter!
-phoebe sr: you’re erwin’s daughter?!
+phoebe
+sr: you’re erwin’s daughter?!
 phoebe: no, i-i mean your-your old best friend, here. (hands her the picture) lily, from high school. remember?
-phoebe sr: oh gosh, lily, yes. of course i remember lily. i... then you must be?
+phoebe
+sr: oh gosh, lily, yes. of course i remember lily. i... then you must be?
 phoebe: (points to herself) phoebe. (points to her) phoebe. phoebe, yeah. she named me after you i guess.
-phoebe sr: uh-huh. wow! well, look! there’s frank. (points to the picture.)
+phoebe
+sr: uh-huh. wow! well, look! there’s frank. (points to the picture.)
 phoebe: yes!! yes! yes! yes!! that’s my dad, that’s frank! yeah! i’m sorry i’m getting all flingy.
-phoebe sr: take it easy--if you want, there’s cookies on the counter, or, or--sangria! (jumps up) i can make sangria!
+phoebe
+sr: take it easy--if you want, there’s cookies on the counter, or, or--sangria! (jumps up) i can make sangria!
 phoebe: no-no, sorry. cookies are good, thanks.
-phoebe sr: oh.
+phoebe
+sr: oh.
 phoebe: (goes and gets some cookies) well, so, umm, anyway umm, i’ve been, i’ve been looking for my father, and umm, have you heard from him, or seen him?
-phoebe sr: oh no, i-i’m sorry, i guess we lost track of everybody after high school.
+phoebe
+sr: oh no, i-i’m sorry, i guess we lost track of everybody after high school.
 phoebe: (disappointed) oh, okay. well, so tell me everything about my parents. everything.
-phoebe sr: ohh, well. y'know we were always together, in fact the had a nickname for the three of us.
+phoebe
+sr: ohh, well. y'know we were always together, in fact the had a nickname for the three of us.
 phoebe: oh, what? what was it?
-phoebe sr: the three losers. oh, poor lily. (phoebe notices a picture on the fridge, takes it, and puts it in her pocket.) ohh, y'know i-i heard about what happened, that must have been just terrible for you, losing your mother that way.
+phoebe
+sr: the three losers. oh, poor lily. (phoebe notices a picture on the fridge, takes it, and puts it in her pocket.) ohh, y'know i-i heard about what happened, that must have been just terrible for you, losing your mother that way.
 phoebe: (happily) yeah, no, it was great.
 [scene: the beach house, it’s still raining. chandler is building a sand castle, rachel is doing monica’s nails, and they’re all drinking margaritas, obviously bored.]
 joey: (getting an idea) hey, y'know what a really good rainy day game is?
@@ -131,7 +143,8 @@ monica: oh well, where is he?!
 phoebe: she was acting, she was pretending like she hasn’t heard from him on years, but i found this picture on her fridge, and look (shows monica)! isn’t this what he would look like now?
 monica: (gasps) totally familiar. (phoebe shows the rest of them.)
 rachel: oh, yeah.
-the guys: yeah!
+the
+guys: yeah!
 monica: well, why would she lie to you?
 phoebe: i don’t know, but we’re having dinner tomorrow night, so i figured, she’s gonna tell me then. y'know maybe she just wanted to give him time to, buy me presents, i don’t know! so, you’re all bored?
 all: ohh!!
@@ -151,7 +164,8 @@ joey: yeah, well, i couldn’t find any cards, so it was either this or strip ba
 ross: okay, (reading the card) fonzy gives you two thumbs up, collect two cool points. yeah.
 phoebe: monica, if you get five cool points, you get to make somebody take off one item of clothing. it hasn’t happened yet, but we’re all very excited.
 ross: okay, come on! (blows on the dice) daddy needs a new pair of electromagnetic microscopes for the prehistoric forensics department! (they all look at him, and he shuts up and rolls the dice.) (he moves his piece) okay. (reading a card) take pinky tuscadero up to inspiration point, collect three cool points!! yeah! which gives me five, and let’s see who is gonna lose their clothes. ummmm, i think i pick our strip poker sponsor mr. joey tribianni.
-the girls: woo-hooooo!!!!
+the
+girls: woo-hooooo!!!!
 joey: all right, relax. it’s just a shoe.
 all: wooooo!!!!
 [cut to later in the game]
@@ -199,7 +213,8 @@ all: hey.
 bonnie: hey! how did everybody sleep?
 rachel: oh, great.
 monica: like a log.
-ross and bonnie: us too.
+ross and
+bonnie: us too.
 rachel: i’m going for a walk.
 (joey finally wakes up.)
 ross: (to joey) good morning. nice breasts by the way.
@@ -280,7 +295,8 @@ chandler: (to joey) noo!! i don’t care! i’m not, i’m not gonna playing one
 (rachel and ross both stop kissing, and quickly step back from each other.)
 joey: but i made cards!!
 rachel: well! good night. (to ross) i’m going upstairs.
-joey and chandler: g’night.
+joey and
+chandler: g’night.
 (rachel walks inside, stops, and turns back to look at ross for a moment then goes upstairs.)
 joey: (to ross) wanna play strip poker for practice?
 [scene: phoebe sr.’s house, phoebe is breaking in through a window.]
@@ -288,19 +304,26 @@ joey: (to ross) wanna play strip poker for practice?
 phoebe: ow! my ass. okay. okay. (she manages to climb completely inside and the window slams shut.) oh, shhh!
 (she starts walking across the darkened room and hits her head on a wind chime hanging from the ceiling, to stop it from making a noise she grabs it and “shhh’s” it. she goes into the kitchen and finds phoebe sr.’s appointment book, to read it she opens the freezer. just as she starts to read, phoebe sr. jumps out from her bedroom with a coat hanger, startling phoebe.)
 phoebe: no! no!! it’s me! it’s me! i-i didn’t want to make any noise!
-phoebe sr: then don't break in!!
+phoebe
+sr: then don't break in!!
 phoebe: i’m sorry.
-phoebe sr: what are you doing here?!
+phoebe
+sr: what are you doing here?!
 phoebe: i-i, came to fill your ice cube trays.
-phoebe sr: what?!
+phoebe
+sr: what?!
 phoebe: umm, okay, okay, look. i took this picture from your fridge. okay, because i know that this is my father. yeah, this is frank buffay and you are standing right there next to him. now, look i deserve to know where i came from. all right? so if you can help me find my father then you should! otherwise, you’re just mean! (pause) so, just tell me the truth!
-phoebe sr: all right, the man in the picture is chuck magioni.
+phoebe
+sr: all right, the man in the picture is chuck magioni.
 phoebe: my father is chuck magioni?
-phoebe sr: no, no, that’s just chuck magioni, i-i sold him a house last year! and i’m very sorry, but i don’t know where your father is, and that’s the truth.
+phoebe
+sr: no, no, that’s just chuck magioni, i-i sold him a house last year! and i’m very sorry, but i don’t know where your father is, and that’s the truth.
 phoebe: oh.
-phoebe sr: but umm, you’re right. i think that a person should know where they come from. wh-which is why i ah, (pause) ahh, (pause) okay. i’m your mother.
+phoebe
+sr: but umm, you’re right. i think that a person should know where they come from. wh-which is why i ah, (pause) ahh, (pause) okay. i’m your mother.
 phoebe: heh?
-phoebe sr: y'know i wanted to tell you yesterday, but i just, i kinda felt all floopy, and...
+phoebe
+sr: y'know i wanted to tell you yesterday, but i just, i kinda felt all floopy, and...
 (at that phoebe’s eyes open in shock.)
 [scene: outside the beach house, ross is telling joey and chandler what happened with rachel.]
 joey: i’m telling ya, you guys are totally getting back together!
@@ -321,11 +344,11 @@ joey: so let me get this straight. if you go with bonnie tonight, you’re doing
 ross: yeah.
 joey: right, and you go with rachel, bonnie’s free tonight?
 [scene: the hallway between the bedrooms. ross is coming upstairs and stops between two doors. he looks at the one on the right, then he looks at the one on his left, thinks about it, and goes in the one on his right.]
-ross: (entering the bedroom) hi. (closes the door)
-closing credits
+ross: (entering the bedroom) hi. (closes the door)r
 [scene: the beach house, chandler is simulating he’s coming to pick up monica for a date. chandler knocks on the door, and monica answers it.]
 chandler: (in a fake voice) hi there.
 monica: that’s that weird voice again.
 chandler: okay! okay! let me try it again, you’re gonna wanna date this next guy, i swear!
 (monica closes the door, chandler knocks, and monica opens it to reveal chandler on his knees.)
-chandler: hi! i’m dorf! you’re date for the evening. (monica walks away in disgust) oh come on! dorf on dating, that’s good stuff!!<EPISODE_END>
+chandler: hi! i’m dorf! you’re date for the evening. (monica walks away in disgust) oh come on! dorf on dating, that’s good stuff!!r
+<EPISODE_END>

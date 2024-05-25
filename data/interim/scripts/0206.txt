@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the baby on the bus
+<EPISODE_START>
+the one with the baby on the bus
 [scene: at monica and rachel's.]
 monica: who da wenny-benny boy? you the wenny-wenny-benny-benny boy, yes. don't cry. don't
 cry. why is he still crying?
@@ -145,9 +146,11 @@ chandler: that's a good plan, joe. next time we wanna pick up women, we should j
 the park and make out. taxi, taxi!
 joey: hey, hey, look at that talent.
 chandler: (to taxi driver) just practicing. you're good. carry on.
-girl 1 on bus: hey, you. he's just adorable.
+girl 1 on
+bus: hey, you. he's just adorable.
 chandler: ok, but can you tell him that, because he thinks he's too pink.
-girl 2 on bus: so what are you guys out doing today?
+girl 2 on
+bus: so what are you guys out doing today?
 joey: oh we're not out. no, no. we're just uh, two heterosexual guys, hanging with the son
 of our other heterosexual friend, doin' the usual straight guy stuff.
 chandler: you done?
@@ -162,7 +165,8 @@ drink?
 girl 1: so uh, you wanna go to marquel's?
 chandler: oh, sure, they love us over there.
 girl 2: where's your baby?
-chandler and joey: (running after bus) ben! ben! ben!
+chandler and
+joey: (running after bus) ben! ben! ben!
 chandler: oh, that's good. maybe he'll hear you and pull the cord.
 both: stop the bus! wait! wait! wait!
 monica: are you sure he didn't break it because it really hurts.
@@ -198,9 +202,11 @@ rachel: uh, to stephanie schiffer.
 stephanie: thank you. i'd like to start with a song that i wrote for the first man i ever
 loved. (singing) zachary.
 phoebe: (singing/screaming) you're all invited to bite me!
-chandler and joey: hi. we're the guys who called about the baby. we left the baby on ths
+chandler and
+joey: hi. we're the guys who called about the baby. we left the baby on ths
 bus. is he here? is he here?
-transit authority guy: he's here. (chandler and joey hug each other in relief) i'm
+transit authority
+guy: he's here. (chandler and joey hug each other in relief) i'm
 assuming one of you is the father.
 chandler: that's me.
 joey: i'm him.
@@ -296,5 +302,5 @@ stephanie: ok.
 phoebe: mmmm hmmm.
 together: smelly cat, smelly cat, what are they feeding you? smelly cat, smelly cat, it's
 not your fault.
-phoebe: that's too much. sorry.
-end<EPISODE_END>
+phoebe: that's too much. sorry.r
+<EPISODE_END>

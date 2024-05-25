@@ -1,5 +1,5 @@
-<EPISODE_START>912 - tow phoebe's rats
-aired: 16/1/2003 teleplay by: brian buckner and sebastian jones directed by: ben weiss transcribed by: roni raab
+<EPISODE_START>
+the one with phoebe's rats
 chandler: hey
 joey: hey. so where's mon?
 chandler: oh, she's at home, putting up decorations for rachel's birthday party tonight.
@@ -7,10 +7,12 @@ joey: and you're not helping?
 chandler: i tried, but apparantly singing "i will survive" in a helium voice - not helping.
 (ross and rachel enter with emma in rachel's hands)
 ross: hey you guys!
-joey and chandler: (start to sing) hey! happy birthday ...
+joey and
+chandler: (start to sing) hey! happy birthday ...
 rachel: shhh don't say that loud, gunther's gonna want to hug me.
 ross: uh, good news everyone, we finally found a nanny. this is molly (points to molly). molly, chandler, joey.
-joey and chandler: hi.
+joey and
+chandler: hi.
 molly: hi.
 (emma starts to cry)
 ross: ooh, somebody's getting a little fussy.
@@ -32,8 +34,7 @@ rachel: am i the only one who doesn't think that she's hot? ross?
 ross: eh, i mean, i mena she's not unattractive but hot? i ....
 rachel: thank you! (goes to get coffee)
 chandler: now that rachel's gone?
-rachel: so hot i cried myself to sleep last night. (joey and chandler clap their hands)
-opening credits
+rachel: so hot i cried myself to sleep last night. (joey and chandler clap their hands)r
 [scene: mike and phoebe in phoebe's place, phoebe is doing a crossword puzzle]
 phoebe: hey mike, what's the capital of peru?
 mike: lima.
@@ -91,7 +92,8 @@ ross: ok, i'll be home right after work. ok, by emma-wemma-demma, i love you - w
 molly: bye
 monica: they've elected me to talk to you about the baby talk - it's not so good.
 molly: i think it's sweet. (goes to leave)
-ross, joey and chandler: bye, emma-wemma-demma.
+ross, joey and
+chandler: bye, emma-wemma-demma.
 rachel: (to joey) hey, listen, joey, about molly, i really prefer if you didn't go after her.
 joey: why not?
 rachel: because it took us months to find a good nanny and i wouldn't want anything to, you know, drive her away.
@@ -216,7 +218,8 @@ joey: (upset) will the stable boy never get the princess??
 ross: what do you think you're gonna do, have sex with her right here on my couch?
 joey: no ... the leather sticks to my ass. you know, this isn't fair. what makes you think that i'm just gonna sleep with her and then blow her off? huh? can't you guys open your minds to the possibility that i actally like her, and might want something real? (pause) look, the truth is, i haven't felt this way about anyone since rachel, ok? i didn't think i could ever love again.
 (pause)
-ross and chandler: come on! joe!
+ross and
+chandler: come on! joe!
 joey: ok (admits)
 (knock on door, ross opens, it's a woman)
 woman: hi, is molly here?
@@ -266,8 +269,7 @@ gavin: i do have feelings for you.
 rachel: you do?
 gavin: yes, i feel that you are a little annoying.
 rachel: see? why, gavin, why? right when i'm about to change my opinion of you, you go and you ... (he kisses her) and you do that ... (they kiss again)
-[cut to ross from his appartment, holding baby toys and is shocked to see them kissing]
-ending credits
+[cut to ross from his appartment, holding baby toys and is shocked to see them kissing]r
 chandler: (sings in a helium voice) first i was afraid, i was petrified (very happy)
 phoebe: (walks in) hey
 chandler: (normal voice) hi
@@ -276,4 +278,5 @@ chandler: oh, well someone left this (shows a green jacket). this is yours?
 phoebe: (likes the jacket) no, but i like it. i think i left one of my rat babies.
 chandler: oh, uh, well, i haven't seem it but if i do i'll let you know.
 monica: ohmygod! rat baby! rat baby! rat baby! (screams from another room)
-phoebe: (realizes) ooh, maybe that's him!<EPISODE_END>
+phoebe: (realizes) ooh, maybe that's him!
+<EPISODE_END>

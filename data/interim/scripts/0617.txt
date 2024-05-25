@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the unagi
+<EPISODE_START>
+the one with the unagi
 [scene: central perk, ross, chandler, and phoebe are there. joey is working.]
 ross: hey, remember when i had a monkey?
 chandler: yeah.
@@ -20,8 +21,7 @@ joey: yeah?
 gunther: what did i tell you about talking to your friends while you’re working?
 joey: uhh do it?
 gunther: that guy (points) has been waiting for his coffee for ten minutes! he’s complained about you three times! (he hands the coffee cup to joey, assuming that joey will deliver it and walks away.)
-joey: well, where was i? (takes a sip of the coffee.)
-opening credits
+joey: well, where was i? (takes a sip of the coffee.)r
 [scene: central perk, ross is there as phoebe and rachel enter wearing workout clothes.]
 ross: hi!
 phoebe: hey!
@@ -126,7 +126,8 @@ ross: why not?
 chandler: because it says "captain ross" on the side and "i hate monica" on the bottom.
 ross: oh.
 (chandler leaves dejectedly. when the door closes rachel and phoebe jump out from behind the curtains and scream…)
-phoebe and rachel: danger!!!!!
+phoebe and
+rachel: danger!!!!!
 (ross screams like a little girl.)
 rachel: ahhhhh, salmon skin roll. (she does the finger thing.)
 [scene: monica and chandler’s bedroom, he’s still trying to figure out what to make monica.]
@@ -207,11 +208,14 @@ carl: another minute maid fiasco.
 joey: that’s right! and what are you not gonna do?
 carl: well, i’m not gonna talk because…
 joey: (gets very angry) damnit carl! (carl goes to say something more, and joey silences him with a grunt.)
-the doctor: (entering) (to the receptionist) can i have the next one please? (takes the form.) joey and tony tribbiani. (joey and carl stand up.)
+the
+doctor: (entering) (to the receptionist) can i have the next one please? (takes the form.) joey and tony tribbiani. (joey and carl stand up.)
 joey: that’s us.
-the doctor: (seeing they’re not identical) but uh, this is a study for identical twins.
+the
+doctor: (seeing they’re not identical) but uh, this is a study for identical twins.
 joey: that’s right, $2,000.
-the doctor: but, you’re not identical twins.
+the
+doctor: but, you’re not identical twins.
 joey: damnit carl!
 [scene: monica and chandler's, monica is getting ready for chandler’s arrival. he enters and finds the place lit with candles and dinner on the table.]
 chandler: oh my good god.
@@ -229,20 +233,27 @@ kiss and chandler freezes in terror.) that’s why i made you this tape! happy
 birthday! love janice!
 chandler: no! you’re the sweetest! (he tries to kiss her but monica backs away with a look that could kill on her face.)
 [scene: a women’s self-defense class, the instructor is just finishing a class.]
-the instructor: okay ladies, that ends today’s class, and let’s remember, let’s be safe out there.
+the
+instructor: okay ladies, that ends today’s class, and let’s remember, let’s be safe out there.
 (the women all clap and start to leave as ross comes up to the instructor. apparently he was hiding in the back.)
 ross: it’s a great class.
-the instructor: thanks.
+the
+instructor: thanks.
 ross: yeah, yeah, i was watching. (the instructor just nods and walks away.) umm, hey, a couple of questions though. umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?
-the instructor: well, she would take her keys and try to jam them…
+the
+instructor: well, she would take her keys and try to jam them…
 ross: no. no-no. no. what would you do next?
-the instructor: who? me the attacker?
+the
+instructor: who? me the attacker?
 ross: yes that’s right.
-the instructor: why?
+the
+instructor: why?
 ross: i tired attacking two women, did not work.
-the instructor: what?!
+the
+instructor: what?!
 ross: no, i mean it’s okay, i mean, they’re-they’re my friends. in fact, i-i-i was married to one of them.
-the instructor: let me get this straight man, you attacked your ex-wife?!
+the
+instructor: let me get this straight man, you attacked your ex-wife?!
 ross: oh, no! no-no! no, i tired! but i couldn’t. that’s why i’m here. maybe we could attack them together? (he glares at him.) that-that’s a no.
 [scene: monica and chandler's, chandler is trying to explain himself to monica.]
 chandler: i am so, so, so, so sorry!
@@ -252,14 +263,15 @@ monica: (pointing to the kitchen) yeah you will! (points to the bedroom) and, ar
 chandler: come on monica, it’s our valentine’s day. please? please-please, please?
 monica: okay.
 chandler: okay. (they hug.)
-janice’s voice: (singing) my funny valentine, sweet comic valentine! you
+janice’s
+voice: (singing) my funny valentine, sweet comic valentine! you
 make me high over my heart!
 (monica breaks the hug and starts for the bedroom.)
 chandler: so, are we going in there?
 monica: i am!! (enter her room and closes the door behind her.)
-janice’s voice: (singing) you’re look for laughable…(she does
-the now patented janice laugh.)
-ending credits
+janice’s
+voice: (singing) you’re look for laughable…(she does
+the now patented janice laugh.)r
 [scene: the street in front of central perk, ross is walking up and sees two women that look like phoebe and rachel from behind.]
 ross: ah-ha, nowhere to run! (he starts to run towards them.)
 [cut to central perk, phoebe and rachel are sitting up by the window because two guys have their couch.]
@@ -271,4 +283,5 @@ ross: danger!!!!
 rachel: oh my god! why is he jumping on those women!
 phoebe: we should help him!
 rachel: i… well, i don’t think they need any help.
-(ross starts to scream and run away. he stops in front of the window of central perk to check the pursuit and notices phoebe and rachel inside looking at him. he mouths, "what?" then realizes that the women he attacked are closing in so he screams and runs away.)<EPISODE_END>
+(ross starts to scream and run away. he stops in front of the window of central perk to check the pursuit and notices phoebe and rachel inside looking at him. he mouths, "what?" then realizes that the women he attacked are closing in so he screams and runs away.)r
+<EPISODE_END>

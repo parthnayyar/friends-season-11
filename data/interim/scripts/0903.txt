@@ -1,5 +1,7 @@
-<EPISODE_START>903 - the one with the pediatrician
-transcribed by: ane b. j.
+<EPISODE_START>
+the one with the pediatrician
+transcribed
+by: ane b. j.
 [scene: chandler and monica's apartment]
 (ross and rachel enter)
 rachel: hi!
@@ -101,7 +103,8 @@ joey: mike.
 phoebe: mike? okay! what's his last name?
 joey: damnit! is there no mystery left in romance anymore!?
 phoebe: all right, we'll se you and mike at the restaurant in a couple hours.
-joey and phoebe: (ad-lib good-byes) (phoebe leaves)
+joey and
+phoebe: (ad-lib good-byes) (phoebe leaves)
 joey: why did i have to say mike? i don't know a mike! why couldn't i have said... (looks through his address book) there's no guy in there!
 [scene: chandler and monica's apartment]
 rachel: it's impossible to find a good doctor. i mean, how do you know the good ones from the ones who are gonna push their penis against your knee?
@@ -142,7 +145,8 @@ joey: what? that's the kinda thing you usually run by me.
 mike: i always wanted to play piano professionally, and i figured if i don't do this now, i never will.
 phoebe: wow, that's great! i liked that better than the law thing, so...
 joey: which is why i waited until now to introduce you to mike.
-mary ellen: i thought you thought he was still a lawyer.
+mary
+ellen: i thought you thought he was still a lawyer.
 joey: no, no, that's not what i meant. let's get you a cocktail.
 [scene: chandler and monica's apartment]
 (monica enters. chandler is in the kitchen with his laptop)
@@ -162,9 +166,11 @@ monica: (on phone) hi, nancy. hi, it's monica geller. i'm good. listen, i'm look
 [scene: pediatrician's office]
 rachel: hi, my name is rachel green, i have an appointment for emma.
 receptionist: dr. gettleman is finishing up with a patient, he should be out shortly.
-dr. gettleman: (to a patient) i think you just have a cold, it's definitely not strep.
+dr.
+gettleman: (to a patient) i think you just have a cold, it's definitely not strep.
 ross: thanks doctor.
-dr. gettleman: would you like a lollypop?
+dr.
+gettleman: would you like a lollypop?
 ross: you even have to ask?! (he grabs a lollypop out of a jar) (sees rachel) (to rachel) he is alive!
 [scene: restaurant]
 phoebe: you know, it's so surprising that you and joey have known each other for so long and i've never heard about you.
@@ -173,7 +179,8 @@ mike: no, i didn't.
 joey: that's okay mike, i have forgiven you. and now we're friends again everything's great!
 mary ellen wait, is your mom okay?
 joey: please, we're trying to have a conversation. (pushes the wine glass closer to mary ellen.)
-mary ellen: wow, you're a lot nicer on 'days of our lives'.
+mary
+ellen: wow, you're a lot nicer on 'days of our lives'.
 mike: 'days of our lives'! that's why you look so familiar!
 phoebe: what?!
 mike: what?!
@@ -187,13 +194,15 @@ phoebe: joey, why did you set me up with a stranger?
 joey: because i forgot about our date, i'm so sorry.
 mike: i'm sorry too. and just to be clear, i didn't hit his mother with a car.
 phoebe: (to joey) you are unbelievable! i spent so much time finding the perfect girl for you, you know. mary ellen is really smart and cute and loose.
-mary ellen: hey!
+mary
+ellen: hey!
 phoebe: who are you kidding? (to joey) you just find some guy off the street for me? oh god! this is humiliating!
 joey: look phoebe i'm so sorry! hey, look, if you don't like this guy i can find you a better one. (looks around) mike!! mike!!
 phoebe: i'm out of here (she leaves)
 mike: it was nice meeting you!
 joey: (to mary ellen) you're leaving too?
-mary ellen: i'll stay if you can tell me my name.
+mary
+ellen: i'll stay if you can tell me my name.
 joey: good night!
 [scene: chandler and monica's apartment]
 chandler: honey, we're leaving tomorrow you've still got a lot of packing to do.
@@ -284,16 +293,19 @@ chandler: any chance you are trying to pick a fight to make all this easier?
 joey: dude, you see right thru me!! (they hug) (joey heads for the door and pushes chandler's suitcase on the way out.)
 chandler: well, bye mon, bye ross, rachel, bye emma!
 phoebe: okay, bye-bye! (pushes chandler out the door.) good trip! (slams the door)
-monica: (runs out to the hallway) chandler, wait. it goes: old job, (raises her hand) new job, (raises her hand really high) you. this is just something i have to do.
+monica: (runs out to the hallway) chandler, wait. it
+goes: old job, (raises her hand) new job, (raises her hand really high) you. this is just something i have to do.
 chandler: i know.
 monica: i love you so much.
 chandler: i know that too. (they kiss)
 (joey opens the door and takes chandler's suitcase into his own apartment.)
 [scene: airport]
 chandler: (on cell phone) don't worry, i'll be back before you know it. yes it will be the same. because i know, that's how. i promise.
-cut to: monica and chandler's apartment.
+cut
+to: monica and chandler's apartment.
 joey: (on the phone with chandler) double promise? call me when you land.
 monica: can i talk now?
 joey: okay, bye. (he hangs up the phone.)
 monica: joey?
-joey: he had to board.<EPISODE_END>
+joey: he had to board.
+<EPISODE_END>

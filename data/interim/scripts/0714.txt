@@ -1,4 +1,5 @@
-<EPISODE_START>the one where they all turn thirty
+<EPISODE_START>
+the one where they all turn thirty
 [scene: joey and rachel's, joey is knocking on rachel’s door, whose door frame is decorated with balloons. the rest of the gang is there as well. rachel opens the door and the gang blow on noisemakers.]
 ross: happy birthday!!!
 monica: happy birthday!!!
@@ -27,14 +28,14 @@ ross: hey, 30 is not that old! do you know how old the earth is?
 rachel: late thirties? oh come on you guys! is it just me? am i overreacting to this?
 chandler: no rach, it’s not just you. my thirtieth birthday certainly wasn’t that much fun.
 [flashback to chandler’s thirtieth birthday party. it is also being held in monica and his apartment. he is about to blow out the candles on his birthday cake.]
-joey: (screaming) and now chandler! we’re all gettin’ so old! (looking up) why are you doing this to us?! (turns away crying.)
-opening credits
+joey: (screaming) and now chandler! we’re all gettin’ so old! (looking up) why are you doing this to us?! (turns away crying.)r
 [scene: joey and rachel's, breakfast is finished but rachel’s still down.]
 monica: rach, you’re in a great place in your life. come on, you’ve got a great job! good friends…
 joey: yeah, you’re roommate is a soap opera star.
 rachel: look, y’know i know my life’s going pretty well, but i look around and i just see so many people who’ve accomplished so many other goals by the time they’re thirty.
 phoebe: yeah, but you shouldn’t compare yourself to me.
-[flashback to: the street in front of central perk, ross and joey are holding a yellow tape across the road and everyone is cheering phoebe as she bounces around the corner on a hippity-hop.]
+[flashback
+to: the street in front of central perk, ross and joey are holding a yellow tape across the road and everyone is cheering phoebe as she bounces around the corner on a hippity-hop.]
 all: come on phoebe! you can do it phoebe! come on!
 rachel: there you go!
 (she crosses the line and they all cheer again.)
@@ -45,7 +46,8 @@ tag: come on, let’s have some fun. huh? (to rachel) what do you want to do tod
 rachel: nothing. i don’t want to do anything.
 monica: well, doing nothing on your thirtieth is better than doing something stupid, like ross.
 ross: hey! that was a practical purchase! i needed that car for transportation! okay? i-i have a child!
-[flashback to: a street, ross is sitting in his newly purchased mgb. which is one of the better british sports cars ever made. of course, ‘better’ is a relative term. which reminds me of a joke. why don’t the british make computers? because they couldn’t figure out how to make them leak oil. anyway, the gang is all staring at his new purchase.]
+[flashback
+to: a street, ross is sitting in his newly purchased mgb. which is one of the better british sports cars ever made. of course, ‘better’ is a relative term. which reminds me of a joke. why don’t the british make computers? because they couldn’t figure out how to make them leak oil. anyway, the gang is all staring at his new purchase.]
 ross: how hot do i look in this, huh?!
 chandler: ross, a sports car? wouldn’t it have been cheaper to just stuff a sock down there?
 ross: that’s not what this is about okay? i-i am a sports car enthusiast. i have always been into cars.
@@ -73,13 +75,16 @@ chandler: (to joey) would you put that back on?! monica’s gonna be here any mi
 joey: but it hurt’s my joey’s apple.
 chandler: (frustrated) okay, for the last time. it’s not named for each individual man.
 (joey walks away and mr. and mrs. geller walk up. mr. geller is wearing this ancient velvet tuxedo.)
-mrs. geller: (to chandler) you’ve done a wonderful job with this party chandler. everything looks so lovely.
+mrs.
+geller: (to chandler) you’ve done a wonderful job with this party chandler. everything looks so lovely.
 chandler: oh well, not as lovely as you. i mean, i can’t believe that you would have a thirty-year-old daughter! (to mr. geller) and you! i can’t believe that you would have a tux that’s thirty years old! (puts his hand on mr. geller’s shoulder.)
-mr. geller: it’s older than that. ross was actually conceived right near this tuxedo.
+mr.
+geller: it’s older than that. ross was actually conceived right near this tuxedo.
 chandler: ohh! (he quickly removes his hand and looks at it.)
 rachel: (entering) hey! everybody hide! hide! i saw her! she’s coming!
 chandler: okay! okay! everybody down! everybody down! (rachel turns off the lights and everyone crouches. as everyone crouches, a ripping noise erupts from the assemblage.)
-mr. geller: crap.
+mr.
+geller: crap.
 (we hear some fumbling at the door, then silence.)
 chandler: (getting up to investigate) okay, everybody stay here. i will find out what’s going on.
 (he goes out into the hall and finds a very drunk monica lying up against joey and rachel’s door.)
@@ -146,8 +151,10 @@ ursula: right, okay, then no.
 chandler: okay before we start the celebration, monica has to go put on her party dress.
 monica: yay!
 chandler: see? (does his laugh.) here we go. (starts walking her to their room, and has to pass in front of mr. geller who’s sitting at the table and mrs. geller who’s standing next to him.)
-mr. geller: happy birthday, sweetie! give us a hug! (starts to get up.)
-mrs. geller: (stopping him) don’t get up jack! the safety pins are about to blow.
+mr.
+geller: happy birthday, sweetie! give us a hug! (starts to get up.)
+mrs.
+geller: (stopping him) don’t get up jack! the safety pins are about to blow.
 (they continue their trek.)
 monica: (sees someone) paul!
 chandler: (correcting her) phil.
@@ -213,12 +220,15 @@ chandler: (to monica) now all you have to do is just get through a little bit mo
 phoebe: (clinking two glasses together) speech! speech! let’s hear from the birthday girl! huh?
 chandler: pheebs!!
 phoebe: don’t you see? everyone’s looking at me! the plan’s working! i didn’t even have to take off my top yet!
-mrs. geller: speech! come on monica!
+mrs.
+geller: speech! come on monica!
 ross: come on!
 all: come on! speech!
 (monica stands up and wobbles slightly and chandler runs over to catch her.)
-mr. geller: (filming this) hey chandler, you can’t keep your hands off her for one second!
-mrs. geller: oh-ho, i think it’s nice.
+mr.
+geller: (filming this) hey chandler, you can’t keep your hands off her for one second!
+mrs.
+geller: oh-ho, i think it’s nice.
 chandler: i think it’s necessary. (backs away anyhow.)
 monica: i-i-i wanna thank you all for coming. my family and my friends…
 phoebe: (screaming) wooo!! hoo!!
@@ -292,9 +302,9 @@ ross: yes! my baby’s finally free!
 joey: all-all right! (they run and jump in the car.) start it up! let’s go!
 ross: (starting it) woohoo!
 (just as they are about to pull away, a big, fat, bald guy pulls up in the exact same car as ross and stops next to him.)
-the man in the sportscar: how hot are we? (he drives off.)
+the man in the
+sportscar: how hot are we? (he drives off.)
 ross: you wanna buy a car?
 joey: no.
-(ross shuts it off and they get out.)
-ending credits
-{transcriber’s note: there was no credits scene with this episode.}<EPISODE_END>
+(ross shuts it off and they get out.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the monkey
+<EPISODE_START>
+the one with the monkey
 [scene: monica and rachel's, ross is entering.]
 ross: guys? there's a somebody i'd like you to meet.
 (a monkey jumps on to his shoulder.)
@@ -13,8 +14,7 @@ chandler: hey, that monkey's got a ross on its ass!
 monica: ross, is he gonna live with you, like, in your apartment?
 ross: yeah. i mean, it's been kinda quiet since carol left, so...
 monica: why don't you just get a roommate?
-ross: nah, i dunno... i think you reach a certain age, having a roommate is kinda pathe- (realises) ....sorry, that's, that's 'pathet', which is sanskrit for 'really cool way to live'.
-opening credits
+ross: nah, i dunno... i think you reach a certain age, having a roommate is kinda pathe- (realises) ....sorry, that's, that's 'pathet', which is sanskrit for 'really cool way to live'.r
 [scene: central perk, phoebe is getting ready to sing. joey is not there.]
 phoebe: so you guys, i'm doing all new material tonight. i have twelve new songs about my mother's suicide, and one about a snowman.
 chandler: might wanna open with the snowman.
@@ -27,7 +27,8 @@ joey: i dunno. some fat guy's sleeping with the store manager. he's not even jol
 monica: so what are you gonna be?
 joey: ah, i'm gonna be one of his helpers. it's just such a slap in the face, y'know?
 rachel: hey, do you guys know what you're doing for new year's? (they all protest and hit her with cushions) gee, what?! what is wrong with new year's?
-chandler: nothing for you, you have paolo. you don't have to face the horrible pressures of this holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! man, i'm talking loud!
+chandler: nothing for you, you have paolo. you don't have to face the horrible pressures of this
+holiday: desperate scramble to find anything with lips just so you can have someone to kiss when the ball drops!! man, i'm talking loud!
 rachel: well, for your information, paolo is gonna be in rome this new year, so i'll be just as pathetic as the rest of you.
 phoebe: yeah, you wish!
 chandler: it's just that i'm sick of being a victim of this dick clark holiday. i say this year, no dates, we make a pact. just the six of us- dinner.
@@ -211,11 +212,13 @@ chandler: kill me. kill me now.
 (someone else knocks on the door. monica looks through the spyhole)
 monica: hey everybody! it's fun bobby!
 (everyone cheers. monica opens the door. bobby is obviously very depressed)
-fun bobby: hey, sorry i'm late. but my, uh, grandfather, he- died about two hours ago. but i-i-i couldn't get a flight out 'til tomorrow, so here i am!
+fun
+bobby: hey, sorry i'm late. but my, uh, grandfather, he- died about two hours ago. but i-i-i couldn't get a flight out 'til tomorrow, so here i am!
 joey: (approaching) hey fun bobby! whoah! who died?
 (monica gestures wildly behind fun bobby's back)
 [time lapse. bobby is talking about his grandfather. everyone else is virtually in tears]
-fun bobby: it's gonna be an open casket, y'know, so at least i'll- i get to see him again.
+fun
+bobby: it's gonna be an open casket, y'know, so at least i'll- i get to see him again.
 janice: (ross is still taking their photo) oh, i'm gonna blow this one up, and i'm gonna write 'reunited' in glitter.
 chandler: alright, janice, that's it! janice... janice... hey, janice, when i invited you to this party i didn't necessarily think that it meant that we-
 janice: oh, no. oh, no.
@@ -240,7 +243,8 @@ david: uh, ow.
 phoebe: ooh, sorry. um, and, and then you put your arms around me. and then you put your arms around me. (he does so) and, um, and then you tell me that you love me and you'll never forget me.
 david: i'll never forget you.
 phoebe: and then you say that it's almost midnight and you have to go because you don't wanna start the new year with me if you can't finish it. (they kiss) i'm gonna miss you. you scientist guy.
-dick clark: (on tv) hi, this is dick clark, live in times square. we're in a virtual snowstorm of confetti here in times square...
+dick
+clark: (on tv) hi, this is dick clark, live in times square. we're in a virtual snowstorm of confetti here in times square...
 (joey puts a blanket over sandy's kids)
 joey: there y'go, kids.
 chandler: (to a woman who he has clearly just met) and then the peacock bit me. (laughs) please kiss me at midnight. (she leaves)
@@ -249,7 +253,8 @@ chandler: ooh. uh, i don't know how to tell you this, but she's in monica's bedr
 rachel: vrrbddy, the bll is drrbing.
 all: (in the kitchen) what?
 rachel: the bll is drrbing!
-dick clark: (on tv) in twenty seconds it'll be midnight...
+dick
+clark: (on tv) in twenty seconds it'll be midnight...
 chandler: and the moment of joy is upon us.
 joey: looks like that no date pact thing worked out.
 phoebe: everybody looks so happy. i hate that.
@@ -262,8 +267,8 @@ monica: so i'm kissing everyone?
 joey: nonono, you can't kiss ross, that's your brother.
 ross: perfect. perfect. so now everybody's getting kissed but me.
 chandler: alright, somebody kiss me. somebody kiss me, it's midnight! somebody kiss me!
-joey: alrightalrightalright. (kisses him. ross takes a photo) there.
-closing credits
+joey: alrightalrightalright. (kisses him. ross takes a photo) there.r
 [scene: monica and rachel's, time lapse.]
 ross: (watching marcel and talking to rachel) i wanted this to work so much. i mean i'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. just so hard to accept the fact that something you love so much doesn't love you back.
-rachel: ...i think that bitch cracked my tooth.<EPISODE_END>
+rachel: ...i think that bitch cracked my tooth.r
+<EPISODE_END>

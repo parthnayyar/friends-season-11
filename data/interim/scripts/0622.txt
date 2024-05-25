@@ -1,4 +1,5 @@
-<EPISODE_START>the one where paul’s the man
+<EPISODE_START>
+the one where paul’s the man
 [scene: central perk, rachel, chandler, monica, and joey are there as phoebe enters.]
 phoebe: (dejected) hi, you guys.
 chandler: hey!
@@ -12,7 +13,8 @@ joey: me too.
 phoebe: okay that’s so generous!
 chandler: and i think ross is generous too.
 phoebe: great! okay then it’s just us girls!
-monica and rachel: (less than enthused) great.
+monica and
+rachel: (less than enthused) great.
 phoebe: yeah.
 rachel: so what-what is the exhibit.
 phoebe: it’s mostly just photographs of lesbian love scenes interspersed with video games and free sandwiches.
@@ -41,19 +43,21 @@ ross: all right look, i-i realize it upsets you.
 paul: yes it does.
 ross: but, elizabeth and i are-are both adults and so i don’t think there’s really anything you can do about it.
 paul: i’ll call the university and tell them about your relationship and have you fired.
-ross: ohh! a man with a plan!
-opening credits
+ross: ohh! a man with a plan!r
 [scene: a dry cleaners, joey is there with phoebe and is trying to get his picture put back amongst the other celebrities hanging on the walls.]
 phoebe: oh, this is so exciting! you get your picture back up on the wall of fame! eek!
 joey: i know. it was so cool when i was up there before. me and jim belushi would just be crackin’ up about something… then i get fired off of days of our lives and he takes me down. now he’s just laughing at me. look at him, that smug belushi bastard, i’ll…
 phoebe: (gasps) ohh, okay maybe they put your picture back up they can put you next to matt lauer. look at him, smiling at me. (giggles) yeah i know; we’d be great together!
 (the dry cleaner finishes with the customer in front of joey and they approach the counter.)
 joey: hey! so i’m back.
-the dry cleaner: who are you?
+the dry
+cleaner: who are you?
 joey: joey tribbiani! from the wall! (the dry cleaner doesn’t remember) okay, maybe this will jog your memory, huh? (holds his picture up in front of his face.) huh? okay eh-ah-anyway, i’m ready to go back up on the wall i’m the star of a new tv show.
-the dry cleaner: (picking up a tv guide) show me in the table.
+the dry
+cleaner: (picking up a tv guide) show me in the table.
 joey: oh well, it’s not on tv yet.
-the dry cleaner: well, then it’s not on the wall yet.
+the dry
+cleaner: well, then it’s not on the wall yet.
 joey: okay, fine, i will bring you a tape, huh? (walks away)
 phoebe: so umm, now do you have any of matt lauer’s clothes here? maybe? just ones that haven’t been cleaned yet?
 (the dry cleaner just stares at her and she retreats.)
@@ -71,12 +75,15 @@ phoebe: oh wow. what, do you think maybe he’s gonna tell you that he’s gay?
 rachel: what?! no! why?!
 phoebe: no reason! that would just be a really big surprise, right?
 (a museum official enters with another man and woman.)
-the museum official: (to the couple) you can put the aisle over here (points), and put the wedding ceremony right over here. (points.)
+the museum
+official: (to the couple) you can put the aisle over here (points), and put the wedding ceremony right over here. (points.)
 rachel: i didn’t know you could get married here.
 monica: this would be a beautiful place to get married, yeah, but i wouldn’t put the aisle there and i would never have the ceremony there! (points to both places.) i mean you’d have the ceremony under this big beautiful arch. (the arch at the entrance to the room.)
-the museum official: (to monica) may i help you?
+the museum
+official: (to monica) may i help you?
 rachel: oh sorry didn’t mean to interrupt. it’s just such a beautiful space; do you do a lot of weddings here?
-the museum official: yes. we’re very popular. there’s a two-year waiting list. sorry! (she kinda storms out with the couple.)
+the museum
+official: yes. we’re very popular. there’s a two-year waiting list. sorry! (she kinda storms out with the couple.)
 rachel: monica, you should totally put your name down on the list
 monica: what?! are you crazy?! i’m not getting married! i’m not even engaged.
 phoebe: yeah, but there’s a two-year wait. and then what if you get engaged in two years and then you got to wait another two years for this place. that’s four years. chandler’s not gonna wait that long. he’s gonna find somebody else, y’know? someone, someone who did put their name on the list. (rachel agrees.)
@@ -92,17 +99,23 @@ monica: phoebe, that stuff is…
 phoebe: don’t even get me started on yours!
 [scene: the dry cleaners, joey is trying to get his picture up again.]
 joey: (entering) hey! so, did you watch the tape of my show?
-the dry cleaner: i did.
+the dry
+cleaner: i did.
 joey: all right, let’s get me back up there! (holds out his picture.)
-the dry cleaner: no! it don’t go up on the wall!
+the dry
+cleaner: no! it don’t go up on the wall!
 joey: what—but you saw the show!
-the dry cleaner: yes, it was very offensive to my people!
+the dry
+cleaner: yes, it was very offensive to my people!
 joey: dry cleaners?
-the dry cleaner: russians! it showed them as terrorists and villains!
+the dry
+cleaner: russians! it showed them as terrorists and villains!
 joey: okay! okay, look! you-you-you got harrison ford up there!
-the dry cleaner: that’s right. mr. ford is a very good customer, he brings us a lot of clothes; you bring us nothing!
+the dry
+cleaner: that’s right. mr. ford is a very good customer, he brings us a lot of clothes; you bring us nothing!
 joey: okay well that may be true. but, in-in okay, air force one the russians were terrorists! and evil! and plus he kills a bunch of them! that-that-that’s offensive to russians.
-the dry cleaner: i’ve never seen it!
+the dry
+cleaner: i’ve never seen it!
 joey: oh you should, it’s great.
 (the dry cleaner stares at him and joey retreats.)
 [scene: a cabin in the woods, elizabeth is giving ross a tour.]
@@ -134,10 +147,11 @@ ross: ohh, okay.
 rachel: (from another room) oh my god, what a great surprise! this is such a beautiful house.
 (ross with his pants around his ankles tries to run, but dr. geller forgets that he has his pants around his ankles and falls down trying to flee.)
 paul: (to rachel) thank you, it’s my mom’s. so this is the kitchen.
-(dr. geller, the man with the ph.d. in paleontology, is trying to find a place to hide, but this supposedly intelligent man in the hands of clich�d scriptwriters runs around with his pants down around his ankles like one of the three stooges.)
+(dr. geller, the man with the ph.d. in paleontology, is trying to find a place to hide, but this supposedly intelligent man in the hands of clichd scriptwriters runs around with his pants down around his ankles like one of the three stooges.)
 [scene: monica, chandler, and phoebe's, chandler is reading the newspaper as the phone rings. he let’s the machine answer it.]
 chandler: (on machine) you’ve reached monica and chandler’s, if you’re listening to this message, we’re probably screening. (to himself) yeah we are.
-the museum official: (on phone) hi, this is heldi from the morgan chase museum. i’m calling for monica geller. i want to let her know that there was a cancellation and if she’s still interested in having the bing-geller wedding at our facility, it is available… (chandler runs to answer the phone.)
+the museum
+official: (on phone) hi, this is heldi from the morgan chase museum. i’m calling for monica geller. i want to let her know that there was a cancellation and if she’s still interested in having the bing-geller wedding at our facility, it is available… (chandler runs to answer the phone.)
 chandler: (on phone) this is chandler bing! this is chandler bing! (listens) yes, the groom—no! not the groom!!
 commercial break
 [scene: paul’s cabin, paul and rachel are sitting on the couch drinking wine and talking.]
@@ -189,18 +203,23 @@ chandler: (gets up) see you later. (starts to leave.)
 monica: what? i-i bought groceries, i was gonna make you dinner!
 chandler: (angrily) well next time ask! or at least wait for me to ask! (he storms out.)
 (monica puts the groceries down and goes to check the answering machine and hears.)
-the museum official: (on machine) hi, this is heldi from the morgan chase museum. i’m calling for monica geller.
+the museum
+official: (on machine) hi, this is heldi from the morgan chase museum. i’m calling for monica geller.
 monica: oh no!
-the museum official: (on machine) i want to let her know that there was a cancellation and if she’s still interested in having the bing-geller wedding at our facility, it is available…
+the museum
+official: (on machine) i want to let her know that there was a cancellation and if she’s still interested in having the bing-geller wedding at our facility, it is available…
 monica: oh please, he didn’t hear it! he didn’t hear it!!
 chandler: (on machine) this is chandler bing! this is chandler bing! (the machine beeps off.)
 monica: noooo!!!!!!!!
 [scene: the dry cleaner’s, joey has brought in a bunch of laundry in another attempt to get his picture on the wall, but the dry cleaner isn’t working right now. instead, a beautiful woman is working.]
-female clerk: can i help you?
+female
+clerk: can i help you?
 joey: uh yeah, where-where’s the guy who decides who’s pictures go up on the wall?
-female clerk: he’s not here right now.
+female
+clerk: he’s not here right now.
 joey: oh, you’re kidding me! all-all right, well make sure you tell him that joey tribbiani stopped by to drop off all of these clothes. okay? i’m an actor; i’m kinda getting my picture up there on the wall.
-female clerk: y’know, there are two people who could put your picture up there. (she makes eyes at him.)
+female
+clerk: y’know, there are two people who could put your picture up there. (she makes eyes at him.)
 joey: oh really? well, maybe you and i go out for drinks? (pause) you’re the other one right? (she thinks about it for a second and nods yes.)
 [scene: paul’s cabin, continued from earlier.]
 paul: so lizzie, are-are-are you planning on staying the night?
@@ -230,14 +249,18 @@ monica: well rachel’s not here! (runs out.)
 [scene: the dry cleaner’s, joey and phoebe are entering to see if his picture is on the wall.]
 phoebe: oh! here it is! (noticing it next to the door.) ooh, joey! why did you sign it, "son of a bitch?" (son of a bitch is written across the entire picture.)
 joey: i didn’t do that! who would’ve done that?!
-the dry cleaner: (entering) son of a bitch!
+the dry
+cleaner: (entering) son of a bitch!
 phoebe: okay, maybe ask this guy.
-the dry cleaner: you, get out of my shop!
+the dry
+cleaner: you, get out of my shop!
 phoebe: well, what did he do?
-the dry cleaner: he went out with my wife!
+the dry
+cleaner: he went out with my wife!
 phoebe: joey!
 joey: whoa-whoa-whoa-whoa, i-i—hey! i did not go out with your wife! (the same woman from before enters.) okay? i went out with her! (points at her.)
-the dry cleaner: that’s my wife!!! get out! (starts yelling at him in russian, and i’m betting he’s not saying pleasant things about him.)
+the dry
+cleaner: that’s my wife!!! get out! (starts yelling at him in russian, and i’m betting he’s not saying pleasant things about him.)
 phoebe: well, we should go.
 joey: yeah.
 [scene: paul’s bedroom, elizabeth is entering.]
@@ -280,8 +303,7 @@ phoebe: so did heldi show you the place?
 chandler: yeah, it’s beautiful.
 phoebe: i can’t believe you’re gonna ask monica to marry you!
 chandler: i know.
-(they hug.)
-ending credits
+(they hug.)r
 [scene: central perk, joey is going up to the counter.]
 joey: hey gunther.
 gunther: hey! take these cappuccinos to table 11 and that guy over there (points) wants the biscotti.
@@ -289,4 +311,5 @@ joey: oh uh, well i just came in for a cup of coffee to go.
 gunther: do you still work here?
 joey: no! no, i quit a long time ago. (pause) did i forget to you that one? i’m sorry.
 gunther: oh that’s cool, i was gonna fire you anyway.
-joey: great! (takes his coffee and leaves.)<EPISODE_END>
+joey: great! (takes his coffee and leaves.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with joey’s fridge
+<EPISODE_START>
+the one with joey’s fridge
 [scene: joey and now rachel's apartment, joey has the fridge pulled out away from the wall and is in the process of pulling off the cooling grate behind it.]
 joey: well that thing is clearing in the way! all right. ah-ha! (he grabs a screwdriver and starts to attack the compressor, only he causes a small short circuit and shocks himself.) ah-ah!! damn fridge!
 (rachel enters from her new room.)
@@ -12,8 +13,7 @@ rachel: that refrigerators don’t live as long as people.
 joey: all right, now you know that the atm will only lets you take out 300 at a time, i’ll take a check for the other hundred.
 rachel: you’re jokin’ right?
 joey: of course i’m jokin’! i don’t take checks.
-rachel: thank god you’re pretty. (exits.)
-opening credits
+rachel: thank god you’re pretty. (exits.)r
 [scene: central perk, joey, chandler, monica, and phoebe are there as rachel enters.]
 rachel: hey!
 all: hi! hey!
@@ -127,7 +127,8 @@ elizabeth: spring vacation.
 ross: spring vacation.
 elizabeth: yeah, we have time off and a lot of people are going on trips…
 (another professor barges in.)
-professor feesen: professor geller!
+professor
+feesen: professor geller!
 ross: (quickly jumping away from elizabeth) yes, professor feesen-sen-stenlger… i’ll be with you in one moment. (to elizabeth) so, i will take one box of the thin mints. (and he ushers elizabeth out of the office.)
 [scene: joey and rachel's apartment, ross, chandler, and joey are entering.]
 ross: you don’t understand! elizabeth was about to ask me to go on a trip with her! is that taking it slow?! no, i’m not ready for this! okay? what-what do i tell her?
@@ -324,8 +325,7 @@ elizabeth: oh hey! here they are!
 (a group of about 10 guys and no women come running around the corner.)
 guy: elizabeth!
 (the guys pick up elizabeth and carry her onto the plane as she waves bye.)
-ross: call me!
-ending credits
+ross: call me!r
 [scene: monica, chandler, and phoebe's, rachel, chandler, and phoebe are there.]
 phoebe: rachel, we’re sorry for pushing those guys on you.
 rachel: oh that’s all right! y’know, i ended up having a really good time. y’know, the charity was a big success and they raised a lot of money and awareness.
@@ -340,4 +340,5 @@ phoebe: oh my god, look! that’s elizabeth!
 (suddenly ross jumps in and starts dancing with her.)
 rachel: oh-oh professor geller.
 joey: ahh, to be 13 again.
-chandler: yeah.<EPISODE_END>
+chandler: yeah.r
+<EPISODE_END>

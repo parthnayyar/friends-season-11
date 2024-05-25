@@ -1,5 +1,7 @@
-<EPISODE_START>the one with the girl who hits joey
-[scene: the hallway, ross is running up the stairs. note: this show continues where the last one left off.]
+<EPISODE_START>
+the one with the girl who hits joey
+[scene: the hallway, ross is running up the stairs.
+note: this show continues where the last one left off.]
 ross: chandler!!! chandler!!! (he opens the door to the apartment but is stopped by the chain; chandler and monica quickly stop making out and try to get dressed.) chandler, i saw what you were doing through the window! chandler, i saw what you were doing to my sister! now get out here!
 chandler: (to monica) wow! listen, we had a good run. what was it? four? five months? i mean, that's more than most people have in a lifetime! so, good-bye, take care, bye-bye then! (he kisses her and starts to climb out the balcony window.)
 monica: what are you doing?!
@@ -21,8 +23,7 @@ ross: what? what? what?! you guys knew? (joey and rachel backup against the door
 rachel: well, ross, we were worried about you. we didn't know how you were going to react.
 (pause.)
 ross: (happily again) you were worried about me? you didn't know how i was going to react? (he hugs them both.)
-joey: okay, all right, whew! what do you say we all clear out of here and let these two lovebirds get back down to business? (ross turns and glares at him.) hey-hey-hey, i-i-i'm just talking here, he-he's the one doing your sister.
-opening credits
+joey: okay, all right, whew! what do you say we all clear out of here and let these two lovebirds get back down to business? (ross turns and glares at him.) hey-hey-hey, i-i-i'm just talking here, he-he's the one doing your sister.r
 [scene: central perk, everyone is there.]
 ross: hey, you know what i just realized? if you guys ever have kids…
 chandler: (interrupting) whoa-whoa-whoa! we're having kids?!
@@ -139,7 +140,8 @@ chandler: well, i did not know that.
 commercial break
 [scene: central perk, chandler is getting advice from ross and joey.]
 chandler: it's gonna be okay, right? i mean she's not gonna leave me? this is, this is fixable.
-ross and joey: oh yeah, yeah, sure. absolutely.
+ross and
+joey: oh yeah, yeah, sure. absolutely.
 chandler: by me?
 ross: oh, no!
 joey: no-no.
@@ -156,7 +158,8 @@ chandler: well, that's what we do. y'know, i-i mess up and then you tell me how 
 monica: really? i'm really tired of being your relationship tutor. you're gonna have to figure this one for yourself. all right? y'know what? if you're too afraid to be in a real relationship, then don't be in one. (she walks out.)
 (chandler turns to watch her go and then sees ross and joey both with huge grimaces on their faces.)
 [scene: ross's apartment, he's having his party, only he's the only guest. he gets up and puts on a nametag that says ross, but doesn't quite like it. so he takes it off and puts on one that says dr. geller and he puts the ross one underneath the dr. geller one. then as he turns off the music, we hear the party for howard raging in the apartment across the hall.]
-party guests: (chanting) howard! howard! howard! howard! (ross goes to investigate
+party
+guests: (chanting) howard! howard! howard! howard! (ross goes to investigate
 the noise) howard! howard! howard! (they're holding howard above their heads.) howard!
 howard! howard! howard! howard! (he sees phoebe chanting along with them.) howard! howard!
 howard! howard! howard! howard! howard! howard! howard! yay!!
@@ -260,8 +263,7 @@ monica: y'know what? y'know when i said that i want you to deal with this relati
 chandler: i didn't think i was!
 (they hug.)
 monica: oh my god, what would have done if i said yes?
-chandler: well i would've been happy because i would've be able to spend the rest of my life with the woman that i love. or, you would've seen a chandler shaped hole in that door. (points at the door.)
-ending credits
+chandler: well i would've been happy because i would've be able to spend the rest of my life with the woman that i love. or, you would've seen a chandler shaped hole in that door. (points at the door.)r
 [scene: central perk, everyone is there.]
 joey: hey ross, will you pass me that knife?
 ross: no, i will not!
@@ -275,4 +277,5 @@ monica: well i think the length of teasing is directly related to how insane you
 ross: this is fun. hey rach, remember that whole "we were on a break thing?" well, i'm sorry, will you marry me? (laughs--whines as he sees that no one is laughing. they're just staring at him in shock.)
 chandler: that's not funny.
 joey: that's not funny at all!
-(they all get up and leave.)<EPISODE_END>
+(they all get up and leave.)r
+<EPISODE_END>

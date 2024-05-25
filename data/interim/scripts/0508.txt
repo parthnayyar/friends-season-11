@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the thanksgiving flashbacks
+<EPISODE_START>
+the one with the thanksgiving flashbacks
 [scene: monica and rachel's, everyone has just finished thanksgiving dinner and are groaning over their fullness.]
 rachel: oh monica that was the best thanksgiving dinner ever! i think you killed us.
 ross: i couldn't possibly eat another bite.
@@ -13,8 +14,7 @@ rachel: yeah, you know what we should all do? we should play that game where eve
 joey: ooh-ooh, i! i am thankful for this beautiful fall we've been having.
 monica: that's very nice.
 chandler: that's sweet, joey.
-joey: yeah, the other day i was at the bus-stop and this lovely fall breeze came in out of nowhere and blew this chick's skirt right up. oh! which reminds me, i'm also thankful for thongs. (note: actually, i think every guy is thankful for thongs. that and spandex. j )
-opening credits
+joey: yeah, the other day i was at the bus-stop and this lovely fall breeze came in out of nowhere and blew this chick's skirt right up. oh! which reminds me, i'm also thankful for thongs. (note: actually, i think every guy is thankful for thongs. that and spandex. j )r
 [scene: monica and rachel's, continued from earlier. joey is talking about the wonder that is the thong.]
 joey: i mean, it's not so much an underpant as it is a feat of engineering. i mean, it's amazing how much they can do with so little material! and the way they play with your mind! is it there? is it not there?
 chandler: are you aware that you're still talking?
@@ -30,8 +30,10 @@ chandler: it's a tradition, like the parade. if the parade decided it was gay, m
 (and with that, we start a series of flashbacks to thanksgiving's of years gone by.)
 thanksgiving 1978
 [scene: the bing household, mr. and mrs. bing and young chandler are eating thanksgiving dinner as a housekeeper serves them.]
-mrs. bing: now chandler dear, just because your father and i are getting a divorce it doesn't mean we don't love you. it just means he would rather sleep with the house-boy than me.
-the housekeeper: more turkey mr. chandler? (and he makes eyes at him.)
+mrs.
+bing: now chandler dear, just because your father and i are getting a divorce it doesn't mean we don't love you. it just means he would rather sleep with the house-boy than me.
+the
+housekeeper: more turkey mr. chandler? (and he makes eyes at him.)
 present day
 [scene: monica and rachel's, continued from earlier.]
 ross: you're right. yours is worse. you are the king of bad thanksgivings.
@@ -40,7 +42,8 @@ chandler: really? worse than, "more turkey mr. chandler?"
 phoebe: oh, did the little rich boy have a problem with the butler? yes, mine's worse!
 thanksgiving 1862
 [scene: a union battlefield hospital, phoebe, in a past life, is tending to a wounded union soldier. (by the way, for historical perspective, 1862 was the second year of the american civil war.)]
-past life phoebe: more bandages! more bandages! please, can i get some more
+past life
+phoebe: more bandages! more bandages! please, can i get some more
 bandages in here! this man is dying—(she is cut off by an exploding shell just
 outside the tent. when the smoke clears, she's missing an arm and the blood is pumping out
 like you'd see in a horror movie. and upon seeing her condition, she says…) oh no.
@@ -105,54 +108,84 @@ chandler: oh, come on monica, reliving past pain and getting depressed is what t
 monica: look umm, of all people, you do not want me to tell this story!
 thanksgiving 1987
 [scene: the geller household, mr. and mrs. geller are getting ready for thanksgiving dinner. the doorbell rings.]
-mrs. geller: monica! i think rachel's here!
+mrs.
+geller: monica! i think rachel's here!
 monica: i'll get it! (she runs in, and she's her old fat self like the one with the prom video. not only that, she's out of breath after running a short distance. she goes over and opens the door to reveal rachel with her old nose.) happy thanksgiving!
-big nosed rachel: not for me. chip and i broke up!
-fat monica: oh, why? why? what happened?
-big nosed rachel: well, you know that my parents are out of town and chip was going to come over…
-fat monica: yeah, yeah, and you were going him y'know, your flower.
-big nosed rachel: okay, monica, can you just call it sex?! it really creeps me out when you call it that! okay, and by the way, while we're at it, a guy's thing is not called his tenderness. believe me! (walks into the living room and greets monica's parents.) hi!
-mr. geller: hi rachel!
-big nosed rachel: happy thanksgiving!
-mrs. geller: you too sweethart!
+big nosed
+rachel: not for me. chip and i broke up!
+fat
+monica: oh, why? why? what happened?
+big nosed
+rachel: well, you know that my parents are out of town and chip was going to come over…
+fat
+monica: yeah, yeah, and you were going him y'know, your flower.
+big nosed
+rachel: okay, monica, can you just call it sex?! it really creeps me out when you call it that! okay, and by the way, while we're at it, a guy's thing is not called his tenderness. believe me! (walks into the living room and greets monica's parents.) hi!
+mr.
+geller: hi rachel!
+big nosed
+rachel: happy thanksgiving!
+mrs.
+geller: you too sweethart!
 ross: (entering) hey!
 (he brought home chandler for thanksgiving. chandler is sporting the very popular flock of seagulls haircut. yeah, it's another you have to see it to believe it kinda thing.)
-mr. geller: oh my!
+mr.
+geller: oh my!
 ross: uh, everyone, this is chandler! my roommate and lead singer of our band!
-fat monica: ross! (wanting to be introduced.)
+fat
+monica: ross! (wanting to be introduced.)
 ross: oh, this is monica.
-fat monica: hi, i'm ross's little sister.
+fat
+monica: hi, i'm ross's little sister.
 chandler: (seeing her) okay.
-mrs. geller: i'm so glad you could come chandler, we've got plenty of food so i hope you're hungry.
+mrs.
+geller: i'm so glad you could come chandler, we've got plenty of food so i hope you're hungry.
 ross: oh, mom. mom. chandler hates thanksgiving and doesn't eat any thanksgiving food.
-mrs. geller: oh, well, i'm so glad you brought him here then.
-fat monica: umm, chandler, if you want i can make you some macaroni and cheese for dinner.
+mrs.
+geller: oh, well, i'm so glad you brought him here then.
+fat
+monica: umm, chandler, if you want i can make you some macaroni and cheese for dinner.
 chandler: well, as long as the pilgrims didn't eat it, i'm in.
 (as she is drinking, monica laughs and chandler's joke and diet coke comes out of her nose.)
-fat monica: dammit! (runs off.)
+fat
+monica: dammit! (runs off.)
 (ross points out rachel to chandler and goes over to talk to her. rachel is checking out her nose in her compact mirror.)
 ross: so uh, rach? does it, does it feel weird around here now? y'know since i've been away at college.
-big nosed rachel: oh! no, not really.
+big nosed
+rachel: oh! no, not really.
 ross: well, that's cool. so did… (she walks away from him and he shuts up.)
 (rachel wanders into the kitchen where monica is making chandler's dinner.)
-big nosed rachel: ugh! i cannot believe chip dumped me for that slut nancy branson. i am never going out with him again. i don't care how much he begs!
-fat monica: i think his begging days are over now that he's going out with nancy branson.
-big nosed rachel: y'know what? i've just had it with high school boys! they are just silly. (ross is overhearing this.) silly, stupid boys! i'm going to start dating men!
+big nosed
+rachel: ugh! i cannot believe chip dumped me for that slut nancy branson. i am never going out with him again. i don't care how much he begs!
+fat
+monica: i think his begging days are over now that he's going out with nancy branson.
+big nosed
+rachel: y'know what? i've just had it with high school boys! they are just silly. (ross is overhearing this.) silly, stupid boys! i'm going to start dating men!
 ross: umm, i'm sorry judy, i couldn't find that bowl that you and jack were looking for.
-fat monica: call them mom and dad you loser!
+fat
+monica: call them mom and dad you loser!
 ross: (in a high pitched voice) monica!
 [time lapse, dinner has finished and chandler is sitting on the couch eating some pie. monica sits down beside him, and he gets pushed up a little by the wave she makes in the couch.]
-fat monica: hey chandler! did you like the macaroni and cheese?
+fat
+monica: hey chandler! did you like the macaroni and cheese?
 chandler: oh yeah, it was great. you should be a chef.
-fat monica: okay!
+fat
+monica: okay!
 (he gets up and walks away as rachel come running over all excited.)
-big nosed rachel: guess what?! all that stuff about nancy branson being a slut was all a rumor so chip dumped her and he wants to come over to my house tonight!
-fat monica: oh that's so great!
-big nosed rachel: i know!
-fat monica: oh gosh, listen if you and chip do it tonight, promise me you'll tell me everything.
-big nosed rachel: oh totally, totally. y'know it's not that big of deal, we already kinda did it once y'know.
-fat monica: i know, but y'know, this time you're gonna definitely know whether or not you did it!
-big nosed rachel: i know, i know. and oh, and this time chip promised that-that this time it will last at least for an entire song!
+big nosed
+rachel: guess what?! all that stuff about nancy branson being a slut was all a rumor so chip dumped her and he wants to come over to my house tonight!
+fat
+monica: oh that's so great!
+big nosed
+rachel: i know!
+fat
+monica: oh gosh, listen if you and chip do it tonight, promise me you'll tell me everything.
+big nosed
+rachel: oh totally, totally. y'know it's not that big of deal, we already kinda did it once y'know.
+fat
+monica: i know, but y'know, this time you're gonna definitely know whether or not you did it!
+big nosed
+rachel: i know, i know. and oh, and this time chip promised that-that this time it will last at least for an entire song!
 [cut to the kitchen, ross and chandler are doing the dishes.]
 ross: so i’m thinking about asking rachel out tonight. y'know maybe play her that song we wrote last week.
 chandler: emotional knapsack?
@@ -166,9 +199,12 @@ ross: all right, it's cool you can stay here. my parents won't mind.
 chandler: no, it's not that, i just don't want to be stuck here all night with your fat sister.
 ross: hey!
 (upon hearing this, monica starts to break down and storms out. only to be stopped by her parents.)
-mrs. geller: (holding two pies) monica, why don't you finish off these pies? i don't have any more room left in the fridge.
-fat monica: no. no, thank you!
-mr. geller: well judy, you did it! she's finally full!
+mrs.
+geller: (holding two pies) monica, why don't you finish off these pies? i don't have any more room left in the fridge.
+fat
+monica: no. no, thank you!
+mr.
+geller: well judy, you did it! she's finally full!
 commercial break
 [scene: monica and rachel's, back to the present day.]
 chandler: i called you fat?! i don't even remember that!
@@ -186,22 +222,30 @@ chandler: we wanna hear monica's thanksgiving story!
 phoebe: fine, all right, mine had a dwarf that got broke in half, but y'know whatever.
 thanksgiving 1988
 [scene: the geller household kitchen, mrs. geller is cooking and rachel, post nose job, is helping her.]
-mrs. geller: so rachel, your mom tells me you changed your major again.
+mrs.
+geller: so rachel, your mom tells me you changed your major again.
 rachel: oh, yeah, i had too. there was never any parking by the psychology building.
-mr. geller: (entering) hi rachel.
+mr.
+geller: (entering) hi rachel.
 rachel: oh hi!
-mr. geller: wow, love your new nose!
-mrs. geller: jack.
-mr. geller: what? dr. wilson's an artist! he removed my mole cluster. wanna see? (he starts to show her as the doorbell rings.)
-mrs. geller: i'll get it.
+mr.
+geller: wow, love your new nose!
+mrs.
+geller: jack.
+mr.
+geller: what? dr. wilson's an artist! he removed my mole cluster. wanna see? (he starts to show her as the doorbell rings.)
+mrs.
+geller: i'll get it.
 rachel: no, god! please, let me! (runs out.)
 (she opens the door to reveal chandler and ross. unfortunately, they seem to have their holidays mixed up. they think it's halloween and they're going as crockett and tubbs from that legendary tv show of the late 80's, miami vice. god, we looked silly back then!)
 rachel: hey!
 ross: hey. (to his parents) happy thanksgiving!
-mr. geller: (to chandler) god, your hair sure is different!
+mr.
+geller: (to chandler) god, your hair sure is different!
 chandler: yeah, we were just talking about that. i can't believe how stupid we used to look. (they both quickly push their sleeves over their elbows.)
 ross: so uh, where's monica?
-mrs. geller: she's upstairs. monica! come down! everyone's here! ross, rachel, and the boy who hates thanksgiving.
+mrs.
+geller: she's upstairs. monica! come down! everyone's here! ross, rachel, and the boy who hates thanksgiving.
 (monica enters, but she forgot something. oh, about 150 pounds. in other words, she lost weight, big time!)
 monica: hi, chandler.
 chandler: oh my god!
@@ -209,11 +253,13 @@ monica: what-what's the matter? is there, is there something on my dress? (she t
 chandler: you just, you look so different! terrific! that dress! that body!
 ross: dude!
 chandler: sorry!
-mrs. geller: yes, yes monica is thin. it's wonderful. but what we really want to hear about is ross's new girlfriend.
+mrs.
+geller: yes, yes monica is thin. it's wonderful. but what we really want to hear about is ross's new girlfriend.
 ross: oh mom! okay, umm, her name is carol. and she's really pretty. and smart. and uh, she's-she's on the lacrosse team and the golf team. can you believe it? she plays for both teams!
 monica: so chandler, i guess i'll see you at dinner.
 (she heads for the kitchen and chandler watches her leave and admires the view.)
-mr. geller: dude!
+mr.
+geller: dude!
 chandler: sorry.
 (in the kitchen.)
 rachel: (entering) oh-ho, my god! that was so awesome! you totally got him back for calling you fat! he was just drooling all over you. that must've felt so great!
@@ -242,26 +288,37 @@ monica: boy, i love carrots! oh! (she picks up a bunch of them and holds them be
 chandler: are you all right?
 monica: oh yeah, of course. i'm fine it's just that—(she drops the box and in a reflex action tries to catch it with her arm, the knife slips out and slowly flips through the air and comes point first down into chandler's shoe.)
 [scene: the hospital, chandler has been rushed to the emergency room.]
-the doctor: what do we got here?
-the paramedic: twenty year old has got a severed toe on his right foot.
+the
+doctor: what do we got here?
+the
+paramedic: twenty year old has got a severed toe on his right foot.
 (they go through the doors into the trauma room, opening them by ramming the gurney through them, only chandler's foot is hanging off the end and he screams in pain.)
 ross: can you please not do that feet first? you know where his injury is! severed toe, you just said it!
-the doctor: it says here that the knife went right through your shoe.
-mr. geller: of course it did. they're made of wicker.
-the doctor: did you bring the toe?
+the
+doctor: it says here that the knife went right through your shoe.
+mr.
+geller: of course it did. they're made of wicker.
+the
+doctor: did you bring the toe?
 monica: oh yes! i have it right here, on ice! (she takes a bag of ice out of her purse and hands it to the doctor.)
-the doctor: (opening it) don't worry son, we'll just attach it and—(stops suddenly.)
+the
+doctor: (opening it) don't worry son, we'll just attach it and—(stops suddenly.)
 monica: what?! what is it?
-the doctor: you brought a carrot.
+the
+doctor: you brought a carrot.
 chandler: what?
-the doctor: this isn't your toe, this is a small, very cold piece of carrot.
+the
+doctor: this isn't your toe, this is a small, very cold piece of carrot.
 rachel: you brought a carrot?!
-mrs. geller: oh my god! there's a toe in my kitchen.
+mrs.
+geller: oh my god! there's a toe in my kitchen.
 monica: god, i'm sorry! i'll go back and get it!
-the doctor: it's too late, all we can do now is sow up the wound.
+the
+doctor: it's too late, all we can do now is sow up the wound.
 chandler: without my toe?! i need my toe!
 monica: wait, no-no-no, i can go really fast! dad, give me the keys to your porsche!
-mr. geller: oh, i'm not falling for that one!
+mr.
+geller: oh, i'm not falling for that one!
 present day
 [scene: monica and rachel's, chandler is reacting to the story.]
 chandler: that's why i lost my toe?! because i called you fat?!
@@ -297,11 +354,12 @@ monica: yes, you did!
 chandler: no i didn't!
 monica: you love me!
 chandler: no i don't! stop it! stop it! stop it! stop it!
-(joey walks in and sees monica. he freaks out and runs back into the hallway, screaming.)
-ending credits
+(joey walks in and sees monica. he freaks out and runs back into the hallway, screaming.)r
 thanksgiving 1915
 [scene: the western front during world war i, phoebe, in yet another past life, is once again a nurse tending to yet another dying soldier. but this time she's doing it with a french accent.]
-french phoebe:  gauze! gauze! i need to get some gauze in here! can i please
+french
+phoebe:  gauze! gauze! i need to get some gauze in here! can i please
 get some gauze in here! (a shell explodes outside next to the tent and when the smoke
 clears, phoebe still has her arm.) whew! (her arm falls off and starts pumping out blood.)
-this is getting ridiculous uh!<EPISODE_END>
+this is getting ridiculous uh!r
+<EPISODE_END>

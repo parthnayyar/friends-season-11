@@ -1,4 +1,5 @@
-<EPISODE_START>the one with monica’s thunder
+<EPISODE_START>
+the one with monica’s thunder
 [scene: monica, chandler, and phoebe's, chandler, joey, rachel, and phoebe are standing around the table drinking champagne as ross enters.]
 ross: hey, what’s going on?
 chandler: hey.
@@ -18,8 +19,7 @@ phoebe: oh no, let her stay out there. it’s sweet.
 [cut to monica.]
 monica: i’m getting married!!!! i’m gonna be a bride!!!! (someone else yells at her.) no, i will not shut up because i’m engaged! (he yells again.) ohh, big talk! huh, why don’t you come over here and say that to me?! huh, buddy?! yeah, my fiancee will kick your ass! (chandler starts to look worried.) come on, apartment 20! apartment 20!
 [cut back inside.]
-chandler: (to ross) okay, you get her in here. (to joey) you bolt the door. i’ll be in the closet.
-opening credits
+chandler: (to ross) okay, you get her in here. (to joey) you bolt the door. i’ll be in the closet.r
 [scene: monica, chandler, and phoebe's, continued from earlier, everyone is now in the living room drinking champagne.]
 monica: okay! wait-wait-wait! shhh! (bangs on her class with a spoon to make a toast.) okay, umm, i just wanna say that…i love you guys so-so much and-and thank you for being here on my special night. (chandler clears his throat.) our special night. i mean it just wouldn’t be my—our-our night, if you all weren’t here to celebrate with me—us—damnit!
 chandler: it’s okay, i want this to be your night too. (raises his class.) to monica.
@@ -294,12 +294,12 @@ ross: (deadpan) well, i’m going to take off. (to chandler) congratulations man
 chandler: thanks.
 ross: (at the door) and uh, rachel.
 rachel: yeah.
-ross: what can i say, you missed your chance. from now on the only person who’s going to enjoy these bad boys (holds up his hands) is me. (quickly realizes what he said and exits disgustedly.)
-ending credits
+ross: what can i say, you missed your chance. from now on the only person who’s going to enjoy these bad boys (holds up his hands) is me. (quickly realizes what he said and exits disgustedly.)r
 [scene: monica, chandler, and phoebe's, phoebe is singing outside monica and chandler’s door.]
 phoebe: (singing)
 "we thought phoebe would leave, but she just stayed and stayed. that’s right, i’m here all night, and chandler will never get l…"
 chandler: (interrupting her just in time) hey! here’s a dollar, consider it a deposit. please sing at our wedding.
 phoebe: oh thank you.
 chandler: okay. (goes back to bed.)
-phoebe: now… (starts singing again) "who will perform the ceremony! who will perform the cer—(chandler enters and grabs her guitar and closes the door behind him)—oh—oh! all right, i’ll pound on him in the morning.<EPISODE_END>
+phoebe: now… (starts singing again) "who will perform the ceremony! who will perform the cer—(chandler enters and grabs her guitar and closes the door behind him)—oh—oh! all right, i’ll pound on him in the morning.r
+<EPISODE_END>

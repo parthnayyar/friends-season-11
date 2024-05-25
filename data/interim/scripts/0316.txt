@@ -1,4 +1,5 @@
-<EPISODE_START>the one the morning after
+<EPISODE_START>
+the one the morning after
 joey: (voice over) previously on friends.
 [a montage of scenes from the one where ross and rachel take a break follows.]
 [scene: monica and rachel's, ross is eating the picnic as rachel comes home from work.]
@@ -41,8 +42,7 @@ monica: rachel, you and mark?!
 rachel: no, no-no, it’s okay, calm down. mark and i talked, and i realised how much i love your stupid brother, and, yeah, we got our problems, but i really want to make it work.
 [scene: ross’s bedroom, ross is waking up. he straightens himself out on the bed and puts the covers over his head.]
 chloe: (entering from bathroom) morning!
-(ross sits bolt upright, without moving the covers.)
-opening credits
+(ross sits bolt upright, without moving the covers.)r
 [scene: ross’s kitchen, ross is taking some aspirin and checking his messages.]
 rachel: (on answering machine) hi, it’s me. i’ve been trying to reach you all night. i feel awful. please, ross, you gotta know there is nothing between me and mark. this whole break-up thing is just stupid.
 ross: yeah!!
@@ -174,7 +174,8 @@ monica: ow!
 phoebe: oh!!
 monica: ow!! ow!!
 phoebe: ow!!!
-monica and phoebe: ow!!!!!!! ow-ow-ow-ow!
+monica and
+phoebe: ow!!!!!!! ow-ow-ow-ow!
 (hearing the screaming chandler and joey rush in. joey has a pan, chandler has a tea kettle.)
 phoebe: we’re all right.
 monica: it’s okay, it’s okay.
@@ -308,7 +309,8 @@ rachel: yeah, and could you please chop some up and just put it right there in t
 [cut to later, they are finishing up the pizza, there’s one piece left.]
 ross: you can have the last piece, if you want.
 rachel: well, i should think so. you slept with someone.
-[cut to monica's bedroom, they’re all eating the wax, chandler and phoebe, don’t like it. joey tries some and makes a face like: ‘hey, that’s not so bad.’]
+[cut to monica's bedroom, they’re all eating the wax, chandler and phoebe, don’t like it. joey tries some and makes a face
+like: ‘hey, that’s not so bad.’]
 phoebe: they’re gonna get through this, aren’t they?
 chandler: yeah, come on, it’s ross and rachel, they’ve got too.
 monica: what if they don’t?
@@ -342,12 +344,12 @@ rachel: (crying) no. i can’t, you’re a totally different person to me now. i
 [we see the rest of them are now crying.]
 ross: (crying) yeah, but this can’t be it, i mean.
 (pause)
-rachel: then how come it is?
-closing credits
+rachel: then how come it is?r
 [scene: monica’s bedroom.]
 phoebe: they’ve been quiet for a long time.
 joey: maybe she killed him?
 chandler: let’s go.
 [cut to living room, rachel is sleeping on the couch, ross is gone, the rest of them can finally emerge from their cell. they all wave good bye, and start to walk quietly out, as monica goes and puts a blanket on rachel. joey starts walking all hunched over and bobbing his shoulders as he goes.]
 chandler: (to joey) is that your new walk?
-joey: (whispering) no, i really have to pee.<EPISODE_END>
+joey: (whispering) no, i really have to pee.r
+<EPISODE_END>

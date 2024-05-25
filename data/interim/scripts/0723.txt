@@ -1,4 +1,5 @@
-<EPISODE_START>the one with chandler and monica’s wedding
+<EPISODE_START>
+the one with chandler and monica’s wedding
 [scene: central perk, everyone is there.]
 monica: do you realize this is probably the last time we’ll all be here in the coffee house as six single people?
 phoebe: why?! what’s happening to the coffee house?! (monica looks at her.) oh! (realizes.)
@@ -26,8 +27,7 @@ chandler: (smiling) hey, i hear what your saying, okay? and, thanks for the warn
 ross: no problem.
 chandler: so are we…friends again?
 ross: yeah.
-chandler: okay. (pause) you won’t believe what monica’s older brother just said to me!
-opening credits
+chandler: okay. (pause) you won’t believe what monica’s older brother just said to me!r
 [scene: monica and chandler's, the girls are having breakfast.]
 rachel: what ‘cha doing mon?
 monica: i’m making a list of all the things that are most likely to go wrong at the wedding. now, that way i can be prepared.
@@ -62,9 +62,11 @@ monica: who did we fight in world war i?
 rachel: mexico?
 phoebe: yes! very good.
 [scene: pier 59 studios, joey is in costume and standing at the craft services table. he checks his pockets and finds some prop coins in a pouch, which he replaces with some cookies.]
-the assistant director: (approaching) hey joey! we’re ready.
+the assistant
+director: (approaching) hey joey! we’re ready.
 joey: yeah! me too. (he pats his pocket.)
-the assistant director: (to another actor) richard? we’re ready for you. (richard approaches.) joey tribbiani? this is richard crosby he’s playing vincent.
+the assistant
+director: (to another actor) richard? we’re ready for you. (richard approaches.) joey tribbiani? this is richard crosby he’s playing vincent.
 joey: i’m doing my scenes with you?
 richard: nice to meet you joey.
 joey: wow! i can’t believe this! this is incredible. i mean you just won an oscar!
@@ -72,9 +74,11 @@ richard: no i didn’t.
 joey: i think you did.
 richard: i think i lost. three times.
 joey: uh…cookie?
-the director: (approaching) okay! we’re about an hour away from getting the scene lit. so uh, if you guys don’t mind, can we run it a couple of times?
+the
+director: (approaching) okay! we’re about an hour away from getting the scene lit. so uh, if you guys don’t mind, can we run it a couple of times?
 richard: yeah, sure.
-the director: okay, all right. let’s do it. (he walks off.) and…action!
+the
+director: okay, all right. let’s do it. (he walks off.) and…action!
 joey: we have to find the rest of the platoon!
 richard: forget the platoon! the platoon is gone! (he is spitting on the hard ps and ts.)
 joey: (wiping his face) what?!
@@ -82,9 +86,11 @@ richard: (still spitting) the platoon is dead! face facts tony!
 joey: (wipes face) so what are we gonna do?! we have no reinforcements! no-no food!
 richard: no, we still have food in the basement! i saw potatoes and some dry pasta!
 (joey wipes his eye.)
-the director: hang on a minute! joey, you keep touching your face. is something wrong?
+the
+director: hang on a minute! joey, you keep touching your face. is something wrong?
 joey: (glances at richard) no. nope, i uh…i th—i thought it might be kind of a cool character thing. y’know? he’s uh, he’s a face toucher. (behind his back, richard is nodding no.)
-the director: i don’t think so. let’s take it back to richard’s last line. (walks off.) action!
+the
+director: i don’t think so. let’s take it back to richard’s last line. (walks off.) action!
 richard: we may not have any weapons, but we still have food. in the basement i saw potatoes and some dry pasta, and a few tins of tuna! (joey backs away and wipes his face again.)
 [scene: monica and chandler's, monica is standing in the kitchen ready to leave for the rehearsal dinner.]
 monica: honey, we gotta go!
@@ -118,30 +124,44 @@ ross: well i…i told him that if he ever hurt you i would hunt him down and kic
 phoebe: ross, please! my make-up! (he walks away angrily.)
 (chandler’s mom enters and chandler meets her by the door.)
 chandler: hi.
-mrs. bing: chandler!
+mrs.
+bing: chandler!
 chandler: mom. thanks for wearing something. (they hug.) (she’s wearing a tight dress with a lot of cleavage showing.)
-mrs. bing: oh honey! this is so exciting! i thought we screwed you up so bad this day would never come. oh and just think. soon there’ll be lots of little bings. (he freaks out and loosens the tie again.)
+mrs.
+bing: oh honey! this is so exciting! i thought we screwed you up so bad this day would never come. oh and just think. soon there’ll be lots of little bings. (he freaks out and loosens the tie again.)
 (monica and her parents walk up.)
 monica: mrs. bing? here, these are my parents umm, judy and jack geller.
-mrs. geller: (shaking her hand) it’s lovely to meet you.
-mr. geller: (shaking her hand) so are you his mother or his father?
-mrs. geller: jack!
-mr. geller: what?! i’ve never seen one before!
+mrs.
+geller: (shaking her hand) it’s lovely to meet you.
+mr.
+geller: (shaking her hand) so are you his mother or his father?
+mrs.
+geller: jack!
+mr.
+geller: what?! i’ve never seen one before!
 monica: dad! there’s ross (points), why don’t you go talk to him?
 (mr. and mrs. geller start to walk away.)
-mr. geller: i didn’t even have a chance to act as though i’m okay with it!
-mr. bing: (entering) hello all!
+mr.
+geller: i didn’t even have a chance to act as though i’m okay with it!
+mr.
+bing: (entering) hello all!
 chandler: hi…dad.
 monica: hi mr.…bing.
-mr. bing: nora!
-mrs. bing: charles.
+mr.
+bing: nora!
+mrs.
+bing: charles.
 monica: it-it’s so great to see you both here.
-mr. bing: yes! although, i think we may be seeing a little too much of some people. aren’t you a little old to be wearing a dress like that?
-mrs. bing: don’t you have a little too much penis to be wearing a dress like that?
+mr.
+bing: yes! although, i think we may be seeing a little too much of some people. aren’t you a little old to be wearing a dress like that?
+mrs.
+bing: don’t you have a little too much penis to be wearing a dress like that?
 chandler: oh my god! (he and monica walk away.)
 [cut to mr. and mrs. geller talking to ross.]
-mr. geller: …of course you can kick his ass son.
-mrs. geller: you could kick anyone’s ass you want too.
+mr.
+geller: …of course you can kick his ass son.
+mrs.
+geller: you could kick anyone’s ass you want too.
 ross: thanks you guys. (walks away happily and his parents smile.)
 [cut to monica.]
 monica: oh, rach! rach! umm hey, could you do me a favor and would talk to chandler’s dad and try to keep him away from chandler’s mom?
@@ -151,7 +171,8 @@ rachel: man in the black dress… (monica walks away and rachel looks around to 
 woman: i’m amanda.
 rachel: oh i get it! a…man…duh!
 ross: (clinking a wine glass) can i have everyone’s attention please? i’m uh; i’m ross geller.
-mr. geller: doctor ross geller.
+mr.
+geller: doctor ross geller.
 ross: dad…dad, please! as i was saying umm, i’m dr. ross geller. uhh, and i’m the best man. and uh, this marriage is doubly special for me umm, because not only is the groom my best friend but uh, the bride is my little sister. and, she’s the greatest sister a guy could ask for. so if you’d all please join me in raising a glass to the, the couple we’re here to celebrate. (everyone does so.) to the bings.
 all: to the bings!
 (everyone clinks glasses and chandler freaks out again.)
@@ -229,33 +250,43 @@ gunther: he’s getting married tomorrow right?
 ross: yes. yes. don’t worry. everything’s fine. we’ll uh, we’ll see you tomorrow at the wedding.
 gunther: i wasn’t invited.
 ross: well then we’ll-we’ll see you the day after tomorrow. (walks away slowly, but notices something.) mom?! dad?! (they’re sitting by the window.) what-what…what you guys doing here?!
-mr. geller: well you kids talk about this place so much, we thought we’d see what all the fuss is about.
-mrs. geller: i certainly see what the girls like coming here.
+mr.
+geller: well you kids talk about this place so much, we thought we’d see what all the fuss is about.
+mrs.
+geller: i certainly see what the girls like coming here.
 ross: why?!
-mrs. geller: the sexy blonde behind the counter. (she waves at gunther who waves back.)
+mrs.
+geller: the sexy blonde behind the counter. (she waves at gunther who waves back.)
 ross: (shocked) gunther?!
-mr. geller: your mother just added him to her list.
+mr.
+geller: your mother just added him to her list.
 ross: what? your-your list?
-mrs. geller: yeah, the list that—of people we’re allowed to sleep…
+mrs.
+geller: yeah, the list that—of people we’re allowed to sleep…
 ross: yes! no-no! i know, i know what the list is! mom! look if you see chandler, could you just let him know i’m looking for him?
-mr. geller: and if you see rita moreno, let her know i’m looking for her.
+mr.
+geller: and if you see rita moreno, let her know i’m looking for her.
 (ross points at him and exits.)
 [scene: the movie set, richard and joey are doing a scene.]
-the director: action!
+the
+director: action!
 richard: i found the picture!
 joey: what picture?!
 richard: the picture of my wife! in your pack!
 joey: you went through my personal property?
 richard: why do have a picture of paulette in your pack?!
 joey: (pause) because vincent, we were lovers. (pause) for two years!
-the director: cut! wonderful!
+the
+director: cut! wonderful!
 (joey and richard both wipe their faces and are given towels.)
 joey: great scene yeah?
 richard: oh you’re awesome! and, in that last speech? you soaked me.
 joey: thanks a lot.
-the assistant director: (to joey) here’s your call sheet for tomorrow.
+the assistant
+director: (to joey) here’s your call sheet for tomorrow.
 joey: oh, i’m-i’m not working tomorrow.
-the assistant director: you are now.
+the assistant
+director: you are now.
 joey: no! no! i can’t! you gotta get me out of it! i’ve got plans! (spits.) important plans! (spits on the ps.)
 (the ad walks away wiping his face.)
 [scene: monica and chandler's, the next morning, rachel and phoebe are eating breakfast.]
@@ -334,17 +365,23 @@ rachel: well maybe it would make me feel better if i slept with joey.
 monica: (jumping up) rachel! you okay?
 [scene: the movie set, joey is reporting for work.]
 joey: excuse me, aaron? (the director turns around.) hi! umm, i have a little problem with the schedules. originally, i wasn’t supposed to work today, and i have this wedding that i really have to be at. it’s my best friend’s, and i’m officiating so i really can’t work past four.
-the director: joey, you gotta stay until the end. we can’t stop filming just for you. it’s not like it’s your wedding. (starts to walk away.)
+the
+director: joey, you gotta stay until the end. we can’t stop filming just for you. it’s not like it’s your wedding. (starts to walk away.)
 joey: i’m having surgery!
-the director: what?!
+the
+director: what?!
 joey: yeah, i-i just made up the stuff about the wedding because i didn’t want you to worry about me. but, i’m having surgery today.
-the director: what kind of surgery?!
+the
+director: what kind of surgery?!
 joey: transplant.
-the director: but you’re supposed to work on monday.
+the
+director: but you’re supposed to work on monday.
 joey: hair transplant.
-the director: but you’re not bald.
+the
+director: but you’re not bald.
 joey: it’s not on my head.
-the director: look joey, there’s nothing i can do. besides, you’re probably gonna be out by four anyway. we’ve just got one short scene. it’s just you and richard, and god knows he’s a pro. you’ll be fine. (walks away and sees richard entering.) morning richard.
+the
+director: look joey, there’s nothing i can do. besides, you’re probably gonna be out by four anyway. we’ve just got one short scene. it’s just you and richard, and god knows he’s a pro. you’ll be fine. (walks away and sees richard entering.) morning richard.
 joey: hey! you’re here! great! great! great! let’s get going buddy, we’ve got a scene to shoot!
 richard: i’m wearing two belts.
 joey: are you drunk?
@@ -403,20 +440,24 @@ monica: oh wow! okay. don’t scare me like that okay? i mean for a minute there
 joey: i would sooner die in this hellhole then see her back with you!
 richard: that can be arranged.
 (richard thrusts, misses joey by several feet and joey screams in pain and drops to his knees.)
-the director: let’s reset.
+the
+director: let’s reset.
 joey: what?! he got me! owwwwww!!!
-the director: let’s take it from there.
+the
+director: let’s take it from there.
 richard: (to joey) are you a little off today? it’s going terribly slowly.
 joey: look, my best friends are getting married in like an hour. okay? and i’m the minister. please! please! can you pull it together?
 richard: of course! i’m-i’m sorry. i-i’d hate you to miss anything like that on account of me. i can do this!
 joey: thank you. thank you.
-the director: still rolling, annnnd action!
+the
+director: still rolling, annnnd action!
 joey: i would sooner die in this hellhole then see her back with you!
 richard: now, that can be arranged! (he brings his sword back and drops it, causing it to fly over the wall.) slippery little bugger!
 [scene: the hotel, monica’s room, mr. and mrs. bing are staring at each other while phoebe looks on.]
 phoebe: so-so you two were married huh? what happened? you just drift apart?
 (rachel and mrs. geller enter.)
-mrs. geller: here comes the bride.
+mrs.
+geller: here comes the bride.
 (monica enters wearing her wedding dress.)
 phoebe: oh my god monica!
 monica: i wanna wear this everyday.
@@ -461,18 +502,25 @@ phoebe: okay.
 commercial break
 [scene: the hotel, rachel is walking through the ballroom area and comes upon the sign for the anastassakis/papasifakis wedding.]
 rachel: anastassakis/papasifakis wedding, excellent! {it’s a good thing jennifer aniston is greek, because she had to pronounce those names. luckily for me, they were written on a sign.}(the happy couple emerges.) congratulations. (to the best man and maid of honor) mazel tov! (the rabbi emerges.) hi! oh, great hat. (he’s wearing an interesting hat and she takes him over to talk.) listen umm, i need you to perform another wedding. can you do that?
-the rabbi: i don’t know. are they greek orthodox?
+the
+rabbi: i don’t know. are they greek orthodox?
 rachel: yeah! yeah. they’re…they’re-they’re my friends, uh, monica stephanopolus and uh, and chandler acidofolus.
 [scene: monica’s hotel room, chandler and monica’s parents and phoebe are there as ross enters.]
 ross: hi! (to mrs. bing) hi! (mr. bing starts rubbing his arm.) hi. has umm, anyone seen chandler?
-mr. geller: i thought he was with you.
+mr.
+geller: i thought he was with you.
 ross: he-he was with me umm, we’re playing a little game, y’know? hide and seek.
-mr. geller: you can’t ask us son, that’s cheating.
+mr.
+geller: you can’t ask us son, that’s cheating.
 ross: (pause) you’re right, thanks for keeping me honest dad.
-mrs. geller: well, he better not come by here. he can’t see the bride in the wedding dress.
-mrs. bing: as i recall when we got married, i saw the groom in the wedding dress.
-mr. bing: but that was after the wedding, it’s not bad luck then.
-mrs. bing: honey, it isn’t good luck.
+mrs.
+geller: well, he better not come by here. he can’t see the bride in the wedding dress.
+mrs.
+bing: as i recall when we got married, i saw the groom in the wedding dress.
+mr.
+bing: but that was after the wedding, it’s not bad luck then.
+mrs.
+bing: honey, it isn’t good luck.
 (monica enters.)
 ross: oh my god! monica!
 monica: i know! hey, how’s chandler doin’?
@@ -491,7 +539,8 @@ phoebe: oh my god! why would you play hide and seek with someone you know is a f
 (ross just glares at her.)
 [scene: the movie set, joey is walking up to the director, pleading with him to let him go.]
 joey: aaron! you gotta let me go. the guy’s hammered!
-the director: i’m sorry joey, as long as he’s here and he’s conscious we’re still shooting.
+the
+director: i’m sorry joey, as long as he’s here and he’s conscious we’re still shooting.
 (he walks away and joey does ross’s fist thing. he then enters richard’s dressing room, to find richard cutting his steak with his sword.)
 richard: you wouldn’t happen to have a very big fork?
 joey: so i uh, i just talked to the director. that’s it, we’re done for the day.
@@ -526,39 +575,49 @@ phoebe: what? you’ll hi-ya?
 chandler: monica’s pregnant.
 ross: oh my god. oh my god! and you’re-you’re…you’re not freaking out?
 chandler: well i was! then i went down to the gift shop because i was out of cigarettes…
-phoebe and ross: cigarettes?!!
+phoebe and
+ross: cigarettes?!!
 chandler: big picture please! so i was in the gift shop, and that’s when i uh, saw this. (he holds up a little, tiny baby jumper that reads i (heart) new york.) yeah, y’know what? i thought anything that can fit into this, can’t be scary.
 phoebe: well you obviously didn’t see chucky 3.
 chandler: but come on, look at how cute and small this is! so i got it to give monica so she’d know i was okay.
 ross: dude. (hugs him.)
 (mr. geller turns the corner.)
-mr. geller: way to go son! i knew you’d find him!
+mr.
+geller: way to go son! i knew you’d find him!
 [scene: the moment we waited for has finally arrived. it’s time for monica and chandler’s wedding. we’ve got violins playing every breath you take, we’ve got guests seated, and chandler starts walking down the aisle with his parents on either arm.]
-mr. bing: our little boy is getting married.
-mrs. bing: oh look at you! so handsome!
+mr.
+bing: our little boy is getting married.
+mrs.
+bing: oh look at you! so handsome!
 chandler: you look beautiful mom. (his dad clears his throat.) you look beautiful too dad. i love you both. (he kisses his dad on the cheek) i’m so glad you here. (he kisses his mom.)
 (he walks up onto the altar and notices the rabbi.)
-the rabbi: are you chandler?
+the
+rabbi: are you chandler?
 chandler: are you joey?
 (ross walks down the aisle with phoebe and rachel on his arms.)
 ross: huh. this is nice.
 phoebe: what?
 ross: i’ve never walked down the aisle knowing it can’t end in divorce.
 (finally, monica with her parents on her arms start down the aisle.)
-mrs. geller: oh i wish you’re grandmother had lived to see this.
+mrs.
+geller: oh i wish you’re grandmother had lived to see this.
 monica: she’s right there.
-mrs. geller: not that old crow, my mother. (they stop and she kisses monica on the cheek.) congratulations darling.
-mr. geller: i love you sweetheart. (he kisses her and they sit down.)
+mrs.
+geller: not that old crow, my mother. (they stop and she kisses monica on the cheek.) congratulations darling.
+mr.
+geller: i love you sweetheart. (he kisses her and they sit down.)
 (chandler steps off the altar to greet his bride-to-be.)
 chandler: you look beautiful. is this new? (her dress.)
 monica: not now.
 chandler: okay.
 (they both step up onto the altar and she notices the rabbi.)
 monica: (to chandler) who is this?
-the rabbi: i am father kalebasous.
+the
+rabbi: i am father kalebasous.
 chandler: (in monica’s ear) he’s greek orthodox.
 rachel: (leaning in) as are you…
-the rabbi: let us begin. dearly beloved…
+the
+rabbi: let us begin. dearly beloved…
 joey: (entering) that’s my line! (he walks up the aisle and to the rabbi) i can take it from here, thanks. (to all) dearly beloved, i’m sorry i’m a little late. you may be confused by this now, (he’s still in costume) but you won’t be memorial day weekend 2002. well, let’s get started before the groom takes off again. huh? (monica is shocked and looks around.) we are gathered here today, to join this man and this woman in the bonds of holy matrimony. i’ve known monica and chandler for a long time, and i can not imagine two people more perfect for each other. and now, as i’ve left my notes in my dressing room. we shall proceed to the vows. monica?
 (she turns to get her vows from rachel.)
 monica: (to rachel) he took off?
@@ -587,6 +646,5 @@ chandler: then…who did?
 phoebe: oh and they’re gonna have a baby.
 rachel: uh-huh.
 (the camera zooms in on rachel who has a very worried and frightened look on her face and she slowly takes a deep breath.)
-[fade to black.]
-ending credits
-{transcriber’s note: there was no trailer for this episode. see you in season 8; which will start this fall.}<EPISODE_END>
+[fade to black.]r
+<EPISODE_END>

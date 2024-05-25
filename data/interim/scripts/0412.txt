@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the embryos
+<EPISODE_START>
+the one with the embryos
 [scene: monica and rachel's, it’s 0-dark:30, in other words it’s really, really early. everyone’s asleep, and all through the apartments not a creature was stirring, not even a mouse. that is except for the chick, who turns out to be a rooster and is crowing in the sun. needless to say, this awakens monica and rachel who rush into their living room, searching for the cause of the sound.]
 rachel: what the hell is that?!! (to monica) what the hell is that? is that you? (monica nods her head no, and rachel realizes what is making that sound.) ohhhhhhh! (storms over to chandler and joey’s with monica in trail.)
 monica: boy, you are really not a morning person.
@@ -8,8 +9,7 @@ rachel: what is that noise?
 chandler: you!
 joey: it’s the chick! she’s…going through some changes.
 monica: what kind of changes?
-chandler: well the vet seems to think that’s she’s becoming a rooster. (the rooster crows.) we’re getting a second opinion.
-opening credits
+chandler: well the vet seems to think that’s she’s becoming a rooster. (the rooster crows.) we’re getting a second opinion.r
 [scene: monica and rachel's, it’s later that morning, everybody has gotten up and ross and phoebe has joined them for breakfast. rachel is returning from shopping.]
 phoebe: hey!
 ross: hey, what are you doing shopping at eight in the morning?
@@ -76,14 +76,18 @@ ross: oh sure, "ross will do it!" it’s not like he has a job, or a child, or a
 rachel: fine! we’ll ask phoebe.
 ross: no-no-no, i-i wanna play.
 [scene: the doctor’s office, dr. zane is examining phoebe as frank and alice watch.]
-dr. zane: it looks like your uterus is ready for implantation.
+dr.
+zane: it looks like your uterus is ready for implantation.
 phoebe: oh! i knew it! i knew it! i felt really thick this morning.
 frank: well, okay, so what’s now—go get, go get the eggs, put ‘em in there.
-dr. zane: okay, it’ll take just a little while to prepare the embryos.
+dr.
+zane: okay, it’ll take just a little while to prepare the embryos.
 phoebe: embryossss? as in, "more than one?"
-dr. zane: um-hmm, five actually.
+dr.
+zane: um-hmm, five actually.
 phoebe: five? okay, where am i giving birth, a hospital or a big box under the stairs?
-dr. zane: we do five because that gives you a 25% chance that at least one will attach.
+dr.
+zane: we do five because that gives you a 25% chance that at least one will attach.
 phoebe: that’s it! 25 percent? that means that’s it’s like 75 percent chance of no baby at all!
 frank: hey, y’know i was thinking, what are the odds like if-if, if you stuff like 200 of them in there?
 alice: sweety, now, she’s a woman, not a gumball machine.
@@ -91,7 +95,8 @@ phoebe: okay, well y’know what, don’t worry you guys, ‘cause i’m-i’m g
 frank: well, you see, the-the thing is, we-we only got, we kinda have one shot to make it right.
 alice: umm, it costs $16,000 each time you do this. so, umm, we’re kinda using all the money we have to do it just this one time.
 phoebe: whoa!! that—okay, that’s a lot of pressure on me and my uterus. (to dr. zane) so, well okay, so is there—is maybe is there something that i can do y’know just to like help make sure i get pregnant?
-dr. zane: no, i’m sorry.
+dr.
+zane: no, i’m sorry.
 phoebe: wow! you guys really don’t know anything!
 frank: i know! why don’t you get drunk! that worked for a lot of girls in my high school.
 [scene: monica and rachel's, the game is about to begin.]
@@ -138,7 +143,8 @@ monica: i knew that! rachel! use you’re head!
 chandler: actually, it’s miss chinandolor bong.
 [scene: the doctor’s office, phoebe is giving a pep talk to the petrie dish containing the embryos.]
 phoebe: hello, tiny embryos. well, i’m-i’m phoebe buffay, hi! i’m-i’m-i’m hoping to be your uterus for the next nine months. you should know, that we’re doing this for frank and alice, who you know, you’ve been there! umm, y’know they want you so much, so when you guys get in there, really grab on. okay, and-and i promise that i’ll keep you safe and warm until you’re ready to have them take you home, so… oh! and also, umm next time you see me, i’m screaming, don’t worry, that’s what’s supposed to happen.
-dr. zane: ready?
+dr.
+zane: ready?
 phoebe: uh-huh. (to the embryos) good luck.
 [scene: monica and rachel's, the game is coming to a close.]
 ross: all right, the score is nine to eight in favor of the guys. ladies if you miss this the game is theirs, pick your category.
@@ -148,7 +154,8 @@ rachel: (shouting) i’m sorry!
 ross: ooh. what is the name of chandler’s father’s las vegas all-male burlesque?
 monica: viva las gaygas!
 chandler: unfortunately that is correct.
-the girls: yes!!
+the
+girls: yes!!
 ross: all right, we have a tie. luckily, i have prepared for such an event. (he opens up an envelope and holds up some note cards.) the lightning round!
 all: ohhhh.
 ross: thirty seconds, all the questions you can answer.
@@ -233,7 +240,8 @@ monica: that’s not even a word! i can get this! i can get this!
 (ross stops the clock, signifying the end of the lightning round.)
 monica: nooooooooo!!!!!
 rachel: oh my god.
-chandler and joey: yeah!!! yes!!!
+chandler and
+joey: yeah!!! yes!!!
 [scene: monica and rachel's, erm, chandler and joey's, chandler and joey are carrying in the foosball table.]
 joey: i call monica’s room!
 chandler: you can’t just call monica’s room.
@@ -285,7 +293,8 @@ monica: i lost our mattresses.
 phoebe: (singing) "are you in there little fetus?                              in nine will you come great us?                              i will buy you some adidas."
 (there’s a knock on the door and monica answers it.)
 monica: hey!
-frank and alice: (entering) hi!
+frank and
+alice: (entering) hi!
 alice: hi, phoebe! we were just at the drugstore and we got you a little present.
 phoebe: oh. oh.
 frank: umm, it’s a lollipop and a uh, a home pregnancy test.
@@ -311,8 +320,7 @@ phoebe: you guys! you guys! you’re gonna have a baby! they’re gonna have a b
 frank: my sister’s gonna have my baby!!!!!!!
 (they all go over and hug phoebe.)
 phoebe: okay, but this can’t be good for the baby.
-all: oh! (they stop hugging her to let her out and resume the hug without her.)
-closing credits
+all: oh! (they stop hugging her to let her out and resume the hug without her.)r
 [scene: chandler and joey's, erm, monica and rachel's, monica and rachel are busy unpacking.]
 monica: i can’t find garbage bags!
 rachel: oh, i think i saw some in here.
@@ -325,4 +333,6 @@ chandler: what?! what-what is it?!
 joey: did you see the size of the closets?!
 chandler: i can’t believe we live here!
 (they both sit down on the chairs and put up the foot rest.)
-chandler and joey: awwwww!! (they lean back all the way.) awwwwwww!!!<EPISODE_END>
+chandler and
+joey: awwwww!! (they lean back all the way.) awwwwwww!!!r
+<EPISODE_END>

@@ -1,8 +1,10 @@
-<EPISODE_START>the one where chandler doesn’t like dogs
+<EPISODE_START>
+the one where chandler doesn’t like dogs
 [scene: monica, chandler, and phoebe's, monica is in the kitchen, joey, rachel, and phoebe are sitting around the table writing one notepads while chandler is looking over their shoulders.]
 ross: (entering) hey everybody! happy thanksgiving!
 chandler: no, no, no. no-no-no.
-joey, rachel, and phoebe: shhhh!
+joey, rachel, and
+phoebe: shhhh!
 ross: what, are we keeping thanksgiving a secret this year?
 chandler: no, we're playing this game i learned at work. you have to name all the states in six minutes.
 ross: what? that's like insanely easy!
@@ -14,12 +16,12 @@ monica: nobody cares about the dakotas. (that’s true in so many ways, trust me
 chandler: oh, okay, time's up!
 rachel: all right, i got 48.
 chandler: oh that's not bad, pheebs?
-phoebe: oh, i got tired of naming states. so i decided to list the types of celery, and i have one: regular celery.
+phoebe: oh, i got tired of naming states. so i decided to list the types of celery, and i have
+one: regular celery.
 chandler: okay, so rachel's got 48 and phoebe has the lead in…vegetables, joey?
 joey: say hello to the new champ of chandler's dumb states game.
 ross: wow, how many have you got?
-joey: fifty-six!
-opening credits
+joey: fifty-six!r
 [scene: monica, chandler, and phoebe's. ross is sitting in the couch doing chandler's game. chandler is sitting in his barca-lounger. the girls are in the kitchen.]
 joey: hey! how is new england not a state? huh? they have a sports-team!
 chandler: does south oregon have a sports-team? (joey strikes one from his list) there you go.
@@ -102,7 +104,8 @@ phoebe: that's odd, 'cause this dog's been living here for the past 3 days
 chandler: (gasping) really?
 monica: chandler, if that dog's been here that long, and you haven't had a reaction, maybe you're not allergic to this dog?
 chandler: well, it still has to go, right?
-monica and phoebe: why?
+monica and
+phoebe: why?
 chandler: okay, it's um…
 joey: (interrupting him) don't do it!
 monica: don't do what?
@@ -141,7 +144,7 @@ joey: all right, rach, the big question is, does he like you? all right? because
 rachel: huh. a moo-point?
 joey: yeah, it's like a cow's opinion. it just doesn't matter. it's moo.
 rachel: (to monica and phoebe) have i been living with him for too long, or did that all just make sense?
-monica: please, don't listen to joey, okay. would you look at him? he-he’s obviously depressed. he's away from his family; he's spending thanksgiving with strangers.   what he needs right now is for you to be his friend.
+monica: please, don't listen to joey, okay. would you look at him? he-he’s obviously depressed. he's away from his family; he's spending thanksgiving with strangers. what he needs right now is for you to be his friend.
 rachel: you're right, i'm sorry. thank you. okay, that's what i'm gonna do.
 joey: fine! take their advice. no one ever listens to me. when the package is this pretty, no one cares what's inside.
 [cut to the balcony, tag is looking down while rachel enters.]
@@ -274,12 +277,12 @@ rachel: oh, god, i know it, that i freaked you out.
 tag: no, you didn't. the only thing that freaked me out was you saying that nothing could ever happen between us.
 rachel: really?
 tag: yeah, so, please don't fire me for doing this. (he kisses her)
-rachel: okay, well, that's one less thing we have to do on monday.
-ending credits
+rachel: okay, well, that's one less thing we have to do on monday.r
 [scene: monica, chandler, and phoebe's, later that night, there is someone knocking on the door and chandler stumbles out into the living room, turns on the light, looks through the peephole, and opens the door.]
 ross: delaware! (starting to cry.) delaware!
 chandler: all right.
 ross: (hands chandler his pad and walks in) i want my turkey now!
 chandler: you got it. (starts looking at the pad, while ross got the turkey out of the fridge and starts to unwrap and it) you got nevada twice.
 ross: (pauses) i know.
-chandler: yeah. (throws the pad on the table and heads for the bedroom)<EPISODE_END>
+chandler: yeah. (throws the pad on the table and heads for the bedroom)r
+<EPISODE_END>

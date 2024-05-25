@@ -1,4 +1,5 @@
-<EPISODE_START>the one with ross’s teeth
+<EPISODE_START>
+the one with ross’s teeth
 [scene: joey and janine’s, chandler knocks on the front door. joey answers the door.]
 joey: hey.
 chandler: hi, my name’s chandler. i just moved in next door and i was
@@ -30,8 +31,7 @@ chandler: defend yourself.
 joey: (grunting) hmm. (monica opens the front door and comes in.)
 monica: chandler come on. we have to hem the new dust ruffle.
 chandler: be right there sweetums. (monica leaves. to joey.) a totally different
-situation.
-opening credits
+situation.r
 [scene: central perk, the gangs all here. monica is walking in.]
 monica: hey guys.
 chandler: hey, how was your breakfast with hillary?
@@ -132,7 +132,8 @@ rachel: so i hear the ralph lauren fooled around with someone in the copy room.
 kim: tell me everything.
 [scene; central perk, monica and chandler are on the couch. ross walks in.]
 ross: hey guys.
-chandler and monica: hey.
+chandler and
+monica: hey.
 ross: what’s up? (he smiles. his teeth are freakishly white.)
 chandler: you know…oh my god.
 monica: what happened to your teeth.
@@ -247,7 +248,8 @@ rachel: i-i don’t want your job. i-i don’t. ohh this is such a mistake. i
 did not make out with him. nobody made out with him. i did not use my keycard yesterday. i
 don’t even know how to use my keycard. (the elevator stops. ralph steps on.)
 kim: hi ralph.
-ralph lauren:: hi kim. (dead silence until ralph gets off the elevator.)
+ralph
+lauren:: hi kim. (dead silence until ralph gets off the elevator.)
 kim: yeah, nothing happen. you could cut the sexual tension in here with a knife.
 [scene: hillary’s apartmen,. hillary and ross are having dinner. he is avoiding opening his mouth.]
 hillary: and after that, what could i do except become a chef.
@@ -344,15 +346,15 @@ i’m married and i’m sorry." and then i don’t know why but he said,
 "and you will never get promoted. especially not above kim, who is an integral cog in
 the ralph lauren machine."
 kim: you expect me to believe..(doors open, ralph steps in.) hi ralph.
-ralph lauren:: hi kim. (dead silence again until he gets off.)
+ralph
+lauren:: hi kim. (dead silence again until he gets off.)
 kim: oh my god. he just gave you the coldest look i have ever seen. it’s like
 he hates you. then it is true.
 rachel: of course it’s true and it hurts so bad.
 kim: ohh honey come here. (hugging rachel.) ohh it will be ok. we’ve all been
 there.
 rachel: you and ralph?
-kim: kenny the copyboy.
-ending credits
+kim: kenny the copyboy.r
 [scene: joey and janine’s apartment, joey paces the floor waiting for janine. she walks in.]
 janine: hey.
 joey: hey, uhh, i need to talk to you.
@@ -370,4 +372,5 @@ joey: and, uhh, maybe the watering can there.
 janine: sure.
 joey: and a couple of these little tiny boxes.
 janine: joey? do you want me to put it all in your room?
-joey: (smiling) okay.<EPISODE_END>
+joey: (smiling) okay.r
+<EPISODE_END>

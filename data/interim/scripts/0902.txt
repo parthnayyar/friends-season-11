@@ -1,4 +1,5 @@
-<EPISODE_START>the one where emma cries
+<EPISODE_START>
+the one where emma cries
 [scene: rachel’s hospital room, ross is sitting next to rachel.]
 ross: you said you’d marry joey?
 rachel: okay you have to realize, i was exhausted, i was emotional, i would have said yes to anybody. like that time you and i got married! (pause) i’m not helping.
@@ -10,8 +11,7 @@ ross: well, chandler’s my oldest friend, but joey’s my—no! ah! (points at 
 rachel: ooooo!
 joey: (enters) hey you guys i’m gonna take off. i just wanted to let you guys know, say goodbye.
 ross: rachel said she’d marry you?!
-joey: (he looks around the room) this isn’t the right room, sorry folks. (leaves)
-opening credits
+joey: (he looks around the room) this isn’t the right room, sorry folks. (leaves)r
 [scene: ross and rachel’s, monica, phoebe, joey and chandler are waiting for ross and rachel to come home and monica is looking at the sign phoebe bought that says, "it’s a boy!"]
 monica: ok, i don’t wanna be negative so i’ll say that most of the signs you bought are good.
 phoebe: no they ran out of "it’s a girl" but i can fix this one, (she writes "not" in between it’s and a) see?
@@ -37,9 +37,11 @@ rachel: yeah, i’m not so sure you should be here when he comes up.
 joey: see this is what i was afraid of, i didn’t think i should be here either but somebody (looks at chandler) said he’d be over it by now.
 chandler: hey, what do i know? i wanted to get a bigger gorilla.
 [scene: a boardroom, chandler keeps drifting off to sleep at his meeting.]
-ms. mckenna: the numbers we are seeing new york, chicago, and london are consistently solid, but many of our officers have reported disappointing fields.
+ms.
+mckenna: the numbers we are seeing new york, chicago, and london are consistently solid, but many of our officers have reported disappointing fields.
 (chandler drifts off and his arm slips off the table and he wakes back up.)
-ms. mckenna: boston is down, atlanta is down, houston is down, i could go on and on but instead of boring you i’ll go straight to my forty two point plan.
+ms.
+mckenna: boston is down, atlanta is down, houston is down, i could go on and on but instead of boring you i’ll go straight to my forty two point plan.
 (chandler leans over to fall asleep on the man’s shoulder next to him, only the man catches his attempt.)
 chandler: walter (nods).
 [scene: ross and rachel’s, phoebe, monica, ross, and rachel are watching emma sleep.]
@@ -71,16 +73,19 @@ phoebe: oh no, rach, no no, you know you’re never supposed to wake a sleeping 
 rachel: well i can do whatever i want!  i made her! (waking emma up.) come on little girl, hi!
 (emma starts crying)
 phoebe: i can say i told you so but she’s kinda doing that for me.
-rachel: oh i’m sorry mummy’s so sorry go back to sleep go back to sleep. shh.   shhh! go back to sleep
+rachel: oh i’m sorry mummy’s so sorry go back to sleep go back to sleep. shh. shhh! go back to sleep
 (emma continues crying in the background)
 monica: breaks your heart doesn’t it
 phoebe: it really does… how long do you think we have to stay?
 [scene: a boardroom, chandler’s meeting continues.]
-ms. mckenna: ok if everyone’s on board, it’s settled, chandler, (walter puts his hand on chandlers hand, chandler sleeping puts his hand on top of his, he then wakes up and pulls his hand away) chandler?
+ms.
+mckenna: ok if everyone’s on board, it’s settled, chandler, (walter puts his hand on chandlers hand, chandler sleeping puts his hand on top of his, he then wakes up and pulls his hand away) chandler?
 chandler: yep.
-ms. mckenna: are you on board?
+ms.
+mckenna: are you on board?
 chandler: (not knowing what he’s saying yes to) yes.
-ms. mckenna: then, problem solved. chandler will be running our office in tulsa. you’re gonna love oklahoma.
+ms.
+mckenna: then, problem solved. chandler will be running our office in tulsa. you’re gonna love oklahoma.
 (chandler smiles and nods then realizes what he’s agreed to.)
 [scene: ross and rachel’s, emma continues crying while rachel, monica and phoebe try different methods to stop her crying.]
 phoebe: well, alright, we already tried feeding her, changing her, burping her, oh try this one! go back in time and listen to phoebe!
@@ -139,7 +144,7 @@ joey: (shouts) hit me! hit me!
 ross: you ducked!!
 joey: i’m sorry! it was a reflex!
 ross: oh my god, this really hurts!!!
-joey: i couldn’t help it! when a fist comes at your face, you duck! look! (he goes to punch ross, expecting him to duck, but he doesn’t and joey punches ross.   gunther is amused.)
+joey: i couldn’t help it! when a fist comes at your face, you duck! look! (he goes to punch ross, expecting him to duck, but he doesn’t and joey punches ross. gunther is amused.)
 ross: what is the matter with you?!?
 joey: you were supposed to duck!!! why didn’t you duck?
 ross: why don’t we talk about this on the way to the hospital?
@@ -179,11 +184,14 @@ chandler: (hears emma crying) what is wrong with emma?
 monica: oh she misunderstood, she thought she was moving to tulsa.
 [scene: ms. mckenna’s office, chandler enters.]
 chandler: umm ma’am, do you have a minute? (she points for him to come in) i kind of have some bad news. i don’t think i can move to tulsa.
-ms. mckenna: what?
+ms.
+mckenna: what?
 chandler: it’s a funny story, actually. (coughs) i kind of fell asleep in the meeting this morning so when i said i’d move to tulsa, i didn’t really know what i was saying.
-ms. mckenna: you fell asleep?
+ms.
+mckenna: you fell asleep?
 chandler: but only because i was up all night worried about this meeting, ain’t that funny? irony? not a fan, alright (he sits down). see, here’s the thing. i went home and told my wife about tulsa and she won’t go. see, me, i love tulsa!  tulsa is heaven!  tulsa is italy—please don’t make me go there!
-ms. mckenna: chandler, i…
+ms.
+mckenna: chandler, i…
 chandler: no no no! look, carol, can i call you carol? (pause) wh-why would i when your name is elaine? oh what a great picture of your son, strapping! (she glares at him.) that’s a picture of your daughter, isn’t it, well she’s lovely. i like a girl with a strong jaw. i’ll call you from tulsa. (exits.)
 [scene: the hospital, joey is sitting in the lobby as ross enters.]
 joey: hey, so how is it?
@@ -241,7 +249,7 @@ monica: (to emma) bouncy baby, bouncy baby, ooh baby baby, ooh baby baby, ooh ba
 phoebe: (entering) have i gone deaf?
 monica: it worked! ooh baby baby baby, ooh baby baby baby!
 phoebe: you must be a fireball in bed.
-monica: i can’t believe it!  she’s asleep!  i got her to go to sleep!   i have actual magical powers!
+monica: i can’t believe it!  she’s asleep!  i got her to go to sleep! i have actual magical powers!
 phoebe: i can hear traffic and birds!  i can hear the voices in my head again! (monica looks at her strangely) i’m kidding. (she smiles wickedly.)
 rachel: oh my god! you got her to stop crying!
 monica: yes i did, i’m monica, super aunt
@@ -275,9 +283,9 @@ ross: (smiles) right.
 rachel: i mean i got news for you mister, emma?  not easy.
 ross: well, that’s what i’m here for. (emma starts crying again) want me to get that?
 rachel: no its really okay… monica!
-monica: (comes running out the kitchen to the bedroom) got it! got it! got it! got it! got it! got it!
-closing credits
+monica: (comes running out the kitchen to the bedroom) got it! got it! got it! got it! got it! got it!r
 [scene: central perk, joey and ross are sitting at one of the high tables.]
 joey: you know, ah, i’ve been thinking about this and i gotta tell ya, it’s not my fault. it’s a natural instinct.
 chandler: (enters) hey, what you guys talking about?
-joey: hey ok great, what would you do if i did this? (swings to punch chandler, he moves and he ends up punching ross, knocking him off the stool. ross then gets up and just stares at joey.)<EPISODE_END>
+joey: hey ok great, what would you do if i did this? (swings to punch chandler, he moves and he ends up punching ross, knocking him off the stool. ross then gets up and just stares at joey.)r
+<EPISODE_END>

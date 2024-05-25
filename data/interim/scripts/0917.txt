@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-917 - the one with the memorial service
+<EPISODE_START>
+the one with the memorial service
 [scene: ross' apartment , chandler and joey enter]
 chandler: hey! ready to go?
 ross: oh yeah, let me just finish this.
@@ -12,7 +12,8 @@ chandler: the tall girl who wouldn't sleep with you?
 ross: uh uh... well, her internet company went under and she lost an ear in a boating accident...
 chandler: bet she'd sleep with you now...
 ross: no... i already e-mailed her.
-chandler: let me see what you wrote about yourself: "doctor paleontology, two kids... " (pause) you split with carol because you have different interests?... i think you split with carol because you've one very similar interest!
+chandler: let me see what you wrote about
+yourself: "doctor paleontology, two kids... " (pause) you split with carol because you have different interests?... i think you split with carol because you've one very similar interest!
 ross: you know what? i'm gonna finish this later, ok? let me just grab my coat.
 joey: hey! (he throws the basketball against a table again)
 ross: (he picks up the ball) what do you think you learnt how to do in the last two minutes?? (he enters another room)
@@ -21,8 +22,7 @@ joey: (he stops chandler from posting the message) no, no, no... what do... you 
 ross: (he comes back) alright, let's go!
 joey: dude! (he opens his arms to receive the ball from ross' hands)
 ross: i think you made it clear you cannot be trusted with the ball inside the house!
-joey: (after ross leaves the room) aaand send! (he hits the send button)
-opening credits
+joey: (after ross leaves the room) aaand send! (he hits the send button)r
 [scene: joey and rachel's apartment]
 rachel: hey! how was basketball?
 joey: oh, it was a lot of fun right up until chandler got a finger in the eye!
@@ -169,7 +169,8 @@ mike: actually i've been playing a lot of love songs lately. i've missed you.
 phoebe: i've missed you too.
 (silence)
 monica: you know, on the way over here, i saw this drunk guy throw up. and then a pigeon ate it!
-[scene: ross's apartment: ross is doing something on his laptop when chandler walks in]
+[scene: ross's
+apartment: ross is doing something on his laptop when chandler walks in]
 chandler: hey, ross, i just wanted to apologize... (­looks at laptop screen)..don't tell me you actually made those gay pictures of me?
 ross: uhu uhu, check this out. (chandler sits down and looks at laptop screen)
 chandler: huh! so that's what i would look like if i worked out... and was being serviced by a policeman. you're not actually going to send these out are ya?
@@ -186,7 +187,8 @@ chandler: ross, what're you... what're you... what are you doing? (looks at lapt
 ross: no! that would be stupid! you're having it for me!
 chandler: ross, don't press send, don't press se... !
 ross: oh, too late, too late! it's sent... oops sorry and so is the picture of you and the police man...
-[scene: joey's room: joey is sitting on his bed reading dool transcript when rachel walks in]
+[scene: joey's
+room: joey is sitting on his bed reading dool transcript when rachel walks in]
 rachel: i'm trying to put emma down for a nap, have you seen hugsy?
 joey: original or crappy?
 rachel: original.
@@ -207,9 +209,11 @@ rachel: oooh... you're sweet, i knew uncle joey would step up. (turns to face em
 joey: look forget it forget it... i can't do it.
 rachel: are you gonna... you're going to take hugsy away from a little child?
 joey: how do you think i got him in the first place?
-[scene: phoebe's apartment: phoebe, monica and mike sitting on the couch]
+[scene: phoebe's
+apartment: phoebe, monica and mike sitting on the couch]
 (monica is getting up from the couch)
-monica: alright you two, i'm gonna go to the bathroom. now i don't want anything going on while i'm gone. here's a few things you can discuss: mucus, fungus and the idea of me and ross doing it.
+monica: alright you two, i'm gonna go to the bathroom. now i don't want anything going on while i'm gone. here's a few things you can
+discuss: mucus, fungus and the idea of me and ross doing it.
 mike: i've missed you so much! no, i'm not gonna ask you to get back together because i know we want different things, but just to be with you one more night.
 phoebe: i know, i want that too, but is that going to make it too hard?
 mike: it can't be any harder than this... i mean, if i had known the last time i saw you would be the last time, i... i would have stopped to memorize your face, the way you move, everything about you. if i had known the last time i kissed you would have been the last time... i never would have stopped.
@@ -217,7 +221,8 @@ monica: (running back into the room) kiss him, you fool!!
 phoebe: what?
 monica: didn't you hear that speech? if you don't kiss him then i will!
 phoebe: oh, i missed you so much! (she kisses mike)
-strange man: (he bounds into the house) i knew you'd be here!
+strange
+man: (he bounds into the house) i knew you'd be here!
 mike: oh, crap!
 phoebe: who is this?
 mike: my friend manny. i asked him to keep me away from you.
@@ -228,7 +233,8 @@ manny: what's with the kissing?
 monica: hey, at least i knew where my guy was.
 manny: oh yeah yeah, thank god you were here to oversee all the kissing!
 monica: you didn't hear the speech!
-manny: i've heard the speech: (in a mocking voice) "if he knew it was gonna be the last time he saw her... "
+manny: i've heard the
+speech: (in a mocking voice) "if he knew it was gonna be the last time he saw her... "
 monica: hey, it was very moving! you're just heartless!
 manny: you're weak!
 monica: you're... weird!
@@ -286,7 +292,7 @@ chandler: i'm sure that would mean a lot to him. and if heaven has a door, i'm s
 kori: i thought so many times about calling him and asking him out. i guess i really missed my chance.
 ross: (he bounds into the lounge room) but you didn't! i'm still alive!! kori, i know this is a big surprise for you. it's a long story but the things you just said really made my day! i mean, the fact that you are here means more to me than if this room were filled with people!
 kori: you sick freak, who does that? i can't believe i had a crush on you! (she leaves and slams the door behind her)
-ross: did you hear that? kori weston had a crush on me!!
-ending credits
+ross: did you hear that? kori weston had a crush on me!!r
 [scene: ross' apartment]
-ross: (on the phone) no mum, i'm not dead. i know it's not something to kid about. it was just a practical joke between chandler and me, but it's over, ok? (pause) actually no, even if i had died, you would not be left childless. (pause) monica?<EPISODE_END>
+ross: (on the phone) no mum, i'm not dead. i know it's not something to kid about. it was just a practical joke between chandler and me, but it's over, ok? (pause) actually no, even if i had died, you would not be left childless. (pause) monica?
+<EPISODE_END>

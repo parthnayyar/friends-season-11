@@ -1,7 +1,9 @@
-<EPISODE_START>the one with phoebe’s cookies
+<EPISODE_START>
+the one with phoebe’s cookies
 [scene: central perk, rachel, phoebe, joey, ross, and monica are all there as chandler enters wearing glasses.]
 chandler: hey, you guys!
-ross and rachel: hey!
+ross and
+rachel: hey!
 chandler: so, what do you think?
 ross: about what?
 rachel: yeah, what?
@@ -20,8 +22,7 @@ monica: sweetie, i think the glasses look great. they make you look really sexy.
 chandler: really?
 monica: yeah!
 chandler: (sitting down on the arm of her chair) you didn’t think i used to wear glasses, right?
-monica: of course! (she mouths, "i have no idea," to the rest of the gang.)
-opening credits
+monica: of course! (she mouths, "i have no idea," to the rest of the gang.)r
 [scene: monica, chandler, and phoebe's, rachel, phoebe, chandler, and monica are making some sandwiches.]
 phoebe: so what do you guys want for an engagement present?
 chandler: that’s okay pheebs, we’re not having a party or anything, so you don’t have to get us…
@@ -125,7 +126,8 @@ phoebe: that and arrogance.
 joey: (entering) hey.
 monica: hey! how was sailing?
 joey: i don’t want to talk about it. y’know, you could’ve at least saved me a whole cookie. (he grabs what’s left of the cookie and pops in his mouth.)
-monica and phoebe: no-wait-no-no!!!!!!!
+monica and
+phoebe: no-wait-no-no!!!!!!!
 joey: (recoils in horror) women are mean!!! (storms out.)
 phoebe: i can’t believe that! now the only thing left of my grandmother’s legacy is this crumb. (she picks it up with her finger and holds it out to monica.) i wish you a long and happy marriage.
 ross: (entering with chandler) hey.
@@ -137,7 +139,8 @@ chandler: daddy. all right look, here’s the story. (flashback to chandler abou
 [cut to the flashback, chandler’s no longer doing the voice-over.]
 chandler: guys?
 ross: over here. (you can see ross sitting at the far wall.)
-mr. geller: have a seat son. (you can see mr. geller sitting closer to the door as chandler walks over and sits in his lap.) hey!! (chandler quickly jumps off and sits next to him with a shocked expression on his face.)
+mr.
+geller: have a seat son. (you can see mr. geller sitting closer to the door as chandler walks over and sits in his lap.) hey!! (chandler quickly jumps off and sits next to him with a shocked expression on his face.)
 commercial break
 [scene: monica, chandler, and phoebe's, chandler is finished telling everyone what happened.]
 monica: oh my god chandler! i can’t believe it!
@@ -260,12 +263,13 @@ monica: i cannot believe that i just spent the last two days trying to figure ou
 phoebe: i know! you see it is stuff like this which is why (looking down) you’re burning in hell!!
 [scene: the gym, chandler and mr. geller are heading for the whirlpool room.]
 chandler: so you understand, i’d feel a lot more comfortable if you didn’t tell people what happened. y’know, i’m a little…i’m a little embarrassed about it.
-mr. geller: i understand completely, there’s nothing more horrifying than embarrassing yourself in front of your in-laws. as a matter of fact, when i started dating judy i was unemployed, and her father asked me what i did for a living and i told him i was a lawyer.
+mr.
+geller: i understand completely, there’s nothing more horrifying than embarrassing yourself in front of your in-laws. as a matter of fact, when i started dating judy i was unemployed, and her father asked me what i did for a living and i told him i was a lawyer.
 chandler: what did you do when they found out?
-mr. geller: they never did, so if ever see me giving them legal advice just nod along. shall we?
+mr.
+geller: they never did, so if ever see me giving them legal advice just nod along. shall we?
 (chandler nods along and they enter the whirlpool room and remove their robes. only chandler is lacking a certain item of clothing. you see this is a coed whirlpool, which means swimsuits, and in fact there are two women already there and chandler didn’t seem to wear his. needless to say, everyone is shocked, including chandler.)
-chandler: so i guess we wear swimsuits in here!
-ending credits
+chandler: so i guess we wear swimsuits in here!r
 [scene: the mr. bowmont, is tied up alongside the pier; joey and rachel are relaxing.]
 rachel: well joey, i hate to admit it, your way of sailing is a lot more fun.
 joey: yeah, yeah. hey, why don’t you give a pull on that rope? (points.)
@@ -281,4 +285,5 @@ rachel: ohh, sorry.
 joey: what you—don’t hold it like that! you’re lettin’ all the good stuff fall out.
 (more falls out.)
 rachel: ohh whoops.
-joey: careful! you’re wasting good pastrami! (gasps.) oh my god! i’m my dad!<EPISODE_END>
+joey: careful! you’re wasting good pastrami! (gasps.) oh my god! i’m my dad!r
+<EPISODE_END>

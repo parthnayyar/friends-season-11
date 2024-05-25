@@ -1,4 +1,5 @@
-<EPISODE_START>the one with rachel’s big kiss
+<EPISODE_START>
+the one with rachel’s big kiss
 [scene: central perk, joey, monica, and rachel are sitting on the couch and ross is sitting on the chair, and they’re all talking.]
 rachel: hey! out of all of us, who do you think is gonna get married next?
 joey: probably monica and chandler.
@@ -43,8 +44,7 @@ monica: (to joey) they were lovers.
 ross: what?!
 joey: what?!
 rachel: no we weren’t! it was nothing! it was one night, senior year we went to a party, had a lot of sangria and y’know, ended up…kissing for a bit.
-ross: so that’s two of my wives.
-opening credits
+ross: so that’s two of my wives.r
 [scene: monica and chandler's, monica is working on the seating chart while chandler looks on and rachel reads.]
 monica: (telling chandler the seating arrangement) okay so this is where the band is. (points.) and this is where the bar is. (points) and all these pins have people’s names on them. (she has pins to show the seating at each of the tables.) and rach, here you are. (points to rachel’s place.)
 rachel: oh wow. why don’t we just take me (grabs her pin) and put me with a manhattan in my hand, talking to the cute bartender. (puts her pin at the bar and laughs. monica just glares at her.) these pins aren’t for playing are they?
@@ -266,8 +266,7 @@ rachel: wow! i mean i had no idea that that was gonna…
 rachel: what the hell was that?!
 phoebe: i just wanted to see what all the fuss was about.
 rachel: and?
-phoebe: i’ve had better.
-ending credits
+phoebe: i’ve had better.r
 [scene: ralph lauren, rachel is hooking chandler up with another tuxedo.]
 chandler: (yelling from the changing room) all right! i found one that fits!
 rachel: well y’know what they say, the 23rd time’s the charm. (chandler enters.) aww, look at you all handsome!
@@ -276,4 +275,5 @@ rachel: oh does it matter?! all that matters is that you look so handsome.
 chandler: whose is it?
 rachel: i don’t want to say.
 chandler: oh, come on! i don’t care! come on! whose is it?
-rachel: diane keeton.<EPISODE_END>
+rachel: diane keeton.r
+<EPISODE_END>

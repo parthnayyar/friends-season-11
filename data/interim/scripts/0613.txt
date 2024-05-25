@@ -1,4 +1,5 @@
-<EPISODE_START>the one with rachel’s sister
+<EPISODE_START>
+the one with rachel’s sister
 [scene: central perk, joey is giving rachel, chandler, phoebe, and ross their bills.]
 joey: okay rach, that muffin and espresso, $4.50. ross, double latte, $2.75. chandler, coffee and a scone, $4.25. and pheebs, herbal tea, $1.25. so, all together that’s (pauses to figure the total) $12.75.
 chandler: this coming from the man who couldn’t split our 80 dollar phone bill in half.
@@ -14,8 +15,7 @@ joey: it will be when you look like that in a tight skirt! this is great! i’m 
 rachel: wait a minute, you’re only giving free stuff away to the pretty girls?
 phoebe: yeah joey that is so gross!
 joey: how about a scone on the house baby?
-phoebe: (giggles) i’m pretty.
-opening credits
+phoebe: (giggles) i’m pretty.r
 [scene: monica and chandler's, everyone but monica is there playing monopoly.]
 ross: hey does anyone have any gum?
 phoebe: oh i do! (she grabs her huge purse and starts rummaging through it and taking out various items in a futile search for the gum.) oh, y’know what? no. (pause) wait a second. (she removes a bag filled with water that has a goldfish swimming in it.) i know it’s in here somewhere.
@@ -89,7 +89,8 @@ rachel: (entering) hey! what’s goin’ on?
 jill: hey!
 rachel: (notices jill’s bags) jill! did you shop?!
 jill: no! they did! (points to phoebe and ross)
-phoebe and ross: yeah, we went shopping!
+phoebe and
+ross: yeah, we went shopping!
 rachel: you went shopping?! what, and then you just came in here and paraded it right under jill’s nose when you know she’s trying to quit. wow, you guys are terrible!
 phoebe: sorry jill.
 ross: sorry-sorry jill.
@@ -162,7 +163,8 @@ woman: what do you mean? yesterday you said i was too pretty to pay for stuff!
 joey: it’s just i can’t because my manager said i… (gets an idea) (starts singing) "happy birthday to you, happy birthday to you. happy birthday dear annie…
 woman: amy!
 joey: (still singing) "…amy! happy birthday to you!"
-a male customer: hey, that’s weird, today’s my birthday too!
+a male
+customer: hey, that’s weird, today’s my birthday too!
 joey: yeah, not it here it isn’t.
 jill: (entering) sorry i’m late, what’s up?
 rachel: (on the couch) oh hi! y’know, i just wanted to see if there were any leads on the old job front.
@@ -282,5 +284,4 @@ monica: oh no it’s not, no it’s not. it’s a first date. i’m sure that no
 rachel: oh. (squeaks again.)
 chandler: ho-oh, he’s gonna get some! (rachel looks at him.) of the glare from the streetlight out of his apartment. y’know so umm, he’s closed the drapes there so he can have a nice, pleasant conversation with your little sister. (pause) well, i’m off to bed! (goes to bed.)
 to be continued
-ending credits
-(there is no credits scene, just a preview of the next couple of episodes.)<EPISODE_END>
+<EPISODE_END>

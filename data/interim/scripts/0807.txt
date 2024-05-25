@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the stain
+<EPISODE_START>
+the one with the stain
 [scene: monica and chandler's, chandler is sitting in the living room as monica enters.]
 monica: hey.
 chandler: hey.
@@ -17,13 +18,12 @@ monica: did she really say that?
 chandler: yes, i distinctly remember ‘cause i thought it was a joke. now just give her a chance, okay?
 monica: fine, i can do it. (gets anxious.) whew.
 chandler: what’s the matter?
-monica: well, usually when i’m this anxious, i clean!
-opening credits
+monica: well, usually when i’m this anxious, i clean!r
 [scene: central perk, ross, rachel, and phoebe are there as someone’s cell phone starts to ring with one of those fancy ring tones.]
 phoebe: (looking around) who’s cell phone is that? it’s just so annoying; everywhere you go.
 ross: i think it’s coming from your bag.
 phoebe: (checks) i never get calls!! (answers the phone) hello?
-eric: hi, it’s eric. from the halloween party, ursula’s fianc�e.
+eric: hi, it’s eric. from the halloween party, ursula’s fiance.
 phoebe: oh my god eric hi! wait, how’d you get this number?
 eric: oh, i have a friend who’s a cop and he got it for me.
 phoebe: wow! what an incredible violation—and wonderful surprise.
@@ -62,22 +62,29 @@ rachel: shall we?
 ross: yeah.
 (they both exit.)
 [scene: ross’s building, they are approaching the apartment of the woman who died. ross knocks on the door and a woman answers it.]
-mrs. verhoeven's daughter: yes?
+mrs. verhoeven's
+daughter: yes?
 ross: hi. i’m ross geller. i live in the building.
 rachel: and i’m rachel, an admirer of the building.
 ross: i-i heard about mrs. verhoeven passing away and i’m so sorry for your loss.
-mrs. verhoeven's daughter: she didn’t pass.
+mrs. verhoeven's
+daughter: she didn’t pass.
 ross: what?
-mrs. verhoeven's daughter: my mother’s still alive.
+mrs. verhoeven's
+daughter: my mother’s still alive.
 ross: oh, thank god!
-mrs. verhoeven's daughter: it looked like we were gonna lose her this morning, but she’s a tough old bird.
+mrs. verhoeven's
+daughter: it looked like we were gonna lose her this morning, but she’s a tough old bird.
 rachel: ahh.
-mrs. verhoeven's daughter: are you close with her?
+mrs. verhoeven's
+daughter: are you close with her?
 ross: of course! uh yeah, she and i would talk all the time in-in (rachel pokes her head in and starts to look around) the laundry room. (pushes rachel out of the way.)
-mrs. verhoeven's daughter: you speak dutch? (in dutch) zeer vereerd een vriend van mijn moeder te ontmoeten. (translation: i’m very honored to meet a friend of my mother.)
+mrs. verhoeven's
+daughter: you speak dutch? (in dutch) zeer vereerd een vriend van mijn moeder te ontmoeten. (translation: i’m very honored to meet a friend of my mother.)
 ross: y’know i would it’s just painful.
 rachel: so she’s really not dead.
-mrs. verhoeven's daughter: no, she’s hanging in there.
+mrs. verhoeven's
+daughter: no, she’s hanging in there.
 rachel: hmm. do you think—could you tell me if she’s hanging in, in a one bedroom or a two?
 [scene: monica and chandler's, monica is observing the new maid, brenda, clean.]
 brenda: mrs. bing, this tile cleaner is incredible! where’d you get it?
@@ -208,11 +215,14 @@ monica: yes! absolutely. okay? look, you’ll know it’s mine because on the ri
 chandler: you need new clothes.
 [scene: mrs. verhoeven’s apartment, ross is back to inquire about the elder verhoeven’s health or lack there of.]
 ross: hi. how is she?
-mrs. verhoeven's daughter: it’s not looking good.
+mrs. verhoeven's
+daughter: it’s not looking good.
 ross: (happily) oh. (realizes then sadly) oh. well i uh, i brought her some bloemen. (flowers in dutch.)
-mrs. verhoeven's daughter: that’s so sweet. (takes the flowers.) would you like to come in and say good-bye? i’m sure it would mean a lot to her.
+mrs. verhoeven's
+daughter: that’s so sweet. (takes the flowers.) would you like to come in and say good-bye? i’m sure it would mean a lot to her.
 ross: oh i don’t know that it would.
-mrs. verhoeven's daughter: well, her memory is pretty much gone.
+mrs. verhoeven's
+daughter: well, her memory is pretty much gone.
 ross: all right then. (follows her in and checks the place out.)
 [scene: eric’s apartment, he’s resting on the bed as phoebe enters.]
 phoebe: (entering) hey!
@@ -286,10 +296,10 @@ rachel: it’s moving.
 joey: ew.
 rachel: it’s still—(screams)—it’s got a tail! get it out of here! get it out of here!!
 joey: ooh! ah! okay! (quickly drags the crib outside.)
-dedicated to the memory of pearl harmon
-closing credits
+dedicated to the memory of pearl harmonr
 [scene: joey and rachel's, joey and rachel are toasting her staying put.]
 ross: well, the old lady died. and how do i know? her dying wish was for one last kiss. but i don’t care, (to rachel) because you got the apartment. yes!
 rachel: ewww. yeah. umm. i think i’m gonna stay here.
 joey: isn’t that great?
-ross: (stutters looking for words) ezels!!<EPISODE_END>
+ross: (stutters looking for words) ezels!!r
+<EPISODE_END>

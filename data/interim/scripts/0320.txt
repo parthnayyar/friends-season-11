@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the dollhouse
+<EPISODE_START>
+the one with the dollhouse
 [scene: monica and rachel's, chandler, monica, phoebe, and joey are there.]
 chandler: wait a minute, wait. you’re telling me this actress person is the only woman you ever wanted who didn’t want you back?!
 joey: yeah! oh my god! (to chandler) is this what it’s like to be you?
@@ -21,8 +22,7 @@ phoebe: no, just a barrel.
 monica: y'know what, you can play with my dollhouse.
 phoebe: really?! really?!
 monica: any time you want. y'know, when i was younger, all i wanted to do was to play with this dollhouse, but no!! it was to be looked at, but never played with.
-chandler: my grandmother used to say that exact same thing to me.
-opening credits
+chandler: my grandmother used to say that exact same thing to me.r
 [scene: rachel’s office, chandler and her are coming back from lunch.]
 rachel: hey, sophie!
 sophie: hey, rach!
@@ -90,7 +90,8 @@ phoebe: the little ones do.
 joey: hey, kate!
 kate: morning.
 joey: listen, i ah, went to that restaurant that you were talking about last week...
-the director: hey, lovely! come, talk to me a minute! (she goes over to him)
+the
+director: hey, lovely! come, talk to me a minute! (she goes over to him)
 joey: (to himself) and i ate the food, i had the fish, it was good, yeah. it was good, yeah...
 woman: hi, oh, i’m lauren, kate’s understudy.
 joey: oh, hey! joey tribbiani.
@@ -106,7 +107,8 @@ lauren: (laughing) oh, you’re so funny. listen, umm, what are you doing after 
 joey: well ahh, (he sees kate and the director kissing) yeah! yeah, sure, a drink sounds great.
 lauren: cool! i-i’ll see you then.
 joey: all right.
-the director: all right, it’s time to act, my talking props. (both joey and kate just look at each other.)
+the
+director: all right, it’s time to act, my talking props. (both joey and kate just look at each other.)
 [scene: monica and rachel's, phoebe is entering with her own dollhouse, that she made herself.]
 phoebe: hey!
 all: hey!
@@ -124,11 +126,14 @@ phoebe: hey, does anybody want to join me in the aroma room? (lights some incens
 rachel: all right!
 ross: i would!
 monica: hey, guys, guys, did you see my new, china cabinet?!
-ross and rachel: uh-huh.
+ross and
+rachel: uh-huh.
 phoebe: watch, watch. (she turns a strand of christmas lights strung around the house.)
-ross and rachel: ooohhhh!!
+ross and
+rachel: ooohhhh!!
 phoebe: and, and! (she turns on a bubble maker.)
-ross and rachel: ahhhh!!
+ross and
+rachel: ahhhh!!
 chandler: (entering) hey, my father’s house does that!
 rachel: (to chandler) o-o-o-okay, how did it go? tell me everything.
 chandler: well, the movie was great, dinner was great, and there’s nothing like a cool, crisp new york evening.
@@ -147,7 +152,8 @@ joanna: don’t spoil it.
 [scene: the theatre, joey and kate are rehearsing.]
 joey: come on baby, don’t go. please? what do you say?
 [a phone rings.]
-the director: (answering the phone) hello. oh! it’s you. just ah, just one-one sec. (to joey and kate) i am going to take this call. when i continue, i hope that there will appear on stage this magical thing that in the theatre we call, committing to the moment! (he goes to take the call.)
+the
+director: (answering the phone) hello. oh! it’s you. just ah, just one-one sec. (to joey and kate) i am going to take this call. when i continue, i hope that there will appear on stage this magical thing that in the theatre we call, committing to the moment! (he goes to take the call.)
 joey: (to kate) that guy’s like a cartoon. what do you see in him anyway?
 kate: he happens to be brilliant. which is more than i can say for that sweater you’re dating.
 joey: hey, i’m not interested in her sweater! it’s what’s underneath her sweater that counts. and besides, since ah, since when do you care who i’m going out with?
@@ -155,12 +161,14 @@ kate: i don’t care. why, do you want me to care?
 joey: do you want me to want you to care?
 kate: do you?
 joey: what?
-the director: (returning) okay, i’m afraid to say this, but let’s pick it up where we left off.
+the
+director: (returning) okay, i’m afraid to say this, but let’s pick it up where we left off.
 [they resume rehearsing.]
 joey: come on baby, don’t go. please? what do you say?
 kate: i’ve got no reason to stay.
 (joey grabs her and kisses her.)
-the director: stop!! stop it! you must stop! you are bad actors! this is a terrible play! i’ll see you in the morning. (exits)
+the
+director: stop!! stop it! you must stop! you are bad actors! this is a terrible play! i’ll see you in the morning. (exits)
 kate: i can’t believe we go on in, in a week.
 joey: hey, it’s gonna be all right.
 lauren: (to joey) hey! so since we’re getting off early, do you want to go and paint mugs?
@@ -298,7 +306,7 @@ joanna: well, this isn’t how i was hoping how this would end, but i guess i ha
 chandler: yeah, o-okay.
 joanna: so...
 chandler: well this is great! i’ll give you a call! we should do it again sometime!
-(rachel is shocked, and holds her arms out in disbelief.)
-closing credits
+(rachel is shocked, and holds her arms out in disbelief.)r
 [scene: chandler and joey's, joey is talking on the phone.]
-joey: (on phone) well, so anyway beth, what i’m saying is i should’ve considered your feelings before i went home with you that night. i’ve ah, i’ve recently learned what’s it like to be on your side of it, and i’m sorry. so, do you think you can forgive me? (listens) great. thanks. okay, bye. (he sits down and crosses out something, and dials the phone again.) hello, jennifer? (listens) oh hi, mrs. loreo, is jennifer there? (listens) oh, she’s not home huh? (listens) well ah, actually i kinda need to talk to you too.<EPISODE_END>
+joey: (on phone) well, so anyway beth, what i’m saying is i should’ve considered your feelings before i went home with you that night. i’ve ah, i’ve recently learned what’s it like to be on your side of it, and i’m sorry. so, do you think you can forgive me? (listens) great. thanks. okay, bye. (he sits down and crosses out something, and dials the phone again.) hello, jennifer? (listens) oh hi, mrs. loreo, is jennifer there? (listens) oh, she’s not home huh? (listens) well ah, actually i kinda need to talk to you too.r
+<EPISODE_END>

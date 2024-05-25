@@ -1,4 +1,5 @@
-<EPISODE_START>the one with two parts, part 1
+<EPISODE_START>
+the one with two parts, part 1
 [scene: rift’s restaurant, as seen in mad about you, joey and chandler are there.]
 chandler: this is unbelievable. it’s been like a half an hour. if this was a
 cartoon, you’d be looking like a ham right about now.
@@ -16,8 +17,8 @@ ursula: right, yeah, ’cause its close to where i live, and the aprons are
 really cute.
 chandler: can we start over?
 ursula: yeah. okay great. i’m gonna be over here. (she wanders away.)
-chandler and joey: no, no, no!
-opening credits
+chandler and
+joey: no, no, no!r
 [scene: a wintry february day in new york city, snowplows are clearing the streets. inside central perk, all three girls are paying court to ross.]
 ross: i don’t know whether he’s testing me, or just acting out, but my
 monkey is out of control. but, he keeps erasing the messages on my machine,
@@ -169,7 +170,8 @@ teacher: alrighty. we’re gonna start with some basic third stage breathing
 exercises, so mummies, why don’t you get on your back? and... coaches, you should be
 supporting mummy’s head.
 (ross and susan each gesture for the other to lie down.)
-ross and susan: what? what? what?
+ross and
+susan: what? what? what?
 susan: i am supposed to be the mommy?
 ross: okay, i’m gonna play my sperm card one more time.
 susan: look, i don’t see why i should have to miss out on the coaching
@@ -185,15 +187,19 @@ teacher: good. now imagine your vagina is opening like a flower.
 (ross comes out of character to glare into the distance.)
 [scene: chandler's office. chandler is playing with a toy as his boss mr. douglas knocks and opens the door.]
 chandler: mr. d, how’s it going, sir?
-mr. douglas: ohh, it’s been better. the annual net usage statistics are in.
+mr.
+douglas: ohh, it’s been better. the annual net usage statistics are in.
 chandler: and?
-mr. douglas: it’s pretty ugly. we haven’t seen an anus this bad since the
+mr.
+douglas: it’s pretty ugly. we haven’t seen an anus this bad since the
 seventies.
 chandler: so what does this mean?
-mr. douglas: well, we’re gonna be layin’ off people in every department.
+mr.
+douglas: well, we’re gonna be layin’ off people in every department.
 chandler: hey, listen, i know i came in late last week, but i slept funny, and my
 hair was very very &ndash;
-mr. douglas: not you. relax. ever have to fire anyone?
+mr.
+douglas: not you. relax. ever have to fire anyone?
 [scene: chandler's office, later that day, nina is in his office.]
 chandler: nina? nina. (he goes around his desk to where she is sitting.) nina. (in
 pain) nina.
@@ -253,7 +259,8 @@ rachel: oh, well, that shouldn’t be so hard, now that you’re dating.
 quickie before i go to work?"
 (joey lets himself in, carrying a large paper shopping bag.)
 joey: hey.
-rachel and chandler: hey.
+rachel and
+chandler: hey.
 (there is a loud knocking at the door through which joey has just entered.)
 chandler: you know, once you’re inside, you don’t have to knock any more.
 monica: i’ll get it.
@@ -294,29 +301,35 @@ chandler: knit, good woman, knit, knit!
 (monica frantically bursts into action as rachel resumes winding, tangling chandler’s wool.)
 [scene: chandler's office, chandler & nina are locked in a passionate embrace. someone knocks, so they hurriedly separate to stare out of the window. chandler’s boss opens the door.]
 chandler: and that’s the chrysler building right there.
-mr. douglas: nina.
+mr.
+douglas: nina.
 nina: mr.douglas... (flirting defensively) ..cool tie.
 (she escapes, fortunately so distracting mr. douglas, that he misses chandler’s expression of alarm & guilt.)
-mr. douglas: (shutting the door, then pointing vaguely at nina’s shapely
+mr.
+douglas: (shutting the door, then pointing vaguely at nina’s shapely
 departure) she’s still here.
 chandler: yes, yes she is. didn’t i memo you on this? see, after i let her go,
 err, i got a call from her psychiatrist, dr. flanen-nen, dr. flanen, dr. flan.
 (thinking quickly, chandler desperately tries to remember anything to do with schizophrenia....)
 chandler: and err, he informed me that uh, she took the news rather badly, in fact,
 he uh, mentioned the word frenzy.
-mr. douglas: you’re kidding? she seems so...
+mr.
+douglas: you’re kidding? she seems so...
 chandler: oh, no, no. nina... (miming fairies twinkling around his head) ..she is
 whooo wewee-woo whoo whoo! in fact, if you asked her right now, she would have no
 recollection of being fired at all, none at all.
-mr. douglas: that’s unbelievable.
+mr.
+douglas: that’s unbelievable.
 chandler: and yet, believable. so i decided not to fire her again until i can be
 assured that she will be no threat to herself, or others.
-mr. douglas: i see. i guess you never really know what’s goin’ on inside
+mr.
+douglas: i see. i guess you never really know what’s goin’ on inside
 a person’s head.
 chandler: well, i guess that’s why they call it psychology, sir.
 (mr. douglas screws up his eyes, trying to credit what bing has just said, but turning to follow nina down the corridor, he realises bing must be telling the truth, since he would not have any personal interest in the girl, would he?)
 [scene: lamaze class, ross is again on the floor, cradled in susan’s lap, but now carol is cradled in his lap, and she has a pretend baby, on her lap. the teacher is showing her class a video, which is about to end.]
-soothing male voice: ..a sound mom and dad never forget. for this after all, is the
+soothing male
+voice: ..a sound mom and dad never forget. for this after all, is the
 miracle of birth.
 teacher: lights please? and that’s having a baby. next week is our final
 class.
@@ -383,7 +396,8 @@ chandler: helen drinks. (insincerely) will you marry me?
 chandler: well, i ended up telling her everything.
 rachel: oh, how’d she take it?
 chandler: pretty well. except for the stapler thing. (he holds up a bandaged hand.)
-little tip: if you’re ever in a similar situation, never ever leave your
+little
+tip: if you’re ever in a similar situation, never ever leave your
 hand... (he mimes nina taking her revenge) ..on the desk.
 monica: okay, i think i get how to do this.
 (monica points the remote at her tv, and punches out a key combination from the book, but the dreaded sap logo remains and spanish still comes forth.)
@@ -401,7 +415,8 @@ anything. she just, you know, she’s always breaking my stuff. when i was
 eight, and i wouldn’t let her have my judy jetson thermos, so she threw it under the
 bus. and then, oh, and then there was randy brown, who was like... have you ever had a
 boyfriend who was like your best friend?
-monica and rachel: (wistfully, shaking their heads) no.
+monica and
+rachel: (wistfully, shaking their heads) no.
 phoebe: well, but that’s what he was for me. and she you know, kind of stole
 him away, and then... broke his heart... and then he wouldn’t even talk to me
 any more. because he said he didn’t wanna be around... anything that looked
@@ -421,8 +436,7 @@ phoebe: oh, okay, oh.
 (phoebe gets up and walks across the hallway, but the door to chandler and joey’s apartment is shut. she knocks, and anxiously waits for joey to come, but instead her identical twin sister emerges wearing one of joey’s shirts.)
 ursula: (surprised) oh.
 (phoebe reels back in shock, while ursula defiantly leans against the doorpost as though she owns the place.)
-ursula: yeah, um, may we help you?
-closing credits
+ursula: yeah, um, may we help you?r
 [scene: monica and rachel's balcony, rachel is taking down the christmas lights. monica sees her, so she leans out of the small side window.]
 monica: rachel, what are you doing? it’s freezing out here. would you come
 back inside?
@@ -434,4 +448,5 @@ monica: oh-my-god rachel! (rushing out to look over the edge) rachel!
 (in the apartment below, mr.heckles is trying to relax and read his newspaper, but rachel is helplessly dangling upside-down with her ankle wrapped up in the christmas lights.)
 rachel: (to monica) i’m okay! i’m okay! (she knocks on mr. heckles's
 window.) mr. heckles, mr. heckles could you help me please?
-mr.heckles: see, this is just the kind of thing i was talking about.<EPISODE_END>
+mr.heckles: see, this is just the kind of thing i was talking about.r
+<EPISODE_END>

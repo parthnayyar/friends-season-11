@@ -1,4 +1,5 @@
-<EPISODE_START>the one with rachel’s assistant
+<EPISODE_START>
+the one with rachel’s assistant
 [scene: monica, chandler, and phoebe's, everyone is there and they are finishing watching the first episode of mac and c.h.e.e.s.e. joey is of course mac.]
 mac: (on tv) well, if we learned one thing today c.h.e.e.s.e. is that cheerleaders and high explosives don’t mix. (cut to joey laughing while rachel, chandler, and monica aren’t amused.)
 c.h.e.e.s.e: you can say that again mac.
@@ -25,8 +26,7 @@ rachel: what are you gonna do pheebs?
 phoebe: i don’t know. i don’t know. i can’t lie to him again. oh no i—no! i’m just gonna press my breasts up against him.
 chandler: and say nothing?
 phoebe: uh-huh, yeah that’s right.
-joey: (hangs up the phone) wow! well, my folks really liked it! so what-what did you guys think? (phoebe smiles, walks up to him, and presses her breasts against him.) it wasn’t that good.
-opening credits
+joey: (hangs up the phone) wow! well, my folks really liked it! so what-what did you guys think? (phoebe smiles, walks up to him, and presses her breasts against him.) it wasn’t that good.r
 [scene: central perk, phoebe and monica are reading on the couch.]
 monica: phoebe, do you think that your favorite animal says much about you?
 phoebe: what? you mean behind my back?
@@ -36,7 +36,8 @@ rachel: joey! kinda in the middle of a story here!
 joey: ooh, sorry. sorry. you finish, go.
 rachel: okay, so anyway i’m sittin’ in my office and guess who walks in.
 joey: i’m gonna be on two tv shows!
-monica and phoebe: oh, that’s great!!
+monica and
+phoebe: oh, that’s great!!
 rachel: joey!
 joey: oh, you weren’t finished?
 rachel: yeah! guess who walks into my office is the end of my story. (to monica and phoebe) it was ralph lauren! (monica and phoebe gasp) ralph lauren walked into my office!
@@ -56,7 +57,8 @@ phoebe: oh hey!
 joey: i’ll be playing drake remoray’s twin brother, stryker!
 monica: oooh!
 rachel: i get to hire my own assistant!
-monica and phoebe: ahhh!!
+monica and
+phoebe: ahhh!!
 joey: (jumps up) well—i got a head rush from standing up to fast right there.
 [scene: rachel’s new office, she’s interviewing a potential new assistant, hilda.]
 rachel: (reading the resume) and you were at this job for four years?
@@ -244,7 +246,7 @@ phoebe: so you hired yourself a little treat did ya?
 rachel: all right i know, i know how it looks pheebs, but i’m telling you…
 phoebe: but-but you know you cannot get involved with your assistant.
 rachel: yes, i know that. i know that. and i know that hiring him was probably not the smartest thing that i’ve ever done. but i’m telling you, from this moment on i swear this is strictly professional. (there’s a knock on the door.) yes?
-(kathy enters (because she’s listed in the credits).)
+(kathy enters)
 kathy: hey rachel!
 rachel: hi!
 kathy: cute assistant! what’s his story? is he…
@@ -259,8 +261,10 @@ joey: wait! terry! please! look, i just lost my other job. okay? you have no ide
 nurse #1: this poor guy’s been in a coma for five years. it’s hopeless.
 nurse #2: it’s not hopeless! dr. stryker remoray’s a miracle worker. look, here he comes.
 (stryker enters, only it’s not joey playing him.)
-dr. stryker remoray: good morning. (he walks over to the bed, leans down, and whispers to him.) drake, it’s your brother stryker. can you hear me?
-the director: and cut!
+dr. stryker
+remoray: good morning. (he walks over to the bed, leans down, and whispers to him.) drake, it’s your brother stryker. can you hear me?
+the
+director: and cut!
 joey: (jumping up and removing the bandages) i’m back baby! ha-ha-ha!
 [scene: central perk, chandler, monica, and ross are sitting there and not talking to each other.]
 monica: y’know, in my defense, umm there was no glitter on the macaroni and very little glue.
@@ -279,8 +283,7 @@ ross: okay, (gets up) if you’ll excuse me, i-i’m gonna go hang out with some
 monica: then, i’d steer clear of phoebe.
 ross: man! (monica mouths, "i’m sorry.")
 chandler: yeah, and not that you would, but i wouldn’t hang out with…all the guys in my office.
-(ross storms out.)
-ending credits
+(ross storms out.)r
 [scene: rachel’s office, she’s looking at a picture of tag when he knocks and enters.]
 rachel: (noticing him) hi! (puts the pictures away.)
 tag: do you have a minute?
@@ -298,4 +301,5 @@ rachel: ‘kay.
 tag: well…
 rachel: yeah.
 tag: i’d love to ask out your friend phoebe.
-rachel: (pause) yeah, she’s gay.<EPISODE_END>
+rachel: (pause) yeah, she’s gay.r
+<EPISODE_END>

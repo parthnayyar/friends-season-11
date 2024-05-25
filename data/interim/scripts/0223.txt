@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the chicken pox
+<EPISODE_START>
+the one with the chicken pox
 [scene: central perk. rachel, monica, joey, and chandler are there.]
 [rachel brings a muffin to chandler and monica who are sitting on the couch.]
 rachel: ok, chandler, mon, there's only one bananna nut muffin left.
@@ -8,10 +9,13 @@ chandler: yeah, but i'm, i'm so much faster...
 monica: give it to me.
 chandler: no.
 monica: give it to me.
-chandler: ok, you can have it. [he licks it and offers it to her.]
-monica: [she grabs the coffee cup on the table and licks the rim.]
+chandler: ok, you can have it.
+[he licks it and offers it to her.]
+monica:
+[she grabs the coffee cup on the table and licks the rim.]
 there you go, enjoy your coffee.
-chandler: that was there when i got here. [takes a bite of his muffin.]
+chandler: that was there when i got here.
+[takes a bite of his muffin.]
 phoebe: [enters] hey you guys, you will never guess who's coming to new york.
 monica: [chandler tries to come back with a smart-ass remark but can't swallow the
 muffin.] quick, phoebe, tell us before he can swallow.
@@ -96,7 +100,8 @@ monica: it's gonna be ok. ryan's been under water. he's just gonna
 be so glad that you don't have barnicles on your butt.
 [scene: monica and rachel's apartment. ryan is walks up to the door and knocks.]
 phoebe: come in.
-ryan: hey baby, i'm back... [phoebe is sitting by the window in a veil.]
+ryan: hey baby, i'm back...
+[phoebe is sitting by the window in a veil.]
 phoebe: hey ryan, what's up?
 ryan: what's goin' on?
 phoebe: well, no no, you have to stay back. i, i have the pox.
@@ -162,12 +167,14 @@ ryan: give me the dice.
 phoebe: no. here. [throws them on the table.] there. ooh, double sixes.
 ryan: we can't scratch. you know we can't, we'll scar.
 phoebe: uhh, i can't stop thinking about it. it's just so hard. i just wanna grab all
-these houses and rub 'em all over my body. [grabs a handful of the houses.]
+these houses and rub 'em all over my body.
+[grabs a handful of the houses.]
 ryan: no.
 phoebe: give it.
 ryan: no.
 phoebe: yeah, come on. you know you want it, you know you want it too, come on. let's just
-be bad, it'll feel so good. [she starts scratching him.]
+be bad, it'll feel so good.
+[she starts scratching him.]
 ryan: oh god help me.
 phoebe: now do me, do my back. oh come on, harder.
 [they get back to back and start rubbing against each other. ross and rachel enter.]
@@ -184,16 +191,20 @@ joey: what a phony.
 chandler: well, i'm sure you'll teach her a lesson when she steps off the dock onto
 nothing. hey mr. douglas.
 joey: sir.
-mr. douglas: uh, listen bing, i received your memo. so, we're not gonna receive the
+mr.
+douglas: uh, listen bing, i received your memo. so, we're not gonna receive the
 systems report until next friday?
 chandler: well the people in my group wanna spend the holiday weekend with their families.
-mr. douglas: i have a family, i'm gonna be here.
+mr.
+douglas: i have a family, i'm gonna be here.
 joey: yeah bing, what's that about?
 chandler: it's about cutting my people a little slack, ya know, for morale. look, if you
 wanna see some rough numbers, i can get them to you by wednesday.
-mr. douglas: rough numbers?
+mr.
+douglas: rough numbers?
 joey: this company was not built on rough numbers. am i right mr. douglas.
-mr. douglas: have the final numbers on my desk by tuesday.
+mr.
+douglas: have the final numbers on my desk by tuesday.
 chandler: uh, if you say so sir.
 joey: joseph's good, isn't he?
 chandler: well, i'm going to kill you.
@@ -280,14 +291,18 @@ ross: ok, dinner's on.
 rachel: and there's a peach cobbler warming in the oven so the plate's gonna be hot but
 that shouldn't be a problem for you.
 ross: alright you kids, bye now.
-phoebe and ryan: bye. [waving]
+phoebe and
+ryan: bye.
+[waving]
 ross: oh look, a low budget puppet show.
 phoebe: it's such a shame you can't see which finger i'm holding up.
 [ross and rachel leave.]
 ryan: wine?
-phoebe: please. [ryan pulls the cork with his teeth and spits it into phoebe's mits.]
+phoebe: please.
+[ryan pulls the cork with his teeth and spits it into phoebe's mits.]
 ryan: oh, i spilled some.
-phoebe: i got it. [wipes it up with her mits.]
+phoebe: i got it.
+[wipes it up with her mits.]
 ryan: [puts his hands over phoebe's ears.] i must tell you, you look beautiful tonight.
 phoebe: what?
 ryan: sorry. you look beautiful.
@@ -333,17 +348,18 @@ ryan: take care.
 rachel: so do you uh, think we can get you one of those uh, uniform things?
 ross: you like that do ya?
 rachel: oh yeah.
-ross: i'll make some calls. [runs off.]
+ross: i'll make some calls.
+[runs off.]
 rachel: ok.
 [outside with phoebe and ryan.]
 ryan: can you believe how we spent our two weeks together?
 phoebe: i know. we didn't do any of the romantic things i had
 planned, like having a picnic at central park and ya know, coffee at central perk. oh i
-just got that. [they kiss.]
+just got that.
+[they kiss.]
 ryan: taxi.
 phoebe: bye you. [ryan's cab drives off. as phoebe is going back in, she sees the central
-perk sign in the window and laughs.]
-closing credits
+perk sign in the window and laughs.]r
 [scene: central perk. rachel is closing. ross walks in in a uniform.]
 rachel: oh i'm sorry, we're clo-... hey sailor.
 ross: is this what you had in mind?
@@ -351,10 +367,11 @@ rachel: i'll say.
 [ross picks her up.]
 ross: i'm shipping out tomorrow.
 rachel: well then uh, we better make this night count. [he starts to carry her out.] oh
-wait, i forgot to turn off the cappucino machine. [he carries her over to turn it off.]
+wait, i forgot to turn off the cappucino machine.
+[he carries her over to turn it off.]
 anchors away. oh no no, my purse, my purse, my purse, my purse, my purse, my pu rse. [he
 carries her to the counter to pick up her purse.] oh, you know what. i forgot to turn off
 the bathroom light.
 ross: alright you know, why don't i just meet you upstairs. [drops her on the couch and
-walks out holding his lower back.]
-end<EPISODE_END>
+walks out holding his lower back.]r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross got high
+<EPISODE_START>
+the one where ross got high
 [scene: monica and chandler's, monica is mixing some thanksgiving treat (i’m assuming mashed potatoes) in a bowl.]
 monica: (on phone) okay, great!  bye. (hangs up as chandler enters.) so guess who’s coming to thanksgiving dinner?
 chandler: sydney portier? hehheh.
@@ -23,8 +24,7 @@ monica: look, i know that i should’ve told them. i know i shouldn’t care wha
 chandler: y’know, it’ll be okay. it’ll be okay. because when they come over, i will be all charming, i will make them fall in love with me, and then we’ll tell ‘em.
 monica: you really think that’ll work?
 chandler: hey, i can be pretty charming, babe, i won you over, didn’t i?
-monica: (hugging chandler) i don’t think you’ll ever get my parents that drunk!
-opening credits
+monica: (hugging chandler) i don’t think you’ll ever get my parents that drunk!r
 [scene: joey and janine’s, joey and ross are playing sony playstation. chandler enters.]
 chandler: hey! (sees ross is there) oh, good, ross! you’re parents like me, right?
 [chandler goes to stand to the side of the tv.]
@@ -72,13 +72,15 @@ monica: you’re not gonna mess it up.
 rachel: wow, monica, i love that, you really have faith in me. thank you. technical question, how do you know when uh, the butter’s done?
 monica: well, it’s done about two minutes before it looks like that.
 [joey and ross enter.]
-joey and ross: hey!
+joey and
+ross: hey!
 all: hey!
 joey: oh, ooh the food smells great, mon!
 ross: and the place looks so nice!
 joey: yeah, hey hey, happy thanksgiving everybody!
 ross: happy thanksgiving!
-the girls: happy thanksgiving!
+the
+girls: happy thanksgiving!
 joey: well, this has been great!
 ross: see ya!
 [joey and ross go to the door, ready to leave.]
@@ -96,23 +98,30 @@ phoebe: yeah, and-and leaving us to go see hot dancer girls is not very thanksgi
 ross: oh, but-but it is, uh, it’s just like the first thanksgiving, when the indians and the pilgrims uh, sat down to dinner.
 joey: yeah, yeah, and the indians taught the pilgrims what it meant to be hot in the new world!
 [enter jack and judy geller]
-mrs. geller: hello everybody!
-mr. geller: hi!
+mrs.
+geller: hello everybody!
+mr.
+geller: hi!
 all: hi!
 [kisses and hugs are exchanged.]
 monica: dad [kisses jack], mom [kisses judy]. look! look who it is it’s chandler!
-mrs. geller: (less than pleased) oh yes of course, hello chandler.
+mrs.
+geller: (less than pleased) oh yes of course, hello chandler.
 chandler: mr. and mrs. geller, you look wonderful, it is great to have you hear, let us take off your coats!
 [chandler goes to take off jack’s coat. he then notices little white flakes on jack’s shoulders. he begins to wipe them off.]
 chandler: whoa, snowing out there?
-mr. geller: (angry) no.
+mr.
+geller: (angry) no.
 [time lapse. the gang is sitting down for thanksgiving dinner. chandler is at the head of the table, mr and mrs geller are to his right. joey and ross are to his left. monica is serving things. phoebe is in the living room and rachel is at the sink.]
-mr. geller: monica, all this food looks wonderful, you should think about doing this for a living.
+mr.
+geller: monica, all this food looks wonderful, you should think about doing this for a living.
 [chandler, trying to make nice with jack, laughs at his joke and points at jack.]
-mr. geller: ok, i have dandruff. there’s no need to laugh and point.
+mr.
+geller: ok, i have dandruff. there’s no need to laugh and point.
 [monica rushes over to chandler’s side.]
 monica: dad, chandler was just laughing at your joke.
-mr. geller: my joke wasn’t funny.
+mr.
+geller: my joke wasn’t funny.
 [phoebe walks from the living room to the kitchen and talks quietly to rachel.]
 phoebe: rach, rach, i just remembered. i had a dream about mr. geller last night.
 rachel: really?!
@@ -122,7 +131,8 @@ rachel: i dunno. y’know to me he’ll always be “jack geller, walks in while
 [time lapse. ross and joey are cleaning the table while judy and phoebe talk by the window. jack and chandler are sitting on the couch while monica sits on the coffee table.]
 monica: y’know dad, chandler is one of ross’s very best friends!
 chandler: yeah, ross sure is a great guy, y’know i’ve always felt that how a young man turns out is a reflection on his father.
-mr. geller: i always thought that too. tell me, what does your father do?
+mr.
+geller: i always thought that too. tell me, what does your father do?
 [chandler and monica exchange worried looks.]
 chandler: (worried) he’s the headliner of a gay burlesque show.
 [rachel is in the kitchen fiddling with her english truffle. joey and ross, anxious to leave and go to janine’s party, are egging her on to hurry up.]
@@ -135,7 +145,8 @@ ross: w-what was the one right before bananas?
 rachel: the beef? yeah, that was weird to me, too. but then, y’know, i thought “well, there’s mincemeat pie,” i mean that’s an english dessert, these people just put very strange things in their food, y’know. [to joey] oh! by the way, can i borrow some rum from your place?
 joey: y-sure!
 rachel: (teasingly) and while i’m gone don’t you boys sneak a taste.
-joey and ross: (faking dissapointment) okay.
+joey and
+ross: (faking dissapointment) okay.
 [rachel leaves]
 ross: beef in a dessert?! i- no no no, there is no way!
 [ross goes to look in the magazine rachel got her recipe from.]
@@ -162,10 +173,14 @@ phoebe: okay, look at him. look at those strong hands. oh what i wouldn’t give
 [we see a shot of jack drinking condensed milk on the couch.]
 [ross and judy enter the living room. judy and ross sit down on the couch beside jack. monica and chandler are sitting on the coffee table.]
 monica: mom, uh, chandler was just saying how beautiful your sweater is.
-mrs. geller: oh, thank you chandler! i just bought it.
-chandler: oh, yes. well it’s very beautiful. it’s cream-colored and tight [realizes what he just said and looks worried. monica and ross also looked shocked. judy and jack give chandler a very dirty look.] i don’t mean tight, i mean it’s not too tight, not that i was looking at-[giving up all hope, he puts his head into his hands.]
-mr. geller: what’s the matter with him?
-mrs. geller: (whispers to jack a little loudly) i think he’s stoned again.
+mrs.
+geller: oh, thank you chandler! i just bought it.
+chandler: oh, yes. well it’s very beautiful. it’s cream-colored and tight
+[realizes what he just said and looks worried. monica and ross also looked shocked. judy and jack give chandler a very dirty look.] i don’t mean tight, i mean it’s not too tight, not that i was looking at-[giving up all hope, he puts his head into his hands.]
+mr.
+geller: what’s the matter with him?
+mrs.
+geller: (whispers to jack a little loudly) i think he’s stoned again.
 chandler: (shocked) what?
 monica: (shocked) what?
 ross: (worried) dude, i need to talk to you a sec.
@@ -263,8 +278,10 @@ monica: it’s so good, that i feel really selfish about being the only one who�
 all: (faking enjoyment) mmm.
 chandler: (clearly lying and hating the dessert) yeah, this is so good, that i’m gonna go enjoy it on the balcony so that i can enjoy the view whilst i enjoy my dessert.
 [chandler exits to the balcony.]
-mrs. geller: (lying) i’ve gotta call my friend mary and tell her how good this is, from monica’s room.
-mr. geller: (also lying) i’ll help you dial.
+mrs.
+geller: (lying) i’ve gotta call my friend mary and tell her how good this is, from monica’s room.
+mr.
+geller: (also lying) i’ll help you dial.
 [jack and judy exit to monica’s room.]
 monica: (again, lying) i’m gonna go into the bathroom so i can look at it in the mirror, as i eat it.
 [monica exits to the bathroom.]
@@ -287,7 +304,8 @@ phoebe: i dunno, let’s see! so, okay, i dreamt that we were gonna get married,
 rachel: (humoring phoebe) oh my god, he dream-cheated on you!
 phoebe: yeah, but then jacques cousteau came and he kicked his ass for betraying me! it was soo cool! then, he took me diving and he introduced me to his pet seahorse, who, by the way, was totally coming on to me, and please, that is not gonna happen.
 [jack and judy come out of monica’s room and sit down on the couch.]
-mr. geller: boy, i’m glad i wore the big belt today.
+mr.
+geller: boy, i’m glad i wore the big belt today.
 phoebe: five minutes ago, a line like that would’ve floored me. now nothing. well, not nothing, i am still a woman.
 [rachel and phoebe walk into the kitchen. monica comes out of the bathroom and goes over to ross.]
 monica: ross? let’s go.
@@ -295,11 +313,14 @@ ross: oh yeah, about telling mom and dad, i was thinking about maybe writing a l
 monica: alright, you know what? that’s it. you’ve had your chance.
 ross: wha-what?
 monica: (out loud, to her parents) mom! dad! ross smoked pot in college!
-mr. and mrs. geller: what?!
+mr. and mrs.
+geller: what?!
 ross: (in a 5 year old’s tone) (to monica) you are such a tattletale! mom, dad, you remember that-that time you walked in my room and smelled marijuana?
-mr. and mrs. geller: yes. (they look at chandler angrily.)
+mr. and mrs.
+geller: yes. (they look at chandler angrily.)
 ross: well i told you it was chandler who was smoking the pot but it was me. i’m sorry.
-mrs. geller: it was you?
+mrs.
+geller: it was you?
 monica: and dad, y’know that mailman that you got fired? he didn’t steal your playboys! ross did!
 [the gellers stare at ross. ross looks at his parents with an afraid, shocked look.]
 ross: yeah, well, hurricane gloria didn’t break the porch swing, monica did!
@@ -315,20 +336,27 @@ monica: ross married rachel in vegas! and got divorced! again!!!!
 phoebe: (joining in) i love jacques cousteau!
 rachel: (reading the recipe magazine, finally figuring out that...) i wasn’t supposed to put beef in the trifle!
 joey: (pounding the table) i wanna gooooooo!
-mrs. geller: (rubbing her temples) that’s alot of information to get in in thirty seconds! alright joey, if wanna leave, just leave. rachel, no you weren’t supposed to put beef in the trifle. it did not taste good. phoebe, i’m sorry, but i think jacques cousteau is dead. (phoebe makes a sad face.) monica, why you felt you had to hide the fact that you were in an important relationship is beyond me.
-mr. geller: and we kinda figured about the porch swing.
-mrs. geller: ross, drugs? divorced? again?
-mr. geller: what happened son?
+mrs.
+geller: (rubbing her temples) that’s alot of information to get in in thirty seconds! alright joey, if wanna leave, just leave. rachel, no you weren’t supposed to put beef in the trifle. it did not taste good. phoebe, i’m sorry, but i think jacques cousteau is dead. (phoebe makes a sad face.) monica, why you felt you had to hide the fact that you were in an important relationship is beyond me.
+mr.
+geller: and we kinda figured about the porch swing.
+mrs.
+geller: ross, drugs? divorced? again?
+mr.
+geller: what happened son?
 ross: i-i uh, i got tricked into all those things!
-mrs. geller: chandler! you’ve been ross’s best friend all these years, stuck by him during the drug problems. (ross gets disgusted.) and now you’ve taken on monica as well. well, i don’t know what to say. you’re a wonderful human being.
+mrs.
+geller: chandler! you’ve been ross’s best friend all these years, stuck by him during the drug problems. (ross gets disgusted.) and now you’ve taken on monica as well. well, i don’t know what to say. you’re a wonderful human being.
 [chandler is mega shocked!]
 chandler: thank you!
-mr. geller: no! thank you! (hugs chandler) monica, and ross! i don’t know what i’m gonna do about the two of you!
-chandler: (in a parent-like tone) i’ll talk to them!
-closing credits
+mr.
+geller: no! thank you! (hugs chandler) monica, and ross! i don’t know what i’m gonna do about the two of you!
+chandler: (in a parent-like tone) i’ll talk to them!r
 [scene: monica and chandler’s, everyone is helping clean the table.]
 rachel: you guys! it was bananas, cream, and beef! i-i just cannot believe that you ate that so that i wouldn’t feel bad!
 monica: well actually, i-i didn’t eat mine. it’s still in the bathroom.
 joey: no it isn’t, i ate that.
-mrs. geller: (pointing to herself and jack) well we left ours in monica’s bedroom.
-joey: nope, got it and i got yours (pointing to jack) too.<EPISODE_END>
+mrs.
+geller: (pointing to herself and jack) well we left ours in monica’s bedroom.
+joey: nope, got it and i got yours (pointing to jack) too.r
+<EPISODE_END>

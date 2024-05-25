@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-923 - 924 - the one in barbados
+<EPISODE_START>
+the one in barbados
 [scene: central perk]
 joey: (entering) hey! i'm all packed and ready to go!
 ross: oh, that's right! (to emma) daddy and uncle joey are going on a trip today. we're going to a conference in barbados, right?
@@ -15,7 +15,7 @@ phoebe: no, no, because, you know, he's been in minsk for 8 years and if he gets
 ross: ok, we gotta go, yeah? so, we'll see you guys tomorrow.
 joey: all right, let's do it! 5 hour flight with charlie, have a couple of drinks, get under that blanket and do what comes naturally.
 ross: it's a blanket joe, not a cloak of invisibility!
-opening credits[scene: paradise hotel lounge in barbados]
+[scene: paradise hotel lounge in barbados]
 charlie: wow! this place is beautiful!
 ross: (very excited) look at all these paleontologists!!
 joey: i know, there are gonna be some pasty folks by the pool tomorrow! (a woman goes towards them)
@@ -91,7 +91,8 @@ joey: oh! ah! eh... britney spears!?
 ross: yeah, she never misses these conferences! (then to charlie) no, i just saw dr. kenneth schwartz!
 charlie: oh my god! did you talk to him?
 ross: yeah... what am i going to say to kenneth schwartz?
-joey: you could say: "hey kenny, how come you're not britney spears?" (looks at ross matter-of-factly)
+joey: you could
+say: "hey kenny, how come you're not britney spears?" (looks at ross matter-of-factly)
 ross: (to charlie) ready to go?
 charlie: yeah!
 joey: wha...? you're gonna go now? i thought we could hang out?
@@ -156,9 +157,11 @@ phoebe: are you leaving "the supremes"? (monica and phoebe go to one side)
 monica: ok, my husband just gave your boyfriend some very bad advice. look, david is going to propose to you tonight.
 phoebe: wow? really? that's fantastic!
 monica: what are you serious? you wanna marry him? wha... what about mike?
-phoebe: oh, ok, you want me to marry mike? alright, well, let's just gag him and handcuff him and force him down the aisle. i can just see it: "mike, do you take phoebe..." (gestures with her hand as if someone is covering her mouth and tries to shout "no! no!") you know, it's every girl's dream!
+phoebe: oh, ok, you want me to marry mike? alright, well, let's just gag him and handcuff him and force him down the aisle. i can just see
+it: "mike, do you take phoebe..." (gestures with her hand as if someone is covering her mouth and tries to shout "no! no!") you know, it's every girl's dream!
 monica: do you really think marrying someone else is the right answer?
-phoebe: sure! look, ok, bottom line: i love mike... david! david. i love david. don't look at me that way, roseanne rosannadanna!
+phoebe: sure! look, ok, bottom
+line: i love mike... david! david. i love david. don't look at me that way, roseanne rosannadanna!
 [scene: ross's hotel room. ross and is reading his keynote speech to charlie from his laptop]
 ross: by using ct scans and computer imaging we can in a very real way, bring the mesozoic era into the 21st century.
 charlie: it's great. you're gonna be the hit of the conference.
@@ -188,7 +191,8 @@ ross: what... what am i gonna do? my speech is gone, chandler!
 chandler: it's not gone! i mean, i'm sure you printed out a copy. you have a hard copy, right?
 ross: no! i don't!!
 chandler: well, you must be pretty mad at yourself right now...!
-[time lapse: ross looks likes he's been trying to fix his computer but just closes it as if giving up]
+[time
+lapse: ross looks likes he's been trying to fix his computer but just closes it as if giving up]
 joey: it's really gone?
 ross: yep! i'd like to thank you guys for coming down here to complain about the rain and ruin my career!
 chandler: i just feel awful.
@@ -268,8 +272,10 @@ charlie: no, it's just... i was enganged to a guy who turned out to be gay!
 ross: hey! high-five! (they high-five)
 charlie: didn't you feel so stupid that you didn't see the signs? my fiancé was always going away on these long weekends with his tennis partner.
 ross: my wife had a workout friend she went to the gym with everyday for a year. she didn't get any fitter.
-charlie: right and then everybody finds out and they're like: "oh, i knew all along"
-ross: i know! it's like, if you knew, why didn't you tell me, you know? i mean, call, or leave a note: "hi, i just dropped by to say your wife's gay"
+charlie: right and then everybody finds out and they're
+like: "oh, i knew all along"
+ross: i know! it's like, if you knew, why didn't you tell me, you know? i mean, call, or leave a
+note: "hi, i just dropped by to say your wife's gay"
 charlie: i know!
 ross: and then, you try to make the best of a bad situation, so you float the idea of a threesome?
 charlie: i didn't do that.
@@ -295,7 +301,8 @@ joey: (eagerly) yeah, who is that?
 rachel: do ya?
 joey: yeah.
 (ross and charlie walk into the hall from ross's room)
-ross and charlie: hey!
+ross and
+charlie: hey!
 (joey smiles at them. rachel looks annoyed)
 charlie: (to joey) i just left you a message! ross and i were gonna go grab a bite, but now that you're here, maybe we can go have that dinner.
 joey: right, of course. hey, did you guys finish the speech?
@@ -310,7 +317,8 @@ charlie: bye.
 ross: good night.
 joey: night.
 (ross and rachel watch them walk away and sigh. they look at each other, embarassed.)
-ross and rachel: ok, good night!
+ross and
+rachel: ok, good night!
 [scene: the restaurant. chandler and monica are sitting at a table]
 (phoebe and david walk in)
 monica: i can't believe she's gonna say yes to david. she's clearly in love with mike.
@@ -375,7 +383,8 @@ ross: (from across the wall) walls are pretty thin, guys!
 [scene: conference room. ross is making his keynote speech]
 ross: then we have to await the data from recent mri scans and dna testing which call into question information gathered from years of simple carbon dating.
 rachel: look at that woman sitting by the pool getting tan... so leathery and wrinkled, i'm so jealous!
-ross: finally, factoring the profusion of new species recently discovered: gigantosaurus, argentinasaurus...
+ross: finally, factoring the profusion of new species recently
+discovered: gigantosaurus, argentinasaurus...
 chandler: (to a paleontologist sitting next to him) not to mention the cold sores.
 (the paleontologist glares at chandler)
 ross: and that's just the herbivores. i'm not even gonna discuss the carnivores, their heads are already too big. which is ironic considering their stunted cerebral development.
@@ -395,9 +404,11 @@ rachel: homo.
 ross: (concluding his speech)... in a very real way we can bring the mesozoic era into the 21st century. (pauses) thank you!
 (everybody stands up and applauds. ross looks flattered and surprised. his friends and other members of the audience go to congratulate him)
 ross: oh, thanks guys!
-man with a bow tie: (shaking hands with ross) i thought... it was wonderful!
+man with a bow
+tie: (shaking hands with ross) i thought... it was wonderful!
 ross: oh!
-man with a bow tie: jarvis oberblau, cornell. (sighs) i mean, the ideas you put forth and, and from someone... so... young... and... (sighs again and smiles at ross blissfully).
+man with a bow
+tie: jarvis oberblau, cornell. (sighs) i mean, the ideas you put forth and, and from someone... so... young... and... (sighs again and smiles at ross blissfully).
 ross: (with a frozen smile on his face, realizing something's wrong with jarvis) ok... now... now we're just holding hands! (pulls his hand away)
 rachel: all right! well, uh... (to monica) we're gonna hit the beach?
 monica: yeah!
@@ -411,7 +422,8 @@ mike: (popping by, smiling) you're kidding, we wouldn't have missed it!
 (ross is dumbfounded to see mike instead of david)
 mike: oh... i'm back!
 ross: (skating over, embarrassed) ok!... uh... excuse me? yeah?
-phoebe & mike: yeah! (they leave)
+phoebe &
+mike: yeah! (they leave)
 (ross goes towards charlie, who's conversing with a fellow paleontologist, and touches her shoulder to get her attention)
 ross: hey! (she turns to him) well...? (in expectation)
 charlie: you were incredible!
@@ -502,7 +514,8 @@ monica: ha! my point!
 mike: oh, no! i don't think so! you know, according to standard table tennis rules if at any time a player uses his non racket bearing hand to touch the playing surface he or she forfeits the point.
 phoebe: (smiling proudly) he was a lawyer!
 [scene: rachel's hotel room. she is watching the weather channel on tv.]
-alexandra steele: (meteorologist) (pointing to the east coast)... all these coasts having beautiful weather. in new york, it's 72 and sunny!
+alexandra
+steele: (meteorologist) (pointing to the east coast)... all these coasts having beautiful weather. in new york, it's 72 and sunny!
 rachel: oh! weather bitch! (turns the tv off)
 (someone knocks on the door)
 rachel: it's open! (joey walks in) hi, joe!
@@ -535,7 +548,8 @@ rachel: yeah, sure!
 joey: you like me? (shuts the door)
 rachel: (nearly whispering) ok, let's not make a big thing about this!
 joey: (shocked) that's a huge thing!
-rachel: not working with me, joe! here's the thing: lately i have been having thoughts (pauses) musings, if you will!
+rachel: not working with me, joe! here's the
+thing: lately i have been having thoughts (pauses) musings, if you will!
 joey: what... for how long?
 rachel: only like a month!
 joey: (outraged) a month??
@@ -558,7 +572,8 @@ joey: because... look, no one wants this to happen more than me, ok? (in a tremb
 rachel: but that wasn't gonna stop you before!
 joey: i know, i know! but i've thought about it a lot since, and it just wouldn't be right... (painfully) i'm sorry...!
 rachel: (regretful) i'm sorry, too! (they look at each other sadly, then she recollects, and puts her hands over her eyes) oh god! i shouldn't have said anything!
-joey: no! no-no-no-no-no-no! hey! hey, we'll be fine! li... hey, like you said: no big deal!
+joey: no! no-no-no-no-no-no! hey! hey, we'll be fine! li... hey, like you
+said: no big deal!
 rachel: it's not a big deal!
 joey: no big deal!
 rachel: it's so not a big deal!
@@ -599,10 +614,12 @@ monica: (to mike) serve the ball, chump!
 mike: (doing monica and mumbling): serve the ball, chump.
 phoebe: (to mike) ok mike, better come back mike, better come back.
 [scene: hotel's bar, ross and mr. oberblau are talking]
-mr. oberblau: i'm just saying, i have a cabin in the adirondacks if you ever want to get away from the city, well, that'd be (pause) just nifty!
+mr.
+oberblau: i'm just saying, i have a cabin in the adirondacks if you ever want to get away from the city, well, that'd be (pause) just nifty!
 ross: ooh, well. ah, i kinda have got a lot on my plate right now, not that i wouldn't love a weekend in the country with a strange man. (mr. oberblau giggles)
 woman: jarvis?
-mr. oberblau: (seeing her) oh, you're back... (to ross) this is my wife, nancy.
+mr.
+oberblau: (seeing her) oh, you're back... (to ross) this is my wife, nancy.
 ross: get out!
 (charlie walks by)
 charlie: ross, can i talk to you for a minute?
@@ -618,7 +635,8 @@ charlie: i guess. there was hum... (she breathes deeply) there was another reaso
 paleontologist: (merrily) ok geller. last day of the conference, you know what happens to the keynote speaker.
 ross: oh, professor clerk we're kind of in the middle of a conversation, here.
 charlie: yeah, can you guys just throw him in the pool later?
-professore clerk: or we could throw you both in now!
+professore
+clerk: or we could throw you both in now!
 ross: (standing) ok, gentlemen! please! aren't we a little old for this? i mean, we're scientists, right? we're academics. and most importantly i... you-you will have to catch us first. (he starts to run away with charlie). go, go, go! (the paleontologists starts chasing them)
 [scene: game room, monica and mike are still playing ping pong]
 (chandler and phoebe look bored to death. monica scores and laughs)
@@ -683,4 +701,6 @@ ross: i mean, you just went out with my best friend, and i just think it'd be a 
 rachel: what?
 (joey says nothing, but enters the room and kisses her. they are kissing passionately only to stop for a brief "oh" from rachel. they continue their passionate kiss and joey closes the door with his foot and it shuts in the camera's "face". and that's the end of the ninth season.)
 end
-[1] homo ergaster: some scientists classify some african erectus specimens as belonging to a separate species, homo ergaster, which differs from the asian h. erectus fossils in some details of the skull (e.g. the brow ridges differ in shape, and erectus would have a larger brain size).<EPISODE_END>
+[1] homo
+ergaster: some scientists classify some african erectus specimens as belonging to a separate species, homo ergaster, which differs from the asian h. erectus fossils in some details of the skull (e.g. the brow ridges differ in shape, and erectus would have a larger brain size).
+<EPISODE_END>

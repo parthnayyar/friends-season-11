@@ -1,12 +1,12 @@
-<EPISODE_START>the one where chandler crosses a line
+<EPISODE_START>
+the one where chandler crosses a line
 [scene: monica and rachel's, everyone except joey and chandler are there eating breakfast.]
 chandler: (entering in a bathrobe) i just walked in the bathroom and saw kathy naked! it was like torture!
 ross: y'know if we ever go to war and you’re captured, you’re in for a big surprise.
 chandler: it just keeps getting worse and worse! y'know? i mean it’s bad enough that i’m in love with my roommates girlfriend—which by the way, i think she knows. because every time we’re in the room together there’s this weird like energy between us. and call me crazy, but i think she likes me too. and now i have seen her naked. i mean at least when i’ve seen her with clothes on, i could imagine her body was like covered in boles or something. but there are no boles, she’s smooth! smooth! (leaves)
 (pause)
 phoebe: wow! could everyone totally see up his robe?
-all: yeah! oh my god!
-opening credits
+all: yeah! oh my god!r
 [scene: central perk, joey is getting a phone number from a woman (casey) as chandler watches from the doorway.]
 casey: here you go.
 joey: great! all right, so i’ll call you later.
@@ -250,8 +250,7 @@ joey: over the line?! you-you’re-you’re so far past the line, that you-you c
 chandler: yes. yes! right! and i feel horrible. you have to believe me!
 joey: is that why you bought all this stuff?! (chandler makes a face like "well, kinda.") well, y’know what i will not watch your tv, i will not listen to your stereo, and there’s a cinnamon raisin loaf in the new bread maker that i’m not gonna eat! you know why?!
 chandler: probably because…
-joey: because it’s all tainted with your betrayal. from now on this apartment is empty for me! and i’m not happy about you either. (the bread maker dings) oh, and just so you know, i made that bread for you. (joey walks into his bedroom and slams the door.)
-closing credits
+joey: because it’s all tainted with your betrayal. from now on this apartment is empty for me! and i’m not happy about you either. (the bread maker dings) oh, and just so you know, i made that bread for you. (joey walks into his bedroom and slams the door.)r
 [scene: central perk, ross is playing his music. monica, phoebe, and rachel are sitting on the couch.]
 phoebe: oh my god, he’s lost it. he’s totally lost it.
 monica: (removing ear plugs) what?
@@ -265,4 +264,5 @@ rachel: what?
 ross: i played bad on purpose guys.
 (both monica and rachel laugh.)
 monica: okay, so you were trying to play bad this whole time.
-ross: yeah—no, just that last song.<EPISODE_END>
+ross: yeah—no, just that last song.r
+<EPISODE_END>

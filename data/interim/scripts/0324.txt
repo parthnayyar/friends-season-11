@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the ultimate fighting champion
+<EPISODE_START>
+the one with the ultimate fighting champion
 [scene: central perk, the whole gang minus monica is there.]
 chandler: do you think that there’s a town in missouri or some place called sample? and ah, as you’re driving into town there’s-there’s like a sign, and it says “you’re in sample.” (he says it like urine sample.)
 monica: (entering) hey.
@@ -7,8 +8,10 @@ rachel: how’d it go with pete?!
 joey: tell us!
 monica: you’re not gonna believe this. okay, so i go over...
 [two guys walk over and interrupt her. they’re both names you’ve already heard. one’s billy crystal. yes, that billy crystal from city slickers. the other one is robin williams. yes, that robin williams from mrs. doubtfire.]
-billy crystal: i’m sorry. ex-excuse us. i’m sorry, it’s a little crowded. do you mind if we... (motions to the couch)
-robin williams: yeah, could you scooch?
+billy
+crystal: i’m sorry. ex-excuse us. i’m sorry, it’s a little crowded. do you mind if we... (motions to the couch)
+robin
+williams: yeah, could you scooch?
 billy: yeah, move over just a little bit.
 (rachel, chandler, phoebe, and joey all scooch over to let them sit down.)
 robin: keep on scooching.
@@ -44,8 +47,7 @@ robin: (starting to cry) ooh, (to rachel) can i have a napkin, please? could you
 billy: thomas, come back here! (they both leave)
 [cut to the gang, they’re all stunned]
 phoebe: so monica, what were you gonna tell us?
-monica: (pause) i have no idea.
-opening credits
+monica: (pause) i have no idea.r
 [scene: central perk, continued from earlier.]
 rachel: so, come on, what was the big news pete wanted to tell you mon?! or should i say mrs. monica becker?
 phoebe: no-no-no oh, keep your name, don’t take his name.
@@ -53,14 +55,16 @@ monica: he didn’t ask me to marry him.
 all: ohh.
 phoebe: well then definately don’t take his name.
 monica: he wanted to tell me he’s gonna compete is some ultimate fighting competition thingy.
-the guys: pete?!
+the
+guys: pete?!
 rachel: why?! what is it?
 monica: i don’t know exactly. it’s-it’s sorta like wrestling.
 phoebe: (intrigued) oh?!
 monica: yeah, but without the costumes.
 phoebe: (disappointed) oh.
 joey: and it’s not fake, it’s totally brutal.
-chandler: yeah, it’s two guys in a ring, and the rules are: “they’re are no rules.”
+chandler: yeah, it’s two guys in a ring, and the rules
+are: “they’re are no rules.”
 monica: so you can like, bite, and pull people’s hair and stuff?
 ross: yeah, anything goes, except ah, eye gouging and fish hooking.
 monica: what’s fish hooking?
@@ -271,17 +275,19 @@ doug: of course, you did. forgot something else too ya bastard! (smacks him on t
 chandler: no. no, not at all, that’s-that’s ridiculous.
 doug: everybody else got one, and you want one too. don’t you?
 chandler: ye-ye-yeah, yes i do!
-doug: now get on out of here, you! (smacks him on the butt)
-closing credits
+doug: now get on out of here, you! (smacks him on the butt)r
 [scene: monica and rachel's, the gang is watching pete fight on tv. monica is hiding in the kitchen, not watching.]
-tv announcer: pete becker is circling the ring now. it looks like, he’s just trying to feel him out. oh, bruiser is just...
+tv
+announcer: pete becker is circling the ring now. it looks like, he’s just trying to feel him out. oh, bruiser is just...
 chandler: run! run you crazy, rich freak!
 rachel: oh, i can’t watch this. (turns her eyes away)
 joey: check it out, he’s winning! (to monica) pete’s winning!
 monica: really?!
 joey: no-o-o!!
-tv announcer: uh-oh, bruiser has becker on the canvas and is going for his favourite area.
+tv
+announcer: uh-oh, bruiser has becker on the canvas and is going for his favourite area.
 all: oh! oh! (they all recoil in horror)
 phoebe: wait, if that’s his favourite area, why is he being so mean to it?
 ross: well, this is ironic. of your last two boyfriends, richard didn’t want to have kids, and from the looks of it, now pete can’t.
-all: ohh!! (they all start pointing at the screen)<EPISODE_END>
+all: ohh!! (they all start pointing at the screen)r
+<EPISODE_END>

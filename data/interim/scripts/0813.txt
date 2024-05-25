@@ -1,4 +1,5 @@
-<EPISODE_START>the one where chandler takes a bath
+<EPISODE_START>
+the one where chandler takes a bath
 [scene: joey and rachel’s, joey is at the counter eating a bowl of frosted flakes.]
 joey: (thinking) all right. it’s a new day. all that stuff about
 rachel, you don’t feel that now. it was crazy! you’re fine.
@@ -6,8 +7,7 @@ you’re better than fine! you are, as your friend tony would say, grrrreat!
 everything’s normal! she’s just your friend rachel! your friend
 rachel. your friend! rachel.
 rachel: (coming from her room) hi, sweetie.
-joey: (thinking) hey, it’s your girlfriend, rachel!
-opening credits
+joey: (thinking) hey, it’s your girlfriend, rachel!r
 [scene: monica and chandler’s, chandler is sitting on the couch watching tv as monica comes out of the bathroom.]
 monica: (airily) hi.
 chandler: are you, are you high?
@@ -125,15 +125,18 @@ chandler: i’m going to need a bigger boat.
 ross: i don’t think you had an open mind about the name ruth. i mean, come on,
 little ruthie geller, how-how cute is that?
 rachel: oh, oh my god! i can practically hear the mahjong tiles!
-dr. long: okay! all your tests look fine. now, are you two interested in knowing
+dr.
+long: okay! all your tests look fine. now, are you two interested in knowing
 the sex of the baby?
 ross: uh, no. no, we’re not.
 rachel: but you have it right there in that file? you could tell us whether
 it’s a boy or a girl? dayton or sandrine? phoebe or phoebo?
-dr. long: that’s right. but if you don’t want to know…
+dr.
+long: that’s right. but if you don’t want to know…
 ross: no, no, we want to wait, right?
 rachel: right. right.
-dr. long: (looks at her beeping pager) oh, i’ll be right back. and, uh, i know
+dr.
+long: (looks at her beeping pager) oh, i’ll be right back. and, uh, i know
 it’s really not my place, but please don’t name your child phoebo.
 rachel: (looking at the bulletin board with baby pictures) so, which of these
 babies do you think is the ugliest?
@@ -369,8 +372,7 @@ crush, that’s all! just a little crush! all that worrying i was doing,
 that was crazy. crazy! like my friend here the bird would say, "it
 was cuckoo!" everything’s going to be fine. it’s just a crush.
 rachel: (entering) hi, sweetie.
-joey: (thinking) i love you.
-closing credits
+joey: (thinking) i love you.r
 [scene: chandler and monica’s bathroom. both are sitting on opposite ends of the bathtub.]
 monica: it sure is nice to do this together, isn’t it?
 chandler: yeah. and what you’re doing feels so good.
@@ -378,4 +380,5 @@ monica: i’m not touching you.
 chandler: you’re not?
 monica: it’s the salts.
 chandler: oh, sweet lord. new realms of pleasure!
-monica: (to herself) whatever keeps you off the balcony, big guy!<EPISODE_END>
+monica: (to herself) whatever keeps you off the balcony, big guy!r
+<EPISODE_END>

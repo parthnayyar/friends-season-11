@@ -1,4 +1,5 @@
-<EPISODE_START>the one where rachel is late
+<EPISODE_START>
+the one where rachel is late
 [scene: central perk, joey is showing everyone a poster as ross enters.]
 ross: hey! what are you guys looking at?
 joey: oh, it’s a poster for that world war i movie that i’m in, check it out.
@@ -21,8 +22,7 @@ ross: look, i-i know how miserable you are, i wish there was something i can do.
 rachel: god. (sits down.) i have never been so uncomfortable in my entire life!
 phoebe: oh i know, i’ve been there. i remember toward the end…
 rachel: (interrupting her) oh phoebe, that’s a great story. can you tell it to me when you’re getting me some iced tea? (phoebe gets up and rachel groans.) (to the baby) oh god, get out! get out!! get out!! get out!!
-chandler: let’s. (everyone gets up and leaves rachel.)
-opening credits
+chandler: let’s. (everyone gets up and leaves rachel.)r
 [scene: monica and chandler's, phoebe, chandler, joey, and monica are there as rachel enters.]
 chandler: hey! did you have the baby yet?
 rachel: do you want me to come over there and sit on you? ‘cause i’ll do it.
@@ -124,21 +124,30 @@ ross: y’know we should probably ask the doctor if she even knows how to delive
 rachel: hi dr. long, how are you?
 ross: (to rachel) oh, you’re nice to her.
 rachel: she has the drugs!
-dr. long: we’ll do a quick check.
+dr.
+long: we’ll do a quick check.
 rachel: okay. (rachel lies back.)
-dr. long: so, eight days late huh?
+dr.
+long: so, eight days late huh?
 rachel: yeah.
-dr. long: you must be a little uncomfortable.
+dr.
+long: you must be a little uncomfortable.
 rachel: eh, just a tad.
-dr. long: you’re about 80 percent effaced, so you’re on your way. it still could last a little while longer. if you’re anxious there are a few ways to help things along.
+dr.
+long: you’re about 80 percent effaced, so you’re on your way. it still could last a little while longer. if you’re anxious there are a few ways to help things along.
 ross: do them!!
-dr. long: actually, they’re things you can do. just some home remedies, but in my experience i’ve found that some of them are quite effective.
+dr.
+long: actually, they’re things you can do. just some home remedies, but in my experience i’ve found that some of them are quite effective.
 rachel: well, we are ready to try anything.
-dr. long: okay, there’s an herbal tea you can drink.
+dr.
+long: okay, there’s an herbal tea you can drink.
 rachel: okay.
-dr. long: you can take some caster oil, there’s eating spicy foods…
+dr.
+long: you can take some caster oil, there’s eating spicy foods…
 rachel: great! we will do all of those.
-dr. long: …taking a long walk, and then there’s the one that’s proved most effective: sex.
+dr.
+long: …taking a long walk, and then there’s the one that’s proved most
+effective: sex.
 (rachel turns and looks at ross.)
 ross: you’ve got to be kidding me!
 commercial break
@@ -242,8 +251,7 @@ ross: we’re having a baby.
 (they hug and then kiss one more time.)
 rachel: i didn’t uh, really have time to read this part of the books, but do you think we have time to…
 ross: not so much.
-rachel: okay.
-closing credits
+rachel: okay.r
 [scene: monica and chandler's, monica is paying phoebe.]
 monica: two hundred.
 phoebe: thank you!
@@ -256,4 +264,5 @@ monica: how did you know that?! (runs to yell at joey’s apartment.) joey! chan
 phoebe: they’re at the coffeehouse.
 monica: you know everything!! oh wait, double or nothing. i bet you the baby is over seven pounds. (phoebe isn’t interested.) i bet you it has hair. (she’s still not interested.) i bet you it’s a girl.
 phoebe: we know it’s a girl! (exits.)
-monica: (following her) i’ll give you really good odds.<EPISODE_END>
+monica: (following her) i’ll give you really good odds.r
+<EPISODE_END>

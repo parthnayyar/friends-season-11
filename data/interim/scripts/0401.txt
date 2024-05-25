@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the jellyfish
+<EPISODE_START>
+the one with the jellyfish
 joey: (lying on a beach towel, recapping what happened in the last episode) okay, so we went to the beach, because phoebe found out about this lady who knew her mom and dad, and i don’t really know what happened with that.
 [cut to phoebe sr.’s house, from the last episode]
 phoebe sr.: (to phoebe) i’m your mother.
@@ -13,7 +14,8 @@ joey: (voice-over) oh-oh! and then ross’s new girlfriend, bonnie, shows up and
 joey: y'know what, hold on, let me go get chandler. (gets up and leaves.)
 [scene: the beach house, it’s the same scene from the end of last year, with ross in front of the two doors of rachel’s and bonnie’s rooms, trying to decide which door to choose. he finally chooses the one his right and goes in.]
 ross: (surprised) hi!
-rachel and bonnie: hi!
+rachel and
+bonnie: hi!
 bonnie: rachel was just helping me out. my head got all sunburned.
 ross: awww.
 bonnie: (to rachel) thanks a million.
@@ -36,8 +38,7 @@ rachel: i don’t know.
 (they kiss again)
 ross: yeah, yeah. (opens the door) it wasn’t every morning.
 rachel: oh, making it worse!
-ross: okay.
-opening credits
+ross: okay.r
 [scene: phoebe sr.’s house, it’s right after she told phoebe that she’s her birth mother.]
 phoebe sr.: so i guess you’d like to know how it all happened.
 phoebe: i-i mean i, well i think i can figure it out. i guess y'know i was born, and everyone started lying their asses off!
@@ -175,10 +176,12 @@ chandler: (jumping up) hey! phoebe! we can talk to phoebe!!
 phoebe: no. i’m-i’m to depressed to talk.
 chandler: i’ll give you a thousand dollars to talk to us.
 ross: (coming back in with rachel) hey, you guys! what do you, what do you think about making that beach trip an annual thing?
-chandler, monica, and joey: no!!!
+chandler, monica, and
+joey: no!!!
 rachel: all right, that’s it, you guys! what happened out there?
 monica: what? we took a walk, nothing happened. i can back with nothing all over me.
-ross and rachel: come on!
+ross and
+rachel: come on!
 ross: what happened? joey?
 joey: all right. (gets up)
 monica: (stopping him) no! joey, we swore we’d never tell!
@@ -191,9 +194,11 @@ joey: and i was tired from digging the huge hole!
 chandler: and then joey remembered something.
 joey: i’d seen this thing on the discovery channel...
 ross: wait a minute! i saw that! on the discovery channel, yeah! about jellyfish and how if you... (stops suddenly and turns to look at monica) ewwww!! you peed on yourself?!
-phoebe and rachel: ewwww!!
+phoebe and
+rachel: ewwww!!
 monica: you can’t say that!! you-you don’t know!! i mean i thought i was gonna pass out from the pain! anyway i-i tried, but i-i couldn’t...bend that way. so... (looks at joey.)
-phoebe, ross, and rachel: (turning to look at joey) ewwww!!
+phoebe, ross, and
+rachel: (turning to look at joey) ewwww!!
 joey: that’s right i stepped up! she’s my friend and she needed help! and if i had too, i’d pee on anyone of you! only, uhh, i couldn’t. i got the stage fright. i wanted to help, but there was too much pressure. so-so i uh, i turned to chandler.
 chandler: (wails loudly into his hands) joey kept screaming at me, “do it now! do it!! do it! do it now!!” sometimes late at night i can still here the screaming.
 joey: (laughs) that’s ‘cause sometimes i just do it through my wall to freak you out.
@@ -246,11 +251,11 @@ monica: hey!!
 rachel: (to monica) sorry!! (to ross) i just feel bad about all that sleep you’re gonna miss wishing you were with me!
 ross: oh, no-no-no don’t you worry about me falling asleep. i still have your letter!!!
 rachel: and hey! just so you know, it’s not that common! it doesn’t happen to every guy! and it is a big deal!!
-chandler: i knew it!!!!
-closing credits
+chandler: i knew it!!!!r
 [scene: monica and rachel's, chandler and monica are playing cards at the dinner table.]
 monica: (sets down some cards) gin.
 chandler: we were playing gin? y'know if we were a couple, we could play this game naked.
 monica: will you stop!
 chandler: okay. all right.
-monica: okay, all right, i think you’re great, i think you’re sweet, and you’re smart, and i love you. but you will always be the guy who peed on me.<EPISODE_END>
+monica: okay, all right, i think you’re great, i think you’re sweet, and you’re smart, and i love you. but you will always be the guy who peed on me.r
+<EPISODE_END>

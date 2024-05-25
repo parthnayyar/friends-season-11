@@ -1,5 +1,5 @@
-<EPISODE_START>the one with ross's wedding - the uncut version
-{transcriber's note: this is the uncut version of ross's second wedding it includes episodes 423, 424, and 501.  it also includes some previously cut parts not shown in the u.s.  those parts are shown in blue text.}
+<EPISODE_START>
+the one with ross's wedding - the uncut versionr
 [scene: chandler and joey's, joey and chandler are getting ready for the flight to london and monica comes running in.]
 monica: guys, hurry up! the flight leaves in four hours! it could take time to get
 a taxi! there could be traffic! the plane could leave early! when we get to london, there
@@ -29,8 +29,7 @@ chandler: you got your passport?
 joey: yeah, in my third drawer on my dresser. you don't want to lose that.
 (chandler glares at him. at first joey doesn't know why, it takes him a little bit to figure it out.)
 joey: ohh!! (runs to his room.)
-chandler: there it is.
-opening credits
+chandler: there it is.r
 [scene: monica and rachel's, continued from earlier, monica is telling phoebe where everything is.]
 monica: okay, if you need the vacuum, it's in my closet on the left-hand side. ah,
 the garbage bags are next to the refrigerator...
@@ -197,7 +196,8 @@ rachel: what?!
 phoebe: oh, please! she's always got a broom in her hand!
 [scene: a park in london, joey and chandler walk up to a souvenir stand.]
 joey: hey!
-the vendor: so, what are you guys in the market for? we've got uh, scarves, tulip
+the
+vendor: so, what are you guys in the market for? we've got uh, scarves, tulip
 post cards...
 joey: check this out? huh? (joey has this big tall hat with a british flag on the
 front of it.) yeah. that's the stuff. what do you think?
@@ -208,14 +208,17 @@ chandler: all right, look, you're not really gonna buy that are you? don't you
 think you've embarrassed me enough for one day?
 joey: oh, i embarrass you?
 chandler: how can i answer that when i'm pretending i don't know you?
-the vendor: he's just jealous. you'll fit right in; all londoners wear them!
+the
+vendor: he's just jealous. you'll fit right in; all londoners wear them!
 chandler: oh really? then how come no one here is wearing them?
-the vendor: (looks around) they're all tourists.
+the
+vendor: (looks around) they're all tourists.
 chandler: all right, look, if you insist on wearing that, in public, y'know, you're
 gonna spend the rest of the afternoon all by yourself.
 joey: oh yeah? (puts the hat on.) if you're gonna make me choose between you and
 the hat? i choose the hat.
-the vendor: good choice.
+the
+vendor: good choice.
 joey: thanks.
 chandler: okay, wait. all right, that's it, okay, i'm out of here. i am not going
 to be embarrassed anymore! (he trips over a box, falls into a flower stand and walks away
@@ -461,29 +464,43 @@ phoebe: hello, hello. ohh, ohh, she knew i could kick her ass.
 [scene: rehearsal dinner hall. ross and emily are standing in the reception area. monica arrives with her parents.]
 monica: hey.
 ross: (ross hugs his mom and dad)hi. mom. dad.
-mrs. geller: sweetheart. oh sorry were late, my fault, i insisted on riding the
+mrs.
+geller: sweetheart. oh sorry were late, my fault, i insisted on riding the
 tube.
-mr. geller: (embarrassed) judy, the kids..
-mrs. geller: jack, that's what they call the subway.
-mr. geller: ohh, i thought that you....
-ross and monica: dad, dad. we got it!! we got it!!!
+mr.
+geller: (embarrassed) judy, the kids..
+mrs.
+geller: jack, that's what they call the subway.
+mr.
+geller: ohh, i thought that you....
+ross and
+monica: dad, dad. we got it!! we got it!!!
 emily: ohh, here comes my dad and stepmum. mister and misses geller, this is steven
 and andrea waltham.
-mr. waltham: (shaking everyone's hand.) hello. hello. how do you do? how do you do?
+mr.
+waltham: (shaking everyone's hand.) hello. hello. how do you do? how do you do?
 very nice to meet you. (looking over at his wife.) darling it's the gellers. (she pays no
 attention she's talking on a cellular phone.) (louder) darling, it's the gellers. (she's
 still not responding.) she's very self-absorbed, you know. i should never have married
 her.
-mrs. waltham: (looking evilly at her husband) sorry, what?
-mr. waltham: it's the gellers!
-mrs. waltham: where?
-mr. waltham: well there's one (pointing towards jack) and there's another (pointing
+mrs.
+waltham: (looking evilly at her husband) sorry, what?
+mr.
+waltham: it's the gellers!
+mrs.
+waltham: where?
+mr.
+waltham: well there's one (pointing towards jack) and there's another (pointing
 towards judy).
-mrs. waltham: lovely to meet you.
-mr. waltham: terribly nice of you to offer to pay for half the wedding. (he hands a
+mrs.
+waltham: lovely to meet you.
+mr.
+waltham: terribly nice of you to offer to pay for half the wedding. (he hands a
 multipage bill to jack.)
-mr. geller: ohh forget it. too hell with tradition, we're happy to do it.
-mrs. geller: we know how expensive weddings can be, besides this may be the only
+mr.
+geller: ohh forget it. too hell with tradition, we're happy to do it.
+mrs.
+geller: we know how expensive weddings can be, besides this may be the only
 wedding we get to throw (patting monica on the shoulder.).
 monica: ha ha, a joke that's funny in all countries.
 (ross quickly directs the families to their tables.)
@@ -500,54 +517,72 @@ would you just try to relax. just, just try to enjoy yourself.
 joey: (pointing at chandler.) your different here too. your mean in england.
 (chandler throws his hands up to his head in frustration. they walk away from each other.)
 [camera pans to the geller family table. ross, rachel, mr. and mrs. geller are there.]
-mr. geller: (looking at ht wedding bill.) what the hell!!!
+mr.
+geller: (looking at ht wedding bill.) what the hell!!!
 ross: what's up, dad?
-mr. geller: this bill for my half of the wedding. it's insane.
-mrs. geller: how could it be so much? the receptions at their house.
-mr. geller: (pointing items out on the bill.) flowers, liquor, recarpet first
+mr.
+geller: this bill for my half of the wedding. it's insane.
+mrs.
+geller: how could it be so much? the receptions at their house.
+mr.
+geller: (pointing items out on the bill.) flowers, liquor, recarpet first
 floor. new guest bath, landscaping. i'm paying to remodel this guys house. (angrily gets
 up.) i'm going to give that son on a bitch, a piece of my mind.
 ross: (holding him back.)dad, dad, please. look i don't want anything to upset
 emily tonight. alright, she's had a hard enough couple of days as it is. (picks up the
 bill.) now here, here, let me go talk to him, okay?
-mr. geller: and you tell him no one takes advantage of the gellers.
-mrs. geller: ooh, jack....(he looks over to her) sometimes i forget how powerful
+mr.
+geller: and you tell him no one takes advantage of the gellers.
+mrs.
+geller: ooh, jack....(he looks over to her) sometimes i forget how powerful
 you can be. (they embrace and kiss passionately.)
 monica: (looking nauseous from her parents kissing.) and i'm going to go get drunk.
 (gets up to get a drink.)
 [scene: john f. kennedy international airport, rachel is running to the ticket counter.]
 rachel: ooh, ooh, ooh,ooh,ooh. (slightly out of breath) hi.
-ticket agent: (cheerfully.) hello.
+ticket
+agent: (cheerfully.) hello.
 rachel: (faking cheerfulness.) hello. umm, when is your next flight to london?
-ticket agent: (looking at her computer terminal) there's one leaving in thirty
+ticket
+agent: (looking at her computer terminal) there's one leaving in thirty
 minutes.
 rachel: ohh, good.
-ticket agent: and i do have one seat left.
+ticket
+agent: and i do have one seat left.
 rachel: ohh, thank you, thank you, thank you.
-ticket agent: the last minute fare on this ticket is twenty seven hundred dollars.
+ticket
+agent: the last minute fare on this ticket is twenty seven hundred dollars.
 rachel: (pause) huh.. how about 600?
-ticket agent: sorry.
+ticket
+agent: sorry.
 rachel: how about 600 and these earrings? (shows the ticket agent her earrings.)
-ticket agent: they prefer it if i don't barter.
+ticket
+agent: they prefer it if i don't barter.
 rachel: (looking through her wallet.) ohh, i just don't think i have enough left on
 my credit card.
-ticket agent: well you can split it with another credit card.
+ticket
+agent: well you can split it with another credit card.
 rachel: ohh, okay, how about five. (she hands her all the credit cards.) ohh, thank
 you.
-ticket agent: i'm just going to need to see your passport.
+ticket
+agent: i'm just going to need to see your passport.
 rachel: (looking through her purse.) okay, you know what? i don't have it, but i
 can tell you exactly where it is on my night stand, and...okay. but you know what? i have
 my drivers license and i have a twenty. (she slides it across the counter.)
-ticket agent: (slides the twenty back and tosses her credit card onto the counter.)
+ticket
+agent: (slides the twenty back and tosses her credit card onto the counter.)
 [scene: the rehearsal dinner hall. ross is at the walthams' table discussing the bill.]
 ross: look, face it, my father is not going to pay for the build-in barbecue and
 believe me you can kiss you gazebo goodbye. now i might be able to get you the new lawn.
-mr. waltham: ahh, then you have to give us the lawn ornaments.
+mr.
+waltham: ahh, then you have to give us the lawn ornaments.
 ross: i go back there with lawn ornaments, he's going to laugh in my face.
-mrs. waltham: this is ridiculous. i mean we had an agreement. (ross looks
+mrs.
+waltham: this is ridiculous. i mean we had an agreement. (ross looks
 frustrated. she begins to scream at her husband.) will you say something, steven?!
 please!!!
-mr. waltham: don't take that tone with me. (she looks evilly at him.) all-all right
+mr.
+waltham: don't take that tone with me. (she looks evilly at him.) all-all right
 you can. (he looks over at ross and shrugs.)
 [scene: monica and rachel's, phoebe is dialling the phone and rachel runs in the door.]
 rachel: (running to her room.) hi, pheebs.
@@ -565,18 +600,24 @@ time. in fact, i knew him when he was going out with his first girlfriend. (ross
 embarrassed.) and i thought things were going to work out for him.. until the day he over
 inflated her. (he laughs. jack looks at judy and no one in the room laughs.) ohh, dear
 god.. (a cellular phone rings.)
-mrs. waltham: hello, waltham interiors.
+mrs.
+waltham: hello, waltham interiors.
 phoebe: oh, hi, mrs. waltham. i need to speak with ether one of the best men, or
 ross's sister monica.
-mrs. waltham: who is this?
+mrs.
+waltham: who is this?
 phoebe: oh, i'm phoebe buffay. i'm one of ross's best friends.
-mrs. waltham: where did you get this number?
+mrs.
+waltham: where did you get this number?
 phoebe: i got it from your maid. she's a bitch, but i wore her down.
-mrs. waltham: well, if you're one of ross's best friends, why aren't you here?
+mrs.
+waltham: well, if you're one of ross's best friends, why aren't you here?
 phoebe: yeah, um, i can't fly. i'm having my brother's babies.
-mrs. waltham: oh, am i on the radio?
+mrs.
+waltham: oh, am i on the radio?
 phoebe: no..umm, could i talk to one of them? it's very very important.
-mrs. waltham: no, i'm bored with you now. i'm going to cut you off. (she hangs up.)
+mrs.
+waltham: no, i'm bored with you now. i'm going to cut you off. (she hangs up.)
 phoebe: ohh! okay, i'm going to have to kick her ass too.
 chandler: (continuing his toast.) and i'm sure we're all very excited that ross and
 emily are getting married at montgomery hall. i mean to think, my friend getting married
@@ -599,16 +640,20 @@ monica: well i didn't want everyone to think i was stupid.
 chandler: so how are you doing?
 monica: my mother's driving me crazy, but ross is getting married. i'm happy. (a
 drunken man approaches.) i'm not going to let anything spoil that.
-drunk man: i just want to say that ross is a wonderful young man.
+drunk
+man: i just want to say that ross is a wonderful young man.
 monica: well, thanks, we like him.
-drunk man: my god!! you must have been a teenage when you had him. (monica stares
+drunk
+man: my god!! you must have been a teenage when you had him. (monica stares
 straight forward after the comment. chandler tries to console her by patting her on the
 shoulder.)
 (ross and emily's parents are seated at a table. ross is between them and they are discussing the wedding bill.)
-mr. geller: there's no way in hell, i'm paying for it.
+mr.
+geller: there's no way in hell, i'm paying for it.
 ross: look, were down to just one point. could we please, maybe just settle it
 after the wedding.
-mr. geller: all-right fine, but i just want to say, i'm not paying for your wine
+mr.
+geller: all-right fine, but i just want to say, i'm not paying for your wine
 cellar. you thieving, would be speaking german if it weren't for us, cheap little man.
 (emily's stepmum looks shocked. jack and judy get up and leave.)
 (chandler's trying to console monica.)
@@ -621,17 +666,22 @@ chandler: ahh, you know what? that is....who wouldn't want you?
 monica: ohh, please?! i'm a single mom, with a thirty year old son!!
 [scene: the airport. rachel runs up to the ticket counter.]
 rachel: hi, i'm back. listen, i need to...
-ticket agent: hello.
+ticket
+agent: hello.
 rachel: hello. i need to get on the 11 o'clock flight.
-ticket agent: oh i'm afraid that plane has already pulled away from the gate.
+ticket
+agent: oh i'm afraid that plane has already pulled away from the gate.
 rachel: okay, you know what?  you're going to have to call that plane and tell
 them to swing around and come and pick me up.
-ticket agent: i can't do that.
+ticket
+agent: i can't do that.
 rachel: sure, you know what? come on, we'll just tell them that there was like a
 problem with like the "engine".
-ticket agent: i'm afraid i'm going to have to ask you to step aside, miss.
+ticket
+agent: i'm afraid i'm going to have to ask you to step aside, miss.
 rachel: look, if i don't get to london!! he is going to marry that other girl!!!
-ticket agent: i can't imagine why.
+ticket
+agent: i can't imagine why.
 rachel: all right, you know what? i am not leaving here, until you call that plane
 back!! (she pounds her hand on the counter twice. the ticket agent counters by placing the
 closed sign on the counter and tapping it twice.)
@@ -716,10 +766,13 @@ joey: i know! that's why we got to find monica!! you know where she is?
 chandler: no!! okay!! what's with the third degree?! why don't you just shine a
 light in my eyes?! (joey looks totally confused.)
 [scene: the church where ross and emily are to be married. judy, andrea, and monica enter together.]
-mrs. geller: (looking around at the chapel.) oh my god! it's like a fairyland.
-mrs. waltham: i know, it's horrible isn't it?
+mrs.
+geller: (looking around at the chapel.) oh my god! it's like a fairyland.
+mrs.
+waltham: i know, it's horrible isn't it?
 monica: well, i love it. i only hope my wedding looks this good.
-mrs. geller: i just hope...
+mrs.
+geller: i just hope...
 monica: (angrily.) you can let some of them go by!(judy and andrea go to the front
 of the chapel. joey approaches monica.)
 joey: (whispering.) pisst, monica. alright, we really need to start looking out for
@@ -742,20 +795,26 @@ joey: (in a new york accent.) fuggetaboutit. (she giggles.) how you doin?
 felicity: mmm. (she pushes him up against the wall and they begin to kiss.)
 joey: oh, yeah.
 (back in the chapel. the parents are still fighting over the bill. ross is refereeing.)
-mrs. geller: there's nothing to discuss. we're not paying for your wine cellar.
-mr. waltham: (pleading.) you-you have to meet me in the middle here.
-mr. geller: (forcefully.) hey, you keep pushing me on this, my foots going to meet
+mrs.
+geller: there's nothing to discuss. we're not paying for your wine cellar.
+mr.
+waltham: (pleading.) you-you have to meet me in the middle here.
+mr.
+geller: (forcefully.) hey, you keep pushing me on this, my foots going to meet
 the middle of your ass.
 ross: dad!! (emily comes running in.)
 emily: what-what's going on?!
 ross: nothing, nothing. everything's under control.
-mr. waltham: you want a piece of me, sir? is that what your saying? (pointing at
+mr.
+waltham: you want a piece of me, sir? is that what your saying? (pointing at
 jack and poking him) you want a piece of me?
 ross: (stepping in between them.)okay! okay! that's it!! parents!! parents!! back
 away!! all right, this is our wedding day! from now on everyone gets along, and if i hear
 one more word. no grandchildren! (pointing at his mother.) that's right!!
-mr. geller: okay, okay.
-mr. waltham: sorry old boy, sorry. sorry. sorry. (them all walk away. as he leaves
+mr.
+geller: okay, okay.
+mr.
+waltham: sorry old boy, sorry. sorry. sorry. (them all walk away. as he leaves
 he mutters to jack.) i could kill you with my thumb, you know.
 emily: what was all that about?
 ross: (sighing.) it was...this disagreement over...(she sighs. ross notices her in
@@ -771,12 +830,15 @@ rachel: well i just came...(she touches him near his heart. she's almost in tear
 i just needed to tell you...(looking into his eyes. she takes a deep breath.)
 congratulations. (he hugs her. she can barely hold back the tears.)
 [scene: camera fades to one of the band members playing guitar at the wedding. the chapel is full of guest. a groomsmen escorts a bridesmaid down the isle. joey is waiting with mrs. waltham to escort he down the isle. a cellular phone rings.]
-mrs. waltham: (answering the phone.) hello, waltham interiors.
+mrs.
+waltham: (answering the phone.) hello, waltham interiors.
 phoebe: mrs. waltham. hi. it's phoebe again.
-mrs. waltham: (throws her head back in disgust.) why?!
+mrs.
+waltham: (throws her head back in disgust.) why?!
 phoebe: yea. can i please, please, please talk to one of the best men? this is
 going to be the last time i promise.
-mrs. waltham: (slapping the phone into joey's chest.) joey there's a girl on the
+mrs.
+waltham: (slapping the phone into joey's chest.) joey there's a girl on the
 phone for you.
 joey: (smiling.) ohh great!! (putting the phone to his ear.) hello. (he begins to
 escort her down the aisle.)
@@ -819,12 +881,13 @@ realises what he said. quickly he says.) emily. (a slight chuckle.) emily.
 rachel: (to the woman sitting in front of her) he-he said rachel, right? do you
 think i should go up there?
 minister: (looking and feeling awkward. he looks towards emily.) uhh...shall i go
-on?
-{transcriber's note: this is orginally where the season four cliffhanger was.  so you all have to wait four months before reading on.}
+on?r
 emily: yes, yes, do go on.
 (cut to the parents.)
-mr. geller: (to mr. waltham) he better go on for what i'm paying.
-mr. waltham: after what he just said, you're paying for the whole bloody lot.
+mr.
+geller: (to mr. waltham) he better go on for what i'm paying.
+mr.
+waltham: after what he just said, you're paying for the whole bloody lot.
 minister: i think we'd better start again. ross, repeat after me. i, ross...
 ross: i, ross...
 minister: take thee, em-i-ly...
@@ -833,7 +896,8 @@ anybody else. (emily is glaring at him.)
 minister: as my lawfully wedded wife, in sickness and in health, till death parts
 us.
 (cut to the walthams.)
-mrs. waltham: (to mr. waltham) looks like that might come any minute.
+mrs.
+waltham: (to mr. waltham) looks like that might come any minute.
 ross: as my lawfully wedded wife, in sickness and in health, until death parts us.
 really, i do. emily. (points at her.)
 minister: may i have the rings? (he is given the rings) emily, place this ring on
@@ -845,7 +909,8 @@ pleasure to declare them husband and wife.
 ross: yay!
 minister: you may kiss the bride.
 (he goes to kiss her, but she isn't very receptive of the kiss. she keeps avoiding him, until ross finally gets to kiss her on her cheek.)
-mrs. geller: (to mr. geller) this is worse than when he married the lesbian.
+mrs.
+geller: (to mr. geller) this is worse than when he married the lesbian.
 (the band starts to play, and the recessional starts. ross tries to take emily's hand, but she snatches it away from him.)
 emily: just keep smiling.
 ross: okay.
@@ -866,18 +931,22 @@ time sweetie. i'll be right out here. (she slams the door in his face, to the ga
 just fixing her makeup.
 emily: i hate you!!
 ross: and, i love you!! (he walks into the living room)
-mr. geller: boy, bad time to say the wrong name, huh ross?
+mr.
+geller: boy, bad time to say the wrong name, huh ross?
 ross: that's true, thanks dad. (to all) people should be dancing! huh? hey, this is
 a party! come on! joey, dance!! (he starts to dance but stops when no one else joins him.)
 (mrs. waltham's phone rings and she answers it.)
-mrs. waltham: yes, waltham interiors.
+mrs.
+waltham: yes, waltham interiors.
 phoebe: (on the phone, in new york) uh, hello, this is ross geller's personal
 physician, dr. philange.
-mrs. waltham: who?
+mrs.
+waltham: who?
 phoebe: yeah, i've discovered that ross forgot to take his brain medicine, uh, now
 without it, uh, in the brain of ross, uh women's names are interchangeable,
 through-through no fault of his own.
-mrs. waltham: oh my god, phoebe.
+mrs.
+waltham: oh my god, phoebe.
 phoebe: no, not phoebe, dr. philange. oh no! you have it too!
 (mrs. waltham hangs up on her.)
 phoebe: hello? what kind of bitch hangs up on a doctor!
@@ -918,28 +987,36 @@ monica: wait. rachel, no, he's married. married! if you don't realise that, i ca
 help you.
 rachel: okay, you're right. you're right. you can't help me.
 (cut to mr. and mrs. geller.)
-mrs. geller: jack, is it all our fault? were we bad parents?
-mr. waltham: (walking by) yes.
-mr. geller: oh yeah, well who serves steak when there's no place to sit, i mean how
+mrs.
+geller: jack, is it all our fault? were we bad parents?
+mr.
+waltham: (walking by) yes.
+mr.
+geller: oh yeah, well who serves steak when there's no place to sit, i mean how
 are you supposed to eat this?
 joey: hey, what's up? (he has solved the problem of eating the steak, he's eating
 it with his hands.)
 joey: (motions to himself and mrs. geller and grins) you and me, next dance?
 (cut to rachel who is walking past mrs. waltham.)
-mrs. waltham: sweetheart, sweetheart...
+mrs.
+waltham: sweetheart, sweetheart...
 rachel: yes?
-mrs. waltham: you know, we're all wondering who this rachel is. can you point her
+mrs.
+waltham: you know, we're all wondering who this rachel is. can you point her
 out to me?
 rachel: oh, you know what? rachel.. she just left. (points at the entrance.)
-mrs. waltham: oh.. never mind. who are you?
+mrs.
+waltham: oh.. never mind. who are you?
 rachel: ra.... er.. barbra.
-mrs. waltham: red barbra?
+mrs.
+waltham: red barbra?
 rachel: yeah. (smiles uneasily.)
 (cut to monica and chandler, monica is running up to him.)
 monica: where were you? we were supposed to meet in the wine cellar?
 chandler: forget it, that's off.
 monica: why?!
-mr. waltham: (drunkenly) the next tour of the wine cellar will plan in two in-in
+mr.
+waltham: (drunkenly) the next tour of the wine cellar will plan in two in-in
 minutes...
 (joey walks up to them.)
 monica: joey, what are you doing? you promised phoebe you wouldn't eat meat until
@@ -1065,28 +1142,39 @@ y'know, let's go for it.
 (they both try to slowly extricate themselves from ross, but there's a knock on the door that awakens him.)
 ross: em-emily? (looking around for her.) em-emily? (he runs to the door.) emily!
 (he opens the door to reveal the walthams standing outside.)
-mr. waltham: no.
-mrs. waltham: you can forget about emily, she's not with us.
-mr. waltham: we've come for her things.
+mr.
+waltham: no.
+mrs.
+waltham: you can forget about emily, she's not with us.
+mr.
+waltham: we've come for her things.
 ross: wait, well wh-wh-wh-where is she?
-mr. waltham: she's in hiding. she's utterly humiliated. she doesn't want to see you
+mr.
+waltham: she's in hiding. she's utterly humiliated. she doesn't want to see you
 ever again.
-mrs. waltham: we're very sad that it didn't work out between you and emily, monkey.
+mrs.
+waltham: we're very sad that it didn't work out between you and emily, monkey.
 but, i think you're absolutely delicious.
-mr. waltham: excuse me, i'm standing right here!
-mrs. waltham: oh yes, there you are.
+mr.
+waltham: excuse me, i'm standing right here!
+mrs.
+waltham: oh yes, there you are.
 rachel: (entering, carrying an armful of those little soaps.) hey-hey, you guys oh
 hurry up, get some, there's a whole cart outside... (sees the walthams and stops.)
-mr. waltham: goodbye geller.
+mr.
+waltham: goodbye geller.
 ross: now, hold on! hold on! (stops him) look, look, your daughter and i are
 supposed to leave tonight for our honeymoon, now-now you-you tell her that i'm gonna be at
 that airport and i hope that she'll be there too! oh yeah, i said rachel's name, but it
 didn't mean anything, okay? she's-she's just a friend and that's all! (rachel sits down,
 depressed.) that's all! now just tell emily that i love her and that i can't imagine
 spending my life with anyone else. please, promise me that you'll tell her that.
-mr. waltham: all right, i'll tell her. (to his wife) come on bugger face!
-mrs. waltham: (as she walks pass ross, she pats his but.) call me.
-mr. waltham: you spend half your life in the bathroom, why don't you ever go out
+mr.
+waltham: all right, i'll tell her. (to his wife) come on bugger face!
+mrs.
+waltham: (as she walks pass ross, she pats his but.) call me.
+mr.
+waltham: you spend half your life in the bathroom, why don't you ever go out
 the bloody window!
 [scene: a 747 somewhere over the north atlantic, monica and chandler are sitting in first class, depressed.]
 monica: y'know, maybe it's best that we never got to do it again.
@@ -1124,7 +1212,8 @@ ross: oh.
 rachel: ohh, so no sign of emily huh?
 ross: not yet.
 rachel: so umm, what time are you supposed to leave?
-gate agent: (on the p.a.) this is the last call for flight 1066 to athens. the
+gate
+agent: (on the p.a.) this is the last call for flight 1066 to athens. the
 last call.
 ross: pretty soon i guess.
 rachel: yeah. i'm sorry.
@@ -1132,7 +1221,8 @@ ross: i just, i don't understand, i mean, how-how can she do this? y'know, what,
 i, am i like a complete idiot for thinking that she'd actually show up?
 rachel: no, you're not an idiot, ross. you're a guy very much in love.
 ross: same difference.
-gate agent: (on the p.a.) all ticketed passengers for flight 1066 to athens
+gate
+agent: (on the p.a.) all ticketed passengers for flight 1066 to athens
 should now be on board.
 ross: i get it! well, that's that.
 rachel: no, you know what, i think you should go.
@@ -1179,9 +1269,11 @@ emily!
 commercial break
 [scene: flight 1066 to athens, rachel is ordering a drink for ross and herself.]
 rachel: ahh, yes, i will have a glass of the merlot
-air hostess: okay.
+air
+hostess: okay.
 rachel: and uh, (points to ross's seat.) he will have a white wine spritzer.
-air hostess: okay, good. thank you. i'll be back shortly, all right?
+air
+hostess: okay, good. thank you. i'll be back shortly, all right?
 rachel: all right. woo! (looks out the window.) hey,
 look at that, the airport's moving. (realises that that's not how it works.) hey, are we
 moving?! are we moving? why are we moving? they said they were gonna
@@ -1224,4 +1316,5 @@ chandler: bye.
 (after he closes the door, monica starts to follow him, but thinks better of it and stops.)
 chandler: (entering) i'm still on london time, does that count?
 monica: that counts!
-chandler: oh, good! (they start kissing.)<EPISODE_END>
+chandler: oh, good! (they start kissing.)r
+<EPISODE_END>

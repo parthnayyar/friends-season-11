@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the truth about london
+<EPISODE_START>
+the one with the truth about london
 [scene: joey and rachel's, rachel is filing her nails as ross and ben enter.]
 ross: hi.
 rachel: hi! hi ben!
@@ -40,8 +41,7 @@ rachel: uh great! how do you feel about diet coke?
 ben: i’m not allowed to have soda.
 rachel: okay. well that’s pretty much all that we have—oh! oh! have you ever had a virgin margarita? (holds up a bottle of margarita mix.)
 ben: what’s a virgin?
-rachel: water it is.
-opening credits
+rachel: water it is.r
 [scene: central perk, monica and chandler are talking. joey and phoebe are getting coffee.]
 monica: what about the second minister we meet with? i kinda liked him.
 chandler: you mean the spitter?
@@ -248,7 +248,8 @@ chandler: count of three?
 monica: one!
 chandler: two!
 monica: two!
-monica and chandler: three! (they lift up the covers and check each other
+monica and
+chandler: three! (they lift up the covers and check each other
 out, then come back up with silly grins on their faces.)
 chandler: well i think it’s safe to say that our friendship is effectively ruined.
 monica: eh, we weren’t that close anyway!
@@ -378,18 +379,21 @@ phoebe: i’m really glad you guys are okay but, i just keep thinking what would
 [scene: monica and joey’s, monica is cooking.]
 monica: honey! dinner’s ready!
 (joey, whose new diet is working out great, he looks like he only weighs 375 down from 420 enters from the bedroom.)
-fat joey: what’s my little chef got for me tonight?
+fat
+joey: what’s my little chef got for me tonight?
 monica: your favorite!
 joey: ho-ho-ho, (pausing for a rest next to the fridge) fried stuff with cheese!
 monica: yep! and lot’s of it!
-fat joey: thanks sweetheart. give me a little sugar here. (they kiss.) okay.
+fat
+joey: thanks sweetheart. give me a little sugar here. (they kiss.) okay.
 (joey sits down.)
 monica: okay, in we go.
 (monica gets behind him and in combination with his sliding the chair forward and her pushing with her leg manages to get up to the table.)
-fat joey: here we go! here we go! here we go! (groans and picks up a piece of food.) how you doin’?
-ending credits
+fat
+joey: here we go! here we go! here we go! (groans and picks up a piece of food.) how you doin’?r
 [scene: central perk, joey is getting phoebe some coffee.]
 joey: here you go.
 phoebe: (still reading the label) oh my god! this is a six-hour pill! (checks her watch) that’s it! i’m out of the woods! ohh! what a relief!
 joey: good for you!
-phoebe: oh, it’s like huge weight has been lifted! ‘cause look, (reads the side affects) no hair loss, not a rash, no hives, i’m just so happy! because no shortness of breath, no temporary euphoria—oh.<EPISODE_END>
+phoebe: oh, it’s like huge weight has been lifted! ‘cause look, (reads the side affects) no hair loss, not a rash, no hives, i’m just so happy! because no shortness of breath, no temporary euphoria—oh.r
+<EPISODE_END>

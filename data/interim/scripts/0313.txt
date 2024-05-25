@@ -1,4 +1,5 @@
-<EPISODE_START>the one where monica and richard are friends
+<EPISODE_START>
+the one where monica and richard are friends
 [scene: a video store, monica is running in to return a video.]
 monica: (to clerk) hi.
 (the clerk enters the video into the computer.)
@@ -18,8 +19,7 @@ richard: you’ve got panties stuck to your leg.
 monica: (removes them) that’s because i-i was just grabbing some things out of the dryer, and it’s static cling. or maybe it’s just that god knew i’d be running into you and saw an opportunity.
 richard: it’s good to see you.
 monica: it’s good to see you too.
-(they hug, and richard notices a stocking stuck to monica’s back, which he removes for her.)
-opening credits
+(they hug, and richard notices a stocking stuck to monica’s back, which he removes for her.)r
 [scene: continued from earlier.]
 monica: you see that guy? he’s in classics now, but y'know as soon as we leave he’s going straight to the porn.
 richard: he’s gonna go up to the counter with citizen kane, vertigo, and clockwork orgy. (they both laugh) this is nice.
@@ -85,7 +85,8 @@ joey: well, safer. y'know, i mean i never start reading the shining, without mak
 rachel: how often do you read it?
 joey: haven’t you ever read the same book over and over again?
 rachel: well, umm, i guess i read little women more than once. but i mean that’s a classic, what’s so great about the shining?
-joey: the question should be rach, what is not so great about the shining. okay? and the answer would be: nothing. all right? this is like the scariest book ever. i bet it’s way better than that classic of yours.
+joey: the question should be rach, what is not so great about the shining. okay? and the answer would
+be: nothing. all right? this is like the scariest book ever. i bet it’s way better than that classic of yours.
 rachel: okay. ah, well we’ll just see about that, okay. i will read the shining, (she tries to take the book away from him but he doesn’t want to let it go) and you will read little women.
 joey: all right, you got it.
 rachel: all right.
@@ -116,7 +117,8 @@ ross: what, what do you mean, what? is he gay?
 chandler: no. he.....he’s coming out of his shorts.
 ross: what?!
 chandler: the man is showing brain.
-ross: are you sure? (chandler nods: yes!) hold on. (walks over behind the couch) i’m sorry you guys, that was a coffee and a....
+ross: are you sure? (chandler
+nods: yes!) hold on. (walks over behind the couch) i’m sorry you guys, that was a coffee and a....
 robert: coffee.
 ross: okay.
 robert: we could write it down for you?
@@ -270,16 +272,21 @@ gunther: (cleaning up the table) (to robert) hey buddy, this is a family place, 
 [scene: richard’s bedroom, monica has covered it in rose pedals and candles. we hear richard come in to the apartment, and monica frantically throws the rest of the pedals on the bed, and jumps onto the bed and puts a rose in her mouth, and bites a thorn.]
 monica: ow!
 richard: (outside the bedroom) really?! well, it’s just like everyone else’s apartment. it’s got rooms, walls, and ceilings.
-richard’s date: well, i just wanted to see where you lived. now, give me the tour.
+richard’s
+date: well, i just wanted to see where you lived. now, give me the tour.
 monica: oh my god! oh my god! (she frantically tries to clean up the bedroom as richard starts the tour.)
 richard: ah well, this is the living room.
-richard’s date: impressive.
+richard’s
+date: impressive.
 richard: all right. this is the kitchen.
-richard’s date: oh, that’s real pretty. wait a minute, don’t i get to see the bedroom?
+richard’s
+date: oh, that’s real pretty. wait a minute, don’t i get to see the bedroom?
 richard: the bedroom. well it’s pretty much your typical... (opens the door as monica hides under the covers, and quickly closes the door before his date can see the room.) bedroom.
-richard’s date: we’re still on this side of the door.
+richard’s
+date: we’re still on this side of the door.
 richard: um-hmm.
-richard’s date: yeah, but i didn’t get to see it.
+richard’s
+date: yeah, but i didn’t get to see it.
 richard: oh shoot! maybe next time. (yawns) thanks for a lovely evening. (shows her out)
 [cut to into the bedroom, with monica still hiding under the covers. richard enters and sits down next to her.]
 monica: (still hiding under the blankets) so um, who was she?
@@ -298,8 +305,7 @@ richard: i know i couldn’t. so....
 monica: how ‘bout one last game of racquetball?
 (they both kiss, and richard picks her up and goes over to the bed and starts to lie down.)
 monica: watch the thorns!
-richard: (lying down) ow!!
-closing credits
+richard: (lying down) ow!!r
 [scene: monica and rachel's, joey is entering, and he’s very dejected.]
 rachel: what?
 joey: beth is really, really sick.
@@ -311,4 +317,5 @@ joey: yeah.
 rachel: do you want to put the book in the freezer?
 joey: (nodding his head) okay.
 rachel: okay.
-(joey hands her the book and she puts it in the freezer.)<EPISODE_END>
+(joey hands her the book and she puts it in the freezer.)r
+<EPISODE_END>

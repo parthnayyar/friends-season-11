@@ -1,4 +1,5 @@
-<EPISODE_START>the one where phoebe runs
+<EPISODE_START>
+the one where phoebe runs
 [scene: phoebe and rachel’s new apartment, rachel and phoebe are making their answering machine message.]
 phoebe: ready?
 rachel: yeah.
@@ -36,14 +37,14 @@ phoebe: let's run towards them!
 rachel: ok!
 phoebe: all right, wait just one more second. hi, it's phoebe and rachel's. please leave a message, thanks!
 rachel: now wait a minute. you just took all the words!
-phoebe: uh-huh. you've met your match rachel green.
-opening credits
+phoebe: uh-huh. you've met your match rachel green.r
 [scene: monica and chandler’s new apartment, ross and chandler are there.]
 ross: so, i just finished this fascinating book. by the year 2030, there'll be computers that can carry out the same amount of functions as an actual human brain. so theoretically you could download your thoughts and memories into this computer and-and-and live forever as a machine.
 chandler: (not amused) and i just realized i can sleep with my eyes open.
 [monica enters]
 monica: hey!
-ross and chandler: hey!
+ross and
+chandler: hey!
 monica: (jumps over a box) honey, that's a great idea nailing the boxes to the floor!
 chandler: i didn't nail the boxes to the floor.
 monica: oh, so you can move them!
@@ -86,11 +87,13 @@ monica: yeah and you better watch the flirting too, cause you know, in such clos
 joey: well, that's gonna be tough mon. i mean it's hard for me to be around an attractive woman and not flirt.
 monica: (chuckles) hmm, well you're around me all the time and you don't flirt.
 joey: you a little sad about that sweetheart?
-[scene, the park: phoebe and rachel are getting ready to go running]
+[scene, the
+park: phoebe and rachel are getting ready to go running]
 phoebe: i have to tie my shoe, so you go ahead, i'll catch up.
 rachel: okay. (runs off.)
 phoebe: okay. (starts running crazily with her arms flapping and her legs far apart) come on! that's not running! let's go! (rachel pauses, then follows, embarrassed.)
-[scene, central perk: rachel, ross and monica are there]
+[scene, central
+perk: rachel, ross and monica are there]
 rachel: you guys, i'm telling you, when she runs, she looks like a cross between kermit the frog and the six million dollar man.
 ross: monica had such a crush on him. yeah, she used to kiss his poster every night before she went to bed.
 rachel: oh! i used to do that too!
@@ -260,11 +263,11 @@ monica: of course not. i mean gosh, chandler what you did, it's, it's a wonderfu
 chandler: really?
 monica: of course!
 chandler: oh well you're the best. you come here to me.
-monica: all right, hold on okay? first thing's first. (gets her cleaning gloves on) okay, now did ross sit anywhere while he was naked?
-closing credits
+monica: all right, hold on okay? first thing's first. (gets her cleaning gloves on) okay, now did ross sit anywhere while he was naked?r
 [scene: central perk, ross, janine and chandler are there]
 ross: so it said that by the year 2030, there'll be computers that can carry out the same number of functions as an actual human brain. so theoretically we could download our thoughts and our memories into this computer...
 janine: ...and live forever as a machine!
 ross: that's so janine, you-you-you know what, do you know we're doing right now? you and i, we're interfacing.
 janine: yeah, i gotta go.
-chandler: ba dum bumb cheshhh!<EPISODE_END>
+chandler: ba dum bumb cheshhh!r
+<EPISODE_END>

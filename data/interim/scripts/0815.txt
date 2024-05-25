@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the birthing video
+<EPISODE_START>
+the one with the birthing video
 [scene: central perk. rachel is getting a cup of coffee as joey and phoebe enter and sit down.]
 phoebe: oh! hey, rach!
 rachel: hi! hey, happy valentine’s day!
@@ -21,8 +22,7 @@ joey: you know what i want? i want a lot of things! i want to be with the woman 
 love on valentine’s day! and i want her to love me back! and i want just one moment
 of relief from the gut-wrenching pain of knowing that that’s never going to happen!
 gunther: we have red bagels.
-joey: oh, okay.
-opening credits
+joey: oh, okay.r
 [scene: monica and chandler’s. phoebe and ross are sitting in the living room talking.]
 phoebe: so, how does mona feel about you and rachel living together?
 ross: oh, i’m actually on my way to tell her right now. yeah, she’s been
@@ -72,15 +72,19 @@ chandler: (picking up a video from the table) ‘candy and cookie’.
 love me!! (chandler runs over to the tv, puts the tape in, and sits down to enjoy some
 "porn")
 (a woman on tv breaths hard)
-man on tv: yeah, just relax.
+man on
+tv: yeah, just relax.
 chandler: i love you, st. valentine.
 (the woman groans, moans, grunts, and screams. chandler’s eyes get huge!)
 chandler: woah, woah, that’s not pretty!
-man on tv: now, push!
-woman on tv: ow! ow! ooh! that hurts!
+man on
+tv: now, push!
+woman on
+tv: ow! ow! ooh! that hurts!
 chandler: worst porn ever! worst porn ever! (chandler starts to press buttons on
 the remote control, frantically.)
-woman on tv: ohhh! make it stop!
+woman on
+tv: ohhh! make it stop!
 chandler: i am trying!
 [scene: joey’s. joey is playing fetch with the dog.]
 joey: get the ball, ready? get the ball, get the ball! (joey pretends to throw it,
@@ -177,7 +181,8 @@ ross: oh, no, no, no, i will! i just want to butter her up, first! you know,
 i’m going to take her to an amazing valentine’s dinner. do all this romantic
 stuff, and then, just when she thinks i’m the best boyfriend in the world, then
 i’m going to tell her that my pregnant ex-girlfriend is living with me.
-phoebe: if i haven’t said it before: she’s a lucky, lucky lady! so, where
+phoebe: if i haven’t said it
+before: she’s a lucky, lucky lady! so, where
 are you going to—what the mother of crap is up with this stuff? (referring to the
 taffy, which she’s been chewing this whole time.) oh, god. is it gum, is it food?
 what’s the deal? (she swallows it, finally) oh, it’s nice! may i try a pink one?
@@ -277,7 +282,8 @@ chandler: poor ross.
 chandler: oh, great. we have to watch him do yoga in his underwear, but for this he
 closes the drapes!
 monica: rach, you know that birthing tape you wanted to see? it’s here.
-chandler: oh, and we should warn you, before you watch it: don’t watch it.
+chandler: oh, and we should warn you, before you watch
+it: don’t watch it.
 rachel: why? you saw it? is it scary?
 chandler: well, let’s just say it’s ironic how footage of someone being
 born can make you want to kill yourself.
@@ -363,14 +369,16 @@ joey: oh, yeah.
 ross: anyway… seriously, uh…just…just talk to the guy, okay? and
 tell me how it goes. (walks towards the door until…)
 joey: it’s rachel.
-(ross just stands in the doorway, for like a minute…ahh! what’s going to happen next??!!! i can’t make it all the way through the olympics!!!)
-closing credits
+(ross just stands in the doorway, for like a minute…ahh! what’s going to happen next??!!! i can’t make it all the way through the olympics!!!)r
 [scene: ross and rachel’s. rachel is standing in front of the tv holding a video.]
 rachel: (thinking) you’re going to have a baby, and you need to be
 prepared. now, you’re going to make yourself watch the whole thing. just do it!
 (rachel puts the tape in the vcr)
-woman on tv: i came to the big city to become a star! i’ll do…anything to
+woman on
+tv: i came to the big city to become a star! i’ll do…anything to
 make that happen!
-man on tv: anything?
+man on
+tv: anything?
 (music starts playing…yes…you know what kind of music…)
-rachel: (thinking) hmm…maybe it starts with how she gets pregnant.<EPISODE_END>
+rachel: (thinking) hmm…maybe it starts with how she gets pregnant.r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one after ross says rachel
+<EPISODE_START>
+the one after ross says rachel
 [scene: ross’s wedding, continued from last season, the minister is about to marry ross and emily.]
 minister: friends. family. we are gathered to celebrate here today the joyous union of ross and emily. (time lapse) now ross, repeat after me. i ross...
 ross: i ross...
@@ -19,7 +20,8 @@ minister: ross and emily have made their declarations and it gives me great plea
 ross: yay!
 minister: you may kiss the bride.
 (he goes to kiss her, but she isn’t very receptive of the kiss. she keeps avoiding him, until ross finally gets to kiss her on her cheek.)
-mrs. geller: (to mr. geller) this is worse than when he married the lesbian.
+mrs.
+geller: (to mr. geller) this is worse than when he married the lesbian.
 (the band starts to play, and the recessional starts. ross tries to take emily’s hand, but she snatches it away from him.)
 emily: just keep smiling.
 ross: okay.
@@ -27,22 +29,25 @@ joey: well, that went well. yeah.
 chandler: it could’ve been worse, he could’ve shot her.
 (ross and emily make it to the lobby.)
 ross: (laughs) that uh, that was pretty funny. wasn’t it?
-(emily gives him a forearm shot across the stomach.)
-opening credits
+(emily gives him a forearm shot across the stomach.)r
 [scene: the wedding reception, ross and emily are in the bathroom and emily is yelling at him. rachel, chandler, joey, and monica are standing outside the doorway.]
 emily: (yelling from inside the bathroom) you’ve spoiled everything! it’s like a nightmare! my friends and family are out there! how can i face them?! how can you do this to me?!
 joey: (to the gang) hey, no matter what happens with ross and emily, we still get cake right?
 ross: (exiting the bathroom) that-that-that’s all right, no honey, you take your time sweetie. i’ll be right out here. (she slams the door in his face, to the gang) she’s just fixing her makeup.
 emily: i hate you!!
 ross: and, i love you!! (he walks into the living room)
-mr. geller: boy, bad time to say the wrong name, huh ross?
+mr.
+geller: boy, bad time to say the wrong name, huh ross?
 ross: that’s true, thanks dad. (to all) people should be dancing! huh? hey, this is a party! come on! joey, dance!! (he starts to dance but stops when no one else joins him.)
 (mrs. waltham’s phone rings and she answers it.)
-mrs. waltham: yes, waltham interiors.
+mrs.
+waltham: yes, waltham interiors.
 phoebe: (on the phone, in new york) uh, hello, this is ross geller’s personal physician, dr. philange.
-mrs. waltham: who?
+mrs.
+waltham: who?
 phoebe: yeah, i’ve discovered that ross forgot to take his brain medicine, uh, now without it, uh, in the brain of ross, uh women’s names are interchangeable, through-through no fault of his own.
-mrs. waltham: oh my god, phoebe.
+mrs.
+waltham: oh my god, phoebe.
 phoebe: no, not phoebe, dr. philange. oh no! you have it too!
 (mrs. waltham hangs up on her.)
 phoebe: hello?
@@ -75,15 +80,19 @@ rachel: whoa, wait, listen, i think i’m just gonna talk to ross about what he 
 monica: wait. rachel, no, he’s married. married! if you don’t realize that, i can’t help you.
 rachel: okay, you’re right. you’re right. you can’t help me.
 (cut to mr. and mrs. geller.)
-mrs. geller: jack, is it all our fault? were we bad parents?
-mr. waltham: (walking by) yes.
-mr. geller: oh yeah, well who serves steak when there’s no place to sit, i mean how are you supposed to eat this?
+mrs.
+geller: jack, is it all our fault? were we bad parents?
+mr.
+waltham: (walking by) yes.
+mr.
+geller: oh yeah, well who serves steak when there’s no place to sit, i mean how are you supposed to eat this?
 joey: hey, what’s up? (he has solved the problem of eating the steak, he’s eating it with his hands.)
 (cut to monica and chandler, monica is running up to him.)
 monica: where were you? we were supposed to meet in the wine cellar?
 chandler: forget it, that’s off.
 monica: why?!
-mr. waltham: (drunkenly) the next tour of the wine cellar will plan in two in-in minutes…
+mr.
+waltham: (drunkenly) the next tour of the wine cellar will plan in two in-in minutes…
 (joey walks up to them.)
 monica: joey, what are you doing? you promised phoebe you wouldn’t eat meat until she has the babies!
 joey: well, i figured we’re in another country, so it doesn’t count.
@@ -177,20 +186,31 @@ monica: i know, i’ve been looking at those doors, they look pretty sound proof
 chandler: we can’t do that that’s insane. i mean ‘a’ he could wake up and ‘b’ y’know, let’s go for it.
 (they both try to slowly extricate themselves from ross, but there’s a knock on the door that awakens him.)
 ross: em-emily? (looking around for her.) em-emily? (he runs to the door.) emily! (he opens the door to reveal the walthams standing outside.)
-mr. waltham: no.
-mrs. waltham: you can forget about emily, she’s not with us.
-mr. waltham: we’ve come for her things.
+mr.
+waltham: no.
+mrs.
+waltham: you can forget about emily, she’s not with us.
+mr.
+waltham: we’ve come for her things.
 ross: wait, well wh-wh-wh-where is she?
-mr. waltham: she’s in hiding. she’s utterly humiliated. she doesn’t want to see you ever again.
-mrs. waltham: we’re very sad that it didn’t work out between you and emily, monkey. but, i think you’re absolutely delicious.
-mr. waltham: excuse me, i’m standing right here!
-mrs. waltham: oh yes, there you are.
+mr.
+waltham: she’s in hiding. she’s utterly humiliated. she doesn’t want to see you ever again.
+mrs.
+waltham: we’re very sad that it didn’t work out between you and emily, monkey. but, i think you’re absolutely delicious.
+mr.
+waltham: excuse me, i’m standing right here!
+mrs.
+waltham: oh yes, there you are.
 rachel: (entering, carrying an armful of those little soaps.) hey-hey, you guys oh hurry up, get some, there’s a whole cart outside… (sees the walthams and stops.)
-mr. waltham: goodbye geller.
+mr.
+waltham: goodbye geller.
 ross: now, hold on! hold on! (stops him) look, look, your daughter and i are supposed to leave tonight for our honeymoon, now-now you-you tell her that i’m gonna be at that airport and i hope that she’ll be there too! oh yeah, i said rachel’s name, but it didn’t mean anything, okay? she’s-she’s just a friend and that’s all! (rachel sits down, depressed.) that’s all! now just tell emily that i love her and that i can’t imagine spending my life with anyone else. please, promise me that you’ll tell her that.
-mr. waltham: all right, i’ll tell her. (to his wife) come on bugger face!
-mrs. waltham: (as she walks pass ross, she pats his but.) call me.
-mr. waltham: you spend half your life in the bathroom, why don’t you ever go out the bloody window!
+mr.
+waltham: all right, i’ll tell her. (to his wife) come on bugger face!
+mrs.
+waltham: (as she walks pass ross, she pats his but.) call me.
+mr.
+waltham: you spend half your life in the bathroom, why don’t you ever go out the bloody window!
 [scene: a 747 somewhere over the north atlantic, monica and chandler are sitting in first class, depressed.]
 monica: y’know, maybe it’s best that we never got to do it again.
 chandler: yeah, it kinda makes that-that one night special. (realizes something) y’know, technically we still are over international waters.
@@ -252,13 +272,15 @@ ross: oh.
 rachel: ohh, so no sign of emily huh?
 ross: not yet.
 rachel: so umm, what time are you supposed to leave?
-gate agent: (on the p.a.) this is the last call for flight 1066 to athens. the last call.
+gate
+agent: (on the p.a.) this is the last call for flight 1066 to athens. the last call.
 ross: pretty soon i guess.
 rachel: yeah. i’m sorry.
 ross: i just, i don’t understand, i mean, how-how can she do this? y’know, what, am i, am i like a complete idiot for thinking that she’d actually show up?
 rachel: no, you’re not an idiot, ross. you’re a guy very much in love.
 ross: same difference.
-gate agent: (on the p.a.) all ticketed passengers for flight 1066 to athens should now be on board.
+gate
+agent: (on the p.a.) all ticketed passengers for flight 1066 to athens should now be on board.
 ross: i get it! well, that’s that.
 rachel: no, you know what, i think you should go.
 ross: what?
@@ -296,7 +318,7 @@ rachel: okay. wait! wait!
 (ross retrieves his jacket and sees that not only has emily arrived, but she as seen rachel take her place on the plane.)
 ross: emily.
 (she stares at him and ross realizes what she’s thinking.)
-ross: oh no-no-no! oh-no! (emily starts to run out and ross chases her.) no! no! emily!
-ending credits
+ross: oh no-no-no! oh-no! (emily starts to run out and ross chases her.) no! no! emily!r
 [scene: flight 1066 to athens, rachel is ordering a drink for ross and herself.]
-rachel: ahh, yes, i will have a glass of the merlot and uh, (points to ross’s seat.) he will have a white wine spritzer. woo! (looks out the window.) hey, look at that, the airport’s moving. (realizes that that’s not how it works.) hey, are we moving?! are we moving? why are we moving? hey, time-out, umm, yeah, does the captain know that we’re moving? (sits back in defeat.) oh my god. oh, my gosh.<EPISODE_END>
+rachel: ahh, yes, i will have a glass of the merlot and uh, (points to ross’s seat.) he will have a white wine spritzer. woo! (looks out the window.) hey, look at that, the airport’s moving. (realizes that that’s not how it works.) hey, are we moving?! are we moving? why are we moving? hey, time-out, umm, yeah, does the captain know that we’re moving? (sits back in defeat.) oh my god. oh, my gosh.r
+<EPISODE_END>

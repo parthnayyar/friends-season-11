@@ -1,4 +1,5 @@
-<EPISODE_START>the one with all the cheesecakes
+<EPISODE_START>
+the one with all the cheesecakes
 [scene: chandler and monica’s, chandler is sitting at the kitchen table eating cheesecake. the box it came in is also on the table.]
 chandler: ohh. mmm.
 rachel: (comes in the front door and walks towards the kitchen.) hi.
@@ -11,8 +12,7 @@ rachel: why, why not?
 chandler: because it's too delicious.
 rachel: chandler, you stole this cheesecake. that is wrong.
 chandler: no-no-no! it is going to be okay, because mrs. braverman is gonna send away for a free one and that way we all win! the only losers are the big cheesecake conglomerate, (reading the label) momma’s little bakery. (pause) i feel terrible, i’m a horrible, horrible, horrible person.
-rachel: (taking a bite) oh, i’m sorry what?
-opening credits
+rachel: (taking a bite) oh, i’m sorry what?r
 [scene: central perk, everyone except rachel is there as joey gets up and starts putting on his coat.]
 joey: all right, i should get going, big day a work. y’know i’m in a coma? today, they do this test on me and it turns out i’m not brain dead.
 chandler: so…
@@ -162,27 +162,36 @@ joey: after she gave me that big speech?! she goes and makes a date with a guy o
 [scene: cousin frannie’s wedding reception, monica and ross are entering and finding their table.]
 ross: oh here, i think this is us. (reading the name cards.) yeah.
 monica: limited seating my ass. let’s see who made the cut. (to the couple sitting to her right.) hi!
-the wedding guest: hi!
+the wedding
+guest: hi!
 monica: i’m monica gellar. who do you know the bride and groom?
-the wedding guest: oh, i used to work with frannie.
+the wedding
+guest: oh, i used to work with frannie.
 monica: used to work with her. used to! i’m a relative and i didn’t get invited! a blood relative! blood!!
 ross: (to monica) stop saying, "blood" to strangers.
 monica: (to the couple on her left) so, how about you huh? how do you know the happy couple?
-the second guest: we went to college with both of them and now we live next door.
+the second
+guest: we went to college with both of them and now we live next door.
 monica: okay, you’re fine.
 [scene: iridium restaurant, phoebe and joey are looking at the menus as the waiter comes to take their order.]
-the waiter: hey!
+the
+waiter: hey!
 phoebe: hey!
-the waiter: are you guys ready?
+the
+waiter: are you guys ready?
 phoebe: yes! i will have the green salad, umm the house salad, and water’s fine.
-the waiter: okay.
+the
+waiter: okay.
 phoebe: okay.
-the waiter: (to joey) and for you sir?
+the
+waiter: (to joey) and for you sir?
 joey: yeah, this slow roasted salmon, just how slow are we talkin’ here?
-the waiter: it’s uh, it’s already been roasted.
+the
+waiter: it’s uh, it’s already been roasted.
 joey: ohh, then no. maybe i should hear those specials again.
 phoebe: oh joey, we’ve heard the specials three times! okay? there’s prime rib, mahi mahi, and a very special lobster ravioli. (she grabs his menu and hands it to the waiter.)
-the waiter: actually we’re out of the lobster ravioli. (putting joey’s menu under his arm.)
+the
+waiter: actually we’re out of the lobster ravioli. (putting joey’s menu under his arm.)
 joey: oh well, that changes everything! (grabs his menu and starts looking at it again. the waiter leaves.) y’know what pheebs?
 phoebe: huh?
 joey: you were right before. i mean, friends are so important.
@@ -190,7 +199,8 @@ phoebe: (checking her watch) yeah, i’m very wise. i know.
 joey: y’know-y’know what i really want?
 phoebe: what?
 joey: is to have a long, long talk. y’know? get joey out on the open road and really open him up.
-the waiter: (returning) any progress?
+the
+waiter: (returning) any progress?
 joey: yes! i will have the lobster ravioli.
 phoebe: god joey, this is taking forever!
 joey: what’s the rush? what?
@@ -242,9 +252,11 @@ chandler: (gloatingly and holding his piece) ohhh!
 rachel: okay, you gotta give me some of your piece.
 chandler: oh-ho-ho-ho-no! no! no switching! no sharing, and don’t come crying to me! ha-ha-ha! i may just sit here and have my cake all day! just sit here in the hallway and eat my… (rachel knocks the plate from his hand and it falls on the floor. that process leaves just the forkful chandler has, rachel starts to go after that little bit and chandler retreats into his apartment.)
 [scene: cousin frannie’s wedding reception, monica and ross are sitting at the table, alone as a woman approaches.]
-the woman: ross, sweetheart!
+the
+woman: ross, sweetheart!
 ross: oh, hey aunt millie.
-aunt millie: isn’t it a beautiful wedding?!
+aunt
+millie: isn’t it a beautiful wedding?!
 ross: yes, yes it is. it’s uh… (aunt millie uses this opportunity to grab ross and kiss him on the lips. after she leaves ross quickly wipes his mouth with a napkin.) every time on the lips! why?! why on lips?!
 (cousin frannie and her husband enter.)
 monica: here’s frannie. hmm, won’t she be happy to see me? (starts to get up and great frannie.)
@@ -283,13 +295,15 @@ rachel: oh! yay! look! there’s a piece that doesn’t have floor on it!
 chandler: stick to your side!
 rachel: hey, come on now!
 (joey finishes climbing the stairs and sees them. chandler and rachel both stop and look up at him. joey sits down on the step.)
-joey: (pulls out a fork) all right, what are we havin’? (starts digging in.)
-ending credits
+joey: (pulls out a fork) all right, what are we havin’? (starts digging in.)r
 [scene: cousin frannie’s wedding reception, ross and monica are at the door and about to leave.]
 monica: oh wait i forgot my wrap.
 ross: what? oh, okay. wait here. (goes to get it, but before he gets there aunt millie sits down on it forcing him to pull it out from behind her which gets her attention.)
-aunt millie: hi sweetie! are you leaving?
+aunt
+millie: hi sweetie! are you leaving?
 ross: well…
-aunt millie: give us a kiss. come on! come on!
+aunt
+millie: give us a kiss. come on! come on!
 (ross hesitates then leans down trying to get her to kiss his cheek, but she moves his head around and kisses him on the lips again.)
-ross: why?! why on the lips?! (he wipes his mouth on monica’s wrap and walks off, leaving aunt millie stunned.)<EPISODE_END>
+ross: why?! why on the lips?! (he wipes his mouth on monica’s wrap and walks off, leaving aunt millie stunned.)r
+<EPISODE_END>

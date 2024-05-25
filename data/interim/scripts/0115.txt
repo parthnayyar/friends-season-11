@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the stoned guy
+<EPISODE_START>
+the one with the stoned guy
 [scene: central perk, rachel is serving joey, ross, and monica their drinks.]
 rachel: (to joey) coffee. (hands it to him.)
 joey: thank you.
@@ -9,12 +10,12 @@ monica: aww, thank you. (notices something.) uh rach?
 rachel: yeah?
 monica: why does my cinamon stick have an eraser?
 rachel: oh! that's why. (rachel checks behind her ear, and finds a cinamon stick.) i'm sorry!
-(she takes the pencil out of monica's coffee and monica puts her cup down in disgust.)
-opening credits
+(she takes the pencil out of monica's coffee and monica puts her cup down in disgust.)r
 [scene: chandler's job, chandler is typing data into his computer, he keeps typing even while taking a drink of coffee with one hand. one of his co-workers walks by.]
 woman: chandler.
 chandler: mrs. tedlock. you're looking lovely today. and may i say, that is a very flattering sleeve length on you.
-mrs. tedlock: yes. well, mr. kostelick wants you to stop by his office at the end of the day.
+mrs.
+tedlock: yes. well, mr. kostelick wants you to stop by his office at the end of the day.
 chandler: oh, listen. if this is about those prank memos, i had nothing to do with them. really. nothing at all. really. (chandler tries to hide a rubber chicken from the woman.) nothing.
 [scene: central perk, everyone is there but chandler. phoebe runs in, excitedly.]
 phoebe: hey you guys! chandler's coming and he says he has, like, this incredible news, so when he gets here, we could all act like, you know...
@@ -235,7 +236,7 @@ steve: (childishly) no.
 monica: give them to me.
 steve: alright, we'll share.
 monica: no, give me the...
-steve: well then you can't have any. (she grabs for the package, and it breaks open. gummi-bears fly everywhere, some into the punch bowl on the table.) bear overboard! i think he's drowning. (he throws some sugar-o's into the punch bowl) hey fellows! grab on a sugar-o... save yourself! (mimicking the bears) "help!  i'm drowning!   help!"
+steve: well then you can't have any. (she grabs for the package, and it breaks open. gummi-bears fly everywhere, some into the punch bowl on the table.) bear overboard! i think he's drowning. (he throws some sugar-o's into the punch bowl) hey fellows! grab on a sugar-o... save yourself! (mimicking the bears) "help!  i'm drowning! help!"
 monica: (furious) that's it! dinner is over!
 steve: what?
 monica: what?
@@ -263,8 +264,7 @@ phoebe: you guys wanna try and catch a late movie or something?
 rachel: maybe, but shouldn't we wait for chandler?
 joey: yeah, where the hell is he?
 [scene: chandler's office, he's on the phone, agitated.]
-chandler: (on phone) yes, fran. i know what time it is, but i'm looking at the wenus and i'm not happy!... (listens) oh, really, really, really? well, let me tell you something... you will care about it, because i care about it! you got it? good! (slams phone down, then leans back and realizes what just happened) whooooaaaa....
-closing credits
+chandler: (on phone) yes, fran. i know what time it is, but i'm looking at the wenus and i'm not happy!... (listens) oh, really, really, really? well, let me tell you something... you will care about it, because i care about it! you got it? good! (slams phone down, then leans back and realizes what just happened) whooooaaaa....r
 [scene: phoebe's massage parlour, she has steve on the table, and is giving him an extra-painful massage.]
 phoebe: how's this? (presses down hard)
 steve: eeeee!
@@ -274,4 +274,5 @@ phoebe: see, that just means it's working. does this hurt? (presses down elsewhe
 steve: no.
 phoebe: what about this? (she starts using her elbows on his back, he yells in pain)
 steve: aaaaahhh!!
-phoebe: there you go! (she continues to work him over with her elbows and he continues to yell in pain.)<EPISODE_END>
+phoebe: there you go! (she continues to work him over with her elbows and he continues to yell in pain.)r
+<EPISODE_END>

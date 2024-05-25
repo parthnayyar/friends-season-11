@@ -1,4 +1,5 @@
-<EPISODE_START>the one where eddie moves in
+<EPISODE_START>
+the one where eddie moves in
 [scene: joey's new apartment. everyone but chandler is there. joey has decorated the place with tons of tacky stuff.]
 joey: huh? so whaddya think? casa de joey. huh? i decorated it myself.
 ross: get out.
@@ -10,7 +11,8 @@ ross: [looking at a glass table with a panther shaped base] look, check this out
 coffee table, is it a panther? there's no need to decide.
 rachel: [holding a pillow made out of 4 inch red fur] hey, nice pillow. so now tell me, is
 this genuine muppet skin?
-phoebe: [looking at a water sculpture that looks like a window with rain running down it]
+phoebe:
+[looking at a water sculpture that looks like a window with rain running down it]
 hey, excellent, excellent water-table thing.
 joey: thanks, yeah. i love this but ya know what, it makes me wanna pee.
 phoebe: yeah, well me too, yeah. i think that's the challenge.
@@ -43,14 +45,17 @@ i'm done, ok.
 all: ok.
 phoebe: ok. i just met this producer of this like, teeny record company, who said that i
 have a very fresh, offbeat sound and she wants to do a demo of smelly cat.
-all: [congradulating her and celebrating]
+all:
+[congradulating her and celebrating]
 phoebe: i told you not to do that yet. and, she wants to do a video.
-all: [celebrating more]
+all:
+[celebrating more]
 phoebe: i'm not done yet, ok. god. ok, if that goes well, they may even want to make an
 album.
 [everyone is quiet, unsure if she's done or not]
 phoebe: i'm done now.
-all: [celebrating]
+all:
+[celebrating]
 [the guy with the pie in his hood get up to leave]
 rachel: oh god. ross, ok, if you care about me at all, you will get the pie out of the
 man's hood.
@@ -100,7 +105,8 @@ joey: oh, well great.
 chandler: yeah i just... wanted to call and say hey.
 joey: well ok then. [oven timer goes off behind chandler] was that the oven timer?
 chandler: that's right my friend. it's time for...
-both: baywatch!! [both turn on tv's]
+both: baywatch!!
+[both turn on tv's]
 joey: oh, can you believe they gave stephanie skin cancer?
 chandler: i still can't believe they promoted her to lieutenant.
 joey: naa, you're just sayin' that 'cause you're in love with yasmine blepe.
@@ -148,7 +154,8 @@ ross: no, there is no way he was a velociraptor. no tony, look at the cranial ri
 if dino was a velociraptor, he would have eaten the flintstones. yeah, yeah. [monica comes
 out of her room] oh, were you takin' a nap?
 monica: i was.
-ross: oh i-, oh wait, tony can you hang on? that's the other line. [gets the other line]
+ross: oh i-, oh wait, tony can you hang on? that's the other line.
+[gets the other line]
 hello. oh yeah she's here but uh, can she call you back? ok thanks. [hangs up the other
 line] call joanna. [back on with tony] hi.
 monica: did she leave a number?
@@ -188,7 +195,8 @@ chandler: well yeah, in that it's not being used and i... have it to spare.
 joey: well i uh, got what i came for. [puts on moose hat] i'll uh, i'll see you guys.
 chandler: hey jo. when'd you start usin' mousse in your hair?
 eddie: [annoying laugh] is this guy great or what?
-joey: yeah, yeah he is. [leaves]
+joey: yeah, yeah he is.
+[leaves]
 [scene: monica and rachel's apartment. monica, rachel, and ross are there.]
 monica: i can't believe he has a new roommate. who is this guy?
 ross: uh, eddie something. he just met him.
@@ -197,7 +205,8 @@ rachel: it'll never last, he's just a rebound roommate.
 phoebe: hey.
 all: hey.
 phoebe: oh, check it out, oh check it out. it's smelly cat the video.
-all: [cheer]
+all:
+[cheer]
 phoebe: now ok, i haven't seen it yet so, if you don't like it, well, so what, none of you
 ever made a video. [puts the tape in] ok.
 [the video is a very dramatic episode with an obviously dubbed voice for phoebe. everyone
@@ -226,10 +235,12 @@ joey: no i just uh, thought you liked your eggs with the bread with the hole in 
 middle, a-la me.
 chandler: well i do, but uh, eddie makes them this way and, well they're pretty darn good.
 eddie: well you guys, i'm outta here. see ya pals.
-chandler: see ya. [eddie leaves]
+chandler: see ya.
+[eddie leaves]
 joey: so how you two gettin' along?
 chandler: oh, i couldn't be happier.
-joey: great, well, i'm happy for ya. [picks up the orange juice carton and it's empty]
+joey: great, well, i'm happy for ya.
+[picks up the orange juice carton and it's empty]
 alright that's it. he just comes in here, mr. jonny neweggs, with his, his, his movin' the
 mail and his, his 'see ya pals'. and now there's no juice. there's no juice f or the
 people who need the juice and want the juice. i need the juice.
@@ -254,7 +265,8 @@ ross: well, monica keeps changin' the channel.
 monica: oh that's great, why don't you tell mommy on me.
 rachel: now i'm mommy in this little play? alright look, i refuse to get sucked into this
 like, weird little geller dimension thing ok. so i'm gonna go and take a nice long hot
-bubble bath because you kids are driving me crazy. [goes in the bathroom]
+bubble bath because you kids are driving me crazy.
+[goes in the bathroom]
 monica: ok, what're we gonna do about this?
 ross: well, i guess we could tape entertainment tonight.
 monica: not that, this, us. oh my god, ross, you-re, you're, it's jus-, you-, ever sin-
@@ -285,7 +297,8 @@ ross: so you wanna watch uh, entertainment tonight?
 monica: yeah, thanks. you know what?
 ross: what?
 monica: if you really want to watch that serengetti thing, you can.
-ross: ohh... ok. [changes the channel]
+ross: ohh... ok.
+[changes the channel]
 [scene: central perk. ross, rachel, and monica are hanging out.]
 [phoebe enters]
 phoebe: hey.
@@ -329,8 +342,7 @@ the other chair but no one's there. he goes to call chandler but decides not to.
 [joey's. playing ping pong by himself.]
 [all by myself is playing. chandler is sitting in front of a window while it's
 raining outside. we see joey through a rainy window. the camera zooms out to show it's
-just his tabletop water sculpture.]
-closing credits
+just his tabletop water sculpture.]r
 [scene: central perk. phoebe is performing smelly cat.]
 phoebe: [singing] smelly cat, smell-ly cat, what are they feeding you? everybody.
 all: smelly cat, smell-ly cat, it's not your fault.
@@ -342,5 +354,5 @@ monica: joey.
 joey: [sings] it may not be a bed of roses.
 phoebe: rachel.
 rachel: [sings] and you're no friend to those with noses.
-phoebe: uh, ross, those are the only lines we have, sorry. ok, you guys, once more.
-end<EPISODE_END>
+phoebe: uh, ross, those are the only lines we have, sorry. ok, you guys, once more.r
+<EPISODE_END>

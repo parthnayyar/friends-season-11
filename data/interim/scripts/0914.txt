@@ -1,4 +1,5 @@
-<EPISODE_START>914 the one with the blind dates
+<EPISODE_START>
+the one with the blind dates
 transcribed by marita bakken
 [scene: joey and rachel's apartment. rachel is in the kitchen as joey enters from his bedroom.]
 joey: morning, roomie!
@@ -28,7 +29,7 @@ ross: yeah, sure, why not? in fact, if you know anyone that would be good for me
 joey: sure, i know lots of girls.
 ross: yeah? any names come to mind?
 joey: ooh, names?
-opening credits.
+.
 [scene: joey and rachel's apartment. joey is there as phoebe enters.]
 phoebe: hey.
 joey: hey. i was just gonna get something to eat. you want something?
@@ -45,7 +46,8 @@ joey: i know, i know. and when they moved back in together, i figured y'know, th
 phoebe: i know. they should be a family. they should get married and have more children.
 joey: yes, and they should name one of their kids joey. i may not have kids; someone's gotta carry on the family name.
 phoebe: you know what? maybe once they start dating, and they see what's out there, they'll realise how good they are for each other.
-joey: yeah, because it is slim pickings. i had this date last night: yuck! but we should probably keep it down; she's still in the bedroom.
+joey: yeah, because it is slim pickings. i had this date last
+night: yuck! but we should probably keep it down; she's still in the bedroom.
 phoebe: so, what are we gonna do? are we just gonna go ahead and set them up with people?
 joey: i know; that just pushes them further and further apart.
 phoebe: yeah. (beat) oh, i know what we can do. we could set ross and rachel up on horrible dates, so that they'll realise how good they are together.
@@ -238,7 +240,7 @@ monica: okay, okay, i'm sure that rachel came home early and picked up emma. you
 chandler: okay. (runs out.)
 monica: hey, you better hope that we're pregnant, because one way or another, we're giving a baby back to rachel.
 [scene: the street in front of central perk. rachel and steve are walking home from their date. steve is sobbing.]
-steve (sobbing): i - i can't believe i�m crying in front of you. you must think i'm so pathetic.
+steve (sobbing): i - i can't believe im crying in front of you. you must think i'm so pathetic.
 rachel: no, no, no, i admire a man who can cry.
 steve: really?
 (he puts his hand on her shoulder.)
@@ -255,7 +257,7 @@ monica: oh my god, then...
 (joey and chandler enter with emma.)
 monica: oh, thank god! emma, there you are!
 rachel: what? what do you mean, "there you are"? where was she?
-monica: oh, we were playing "peek-a-boo." she just � she loves it when i'm dramatic.
+monica: oh, we were playing "peek-a-boo." she just she loves it when i'm dramatic.
 (monica hangs up, and rachel looks at her phone.)
 monica (to joey): why the hell did you take her?
 joey: because you two were having sex!
@@ -320,8 +322,7 @@ phoebe: oh, yeah, they're falling in love all over again.
 phoebe: oh, they see us! oh, they, they look mad. oh, they figured it out. they're coming this way. run!
 joey: where?
 phoebe: mexico!
-(they run down the street with ross and rachel following right behind them.)
-end credits.
+(they run down the street with ross and rachel following right behind them.)r
 [scene: delmonico's restaurant. ross and joey are sitting at a table for four. the waiter is pouring water in their glasses.]
 joey: can you believe they're still not here?
 ross: i know. a double blind date, and we both get stood up. what are the chances?
@@ -331,4 +332,5 @@ joey: we've been stood up. (sniffles) and we want our free crab cakes.
 waiter: guys, give it a rest. nobody's betting on you tonight. although we do have a pool going to see how long it takes that guy to cry.
 (he points at steve who's sitting at another table. he's staring at his hands.)
 steve: i have such fat hands!
-(he starts crying.)<EPISODE_END>
+(he starts crying.)
+<EPISODE_END>

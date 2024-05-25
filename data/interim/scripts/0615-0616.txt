@@ -1,5 +1,5 @@
-<EPISODE_START>the one that could have been
-{transcriber’s note: this is an hour-long special episode. which means that the first part of this episode is episode 615. the second part of this episode is episode 616. since episodes 615 and 616 are combined into one file, that’s why there is no episode 616 in the season 6 table of contents and the numbers jump from episode 615 to 617.}
+<EPISODE_START>
+the one that could have beenr
 [scene: central perk, everyone is there as rachel enters.]
 rachel: hey, you guys! guess what? barry and mindy are getting a divorce!
 monica: oh my god!
@@ -31,9 +31,7 @@ rachel: merrill lynch?
 phoebe: yeah, i had a massage client who worked there and-and he said i had a knack for stocks.
 rachel: well why didn’t you take the job?
 phoebe: because at that time you see, i thought everything that rhymed was true. so i thought y’know that if i’d work with stocks, i’d have to live in a box, and only eat lox, and have a pet fox.
-ross: hey, do you guys think that if all those things happened, we’d still hang out?
-opening credits
-{transcriber’s note: this is where the opening credits are, but they’re not the usual opening credits. oh no! these credits are based on the world that would have been created had all of the above actually happened. it starts out with all of them at the fountain sitting on the couch as fat monica runs up and sits on the arm of the couch, tilting the whole thing towards her. it then goes on to show rachel’s still a shop-aholic and with barry. fat monica is sweating while cooking and dancing while eating a donut. phoebe as the wall street shark smoking while on two cell phones. then they’re dancing in the fountain. joey entering as dr. drake remoray and meeting a groupie. chandler trying to write as a bird does its business on his shoulder and falling asleep while typing. ross doing some kara-tay and trying to get carol into bed. and finally, some more dancing in the fountain, them all flexing, and the turning out the lamp and shutting off all the lights bit from the first season. just remember one thing, this is an alternate universe. everything from every other episode doesn’t apply, for instance, ross and rachel have no history. and in fact have not seen each other in years in this world.}
+ross: hey, do you guys think that if all those things happened, we’d still hang out?r
 [scene: a newsstand, ross is buying a magazine and gets in line behind a woman.]
 ross: (recognizing her) oh my god! rachel green?
 rachel: (gasps) rob tillman!
@@ -61,21 +59,27 @@ ross: uh-huh. (steps to a random kid nearby and hands him his money.) hey, here 
 [scene: central perk, joey, fat monica, and her boyfriend are sitting on the couch. monica’s boyfriend is getting up to get something. for future reference, for the rest of this episode monica’s fat, i won’t be calling her fat monica throughout.]
 joey: so monica, still going out with dr. boring huh?
 monica: he’s not boring! he’s just-he’s just low key.
-monica's boyfriend: (returning) here we go, one hazelnut latte. (hands it to monica and sits down.)
+monica's
+boyfriend: (returning) here we go, one hazelnut latte. (hands it to monica and sits down.)
 monica: thanks.
-monica's boyfriend: yeah. y’know, the hazelnut actually not a nut, it’s a seed.
+monica's
+boyfriend: yeah. y’know, the hazelnut actually not a nut, it’s a seed.
 joey: (not impressed) wow!!
-monica's boyfriend: can anyone else name a well known seed that’s been masquerading as a nut?
+monica's
+boyfriend: can anyone else name a well known seed that’s been masquerading as a nut?
 joey: oh dear god, let me think. (starts to sarcastically think about it.)
 chandler: (entering, depressed) hey.
 joey: hey.
 monica: oh no! what’s the matter?
 chandler: oh i just got another rejection letter. they said my writing was funny, just not "archie comic funny."
-monica's boyfriend: y’know what honey? i got to get back to the hospital.
+monica's
+boyfriend: y’know what honey? i got to get back to the hospital.
 monica: okay.
-monica's boyfriend: (kisses her) okay.
+monica's
+boyfriend: (kisses her) okay.
 monica: bye.
-monica's boyfriend: bye-bye. (gets up to leave.) oh uh, by the way, the answer is, the brazil nut. (exits.)
+monica's
+boyfriend: bye-bye. (gets up to leave.) oh uh, by the way, the answer is, the brazil nut. (exits.)
 chandler: was his question what’s more boring than him?
 joey: hey man, look sorry about that archie thing. do uh, do you need me to give you some money?
 chandler: hey, i may have no money, but i still have my pride.
@@ -171,7 +175,7 @@ phoebe: maybe you need to spice things up a little.
 ross: what-what do you mean?
 phoebe: i don’t know. you could tie her up, she could tie you up; you could eat stuff off each other…
 ross: oh.
-phoebe: y’know, dirty talk, m�nage � trois, toys…
+phoebe: y’know, dirty talk, mnage trois, toys…
 ross: wow!
 phoebe: roll playing… you could be the warden; she could be the prisoner. you could be the pirate; she could be the wench!
 ross: okay, i think i got it.
@@ -253,7 +257,8 @@ rachel: monica. you’ve, you’ve done it right?
 monica: (giggles) of course i have! what do you think, i’m some 30 year old virgin?
 rachel: oh my god! you’re a 30 year old virgin!
 monica: say it louder, i don’t think the guy all the way in the back heard you!
-guy all the way in the back: yeah, i heard it.
+guy all the way in the
+back: yeah, i heard it.
 monica: it’s not like, i haven’t any opportunities. i mean, y’know, i’m just waiting for the perfect guy. i’m seeing this guy roger, all right? he’s not perfect, but umm, i think maybe i should just get it over with. y’know, give him my flower.
 rachel: oh my god!! do it!! honey, you’ve waited long enough!!
 monica: y’know what? you are right?!
@@ -279,21 +284,26 @@ phoebe: thank god.
 ross: (to monica) yeah, she’s fired.
 [scene: rachel and barry’s bedroom, rachel is watching days of our lives. of course it’s a dr. drake remoray scene. it’s set in a hospital room, and dr. wesley and a nurse are talking about a female patient with a bandage around her head.]
 nurse: you’ve done all you can dr. wesley. you have got to let her go.
-dr. wesley: good-bye and god speed, hope brady.
+dr.
+wesley: good-bye and god speed, hope brady.
 (he goes to turn off a machine. suddenly, dr. drake remoray appears at the door with two cops!)
-dr. drake remoray: not so fast wesley! (rachel does a silent clap.)
-dr. wesley: (with evil dripping off his tongue) remoray!
-dr. drake remoray: that’s right wesley! i just stopped by to say that, you’re not a real doctor! and that woman’s brain, is fine!
+dr. drake
+remoray: not so fast wesley! (rachel does a silent clap.)
+dr.
+wesley: (with evil dripping off his tongue) remoray!
+dr. drake
+remoray: that’s right wesley! i just stopped by to say that, you’re not a real doctor! and that woman’s brain, is fine!
 rachel: (very relived) oh! thank god!
 [cut back to the tv, the cops are leading dr. wesley out, and as they pass remoray and wesley exchange evil glances.]
-dr. drake remoray: hope! hope!
+dr. drake
+remoray: hope! hope!
 hope: (sleepily) drake!
-dr. drake remoray: you’re not dying hope, you’re gonna live a long, healthy life. with me.
+dr. drake
+remoray: you’re not dying hope, you’re gonna live a long, healthy life. with me.
 hope: oh drake.
 [drake and hope kiss.]
 rachel: okay! (she picks up the phone, joey’s phone number, and starts to dial.) here we go! okay! (on phone.) hi, joey! it’s rachel! umm, i am free tomorrow night. yeah, sure, sure i can bring some sandwiches.
-commercial break
-{transcriber’s note: this is where part ii begins, which means this is now episode 616.}
+commercial breakr
 [scene: ross and carol's, carol is working on something at the table and ross is reading a newspaper on the couch.]
 ross: so honey this uh, this threesome thing umm, i mean how-how are you gonna start to find…
 carol: ooh, actually i’ve been making a list of all the women i know who might be into doing this!
@@ -339,17 +349,23 @@ joey: yeah, life’s pretty great isn’t it?
 rachel: yeah, it sure is!
 [scene: monica and phoebe's, monica is pouring wine for her boyfriend, dr. roger.]
 monica: i hope you’re hungry, we’re starting with oysters. and y’know what they say about oysters, don’t you?
-dr. roger: they have parasites?
+dr.
+roger: they have parasites?
 monica: no! umm well, some people say that oysters are an aphrodisiac.
-dr. roger: what people?
+dr.
+roger: what people?
 monica: people! people say it! come here! (she grabs him and kisses him.)
-dr. roger: so oysters, huh?
+dr.
+roger: so oysters, huh?
 monica: and then we’re gonna have a little middle eastern cous-cous. something we can eat, with our hands.
-dr. roger: y’know, it’s funny, but when we were studying communicable diseases…
+dr.
+roger: y’know, it’s funny, but when we were studying communicable diseases…
 monica: no-no-no, no! it’s sensual!
-dr. roger: ohh! didn’t know! okay!
+dr.
+roger: ohh! didn’t know! okay!
 monica: okay! (they kiss again and his beeper goes off.) ohhh no!
-dr. roger: i’m sorry sweetie, it’s the hospital. the food looks great, maybe save me some?
+dr.
+roger: i’m sorry sweetie, it’s the hospital. the food looks great, maybe save me some?
 monica: i can’t promise anything. (she starts to dig in.)
 [scene: ross and carol's, ross and carol are waiting anxiously for their new partner to arrive.]
 ross: we’re really gonna do this, huh?
@@ -588,8 +604,8 @@ chandler: i know you probably don’t want to go out with me, y’know because i
 monica: there was just one woman, wasn’t there?
 chandler: no, there were two.
 monica: including me?
-chandler: oh yeah.
-ending credits
+chandler: oh yeah.r
 [scene: central perk, phoebe is singing a new song as the gang looks on.]
 phoebe: (singing)
-it only takes two heart attacks to finally make you see… one of them won’t do it, but the second one will set you free… tell all your hate and anger, it’s time to say good-bye… and that is just what i will do, soon as those bastards i work for die! la, la-la-la, la-la-la-la, la-la-la, la-la-la……<EPISODE_END>
+it only takes two heart attacks to finally make you see… one of them won’t do it, but the second one will set you free… tell all your hate and anger, it’s time to say good-bye… and that is just what i will do, soon as those bastards i work for die! la, la-la-la, la-la-la-la, la-la-la, la-la-la……r
+<EPISODE_END>

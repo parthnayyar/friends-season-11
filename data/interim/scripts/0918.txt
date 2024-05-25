@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-918 - the one with the lottery
+<EPISODE_START>
+the one with the lottery
 [scene: central perk - chandler, monica, phoebe, ross and rachel are sitting on the sofas. joey enters]
 joey: monica, hey, can i borrow the porsche?
 monica: ok.
@@ -18,7 +18,8 @@ monica: yeah with chandler not getting paid, we could really use 300 million dol
 chandler: yeah, because if i was at my old job we'd say 300 million? no thank you!
 phoebe: hey will you get me tickets too?
 rachel: yeah me too. oh! i have an idea. why don't we all pitch in 50 bucks, we'll pool our money together and then if we win, we'll split it!
-everyone almost simultaneously except ross: yeah thats a great idea!
+everyone almost simultaneously except
+ross: yeah thats a great idea!
 ross: no thanks!
 phoebe: you don't wanna win the lottery?
 ross: (in a mocking voice)uh...sure i do, and i also wanna be king of my own country and find out what happened to amelia earhart.
@@ -35,8 +36,7 @@ rachel: yeah so get ready to hear alot of ehm...boohaki, goshdarnit and brotherp
 monica: how do you know she's gonna start talking?
 rachel: well when i talk to her i almost feel like she understands what i'm saying.
 chandler: kinda like joey.
-joey: (who wasn't paying attention)what's that now?
-opening credits
+joey: (who wasn't paying attention)what's that now?r
 [scene: monica and chandler's apartment. monica, chandler, rachel and joey are in the kitchen]
 monica: god! look at all these tickets! it's so exciting! you know i haven't won anything since the sixth grade.
 chandler: pie eating contest?
@@ -91,7 +91,8 @@ monica: right! .. but we "know" what you're wishing for!
 joey: can't really say!
 monica: i understand, but you're wishing for what we think you're wishing for, aren't you?
 joey: (slightly irritated)i'm not really comfortable with these questions!
-rachel, chandler and monica: please, just do it!
+rachel, chandler and
+monica: please, just do it!
 phoebe: one, two, three!
 (they break the wishbone)
 joey: i won, hey!
@@ -100,7 +101,8 @@ rachel: you know, ross, just keep making your jokes. how are you gonna feel if w
 ross: uh, you're not gonna win.
 rachel: oh, i know, i know, the odds are against us, but somebody has to win, and it could be us! and then how you gonna feel? you know, we're gonna be all like "oh everybody, let's take our helicopters up to the cape" and you're gonna be all like "oh, i can't guys, i'll meet you guys up there, i gotta gas up the hyundai"
 ross: ok, i've heard myself on tape and i sound nothing like that.
-chandler: i can see the headline now: "lottery winners' friend filled with regret eats own arm".
+chandler: i can see the headline
+now: "lottery winners' friend filled with regret eats own arm".
 ross: why would i eat my own arm?
 chandler: well you wouldn't, but we own the paper, we can print whatever we want.
 monica: you know what, ross? i'm gonna throw in 50 bucks for you.
@@ -138,7 +140,8 @@ monica: hey, don't say that! you got just as good a chance as anybody else of ge
 chandler: he's the boss's son.
 monica: come on, lottery!! (everybody cheers)
 rachel: ooh, you guys, it starts in like 20 minutes.
-monica: ok, here we go. we need to sort out the tickets as quickly as possible to see if we've won. so does anybody have any ideas how to organize this? (doesn't let them answer) ok, how about this: we divide them into 6 groups of 40, and the remaining 10 can be read by whoever finishes their pile first.
+monica: ok, here we go. we need to sort out the tickets as quickly as possible to see if we've won. so does anybody have any ideas how to organize this? (doesn't let them answer) ok, how about
+this: we divide them into 6 groups of 40, and the remaining 10 can be read by whoever finishes their pile first.
 rachel: ooh, i have another idea!
 monica: i'm sorry, idea time is over.
 phoebe: ok, well, are all the tickets in the bowl?
@@ -189,7 +192,8 @@ everyone: no!!
 phoebe: don't come any closer!
 chandler: can i come a little bit closer, valuable things are getting squished...
 phoebe: no, what's more important, your friends or money?
-everyone but monica: friends!
+everyone but
+monica: friends!
 monica: money! (they all look at her) friends...
 phoebe: hey monica, what about your extra tickets?
 monica: they're all in there! even these five that i hid in my bra (takes some tickets out of her bra and gives them to phoebe)...
@@ -209,9 +213,11 @@ chandler: ok, here we go! (he pushes the play button)
 message: (phoebe's voice) "hello. th-this is the pigeon from the balcony calling to apologise" (they all turns to look at phoebe) "i sh.. i shouldn't have knocked the tickets out of the pretty lady's hand. it-it was all my fault. not hers. bye. coo."
 (they all keep staring at phoebe)
 phoebe: well, i bet that was very hard for him to do.
-second message: "hey chandler, it's charlie"
+second
+message: "hey chandler, it's charlie"
 chandler: this is..shhh!
-second message: "listen, oh... it turns i got the last spot. i'm really sorry man, it was a lot of fun working with you. give me a call if you want."
+second
+message: "listen, oh... it turns i got the last spot. i'm really sorry man, it was a lot of fun working with you. give me a call if you want."
 monica: oh god, i am so sorry honey...
 all: oh, so sorry man! sorry!
 rachel: oh, it is so unfair. it's like that time they promoted sandra over me at work.
@@ -253,9 +259,11 @@ ross: ok, use it in a sentence.
 rachel: ok... "emma just said gleba"!
 ross: it's not a word!
 rachel: okay, okay, okay, fine, i'm gonna look it up (she goes and picks up the dictionary).
-ross: oh, oh, ok, great. you know what, while you're at it she said another word the other day, why don't you, why don't you look up: pbbqqt....
+ross: oh, oh, ok, great. you know what, while you're at it she said another word the other day, why don't you, why don't you look
+up: pbbqqt....
 (rachel glares at him)
-rachel: (searching the dictionary) alright, okay, okay, gleba, gleba... (excited) gleba! ha! here it is: the fleshy, spore-bearing inner mass of a certain fungi.
+rachel: (searching the dictionary) alright, okay, okay, gleba, gleba... (excited) gleba! ha! here it
+is: the fleshy, spore-bearing inner mass of a certain fungi.
 (rachel shows ross the definition on the dictionary, giving him a smug look; then she squints at the dictionary, as though unsure what to make out of it)
 ross: she's gonna be a scientist! (kisses rachel on the head, very moved)
 joey: (checking the last ticket) damnit! anybody got anything?
@@ -287,7 +295,8 @@ joey: oh yeah.
 rachel: you know what? there is a little part of me that really thought we were gonna win.
 ross: me too. so much for my dinosaur/amelia earhart theme park.
 phoebe: you guys, what was the powerball number again?
-monica and ross: seven.
+monica and
+ross: seven.
 phoebe: we won.
 rachel: what?
 phoebe: we won!
@@ -305,8 +314,7 @@ chandler: me too.
 joey: me too.
 rachel: me too.
 (they all look at ross)
-ross: i guess if everybody else is...
-closing credits
+ross: i guess if everybody else is...r
 [scene: central perk. they're all sitting there as usual, except joey. gunther is serving a nearby table.]
 (joey comes in from the back of the coffee house)
 joey: (sitting in a chair) hey guys, so i just called the powerball hotline, can you believe it? nobody won.
@@ -314,4 +322,5 @@ phoebe: i beg to differ (shows him her cup of coffee and her plate of cookies).
 gunther: maybe nobody won the jackpot, but there was this guy in here earlier, and he found the ticket on the street, right outside, and won $10,000 (goes to the counter).
 (they all glare evilly at phoebe)
 phoebe: (hides her mouth behind the cup and speaks in the "pigeon voice" from before) coo, again. don't blame the pretty lady. it was not her fault. it was me, the pigeon, coo! (pause) seriously, stop staring at her.
-(joey stares around dumbly looking for the "talking pigeon")<EPISODE_END>
+(joey stares around dumbly looking for the "talking pigeon")
+<EPISODE_END>

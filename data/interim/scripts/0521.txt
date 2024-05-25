@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the ball
+<EPISODE_START>
+the one with the ball
 [scene: central perk, gary, phoebe, monica, and chandler are there.]
 gary: (to phoebe) would you like some more coffee, baby-doll?
 phoebe: i'm fine, thanks.
@@ -36,8 +37,7 @@ chandler: me?! why me?
 phoebe: because you are so afraid of commitment! you talk to him, make him scared like you! make him a…man!
 chandler: i'll try, but i'm not sure what good it would do, y'know? because i'm a lot less afraid of commitment than i used to be.
 monica: that is so sweet! (she kisses him and turns to add some sugar to her tea.)
-chandler: (to phoebe, behind monica's back) still terrified, i'll take care of it. no problem. (when monica turns back he smiles and kisses her, when she turns away he nods that he'll do it to phoebe.)
-opening credits
+chandler: (to phoebe, behind monica's back) still terrified, i'll take care of it. no problem. (when monica turns back he smiles and kisses her, when she turns away he nods that he'll do it to phoebe.)r
 [scene: monica and rachel's, joey and ross are playing catch with a little foam globe.]
 joey: hey ross, is uh, is staten island really an island?
 ross: uh-huh, that's why they call it staten island.
@@ -54,11 +54,13 @@ joey: oh, i-i, i think that's the first time i ever missed a meal! (checks his p
 rachel: (entering) hey, you guys…
 joey: hey!
 rachel: is monica here?
-joey and ross: no.
+joey and
+ross: no.
 rachel: all right listen umm, i just bought something i'm not sure she's gonna like it, and it's gonna seem a little crazy, but this is something that i wanted since i was a little girl.
 ross: you bought shawn cassidy!
 rachel: noo! i wish! okay, you ready?
-joey and ross: yeah!
+joey and
+ross: yeah!
 rachel: okay! (she goes and gets her surprise and when she returns with it, ross stares in shock.) check it out!
 (joey turns and looks at quite possibly one of the ugliest pets that you can possibly buy on the planet. rachel has bought herself a hairless cat. yep, a hairless cat! joey and ross start to get sick.)
 ross: what-what is it?!
@@ -218,7 +220,8 @@ rachel: no mon that's not the point. i'm out a thousand dollars, i'm all scratch
 (monica sneezes.)
 monica: oh my god, the cat's made my eyes water! don't-don't throw it to me! my vision's been compromised!! (quickly grabs a tissue to wipe her eyes.) oh god! okay. okay. it's okay. man, that was close.
 chandler: yeah, you almost overreacted to something.
-phoebe and gary: (entering) hey!
+phoebe and
+gary: (entering) hey!
 all: hey!
 gary: we have great news!
 phoebe: we're moving in together! isn't it great! yay!
@@ -338,11 +341,11 @@ phoebe: yeah!
 monica: okay! okay, let's race! first one there wins! ha-ha! (runs out the door and everyone watches her leave.)
 (pause)
 chandler: you guys wanna eat here?
-all: yeah! as long as we're here!
-ending credits
+all: yeah! as long as we're here!r
 [scene: central perk, everyone is there.]
 joey: man that was great! huh? can you believe how long we threw that ball around?
 rachel: yeah, it is amazing it lasted that long.
 ross: i know. my arm is killing me.
 rachel: no, i meant with the dropper over here. (points at chandler.)
-chandler: y'know, how did i get this reputation as a dropper? okay? i'm anything but a dropper. (we see various scenes of him dropping a football, a mug of coffee, the phone, an apple, a frisbee, a record, and the final scene has a ball bouncing off of his chest. i'm not going to describe them, you'll have to see them.)<EPISODE_END>
+chandler: y'know, how did i get this reputation as a dropper? okay? i'm anything but a dropper. (we see various scenes of him dropping a football, a mug of coffee, the phone, an apple, a frisbee, a record, and the final scene has a ball bouncing off of his chest. i'm not going to describe them, you'll have to see them.)r
+<EPISODE_END>

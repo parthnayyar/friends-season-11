@@ -1,4 +1,5 @@
-<EPISODE_START>the one the last night
+<EPISODE_START>
+the one the last night
 [scene: chandler and joey's, joey is balancing a mini hockey stick on his hand as chandler enters from his room carrying a bunch of bills.]
 chandler: (watches joey for a moment) okay! (joey quickly moves the hockey stick so that he’s scratching his back with it.) listen, i’m gonna be moving out so you will be in charge of paying the rent.
 joey: right! and when is that due?
@@ -16,8 +17,7 @@ chandler: okay uh, here’s the electric bill. (hands it to him.)
 joey: this is how much we pay for electric?!!!
 chandler: uh, yeah.
 (joey runs over and shuts off the lights.)
-chandler: so, we’ll do the rest of the bills later then?
-opening credits
+chandler: so, we’ll do the rest of the bills later then?r
 [scene: monica and rachel's, chandler is talking to phoebe about trying to give joey some money.]
 phoebe: so is joey going to have to give up the apartment?
 chandler: no, i hope not! i tried to offer him some money, but he wouldn’t take it.
@@ -207,7 +207,8 @@ chandler: hey, i didn’t make up the rules. now, after you receive the doubling
 monica: well, this is the last box of your clothes. i’m just gonna label it, "what were you thinking?"
 rachel: funny, because i was just gonna go across the hall and write that on chandler.
 phoebe: hey you guys, i don’t mean to make things worse, but umm, i don’t want to live with rachel anymore.
-monica and rachel: what?!
+monica and
+rachel: what?!
 phoebe: you’re just so mean to each other! and i don’t want to end up like that with rachel. i still like you!
 rachel: well, phoebe that’s fine because i’m not moving.
 monica: whoa-whoa-whoa, phoebe you gotta take her! y’know i-i-i said some really bad stuff about her, but y’know rachel has some good qualities that make her a good roommate.
@@ -273,8 +274,7 @@ chandler: no problem roomie. (she turns around and hugs him.)
 monica: can i ask you a question?
 chandler: sure!
 monica: what the hell is that dog doing here?! (she notices the dog sitting in the living room.)
-(and with that, an era ends as chandler moves in with monica as rachel moves in with phoebe. it ‘tis a sad and happy time for friends.)
-ending credits
+(and with that, an era ends as chandler moves in with monica as rachel moves in with phoebe. it ‘tis a sad and happy time for friends.)r
 [scene: ross’s apartment, chandler is trying to get joey’s money back from ross.]
 chandler: i invented the game of cups as a way to give joey money.
 ross: and now you want that money back.
@@ -286,4 +286,5 @@ chandler: at a fake game!!
 ross: now, if you wanna try to make some of it back, i’d be glad to play you for it. but i should warn you, i am very good at cups.
 chandler: okay! now i assume the saucer card came up when you played last.
 ross: no.
-chandler: hmm, let’s see if it comes up this time. (he looks at his cards and shrugs.)<EPISODE_END>
+chandler: hmm, let’s see if it comes up this time. (he looks at his cards and shrugs.)r
+<EPISODE_END>

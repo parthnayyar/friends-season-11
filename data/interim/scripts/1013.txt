@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-1013 - the one where joey speaks french
+<EPISODE_START>
+the one where joey speaks french
 [scene: central perk. everyone's sitting on the couch and phoebe enters.]
 phoebe: hi
 all: hey! hi!
@@ -19,8 +19,7 @@ phoebe: oui, bien sur je parle français! qu'est-ce que tu penses alors?
 rachel: oh... you're so sexy!
 joey: well, so, will you help me? i really wanna be in this play.
 phoebe: sure! tout le plaisir est pour moi, mon ami.
-rachel: seriously stop it, or i'm gonna jump on ya.
-opening credits
+rachel: seriously stop it, or i'm gonna jump on ya.r
 [scene: monica and chandler's apartment.]
 chandler: hey.
 monica: hey.
@@ -110,15 +109,20 @@ ross: he's unconscious, i think we'll be just fine!
 rachel (leaving): ok.
 (ross goes into the room where dr. green is laying unconscious. he turns on the tv, puts his feet on the bed and starts watching a dinosaur movie where the dinosaur is caught by two cowboys. dr. geller awakes.)
 ross: did the tv wake you?
-dr. green: no, when you put your feet up in my bed, you tugged on my catheter.
+dr.
+green: no, when you put your feet up in my bed, you tugged on my catheter.
 ross: ouchy.
-dr. green: what are you doing here, geller?
+dr.
+green: what are you doing here, geller?
 ross: well, i came with rachel, who should be back any second! (pause) so what's new?
-dr. green: ooh, i have a little heart attack.
+dr.
+green: ooh, i have a little heart attack.
 ross: right, is it painful?
-dr. green: what, the heart attack or sitting here talking to you?
+dr.
+green: what, the heart attack or sitting here talking to you?
 ross (he buzzes for the nurse) let's see if we can get that rachel back here.
-dr. green: so what's new with you, uh, knocked up any more of my daughters lately?
+dr.
+green: so what's new with you, uh, knocked up any more of my daughters lately?
 ross: nope, just the one. rach!
 [scene: joey's apartment. phoebe is trying to teach joey french.]
 phoebe: je m'appelle claude.
@@ -272,7 +276,8 @@ chandler: (nods in appreciation) shovely joe!
 [scene: the theatre where joey is auditioning. phoebe enters when joey's on stage and she sits down. he hasn't seen her.]
 director: whenever you're ready joey.
 joey: right. (clears his throat) dja bu bu claude. uh, c'est la pu les la lu blah bloo.
-casting assistant: i'm sorry, what's going on?
+casting
+assistant: i'm sorry, what's going on?
 joey: dude, come on! french it u-up!
 director: joey, do you speak french?
 joey: toutes la smore! bu blu-ay bloo blah ooh! pfoof!
@@ -335,5 +340,5 @@ phoebe: come on! you can drink a gallon of milk in 10 seconds?
 joey: all right, watch me! (he takes a full container of milk from the fridge) okay, you time me. ready?
 phoebe: ready... go!
 (joey takes the plastic container to his mouth and starts to drink. most of the milk gushes from the bottle down his chin and over his clothes to the floor. he keeps "drinking" and all of a sudden he lifts it up and half the bottle of milk pours out in an instant. he then continues to drink the rest. he then puts the empty container down on the counter.)
-phoebe: (checking her watch) you did it!
-the end<EPISODE_END>
+phoebe: (checking her watch) you did it!r
+<EPISODE_END>

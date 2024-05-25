@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the dirty girl
+<EPISODE_START>
+the one with the dirty girl
 [scene: central perk, ross and a beautiful blonde (cheryl) are standing outside. the rest of the gang is watching from inside.]
 cheryl: so, thank you for the delicious dinner.
 ross: you're welcome for a delicious dinner.
@@ -21,8 +22,7 @@ ross: i've seen her at work, but i always figured, ah-huh? but, uh, i made her
 dinner. we had a great time. and we're going out again tomorrow.
 rachel: well maybe she and her friends are just having a contest to see who can
 bring home the biggest geek.
-ross: fine by me; hope she wins.
-opening credits
+ross: fine by me; hope she wins.r
 [scene: monica and rachel's. ross, rachel, and phoebe are there. chandler enters.]
 chandler: hi. you guys have any wrapping paper?
 phoebe: oo! is it for my birthday present?
@@ -134,11 +134,14 @@ monica: no, that's not mine.
 phoebe: oh, all right. oh! look what we almost took!
 [cut to the living room of the same dwelling, where the funeral guests are mingling. monica enters.]
 monica: excuse me, mrs. burkart? well, we're all cleaned up in the kitchen.
-mrs. burkart: oh, good. thank you.
+mrs.
+burkart: oh, good. thank you.
 monica: um, and, well there's the.. the the small matter of...
-mrs. burkart: dear?
+mrs.
+burkart: dear?
 monica: just the matter of ...payment?
-mrs. burkart: (in grief) jack used to handle the finances! (breaks into tears)
+mrs.
+burkart: (in grief) jack used to handle the finances! (breaks into tears)
 [scene: monica and rachel's, rachel is on the couch still doing the crossword. chandler is in the kitchen.]
 rachel: you know what we should all do? go see a musical.
 chandler: (confused) sure...
@@ -188,10 +191,12 @@ monica: okay. so what do you.... you think she's faking?
 phoebe: well, it seems like there weren't any tears 'til you showed her the bill.
 monica: phoebe, she sounded pretty upset to me.
 [cut to the living room where mrs. burkart is now performing.]
-mrs. burkart: (singing) you're a grand ol' flag, you're a high-flying flag, and
+mrs.
+burkart: (singing) you're a grand ol' flag, you're a high-flying flag, and
 forever in peace may you wave....
 phoebe: she seems fine now.
-mrs. burkart: (singing) ...emblem of the land i love. the home of....
+mrs.
+burkart: (singing) ...emblem of the land i love. the home of....
 commercial break
 [scene: chandler and joey's, ross and joey are standing and talking, ross is tying a tie.]
 joey: so, you just left? her place was really that bad?
@@ -249,7 +254,8 @@ comes back in.) oh, hey! there wasn't any change from that twenty, was there?
 chandler: no, it came out to an even twenty.
 joey: wow. that's almost as much as a new book.
 [scene: in the living room at the funeral]
-mrs. burkart: (singing) jeepers, creepers, where'd you get those peepers? jeepers,
+mrs.
+burkart: (singing) jeepers, creepers, where'd you get those peepers? jeepers,
 creepers, where'd you get those eyes?
 [cut to monica and phoebe in the kitchen]
 phoebe: you didn't get the money, did you?
@@ -257,15 +263,18 @@ monica: maybe i can try at intermission? phoebe, come on... you know what? let's
 just go!
 phoebe: no! hey, we're not leaving until we get paid! i don't know who she thinks
 she is! enough is enough! (phoebe goes into the living room.) hey, widow?
-mrs. burkart: (singing) come on along and listen to...
+mrs.
+burkart: (singing) come on along and listen to...
 phoebe: okay, widow!
-mrs. burkart: (singing) ...the lullabye of...
+mrs.
+burkart: (singing) ...the lullabye of...
 phoebe: excuse me. excuse me! (mrs. bukart stops singing) thanks. um, clearly this
 is a very, very hard time for you. um, but, um, we provided a service, and we deserve to
 be paid because you ate that service, and, um, we are not leaving here until we're paid
 every penny. 'cause you know what, lady? we're part time caterers, and we have no place
 else to go.
-mrs. burkart: all right. i'll get my bag.
+mrs.
+burkart: all right. i'll get my bag.
 phoebe: good. (phoebe and mrs. burkart go into the other room, leaving monica with
 everyone staring at her.)
 monica: i'm gonna leave some cards here. please think of us for you next event.
@@ -327,7 +336,8 @@ chandler: hey! happy birthday.
 kathy: thank you!
 joey: you know, uh... [joey moves the pen case out onto the counter.] chandler got
 you a gift, too.
-chandler: no he didn't. [moving it back.]
+chandler: no he didn't.
+[moving it back.]
 joey: yeah, he did, look... look, it's right there on the counter! ha-ho-ho!
 chandler: happy birthday! i'm sorry.
 kathy: you really didn't have to. (opens the box) wow.
@@ -357,8 +367,7 @@ kathy: you must really like... joey... to go to all that trouble for him.
 chandler: oh, yeah, he's my... he's my best friend.
 kathy: well....
 chandler: goodnight. (goes to his room.)
-joey: (opening bedroom door) hey, that coupon expires, you know.
-closing credits
+joey: (opening bedroom door) hey, that coupon expires, you know.r
 [scene: outside cheryl's apartment, monica knocks on cheryl's door]
 monica: hi. uh, you... you don't know me, i'm monica geller... ross's sister.
 cheryl: oh, yeah. oh, you know, that's too bad that didn't work out.
@@ -366,4 +375,5 @@ monica: yeah. anyway, he told me about your apartment. and, um, i couldn't sleep
 thinking about it. so, uh, would it be okay if i cleaned it?
 [cheryl shrugs, shuts the door, looking puzzled]
 monica: no?
-[monica looks around the hallway, pulls out a sponge and starts scrubbing the door frame.]<EPISODE_END>
+[monica looks around the hallway, pulls out a sponge and starts scrubbing the door frame.]r
+<EPISODE_END>

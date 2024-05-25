@@ -1,4 +1,5 @@
-<EPISODE_START>the one with mac and c.h.e.e.s.e.
+<EPISODE_START>
+the one with mac and c.h.e.e.s.e.
 [scene: joey and rachel's apartment, phoebe is helping joey rehearse for an audition. phoebe is overacting her part.]
 joey: the reactor’s gonna blow in three seconds, we’re never gonna make it!
 phoebe: you’ve got to get out of here! save yourself!
@@ -13,8 +14,7 @@ phoebe: (interrupting) no, i mean i was really acting my ass off.
 joey: yeah, i thought i was pretty good too.
 phoebe: oh yeah, you’re solid. yeah, you’re just no me.
 joey: y’know what? i think that’s enough for now. yeah. i don’t want to be over rehearsed.
-phoebe: (tremendously overacting) fine! i’ll do it without you! (joey gives her thumbs up) i don’t need you or anybody else! i’m gonna make it on my own! (joey closes the door to his bedroom.) you’ll see!! you’ll all see!!
-opening credits
+phoebe: (tremendously overacting) fine! i’ll do it without you! (joey gives her thumbs up) i don’t need you or anybody else! i’m gonna make it on my own! (joey closes the door to his bedroom.) you’ll see!! you’ll all see!!r
 [scene: joey and rachel's apartment, joey is memorizing his lines. chandler, rachel, and phoebe are there as well.]
 chandler: (to joey) so uh, what’s this thing you’re auditioning for?
 joey: oh, it’s a new tv show. yeah. i’m up for the part of mac macaveli or "mac." yeah, i’m a detective and i solve crimes with the help of my robot partner. he’s a, he’s a computerized humanoid electronically enhanced secret enforcer or-or "c.h.e.e.s.e."
@@ -43,7 +43,12 @@ joey: (there's a gunshot on tv) there's my scene, there's my scene. [joey on tv]
 joey: (on stage in an austrian accent) vell, eva, ve've done some excellent vork here, and i vould have to say, your pwoblem is qviiite clear. (he goes into a song and dance number.)
 all you want is a dingle, what you envy's a schwang, a thing through which you can tinkle, or play with, or simply let hang...
 [the next flashback is also from the one with the butt and it's also on the soundtrack.  he's joey telling everyone about his big break in monica and rachel's apartment.]
-joey:  i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt. monica: (trying not to laugh) oh my god. joey:  c'mon, you guys. this is a real movie, and al pacino's in it, and that's big! chandler: oh no, it's terrific, it's- it's- y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into show business. joey: okay, okay, fine! make jokes, i don't care! this is a big break for me! ross: you're right, you're right, it is.
+joey:  i play al pacino's butt. all right? he goes into the shower, and then- i'm his butt.
+monica: (trying not to laugh) oh my god.
+joey:  c'mon, you guys. this is a real movie, and al pacino's in it, and that's big!
+chandler: oh no, it's terrific, it's- it's- y'know, you deserve this, after all your years of struggling, you've finally been able to crack your way into show business.
+joey: okay, okay, fine! make jokes, i don't care! this is a big break for me!
+ross: you're right, you're right, it is.
 monica:  yes.
 ross:  so you gonna invite us all to the big opening?
 [cut back to joey about to leave for his audition for mac and c.h.e.e.s.e.]
@@ -93,7 +98,8 @@ monica:  no really, they're ok.
 interviewer:  you gonna slice them up real nice?
 monica:  actually, i was gonna do them jullienne.
 interviewer:  aaaahhhhhhh.
-monica:  i'm outa here. [monica leaves]
+monica:  i'm outa here.
+[monica leaves]
 [the next flashback is from the one with rachel's crush.]
 [scene: bloomingdale’s, rachel’s new job.]
 rachel:  (on the phone) monica, i’m quitting! i just helped an 81 year old woman put on a thong and she didn’t even buy it! (pause) i’m telling you i’m quitting! that’s it! i’m talking to my boss right now! (pause) yes i am! (pause) yes i am! yes i am! yes i am! yes i am! yes i am! okay bye, call me when you get this message. (hangs up.)
@@ -107,11 +113,14 @@ monica:  was it...
 phoebe:  oh, boy scouts could've camped under it!
 [the next flashback is from the one with ross's sandwich, ross his confronting his boss about him eating ross's sandwich.]
 ross: you ate my sandwich?
-dr. leedbetter: it was a simple mistake. it could happen to anyone.
+dr.
+leedbetter: it was a simple mistake. it could happen to anyone.
 ross: (getting upset) oh-oh really?
-dr. leedbetter: now-now calm down. come look in my office, some of it my still be in the trash.
+dr.
+leedbetter: now-now calm down. come look in my office, some of it my still be in the trash.
 ross: (jumping to his feet in anger) what?
-dr. leedbetter: well, it was quite large. i-i-i-i-i had to throw most of it away.
+dr.
+leedbetter: well, it was quite large. i-i-i-i-i had to throw most of it away.
 ross: you-you-you-you (trying to remain in control) threw my sandwich away!
 [cut to an outside shot of the museum.]
 ross:  (losing control, we hear him shout outside) my sandwich?!!!
@@ -142,9 +151,10 @@ chandler: which i bought for ya. taught ya how to use it. you thought it was a c
 [joey just laughs as a third set of flashbacks featuring chandler’s mistakes starts. the first flashback is from the one with the prom video.  it's chandler telling phoebe how much he hates the bracelet joey bought him.  they're both at central perk.]
 chandler:  you know he coulda gotten me a vcr, he coulda gotten me a set of golf clubs, but no, he has to get me the woman repeller!  the eyesore from the liberace house of crap!
 phoebe:  it's not that bad.
-chandler:  oh, yeah, easy for you to say, you don't have to walk around sporting some reject from the mr. t collection. [joey walks in behind chandler]
+chandler:  oh, yeah, easy for you to say, you don't have to walk around sporting some reject from the mr. t collection.
+[joey walks in behind chandler]
 phoebe:  chandler, chandler.
-chandler:  i pity the fool who puts on my jewelry, i do, i do. i pity the fool that. . . [turns around and sees joey] hi!
+chandler:  i pity the fool who puts on my jewelry, i do, i do. i pity the fool that... [turns around and sees joey] hi!
 [the next flashback is from the one where chandler crosses the line.  he's telling joey that he kissed cathy.]
 chandler:  yeah, i mean when you were late last night, kathy and i got to talking, and one thing to another and…
 joey:  and what?! did you sleep with her?!
@@ -157,7 +167,7 @@ joey:  over the line?! you-you’re-you’re so far past the line, that you-you
 [cut back to joey and rachel’s apartment.]
 chandler: look, i’m not saying that you should magically forgive me! but you’re not perfect! you’ve made some errors in judgment too!
 joey: name one!
-[chandler proceeds to point out joey’s errors in this forth set of flashbacks. the first flashback is from the one with the cat.   chandler has just returned home to see that their apartment has been cleaned out and finds joey trapped in the entertainment center.]
+[chandler proceeds to point out joey’s errors in this forth set of flashbacks. the first flashback is from the one with the cat. chandler has just returned home to see that their apartment has been cleaned out and finds joey trapped in the entertainment center.]
 chandler: (lets him out) what happened?!!
 joey: (getting out) awww, man! he promised he wouldn’t take the chairs!!
 chandler:  what the hell happened?!! how were you locked in?!! and where the hell is all of our stuff?!!
@@ -214,16 +224,20 @@ rachel: that is the most ridiculous...
 monica: you sold me out.
 rachel: i did not sell you out.
 monica: yes you did.  you absolutely sold me...
-rachel: would you let me talk. [flicks monica on the forehead]
+rachel: would you let me talk.
+[flicks monica on the forehead]
 monica: did you just flick me?
-rachel: ok, well, you wouldn't let me finish and i was jus- [monica flicks her back] ow. that hurt [flicks monica]
+rachel: ok, well, you wouldn't let me finish and i was jus-
+[monica flicks her back] ow. that hurt
+[flicks monica]
 (they keep flicking each other. this turns into slapping each other.)
 phoebe: oh!  all right.  now, let's not do this!
 (rachel tackles monica onto the couch.)
 phoebe: happy thoughts!  happy thoughts!
 (they wrestle on the couch for a little while until monica gets the upper hand and pulls rachel off of the couch by her sock.  monica removes rachel's sock and starts beating her with it.)this leads to wrestling on the floor. this finally angers phoebe.)
 phoebe: ok, now i'm gonna kick some ass.
-(phoebe grabs each of them by an ear.) monica and rachel: ow! ow! ow!
+(phoebe grabs each of them by an ear.) monica and
+rachel: ow! ow! ow!
 phoebe: i know!  i know!  i know!
 phoebe: alright, now i will let go if you both stop.
 rachel: fine!
@@ -235,7 +249,7 @@ chandler: oh my god!
 joey: look at me! i'm chandler! could i be wearing any more clothes? maybe if i wasn't going commando...
 (chandler does this throat sound.)
 joey: yeah. whew, it's hot with all of this stuff on. i ah, i better not do any, i don't know, lunges. (starts doing lunges)
-[the next flashback is from the one where eddie moves in.   it's the sequence where joey and chandler are both saddened that they're not living together anymore. all by myself is playing in the background.]
+[the next flashback is from the one where eddie moves in. it's the sequence where joey and chandler are both saddened that they're not living together anymore. all by myself is playing in the background.]
 [joey's place. he goes to say something to chandler in the other chair but no one's there. he goes to call chandler but decides not to and throws the phone back down.]
 [chandler's. he's playing foosball by himself.]
 [joey's. playing ping pong by himself.]
@@ -268,8 +282,7 @@ chandler: all right!
 joey: hey, do we do this too much?
 chandler: i think so. yeah, get off me.
 joey: yeah.
-(they separate.)
-ending credits
+(they separate.)r
 [scene: joey and rachel's apartment, joey and phoebe are reading a scene from mac and c.h.e.e.s.e.]
 joey: come on c.h.e.e.s.e., i’m not leaving without you! try routing your backup source through your primary cpu.
 phoebe: (overacting badly) i can’t! my circuits are fried! they’re fried i tell you!!
@@ -284,4 +297,5 @@ phoebe: yeah?
 ross: oh my god. i mean…
 joey: y’know what? i think that’s enough for today. thanks for your help! (he grabs their scripts and heads for his room.)
 phoebe: (to ross) he’s holding us back.
-ross: totally.<EPISODE_END>
+ross: totally.r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the evil orthodontist
+<EPISODE_START>
+the one with the evil orthodontist
 [scene: monica and rachel's, everyone is there.]
 chandler: i can't believe you would actually say that. i would much rather be mr.peanut than mr.salty.
 joey: no way! mr.salty is a sailor, all right, he's got to be, like, thetoughest snack there is.
@@ -7,13 +8,13 @@ monica: (looking out of the window) oh my god. you guys! you gotta come see this
 ross: i can't believe it! he's looking right at us!
 rachel: oh, that is so sick.
 chandler: i feel violated. and not in a good way.
-phoebe: how can people do that?... (all but phoebe walk away from the window in disgust.) oh, you guys, look! ugly naked guy got gravity boots!
-opening credits
+phoebe: how can people do that?... (all but phoebe walk away from the window in disgust.) oh, you guys, look! ugly naked guy got gravity boots!r
 [scene: central perk, everyone but rachel is there.]
 chandler: i am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time. it was unbelievable! we could totally be ourselves, we didn't have to play any games...
 monica: so have you called her yet?
 chandler: let her know i like her? what are you, insane? (the girls make disgusted noises.) it's the next day! how needy do i want to seem? (to the guys) i'm right, right?
-joey and ross: oh, yeah. yeah. let her dangle.
+joey and
+ross: oh, yeah. yeah. let her dangle.
 monica: i can't believe my parents are actually pressuring me to find one of you people.
 phoebe: oh, god, just do it! (grabbing the phone.) call her! stop being so testosteroney!
 chandler: which, by the way, is the real san francisco treat. (calls her, then hurriedly hangs up.) i got her machine.
@@ -195,7 +196,8 @@ mindy: no me, i am so sorry...
 (they hug and joey enters.)
 joey: (watches them for a while) oh my.
 [scene: monica and rachel's, phoebe and ross are doing a crossword, monica is cooking, and chandler is still staring at his phone.]
-ross: four letters: "circle or hoop".
+ross: four
+letters: "circle or hoop".
 chandler: ring dammit, ring!
 ross: thanks.
 joey: (entering) hey, you know our phone's not working?
@@ -253,12 +255,12 @@ monica: really?
 rachel: yeah! y'know, ever since i ran out on barry at the wedding, i have wondered whether i made the right choice. and now i know.
 monica: aww... (they hug)
 (joey enters and looks on approvingly.)
-joey: big day.
-closing credits
+joey: big day.r
 [scene: central perk, everyone is there.]
 joey: all right, i'll give you this, mr. peanut is a better dresser. i mean he's got the monocle, he's got the top hat...
 phoebe: you know he's gay?
-ross: i just wanna clarify this: are you outing mr. peanut?
+ross: i just wanna clarify
+this: are you outing mr. peanut?
 danielle: (entering) chandler?
 chandler: danielle! hi! uh- everybody, this is danielle, danielle, everybody.
 all: hi. hi.
@@ -277,4 +279,5 @@ ross: second date!
 chandler: ...i dunno.
 rachel: you don't know?!
 chandler: well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if i was okay? i mean,... how needy is that?
-(they all groan and hit him..)<EPISODE_END>
+(they all groan and hit him..)r
+<EPISODE_END>

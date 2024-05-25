@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the butt
+<EPISODE_START>
+the one with the butt
 [scene: a theater, the gang is in the audience wating for a play of joey's to
 start.]
 rachel: (reading the program) ooh! look! look! look! look, there's joey's picture! this is so exciting!
@@ -8,8 +9,7 @@ phoebe: the exclamation point in the title scares me. (gesturing) y'know, it's n
 ross: oh, shhh, shh. magic is about to happen.
 (the lights go up on the stage, joey, as freud, is talking to a female patient.)
 joey: vell, eva, ve've done some excellent vork here, and i vould have to say, your pwoblem is qviiite clear. (he goes into a song and dance number.)
-all you want is a dingle, what you envy's a schwang, a thing through which you can tinkle, or play with, or simply let hang...
-opening credits
+all you want is a dingle, what you envy's a schwang, a thing through which you can tinkle, or play with, or simply let hang...r
 [scene: the theater, the play has ended and everyone is applauding.  as soon as the cast leaves, the gang all groan and sit down heavily.]
 rachel: god. i feel violated.
 monica: did anybody else feel they just wanted to peel the skin off their body, to have something else to do?
@@ -83,7 +83,8 @@ chandler: ...hm.
 monica: oh. i'm sorry it didn't work out.
 chandler: what 'not work out'? i'm seeing her again on thursday. didn't you listen to the story?
 monica: didn't you listen to the story? i mean, this is twisted! how could you get involved with a woman like this?
-chandler: well, y'know, i had some trouble with it at first too, but the way i look at it is, i get all the good stuff: all the fun, all the talking, all the sex; and none of the responsibility. i mean, this is every guy's fantasy!
+chandler: well, y'know, i had some trouble with it at first too, but the way i look at it is, i get all the good
+stuff: all the fun, all the talking, all the sex; and none of the responsibility. i mean, this is every guy's fantasy!
 phoebe: oh, yeah. that is not true. ross, is this your fantasy?
 ross: no, of course not! (thinks) ...yeah, yeah, it is.
 monica: what? so you guys don't mind going out with someone else who's going out with someone else?
@@ -220,7 +221,8 @@ aurora: (gets up to leave) well, call me if you change your mind.
 chandler: sorry, the first guy runs the lips.
 (she leaves, chandler sighs, and falls back on his bed.)
 [scene: monica and rachel's, ross is trying to comfort chandler.  joey is absent.]
-ross: look at it this way: you dumped her. right? i mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... tell me why you did this again?
+ross: look at it this
+way: you dumped her. right? i mean, this woman was unbelievably sexy, and beautiful, intelligent, unattainable... tell me why you did this again?
 (joey enters.)
 all: hey!
 monica: hey, waitwait, aren't you the guy that plays the butt in the new al pacino movie?
@@ -247,7 +249,7 @@ rachel: uh, mon, you-you gonna leave your shoes out here?
 monica: (determined) uh-huh!
 rachel: really? just casually strewn about in that reckless haphazard manner?
 monica: doesn't matter, i'll get 'em tomorrow. or not. whenever. (he goes to her room.)
-ross: she is a kook.
-closing credits
+ross: she is a kook.r
 [scene: monica's bedroom, she's lying in bed wide awake.]
-monica: (hums for a while, then gives up, and in her head) if it bothers you that much, just go out and get the shoes. no. don't do this. this is stupid! i don't have to prove anything, i'm gonna go get them...but then everyone will know. unless i get them, and then wake up really early and put them back! ...i need help! (she buries her head in her pillow.)<EPISODE_END>
+monica: (hums for a while, then gives up, and in her head) if it bothers you that much, just go out and get the shoes. no. don't do this. this is stupid! i don't have to prove anything, i'm gonna go get them...but then everyone will know. unless i get them, and then wake up really early and put them back! ...i need help! (she buries her head in her pillow.)r
+<EPISODE_END>

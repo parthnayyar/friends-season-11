@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the giant poking device
+<EPISODE_START>
+the one with the giant poking device
 [scene: monica and rachel's, phoebe, chandler, and ross are there, rachel is serving brownies.]
 rachel: here you go pheebs. who else wants one of my special homemade brownies?
 chandler: i will have one. (ross and him both take one.)
@@ -18,8 +19,7 @@ phoebe: yeah, yeah, first there was my aunt mary, and then there was umm, john, 
 rachel: and all these people actually died?
 phoebe: yes, while i was in the chair! that’s why i take such good care of my teeth now, y'know, it’s not about oral hygiene, i floss to save lives!
 ross: pheebs, come on, you didn’t kill anybody, these people just happened to die when you went to the dentist. it’s, it’s, it’s just ah, a coincidence.
-phoebe: well tell that to them. oh! you can’t, their dead.
-opening credits
+phoebe: well tell that to them. oh! you can’t, their dead.r
 [scene: central perk, ross, rachel, and phoebe are there.]
 ross: thanks, gunther. (takes the plate gunther serves him and rachel comes up and kisses him) (to rachel) hey! (to gunther) umm, can i get a napkin too?
 gunther: oh, like you don’t already have everything.
@@ -82,7 +82,8 @@ rachel: oh god, oh god, it’s sowed on though.
 monica: give it. give it.
 rachel: okay.
 (monica takes the bear, grabs his hat, and rips off his head.)
-monica and rachel: oh!!
+monica and
+rachel: oh!!
 rachel: oh, it’s just like a bloodbath in here today.
 [scene: the street, chandler and joey are walking past a jewelery store.]
 chandler: hey! hold on a minute, hold on a second. do you think these pearls are nice?
@@ -245,16 +246,19 @@ monica: and yet, we’re still poking him.
 joey: okay, retract the device, retract the device.
 ross: he does not look happy.
 rachel: hey-hey, now he’s showing us his poking device.
-joey: hey, that’s never gonna make it all the way over here, buddy!
-closing credits
+joey: hey, that’s never gonna make it all the way over here, buddy!r
 [scene: chandler and joey's, chandler is listening to a lionel richie album]
 chandler: (singing) i’ll hold you close in my arms. (phoebe enters) i can’t resist your charms. and love....
 phoebe: (joining him) love....
-chandler and phoebe: i’ll be a fool for you. i’m sure, you know i don’t mind.
+chandler and
+phoebe: i’ll be a fool for you. i’m sure, you know i don’t mind.
 chandler: (high pitched) no you know i don’t mind.
-chandler and phoebe: yes! you mean the world the world to me. oh...
+chandler and
+phoebe: yes! you mean the world the world to me. oh...
 chandler: i know.
 phoebe: i know.
 chandler: i’ve found.
 phoebe: i’ve found....
-chandler and phoebe: ...in you, my endless (phoebe goes high pitched, chandler goes low pitched) love. (they both look at each other.) my endless love. (once again they don’t match tones, and they just look at each other)<EPISODE_END>
+chandler and
+phoebe: ...in you, my endless (phoebe goes high pitched, chandler goes low pitched) love. (they both look at each other.) my endless love. (once again they don’t match tones, and they just look at each other)r
+<EPISODE_END>

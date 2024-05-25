@@ -1,4 +1,5 @@
-<EPISODE_START>the one where joey loses his insurance
+<EPISODE_START>
+the one where joey loses his insurance
 [scene: monica and rachel's, rachel is packing her belongings to move to ross’s. she’s standing in the kitchen.]
 rachel: so, which of this kitchen stuff is mine?
 monica: this bottle opener. (she grabs it off of the freezer door.)
@@ -33,8 +34,7 @@ phoebe: oh! yeah, y’know you and ross are still married.
 rachel: what?!!
 phoebe: just kidding!
 rachel: ohh! oh god! (laughs her way into the living room.)
-phoebe: (to ross) saved your ass.
-opening credits
+phoebe: (to ross) saved your ass.r
 [scene: central perk, joey, monica, rachel, and chandler are all there as phoebe enters dejectedly.]
 chandler: hey!
 phoebe: hi.
@@ -152,9 +152,11 @@ ross: look, i was nervous! you guys had me all worried i was going to be boring!
 rachel: yeah, and not a very good one.
 ross: will you-will you please?
 (another professor walks down from the back of the lecture hall.)
-the professor: dr. geller, kurt rathman, i’m a professor in the paleontology department here.
+the
+professor: dr. geller, kurt rathman, i’m a professor in the paleontology department here.
 ross: oh.
-the professor: do you have a moment to talk about your lecture?
+the
+professor: do you have a moment to talk about your lecture?
 ross: (in his british accent) i’m sorry, i’ve got plans with my sister.
 monica: (in an irish accent) monica gellerrr. (she rolls her ‘r’)
 ross: (in accent) right, will you excuse us for one moment? (takes monica aside.) (in his normal voice.) what are you doing?
@@ -235,26 +237,38 @@ joey: yeah! and hey, thanks for coming with me. and thanks again for helping me 
 (chandler steps away quickly.)
 chandler: now, is that never talking about it again?!
 joey: (to the director) hiya!
-the director: hey joey, we’re ready for ya! (joey stumbles over) joey, this is alex he’s going to be playing your son.
+the
+director: hey joey, we’re ready for ya! (joey stumbles over) joey, this is alex he’s going to be playing your son.
 joey: hi alex! (to the director) and uh, as you can see my hands are not in my pants. (holds them both up.)
-the director: okay. (to alex) all right uh, alex now when joey says his line, "take good care of your momma son," that’s your cue to cry. got it? (alex nods yes.) all right, let’s do this.
+the
+director: okay. (to alex) all right uh, alex now when joey says his line, "take good care of your momma son," that’s your cue to cry. got it? (alex nods yes.) all right, let’s do this.
 (joey lies down on the gurney.)
-a crew member: (with that board thingy) scene 5, take 1.
-the director: and action!
+a crew
+member: (with that board thingy) scene 5, take 1.
+the
+director: and action!
 joey: "take could care of your momma son." (alex just looks at him and the director motions for him to continue so he tries it again.) "take could care of your momma son." (alex does nothing.) "come on son! your momma’s good people!"
-the director: cut! alex, remember you’re supposed to cry. can you cry for us this time?
+the
+director: cut! alex, remember you’re supposed to cry. can you cry for us this time?
 alex: okay.
-the director: all right, from the top.
-a crew member: scene 5, take 2.
+the
+director: all right, from the top.
+a crew
+member: scene 5, take 2.
 [time lapse.]
-a crew member: take 36 is up!
-the director: all right! let’s try this again! you ready joe?
+a crew
+member: take 36 is up!
+the
+director: all right! let’s try this again! you ready joe?
 joey: ah, just one thing umm, is it all right with you if i, if i scream right up until you say action?
-the director: uh sure.
+the
+director: uh sure.
 joey: okay. (starts screaming.)
-the director: action!
+the
+director: action!
 joey: (he stops screaming at action) "take good care of your momma son." (again alex does nothing.)
-the director: cut!!!!!!!!!! (joey starts screaming again.)
+the
+director: cut!!!!!!!!!! (joey starts screaming again.)
 (chandler decides to help out.)
 chandler: i’m sorry! hey-hey joe, why don’t you uh, lift up your shirt? (he does.) take a look at this kiddo. (alex finally starts crying.) we have a crying child! roll the damn cameras!
 [scene: ross and rachel’s apartment, rachel is unpacking as the phone rings.]
@@ -265,12 +279,12 @@ russell: yes, this russell, ross’s divorce lawyer, just tell him that since i 
 rachel: ross got married again—nooooooo!!!!!!!!!
 [scene: a nyu lecture hall, ross is trying to phase out his accent.]
 ross: (in his head) all right, keep going. we are phasing the accent out, phasing it out. so without out re-testing the results in the laboratory (pronounced the british way) the team would never have identified (british) the initial errors in their carbon dating analysis (british). were there any questions at this point? (one student raises his hand.) yes. (points to him.)
-a student: what’s happening to your accent?
+a
+student: what’s happening to your accent?
 ross: (british) come again? what’s-what’s this nonsense? (giggles.) (american.) all right, i’m-i’m not english. i’m from long island. i was really nervous and the accent just uh, just came out. i’m sorry. so, if we could just get back to the lecture. umm, were there any questions? (everyone raises their hands) about paleontology. (they all put their hands down.) all right, look i was just trying to make a good first impression. obviously, i screwed up. but what you guys think of me is really important because i’m-i’m hoping to get a permanent job here. so if you just give me another chance to make a good impression…
 (at this moment rachel bursts through the door. needless to say, she’s not in the best of moods having just found out ross’s dirty little secret.)
 rachel: ross!! are you crazy?! i am still your wife!! what, were you just never gonna tell me?!! what the hell is wrong with you?!!!! ugh, i could just kill you!!!!
-ross: (in the accent again) well, hello rachel!
-ending credits
+ross: (in the accent again) well, hello rachel!r
 [scene: chandler and joey's, joey is holding a football helmet; and apparently, in a rather disgusting scene, joey wants phoebe to beat him senseless. (luckily it isn’t a long trip.) because he’s made a miraculous recovery from his hernia and wants to take advantage of all those free surgeries he can get now since he’s re-established his health insurance.]
 phoebe: have you really done this before?
 joey: yeah! yeah! yeah! you just take a big, big swing. now, don’t hold back. (he dons his protective helmet (why, i have no clue.) and phoebe picks up a wooden baseball bat and starts to swing as chandler and monica enter.)
@@ -279,4 +293,5 @@ joey: hey-hey-hey!
 chandler: what are you doing?
 phoebe: we’re just celebrating that joey got his health insurance back.
 chandler: oh, all right.
-(decided that they are less than human as well, chandler picks up a golf club and monica a frying pan, to join in on the fun of beating their good friend to within an inch of his life!)<EPISODE_END>
+(decided that they are less than human as well, chandler picks up a golf club and monica a frying pan, to join in on the fun of beating their good friend to within an inch of his life!)r
+<EPISODE_END>

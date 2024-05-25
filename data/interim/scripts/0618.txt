@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross dates a student
+<EPISODE_START>
+the one where ross dates a student
 [scene: monica and chandler's, chandler, rachel, and joey are there as ross enters.]
 ross: hey! i just got uh, my teacher evaluations! check out what this one student wrote, "i loved dr. geller’s class. mind blowing lectures! dr. geller, you are definitely the hottie of the paleontology department!"
 chandler: ahh, hotties of the paleontology department, there’s a big selling calendar, eh?
@@ -16,8 +17,7 @@ chandler: i see.
 ross: besides, there’s a big age difference.
 joey: oh, well think of it like this, when you’re 90…
 ross: i know when i’m 90 she’ll be like 80 and it won’t seem like such a big difference.
-joey: no that’s not what i was going to say at all. no, what i was going to say is when you’re 90 you’ll still have the memory of what it was like to be with a 20-year-old.
-opening credits
+joey: no that’s not what i was going to say at all. no, what i was going to say is when you’re 90 you’ll still have the memory of what it was like to be with a 20-year-old.r
 [scene: monica and chandler's, phoebe, monica, and chandler are eating breakfast as joey enters.]
 joey: hey chandler! y’know that girl you went to college with who-who became a movie director?
 chandler: oh yeah, dana keystone. she was in my movement class.
@@ -205,7 +205,8 @@ ross: going out with who?
 chandler: uh, dana keystone from college.
 ross: oh yeah! wasn’t she uh… (does the international sign for big boobies.)
 chandler: no, that was dana caplin.
-the guys: ohhhh! (they all look up in a moment of reflection.)
+the
+guys: ohhhh! (they all look up in a moment of reflection.)
 monica: joey! you didn’t even know her!
 joey: ah whatever!
 [scene: a restaurant, chandler is having dinner with dana.]
@@ -308,12 +309,12 @@ ross: (feeling it too) no! no! it’s wrong! it’s-it’s-it’s naughty. it’
 elizabeth: shut the book!
 (they frantically start making out.)
 ross: let’s also get a hot plate!
-(they start making out again.)
-ending credits
+(they start making out again.)r
 [scene: joey's apartment, joey is eating pizza as chandler enters.]
 chandler: hey!
 joey: hey!
 chandler: so?!
 joey: so?
 chandler: it’s thursday! how was the audition?!
-joey: wh? monday, one day. tuesday, two day. wednesday, when huh what? thurs—(he gasps in horror.) oh! (runs out and chandler just shakes his head. after a second joey runs back in to grab a piece of pizza and runs back out.)<EPISODE_END>
+joey: wh? monday, one day. tuesday, two day. wednesday, when huh what? thurs—(he gasps in horror.) oh! (runs out and chandler just shakes his head. after a second joey runs back in to grab a piece of pizza and runs back out.)r
+<EPISODE_END>

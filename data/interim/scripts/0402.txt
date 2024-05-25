@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the cat
+<EPISODE_START>
+the one with the cat
 [scene: chandler and joey's, joey is eating breakfast as chandler comes out of his bedroom, ripping his coat in the process.]
 chandler: wow! that ripped! that ripped real nice!
 joey: how many times do i have to tell you! ya, turn and sliiiide! y'know, turn and slide.
@@ -6,8 +7,7 @@ chandler: you don’t turn and slide, you throw it out! i’m tired of having to
 joey: look, we’re not throwing it out! i built this thing with my own hands!
 chandler: all right, how about we, how ‘bout we sell it.
 joey: all right. but, you’re gonna have to tell them. (he opens the cabinet to reveal the chick and the duck living inside with christmas lights and a disco ball as decorations.)
-chandler: (nods his head) do you mind if we stick you in another cabinet? (to joey) they seem all right with it!
-opening credits
+chandler: (nods his head) do you mind if we stick you in another cabinet? (to joey) they seem all right with it!r
 [scene: monica and rachel's, monica and ross are there. monica is checking the messages.]
 chip: (on machine) hey monica, it’s chip.
 monica: yesss!!
@@ -41,7 +41,8 @@ chandler: (reading the ad) stunning entertainment center. fine, (pause) fine ita
 phoebe: oh my god, you guys are selling the entertainment center?
 rachel: why? i love that thing.
 chandler: you want it?
-phoebe and rachel: oh no.
+phoebe and
+rachel: oh no.
 chandler: ahh, gepeto, $5,000 dollars? are you insane?
 joey: hey, the ad alone cost 300 bucks!
 chandler: all right look, i’m changing it to 50 bucks, or your best offer.
@@ -228,7 +229,8 @@ ross: hi! listen uhh, this cat belongs to a little girl. there are flyers all ov
 rachel: i’m sorry, sweetie. (shows her the flyer)
 monica: hey, we can take her back with you if you want.
 phoebe: ohh. um-hmm. but y'know, she choose to find me. i mean, i have to respect her decision. right?
-chandler, monica, joey, and rachel: that’s a good call. right.
+chandler, monica, joey, and
+rachel: that’s a good call. right.
 ross: no! no! look—hey, enough is enough! look, i am sorry that you feel guilty or whatever about spending time with your new mom, but this is not your old mom. this is a cat! okay, julio the cat! not mom! cat!
 phoebe: (she turns around and puts the cat on the entertainment center) ross, how many parents have you lost?
 ross: none.
@@ -247,6 +249,6 @@ phoebe: come on, mom, i’ll take you home.
 rachel: i’ll go with you.
 monica: me too. (they all leave)
 ross: oh! y'know, i’ve got an extra futon.
-joey: dude, you don’t have to brag! we got nothing here!!
-closing credits
-[scene: chandler and joey's, joey and chandler have trading the entertainment center for the canoe. joey is sitting in the bow, staring off into space as to envision his future full of possibilities. chandler is sitting at the stern, staring into space and is looking at an uncertain future.]<EPISODE_END>
+joey: dude, you don’t have to brag! we got nothing here!!r
+[scene: chandler and joey's, joey and chandler have trading the entertainment center for the canoe. joey is sitting in the bow, staring off into space as to envision his future full of possibilities. chandler is sitting at the stern, staring into space and is looking at an uncertain future.]r
+<EPISODE_END>

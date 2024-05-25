@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-1014 - the one with princess consuela
+<EPISODE_START>
+the one with princess consuela
 mike: (raising his glass) thank you guys for having us over.
 phoebe: oh! yeah, this is fun, couples night.
 chandler: yeah, i don't know why we hang out with married couples more often.
@@ -24,8 +24,7 @@ ross: you too! what are the odds?
 rachel: ooh! (they hug)
 joey: (enters) guess what? (they all look expectantly at him) i finally got that seed out of my teeth.
 monica: i don't know who i'm happiest for...
-phoebe: i do, he's been working on that all day! (looking at joey)
-opening credits
+phoebe: i do, he's been working on that all day! (looking at joey)r
 [scene: central perk. phoebe, monica and chandler on their couch.]
 phoebe: hey mon? was it weird changing your name to geller-bing?
 monica: no, no. it felt nice to acknowledge this. (pats chandler on his leg)
@@ -70,31 +69,44 @@ maitre d': i'm sorry. that's always mr campbell's table.
 rachel: but my... but my boss cannot see me. i'm interviewing for another job.
 maitre d': i know. with gukki
 rachel: sssshhhh!
-mr zellner: rachel?
+mr
+zellner: rachel?
 rachel: hi... i'm on a date...
-mr zellner: (confused) that's great!
+mr
+zellner: (confused) that's great!
 rachel: yeah, it is. yeah, you know, it's tough. single mom, career... you gotta get out there.
-mr zellner: well, you got uhm... good energy.
+mr
+zellner: well, you got uhm... good energy.
 rachel: oh.
-mr campbell: rachel?
+mr
+campbell: rachel?
 rachel: yes, hi!
-mr campbell: james campbell...
+mr
+campbell: james campbell...
 rachel: hi! (to mr zellner) excuse us.
-mr campbell: please... (shows her to sit)
+mr
+campbell: please... (shows her to sit)
 rachel: okay. oh, yeah... (whispering to mr zellner) oh he's cute!
-mr campbell: so... your resumé is quite impressive. (mr zellner who sits behind rachel shrugs)
+mr
+campbell: so... your resumé is quite impressive. (mr zellner who sits behind rachel shrugs)
 rachel: wha... my resumé? i wouldn't... i wouldn't call my online dating profile a resumé.
-mr campbell: dating profile? i-i-i'm talking about the work resumé.
+mr
+campbell: dating profile? i-i-i'm talking about the work resumé.
 rachel: (starts singing la la la la) whatever happened to just singing for no reason? huh?
-mr campbell: maybe people... found it weird.... so, why do you want to leave ralph lauren?
+mr
+campbell: maybe people... found it weird.... so, why do you want to leave ralph lauren?
 rachel: what? i-i don't.
-mr campbell: you don't?
+mr
+campbell: you don't?
 rachel: no, i-i-i love it there.
-mr campbell: well, if you don't want to leave, why are we having this lunch?
+mr
+campbell: well, if you don't want to leave, why are we having this lunch?
 (rachel mimes and mouths to mr campbell "that is my boss", pointing to mr zellner)
-mr campbell: what?
+mr
+campbell: what?
 (rachel now silently whispers "that's my boss".)
-mr campbell: that's hugo boss?
+mr
+campbell: that's hugo boss?
 (rachel holds her hand in order to support her head. mr zellner obviously overheard the conversation.)
 [scene: a counter at a government building. phoebe's waiting in line.]
 phoebe: (to the woman behind her) this place is so depressing. if i had to work here i'd kill myself. (she turns around and the clerk behind the counter heard her.) but you obviously haven't.
@@ -189,7 +201,8 @@ phoebe: oh, me too!
 mike: so, what's new?
 phoebe: well, i'm no longer phoebe buffay.
 mike: that's great! you changed you name?
-phoebe: yes i did! meet: princess consuela banana hammock! (she smiles from ear to ear)
+phoebe: yes i did!
+meet: princess consuela banana hammock! (she smiles from ear to ear)
 mike: (afraid) you're kidding right?
 phoebe: nope.
 mike: you really did that?
@@ -289,7 +302,8 @@ monica: joey, now that you're okay with the house, do you wanna go see your room
 joey: what? i get my own room?
 chandler: you don't think we'd buy a house and not have a joey room do you?
 joey: oh my god! (they all hug) oh! hey, can i have an aquarium? and a sex swing?
-chandler and monica: no!
+chandler and
+monica: no!
 joey: why not? i'll keep the tank clean.
 [scene: central perk. phoebe and mike are leaving.]
 mike: after you, miss banana hammock.
@@ -346,5 +360,5 @@ commercial break
 [scene: joey and rachel's. joey's on the phone.]
 joey: i mean, this soap opera is a great gig, but... am i missing opportunities? you know, i've always thought of myself as a serious actor. i mean, should i be trying to do more independent movies?
 mackenzie: (at the other end of the line) i don't know... you know what? i'm gonna put you on with my bear. hold on. (she puts the phone at the bears ear)
-joey: hey bear, i need some career advice.
-the end<EPISODE_END>
+joey: hey bear, i need some career advice.r
+<EPISODE_END>

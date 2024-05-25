@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the engagement picture
+<EPISODE_START>
+the one with the engagement picture
 [scene: monica, chandler, and phoebe's, monica and phoebe are going through a bunch of pictures as chandler enters.]
 chandler: hey.
 monica: what’s the matter?
@@ -18,8 +19,7 @@ phoebe: hey, why don’t you guys go, get portraits done by a professional photo
 monica: that’s a good idea! i bet they have one of those wind machines! y’know… (does the whole hair blowing in the wind model type poses.)
 phoebe: yeah that’s great! next to that, chandler won’t look so stupid.
 monica: chandler what do you say?
-chandler: all right, but i should warn you, i’m not going. i’m going. (does the face while saying that last part.)
-opening credits
+chandler: all right, but i should warn you, i’m not going. i’m going. (does the face while saying that last part.)r
 [scene: central perk, rachel is siting on the couch as ross and chandler enter after playing basketball.]
 ross: (to chandler) dude, that reverse lay-up! oh…
 chandler: how about those three pointers?
@@ -72,9 +72,11 @@ melissa: hey! isn’t that tag’s backpack.
 rachel: yeah melissa, i don’t want to be known as the uh, office bitch, but i will call your supervisor.
 (melissa beats a hasty retreat.)
 [scene: a portrait studio, chandler and monica are trying to take their engagement picture. monica has a beautiful smile, while chandler isn’t.]
-the photographer: (taking pictures) great! that’s great monica! great! now, chandler, you want to give us a smile?
+the
+photographer: (taking pictures) great! that’s great monica! great! now, chandler, you want to give us a smile?
 chandler: okay. (does the face.)
-the photographer: i’m sorry, is the seat uncomfortable?
+the
+photographer: i’m sorry, is the seat uncomfortable?
 chandler: no, i am.
 monica: chandler, listen to me sweetie, i know you can do this. okay? you have a beautiful smile.
 chandler: i do? (he smiles, beautifully.)
@@ -112,13 +114,17 @@ chandler: oh my god! those are my bedroom eyes?! why did you ever sleep with me?
 monica: do you really want to pull at that thread?
 (phoebe enters with hums while he pees also known as kyle.)
 phoebe: i’m having a really good time!
-hums while he pees: me too! i’m sorry that guy in the subway licked your neck.
+hums while he
+pees: me too! i’m sorry that guy in the subway licked your neck.
 phoebe: ohh. no that’s okay, he’s a friend.
-hums while he pees: hey uh, i don’t mean to be presumptuous but i have these two tickets to the ballroom dancing finals tomorrow night if you want to go?
+hums while he
+pees: hey uh, i don’t mean to be presumptuous but i have these two tickets to the ballroom dancing finals tomorrow night if you want to go?
 phoebe: yeah, i… well y’know i-i mean i missed the-the semi-finals, so i’d just be lost.
-hums while he pees: i know it’s really lame, but i got these tickets from my boss and—oh no! no! no! my god!
+hums while he
+pees: i know it’s really lame, but i got these tickets from my boss and—oh no! no! no! my god!
 phoebe: okay, don’t freak out. i’ll go.
-hums while he pees: no it’s… uh, my ex-wife whitney is out there. i cannot deal with her right now. that woman is crazy!
+hums while he
+pees: no it’s… uh, my ex-wife whitney is out there. i cannot deal with her right now. that woman is crazy!
 phoebe: okay, i know. hold on. (she walks over to the couch.) hey ross?
 ross: yeah?
 phoebe: yeah, umm that’s whitney (points), kyle’s ex-wife out there, now do you think that you can y’know divert her so that we can slip out?
@@ -294,8 +300,7 @@ phoebe: oh. y’know, he hums while he does other stuff to.
 ross: yeah, were better off without them.
 phoebe: and y’know, even if they break up again, you’d better not let him in your sad men’s club!
 ross: divorced men’s club.
-phoebe: potato, potaato. (she’s pronounces potato with the both the short and long as.)
-ending credits
+phoebe: potato, potaato. (she’s pronounces potato with the both the short and long as.)r
 [scene: central perk, phoebe, chandler, and joey are there as monica enters with the local paper that has the engagement picture in it.]
 monica: hey guys check it out! my mom sent me the paper!
 phoebe: ooh, let’s see it!
@@ -309,4 +314,5 @@ chandler: okay.
 monica: wow! imagine what our kids would look like!
 joey: y’know, we don’t have to imagine.
 chandler: i’m marrying her.
-joey: we’ll just see.<EPISODE_END>
+joey: we’ll just see.r
+<EPISODE_END>

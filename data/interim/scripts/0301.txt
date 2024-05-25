@@ -1,9 +1,9 @@
-<EPISODE_START>the one with the princess leia fantasy
+<EPISODE_START>
+the one with the princess leia fantasy
 [scene central perk, the whole gang is entering]
 joey: i'm tellin' ya that girl totally winked at me.
 all: did not, she did not wink at you...(sees that their sacred couch is occupied by strangers).
-chandler: huh. (they all leave, dejected)
-opening credits
+chandler: huh. (they all leave, dejected)r
 [scene: rachel and monica's, phoebe, ross, and rachel are eating breakfast.]
 ross: i have to say tupolo honey by van morrison.
 rachel: nooo way! the most romantic song ever is the way we were.
@@ -171,11 +171,13 @@ janice: so, i hear, you hate me!
 joey: i, ah, i never said hate, i was very careful about that.
 janice: a little birdie told me something about you wanting to rip your arm off and throw it at me.
 joey: and you got a 'hate' from that?! your taking a big leap there...
-janice: all right, fine, fine, fine, fine, fine, we've got to do something about our little situation here joey. so, this is my idea: you and me spending some quality time together.
+janice: all right, fine, fine, fine, fine, fine, we've got to do something about our little situation here joey. so, this is my
+idea: you and me spending some quality time together.
 joey: but what does that gonna do...
 janice: for chandler!
 joey: okay. i'm in.
-janice: okay. all right. this is what we're gonna call it: 'joey and janice's day of fun!'
+janice: okay. all right. this is what we're gonna call
+it: 'joey and janice's day of fun!'
 joey: does it have to be a whole day?
 janice: yes, because that's how long it takes to love me.
 joey: yeah, i know, i sleep in the next room.
@@ -234,30 +236,42 @@ joey: oh yeah, i always picture your mom when i'm having sex.
 video:april twelve, eighteen hundred, sixty-one (monica lights richard's cigar butt), 4:30 a.m. on tuesday, the united states garrison at fort sumter was fired upon (knock on door) it is now under bombardment by....
 (monica answers the door)
 monica: hi, dad, what are you doing here?
-mr. geller: well, it's your mother's bridge night so i thought that i would come into the city for a little monicuddle. (hugs her) since when did you start smoking cigars?
+mr.
+geller: well, it's your mother's bridge night so i thought that i would come into the city for a little monicuddle. (hugs her) since when did you start smoking cigars?
 monica: i don't, i just, i just like the smell of them. so, uh, what are you really doing here dad?
-mr. geller: well, i just wanted to make sure you were okay.
+mr.
+geller: well, i just wanted to make sure you were okay.
 monica: what makes you think that i might not be okay?
-mr. geller: i saw richard.
+mr.
+geller: i saw richard.
 monica: oh.
-mr. geller: so, how are you doing?
+mr.
+geller: so, how are you doing?
 monica: i'm fine, just a little tired, i'm okay. how's richard doing?
-mr. geller: you don't wanna know.
+mr.
+geller: you don't wanna know.
 monica: no, i really, really do.
-mr. geller: well, he's doing terrible!
+mr.
+geller: well, he's doing terrible!
 monica: really!
-mr. geller: worse than when he broke up with barbara.
+mr.
+geller: worse than when he broke up with barbara.
 monica: you're not just saying that are you?
-mr. geller: no, the man is a mess.
+mr.
+geller: no, the man is a mess.
 monica: was he crying?
-mr. geller: no.
+mr.
+geller: no.
 monica: well, do you think he was waiting 'til after you left, so he could cry?
-mr. geller: maybe.
+mr.
+geller: maybe.
 monica: i think so.
-mr. geller: honey, relationships are hard. like with your mom and me. you know after we graduated college we broke up for a while. it seems her father, your grandfather, wanted her to travel around europe, like he did. of course, he got to do it on uncle sam's nickel, because he was also strafing german troop trains at the time. however, (turns around and sees that monica is sleeping and puts a blanket around her, kisses her, picks up the cigar, and starts watching the video)
-closing credits
+mr.
+geller: honey, relationships are hard. like with your mom and me. you know after we graduated college we broke up for a while. it seems her father, your grandfather, wanted her to travel around europe, like he did. of course, he got to do it on uncle sam's nickel, because he was also strafing german troop trains at the time. however, (turns around and sees that monica is sleeping and puts a blanket around her, kisses her, picks up the cigar, and starts watching the video)r
 [scene: ross's bedroom, ross is humming the star wars theme. rachel enters, with her hair done up like princess leia's, and wearing a belly dancer's outfit, to simulate the gold bikini thing.]
 rachel: okay, here we go. i'm jabba's prisoner, and you have a really weird look on your face. what? honey, what is it? did i get it wrong? did i get the hair wrong? what? did you just picture it differently? what? what?
 ross: no, no it's, um, it's not you, um, it's um, it's (turns and sees his mom standing where rachel is)
-mrs. geller: well what is it? come on sweetie, your like, freaking me out here.
-ross: i hate chandler, the bastard ruined my life. (rachel starts looking around and down, with a 'what the hell is going on?' look on her face.)<EPISODE_END>
+mrs.
+geller: well what is it? come on sweetie, your like, freaking me out here.
+ross: i hate chandler, the bastard ruined my life. (rachel starts looking around and down, with a 'what the hell is going on?' look on her face.)r
+<EPISODE_END>

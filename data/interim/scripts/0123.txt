@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the birth
+<EPISODE_START>
+the one with the birth
 [scene: the hospital, ross, rachel, chandler, joey, and monica are in the waiting room, waiting for carol and susan to arrive.]
 ross: she's not here yet. she's not here. she's having my baby and she's not here.
 monica: i'm sure everything's fine. has her water broke yet?
@@ -25,23 +26,25 @@ carol: i was looking at stuffed animals, and susan wanted a chunky.
 ross: susan wanted a chunky. we're having a baby, ok, a baby, you don't stop for chunkys.
 chandler: i used to have that bumper sticker.
 (everyone is amused by chandler's comment.)
-chandler: (to rachel) you see what i mean.
-opening credits
+chandler: (to rachel) you see what i mean.r
 [scene: carol's hospital room, carol is on the bed, ross and susan are at her side.]
 ross: stopped for a chunky.
 carol: let it go, ross.
 susan: i got an extra one. you want this? (holds the candy in front of ross' face)
 ross: (weakly) no.
 (carol's doctor, dr. franzblau arrives.)
-dr. franzblau: hey, how's my favorite parenting team doing?
+dr.
+franzblau: hey, how's my favorite parenting team doing?
 ross: dr. franzblau, hi.
-dr. franzblau: so, i understand you're thinking of having a baby? well, i see you're nine months pregnant. that's a good start. how you doing with your contractions?
+dr.
+franzblau: so, i understand you're thinking of having a baby? well, i see you're nine months pregnant. that's a good start. how you doing with your contractions?
 carol: oh, i love them. each one's like a little party in my uterus.
 susan: they're every four minutes and last 55 seconds.
 ross: 59 seconds. (holds up his watch) quartz, ha.
 susan: swiss quartz, ha, ha.
 carol: am i allowed to drink anything?
-dr. franzblau: ice chips, just ice chips. they're at the nurses' station.
+dr.
+franzblau: ice chips, just ice chips. they're at the nurses' station.
 ross: i'll get it.
 susan: no, i'm getting it. i'll be right back.
 ross: i got it—i'm getting it!
@@ -49,7 +52,8 @@ ross: i got it—i'm getting it!
 rachel: hi, i thought you might like some ice chips.
 carol: thanks.
 rachel: and if you need anything else, i—(notices the handsome dr. franzblau)—do not believe we've met. hi. i'm, uh, rachel green. i'm carol's... ex-husband's... sister's roommate.
-dr. franzblau: it is nice to meet you. i'm dr. franzblau. i'm your roommate's... brother's... ex-wife's obstetrician.
+dr.
+franzblau: it is nice to meet you. i'm dr. franzblau. i'm your roommate's... brother's... ex-wife's obstetrician.
 rachel: oh, that's funny!
 [scene: the waiting room, chandler is falling asleep on monica's shoulder.]
 monica: i want a baby.
@@ -192,14 +196,16 @@ carol: ok.
 rachel: ok?
 carol: ok.
 rachel: (to dr. franzblau) ok, so anyway, you were telling me about paris, it sounds fascinating.
-dr. franzblau: it really was. there was this great little pastry shop right by my hotel. (carol sits up in pain, rachel and dr. franzblau casually lay her back down) there you go, dear.
+dr.
+franzblau: it really was. there was this great little pastry shop right by my hotel. (carol sits up in pain, rachel and dr. franzblau casually lay her back down) there you go, dear.
 [scene: lydia's room, joey is helping her deliver.]
 joey: come on, lydia, you can do it. push! push 'em out, push 'em out, harder, harder. push 'em out, push 'em out, way out! let's get that ball and really move, hey, hey, ho, ho. let's— (notices the nurse looking at him strangely) i was just—yeah, right. push! push!
 [scene: the broom closet, ross has picked up a vacuum and is holding it at the door.]
 susan: what're you gonna do, suck the door open?
 ross: help! help!
 phoebe: (singing) they found their bodies the very next day, they found their bodies the very next...(sees ross and susan staring at her) la la la la la la.
-susan and ross: (even louder) help!
+susan and
+ross: (even louder) help!
 [scene: the waiting room, monica is on the phone with her mother, chandler is standing behind her.]
 monica: now, mom, everything's going fine, really. (listens) yeah, ross is great. he's uh, he's in a whole other place. (listens) no, he's gone. (listens) no no, you don't have to fly back, really. (listens) what do you mean this might be your only chance? (listens) would you stop? i'm only 26, i'm not even thinking about babies yet.
 (monica sees a woman pass by with a baby, puts the phone to her chest, and starts to cry. chandler takes the phone, makes a noise in it resembling static, and hangs up. joey enters.)
@@ -207,17 +213,23 @@ chandler: where have you been?
 joey: oh, just had a baby.
 chandler: mazel tov!
 [scene: the waiting room, rachel and dr. franzblau have gone to get coffee.]
-dr. franzblau: i don't know, could be an hour, could be three, but relax, she's doing great. so, uh, tell me, are you currently involved with anyone?
+dr.
+franzblau: i don't know, could be an hour, could be three, but relax, she's doing great. so, uh, tell me, are you currently involved with anyone?
 rachel: (anxiously) no, no, not at the moment, no, i'm not. are you?
-dr. franzblau: no, it's hard enough to get women to go out with me.
+dr.
+franzblau: no, it's hard enough to get women to go out with me.
 rachel: right, yeah, i've heard that about cute doctors.
-dr. franzblau: no, no, really. i suppose it's because i spend so much time, you know, where i do.
+dr.
+franzblau: no, no, really. i suppose it's because i spend so much time, you know, where i do.
 rachel: oh.
-dr. franzblau: i try not to let my work affect my personal life, but it's hard, when you... do what i do. it's like uh...well, for instance, what do you do?
+dr.
+franzblau: i try not to let my work affect my personal life, but it's hard, when you... do what i do. it's like uh...well, for instance, what do you do?
 rachel: i'm a waitress.
-dr. franzblau: ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if i see one more cup of coffee'...
+dr.
+franzblau: ok, all right, well aren't there times when you come home at the end of the day, and you're just like, 'if i see one more cup of coffee'...
 rachel: (getting the point) yeah. gotcha.
-dr. franzblau: i'm gonna go check up on your friend.
+dr.
+franzblau: i'm gonna go check up on your friend.
 rachel: ok. that's fine. (takes her earrings out)
 [scene: the hall outside lydia's room, joey is walking up to lydia's room with balloons, but before he enters he sees that the baby's father has arrived. he listens at the door.]
 lydia: so how did you know i was even here?
@@ -245,10 +257,12 @@ joey: relax. you're only at nine centimeters. and the baby's at zero station.
 chandler: (to joey) you are really frightening me.
 (carol suddenly screams in pain and grabs chandler by the shirt.)
 chandler: somebody wanna help me, tryin' to rip out my heart. (they pull her hand off of him) uh, that's great. (looking around) anybody seen a nipple?
-dr. franzblau: all right, ten centimeters, here we go.
+dr.
+franzblau: all right, ten centimeters, here we go.
 nurse: all right, honey, time to start pushing.
 carol: but they're not here yet!
-dr. franzblau: i'm sorry, i can't tell the baby to wait for them.
+dr.
+franzblau: i'm sorry, i can't tell the baby to wait for them.
 carol: oh, god.
 [scene: the broom closet, ross has used a broom to open the air vent in the ceiling. phoebe is wearing a janitor's uniform, ready to go up in the vent.]
 ross: ok, got the vent open.
@@ -266,16 +280,19 @@ all: push, push!
 ross: we're here!
 carol: (irked) where have you been?
 ross: long story, honey.
-dr. franzblau: all right, carol, i need you to keep pushing. i need—(reaches for an instrument, rachel's hand is on it) excuse me, could i have this?
+dr.
+franzblau: all right, carol, i need you to keep pushing. i need—(reaches for an instrument, rachel's hand is on it) excuse me, could i have this?
 nurse: all right, all right, there's a few too many people in this room, and there's about to be one more, so anybody who's not an ex-husband or a lesbian life partner, out you go!
 all: good luck!
 (everyone heads for the door.)
 chandler: (to nurse) let me ask you, do you have to be carol's lesbian life partner?
 nurse: out!
-dr. franzblau: all right, he's crowning. here he comes.
+dr.
+franzblau: all right, he's crowning. here he comes.
 ross: let me see, i gotta see, i gotta see. oh, a head. oh, it's, it's huge. carol, how are you doing this?
 carol: (straining) not.... helping!
-dr. franzblau: you're doing great, you're doing fine.
+dr.
+franzblau: you're doing great, you're doing fine.
 ross: (puts his head near the baby) hello! (to dr. franzblau) oh, sorry.
 susan: what do you see? what do you see?
 ross: we got a head, we got shoulders, we got arms, we got, oh, look at the little fingers, oh, and a chest, and a stomach. it's a boy, definitely a boy! all right! ok, legs, knees, and feet. oh, oh. he's here. he's a person.
@@ -306,8 +323,7 @@ chandler: i know, i still am one of these.
 monica: ross, can i?
 (monica holds ben.)
 ross: the head, the head. you gotta...
-monica: (getting choked up) hi, ben. hi. i'm your aunt monica. yes i am. i'm your aunt monica. i...i will always have gum.
-closing credits
+monica: (getting choked up) hi, ben. hi. i'm your aunt monica. yes i am. i'm your aunt monica. i...i will always have gum.r
 [scene: the hospital, the camera is placed as though it were ben's eyes.]
 ross: ben, i want you to know that there may be some times when i may not be around, like this. (walks out of the picture) but i'll still always come back, like this. (returns) and sometimes i may be away longer, like this. (walks away) but i'll still always come back, like this. (returns)
 (chandler comes into the picture.)
@@ -325,4 +341,5 @@ all: yeah.
 ross: all right, i'll see you guys later.
 (they all leave but ross, but they all come back a few seconds later. they make faces at the baby.)
 phoebe: oh, look, he's closing his eyes again.
-(the screen fades to black.)<EPISODE_END>
+(the screen fades to black.)r
+<EPISODE_END>

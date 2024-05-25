@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the ride along
+<EPISODE_START>
+the one with the ride along
 [scene: central perk, chandler, rachel, joey, and monica are sitting on the couch as ross is up getting some coffee.]
 monica: okay, guys, listen, don't forget that tomorrow is the day that emily gets married again, so whatever we do, just try to really keep ross's mind off of it.
 joey: oh, yeah, good idea.
@@ -26,9 +27,9 @@ chandler: yeah.
 gary: well, it's kinda dangerous.
 chandler: well, i like danger.
 gary: okay, you guys free tonight?
-joey and ross: yeah!!
-chandler: tonight? you-you didn't say it was going to be at nighttime.
-opening credits
+joey and
+ross: yeah!!
+chandler: tonight? you-you didn't say it was going to be at nighttime.r
 [scene: monica and rachel's, monica is kneeling at the coffee table and has a bunch of pictures laid out in front of her as rachel enters.]
 rachel: hey!
 monica: hey! oh, i'm so glad you're home, i thought tonight we could finally organize these photos!
@@ -130,7 +131,8 @@ monica: no, look, she's obviously unstable, okay? i mean she's thinking about ru
 rachel: ugh!
 monica: y'know what, this is obviously some kind of twisted joke she's trying to play on him.
 rachel: okay, you are crazy! i'm sorry, but she sounded generally upset! i mean, listen! (she hits a button on the machine.)
-answering machine: your messages have been erased.
+answering
+machine: your messages have been erased.
 rachel: noooooooo!
 [scene: the ride along, they're all waiting outside of the witness's house and still in the car in the same places as before.]
 chandler: okay, y'know, we-we're safe right? i mean nothing bad can go down!
@@ -189,7 +191,8 @@ gary: oh yeah? well maybe you and i should take a walk through a bad neighborhoo
 phoebe: okay!
 gary: all right.
 phoebe: bye!
-ross and joey: bye!
+ross and
+joey: bye!
 (they leave as ross stares in awe at joey.)
 joey: cut it out ross! i hate to have to save your life and kick your ass in the same day!
 [scene: chandler and joey's, chandler is pacing as joey enters.]
@@ -275,8 +278,7 @@ ross: (looking at the coffee table where his money was) hey umm, was-was monica 
 rachel: yeah.
 ross: yeah, i want my money back.
 rachel: (going out the door) yeah, uh you-you probably need that for stamps, right?
-(ross is stunned.)
-ending credits
+(ross is stunned.)r
 [scene: central perk, everyone is there.]
 ross: hey pheebs, has gary ever been shot at for real?
 phoebe: yes. once. yeah, a little. he kinda did it to himself. it's not really a good story.
@@ -287,4 +289,5 @@ ross: i know where joey would be. he would be down in the foxhole protecting all
 chandler: yes, if the foxhole was lined with sandwiches.
 joey: yeah, hero sandwiches. (points at ross who points back.)
 phoebe: well you all know that i'm a pacifist so i'm not interested in war in any way. (gets up) but y'know what? when the revolution comes, i will have to destroy you all. (starts to leave.) (to joey) not you joey.
-(joey gets all happy with himself, while the rest of the gang is less than enthused.)<EPISODE_END>
+(joey gets all happy with himself, while the rest of the gang is less than enthused.)r
+<EPISODE_END>

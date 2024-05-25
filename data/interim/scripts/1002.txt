@@ -1,4 +1,5 @@
-<EPISODE_START>1002 - the one where ross is fine
+<EPISODE_START>
+the one where ross is fine
 [scene: joey and rachel's apartment. the scene starts where we took off in the last episode with ross seeing joey and rachel kissing. rosss tares at them.]
 joey: okay, ross, i realise that you didn't expect to walk in and see that, but.. let me explain, okay?
 rachel: we weren't doing anything!
@@ -13,12 +14,12 @@ rachel: we feel so terrible about this, ross.
 joey: yeah, but it did happen, so...
 (ross looks shocked and says nothing.)
 joey: ross?
-rachel: ross? (to joey) can we just close the door?
-opening credits
+rachel: ross? (to joey) can we just close the door?r
 [scene: joey and rachel's apartment. continued from earlier.]
 rachel: ross, say something. anything.
 ross: so you two are..?
-joey and rachel: yeah.
+joey and
+rachel: yeah.
 ross: and have you .. ed?
 joey: no, no, no!
 rachel: no, no, no!
@@ -285,8 +286,7 @@ ross: no, but i wanna be. hey, i will be. besides, i'm with charlie, right? oh m
 joey: no, no, no, no, that was - that was just for me. are you sure about this?
 ross: yeah, i'm sure.
 joey: and we're okay?
-(ross smiles and holds up his hand for a high-five, but he has forgotten about his burnt hands. he gasps in pain as joey grabs his hand.)
-ending credits
+(ross smiles and holds up his hand for a high-five, but he has forgotten about his burnt hands. he gasps in pain as joey grabs his hand.)r
 [scene: central perk. monica and chandler enter to find phoebe there with the triplets.]
 monica: hey, phoebs
 phoebe: hey.
@@ -296,5 +296,5 @@ monica: what?
 phoebe: still, he had to find out sometime.
 chandler: yeah, but how would you like it if someone told the triplets that you gave birth to them?
 (the triplets stare at him.)
-chandler: i'm gonna go tell emma she was an accident. (runs off.)
-the end<EPISODE_END>
+chandler: i'm gonna go tell emma she was an accident. (runs off.)r
+<EPISODE_END>

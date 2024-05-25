@@ -1,4 +1,5 @@
-<EPISODE_START>the one in massapequa
+<EPISODE_START>
+the one in massapequa
 [scene: central perk, everyone is there.]
 phoebe: oh, ross, mon, is it okay if i bring someone to your parent’s anniversary party?
 monica: yeah.
@@ -16,8 +17,7 @@ chandler: and you wonder why ross is their favorite?
 monica: no! really! any time ross makes a toast everyone cries, and hugs him, and pats him on the back and they all come up to me and say, "god, your brother." know what they’ll say this year? "god, you"
 joey: well i can promise you, at least one person will be crying. (points to himself) i’m an actor, and any actor worth himself can cry on cue. (snaps fingers)
 monica: really you can do that?
-joey: are you kidding me? watch! (makes funny faces trying to cry) well i can’t do it with you guys watching me!
-opening credits
+joey: are you kidding me? watch! (makes funny faces trying to cry) well i can’t do it with you guys watching me!r
 [scene: chandler and monica’s, they’re getting ready to leave for the party.]
 chandler: what are you doing?
 monica: oh i’m working on my toast for the party, or as i like to call it. sob fest 2002. hey check this out. (hands him a picture.)
@@ -52,7 +52,7 @@ parker: rachel, you have life growing inside you. is there anything in this worl
 monica: that’s my old dog. he passed away years ago.
 parker: oh well, at least you were lucky to have him. bow-wow old friend, bow-wow. so where’s the party?
 monica: it’s out on the island. it’s in massapequa.
-parker: maaaassapequa, sounds like a magical place. tell me about massapequa, is it steep in native american history? {transcriber’s note: interestingly alec baldwin was born in massapequa.}
+parker: maaaassapequa, sounds like a magical place. tell me about massapequa, is it steep in native american history? 
 ross: well, there is an arby’s in the shape of a tee-pee.
 monica: okay, i got my note cards. (to chandler) do you got the presents?
 chandler: yeah.
@@ -66,22 +66,29 @@ rachel: yeah, yeah i like him a lot.
 ross: ya wanna hang back and take our own cab?
 rachel: yeah, otherwise i’m not going.
 [scene: the anniversary party, ross and rachel are arriving and see his parents.]
-mr. and mrs. geller: hi
+mr. and mrs.
+geller: hi
 ross: hi! (kisses his mom.) hey mom.
 rachel: this is such a great party! 35 years. very impressive, do you guys have any pearls of wisdom?
-mrs. geller: jack?
-mr. geller: why would you serve food on such a sharp stick? (looking a toothpick)
+mrs.
+geller: jack?
+mr.
+geller: why would you serve food on such a sharp stick? (looking a toothpick)
 ross: that’s a good question, dad. that’s a good question…
 rachel: hmmm….
 woman: (to ross and rachel) congratulations you two!
 rachel: thank you…we’re so excited
 woman: and also, congratulations on your wedding.
 ross: wha—what?
-mrs. geller: can we talk to you for just a y’know… it’s just a little thing. well we think it’s absolutely marvelous that you’re having this baby out of wedlock, some of our friends are less open-minded. which is why we’ve told them all that you’re married.
-ross and rachel: what?!
-mrs. geller: thanks for going along with this.
+mrs.
+geller: can we talk to you for just a y’know… it’s just a little thing. well we think it’s absolutely marvelous that you’re having this baby out of wedlock, some of our friends are less open-minded. which is why we’ve told them all that you’re married.
+ross and
+rachel: what?!
+mrs.
+geller: thanks for going along with this.
 ross: dad so what we have to pretend that we’re married?
-mr. geller: son, i had to shave my ears for tonight. you can do this.
+mr.
+geller: son, i had to shave my ears for tonight. you can do this.
 ross: can you believe that?
 rachel: yeah, if you’re going to do the ears, you might as well take a pass at the nosal area.
 ross: no, us having to lie about being married.
@@ -89,14 +96,19 @@ rachel: no, i know i don’t either, but ya know what, it’s their party, and i
 woman: ross!
 man: rachel!
 ross: hi aunt lisa, uncle dan
-aunt lisa: congratulations on the baby, and on the wedding
-ross and rachel: hmmmm….
-uncle dan: here’s a little something to get you started. (hands them a check)
+aunt
+lisa: congratulations on the baby, and on the wedding
+ross and
+rachel: hmmmm….
+uncle
+dan: here’s a little something to get you started. (hands them a check)
 rachel: oh…
-aunt lisa: so, how’s married life treating you?
+aunt
+lisa: so, how’s married life treating you?
 rachel: (looking at the check) unbelievable!
 ross: we love marriage!
-aunt lisa: great!
+aunt
+lisa: great!
 (the rest of the gang arrives including parker.)
 ross: hey
 phoebe: hey!
@@ -158,12 +170,14 @@ chandler: ya know if you want to, i can just hold them down and you could (punch
 rachel: and my veil was lace, made by blind, belgium nuns.
 woman: blind?
 rachel: well, not at first, but it was very intricate work and they said even though they lost their sight, it was all worth it.
-aunt lisa: i’ll bet you looked beautiful…
+aunt
+lisa: i’ll bet you looked beautiful…
 rachel: well, i don’t know about that, but some said that i looked like a floating angel.
 woman: (to ross) so, how did you propose?
 rachel: oh yeah. that’s a great story.
 ross: well, um, actually, i-i took her to the planetarium. that’s-that’s where we had our first date. um, she walked in and i had the room filled with lilies, her favorite flower…
-aunt lisa: oh that is so sweet!
+aunt
+lisa: oh that is so sweet!
 rachel: shhh! i want to hear the rest!
 ross: then, fred astaire singing the way you look tonight came on the sound system, and the lights came down. and i got down on one knee and written across the dome in the stars were the words "will you marry me?"
 (various oohs and ahhs)
@@ -195,14 +209,20 @@ phoebe: are you kidding? people acting like animals to music. come on!
 monica: okay it’s time for the toast! umm now-now, i know that ross usually gives the toast, but this year i’m going to do it.
 (everyone sighs)
 monica: no, no it’s going to be great. really! mom, dad, when i got married, one of the things that made me sure i could do it was the amazing example the two of you set for me. for that and so many other things i want to say thank you. i know i probably don’t say it enough, but i love you. (pretends to cry hoping her parents will join her.) when i look around this room, i’m-i’m saddened by the thought of those who could not be here with us. nana, my beloved grandmother who would so want to be here, but she can’t because she’s dead. as is our dog chi-chi. i mean look how cute she is. (holds up the picture and pretends to cry again). was. (to an old man by the stage.) do me a favor and pass this to my parents. remember she’s dead. okay, her and nana, gone. wow! hey does anybody remember when debra winger had to say goodbye to her children in terms of endearment? (chandler covers his ears) didn’t see that? no movie fans?! you want to hear something sad? the other day i was watching 60 minutes these orphans in romania, who have been so neglected, they were incapable of love. (waits for people to cry, but doesn’t get any tears.) you people are made of stone! here’s to mom and dad! whatever!
-mrs. geller: thank you monica that was uh, interesting. wasn’t it interesting, jack?
-mr. geller: (looking at the picture) why don’t i remember this dog?
-mrs. geller: ross, why don’t you give us your toast now?
+mrs.
+geller: thank you monica that was uh, interesting. wasn’t it interesting, jack?
+mr.
+geller: (looking at the picture) why don’t i remember this dog?
+mrs.
+geller: ross, why don’t you give us your toast now?
 ross: oh, no, mom, it’s just monica this year.
-mrs. geller: you’re not going to say anything? on our 35th wedding anniversary
+mrs.
+geller: you’re not going to say anything? on our 35th wedding anniversary
 ross: no, of course, um… um, everybody? um, i-i just wanted to say…on behalf of my new bride, rachel (she turns around and smiles), and myself. umm, that if…if in 35 years, we’re half as happy as you guys are, we’ll count ourselves the luckiest people in the world.
-mrs. geller: (crying) oh ross…
-mr. geller: i just wish nana were alive to hear ross’s toast.
+mrs.
+geller: (crying) oh ross…
+mr.
+geller: i just wish nana were alive to hear ross’s toast.
 [scene: phoebe’s apartment, parker and her are entering.]
 parker: my god what a fantastically well lit hallway!
 phoebe: can i get you something to drink? like a water and valium?
@@ -250,11 +270,11 @@ rachel: goodnight
 (they go off to their bedrooms)
 ross: even if the sidecar had a windscreen so your hair wouldn’t get messed up?
 rachel: i will think about it.
-ross: that’s all i’m askin’
-ending credits
+ross: that’s all i’m askin’r
 [scene: central perk, ross and monica are there.]
 monica: okay that’s it. i give up. at mom and dad’s 40th anniversary, you’re the one giving the speech.
 ross: y’know i don’t understand why they didn’t cry. it was a beautiful speech.
 monica: oh, come on.
 ross: hey! all that stuff you said about true love, you were right, i mean, we did learn a lot from mom and dad! and that picture of chi-chi with her mischievous grin. and what you said about nana. ohh, yeah she really would’ve wanted to be there. and you know what? i think she was.
-monica: (starts to cry) oh good god, ross! how the hell do you do it?<EPISODE_END>
+monica: (starts to cry) oh good god, ross! how the hell do you do it?r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one where ross and rachel take a break
+<EPISODE_START>
+the one where ross and rachel take a break
 [scene: monica and rachel's, joey is taking a jar of olives out of the fridge.]
 joey: (to monica) hey, how much will you give me to eat this whole jar of olives?
 monica: i won’t give you anything, but you’ll owe me 2.95.
@@ -29,8 +30,7 @@ chandler: okay listen, just give me anything i can make two of.
 monica: well, if you don’t have anything to copy, why are you going down there?
 joey: yeah, are you just going down there to gawk at that hot girl with the belly button ring again?
 chandler: yeah! you wanna come?
-joey: yeah!
-opening credits
+joey: yeah!r
 [scene: the xerox place, chandler and joey are waiting in line.]
 chandler: come on chloe! finish up with your customer first. come on chloe! come on chloe!!
 issac: (to chandler and joey) can i help you?
@@ -69,7 +69,8 @@ monica: so you had fun, huh?
 phoebe: yeah. except for, y'know when you’re on a date and you’re getting along really great but the guy’s translator keeps getting in the way.
 monica: no.
 ross: (entering) hey.
-phoebe and monica: hey.
+phoebe and
+monica: hey.
 ross: what is ah, rach in her room?
 monica: oh no, she’s still at work, but she told me to tell you to call her.
 ross: oh what?! is she gonna cancel on me again?! how can she do this? doesn’t she know it’s our anniversary?
@@ -285,8 +286,7 @@ rachel: (picks up the phone and calls ross) oh, be home, be home, be home, be ho
 [scene: the philly, ross is dancing with chloe.]
 chloe: still no smile?
 (she kisses him. ross leans back for a second, and then they both kiss, more passionately this time as u2's with or without you plays in the background.)
-to be continued......
-closing credits
+to be continued......r
 [scene: central perk, sergei is teaching phoebe how to sing american pie, by don maclean.]
 (both phoebe and him are singing along and they get to the chorus.)
 sergei: (singing) touchet, touchet, miss americccan pie. (stops to correct phoebe) ameri-ccan.
@@ -294,4 +294,5 @@ phoebe: ameri-can.
 sergei: ameri-ccan.
 phoebe: ameri-can. y'know it’s a very hard language. let’s do it again.
 (they start singing, and phoebe covers her mouth at the american part.)
-sergei: (to the rest of central perk) everybody!! (in his language, and continues.)<EPISODE_END>
+sergei: (to the rest of central perk) everybody!! (in his language, and continues.)r
+<EPISODE_END>

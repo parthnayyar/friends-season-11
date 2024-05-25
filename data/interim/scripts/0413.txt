@@ -1,4 +1,5 @@
-<EPISODE_START>the one with rachel’s crush
+<EPISODE_START>
+the one with rachel’s crush
 [scene: a theatre, chandler and ross are there to watch the premiere of kathy’s play.]
 chandler: okay, she is the star of the play. and she is my girlfriend! i get to have sex with the star of the play!
 ross: people can hear you.
@@ -19,8 +20,7 @@ ross: dude!
 kathy's co-star: is that an expensive blouse?
 kathy: if you want it to be.
 (kathy’s co-star rips her blouse off and buttons go flying into the audience, and one hits ross. chandler’s mouth is on the floor.)
-ross: here’s your girlfriend’s button. (holding the button.)
-opening credits
+ross: here’s your girlfriend’s button. (holding the button.)r
 [scene: chandler and joey's, erm, monica and rachel's, monica is still unpacking after the move, and phoebe is their also.]
 phoebe: oh, hey, mon, do you still have your like old blouses and dresses from high school?
 monica: yeah, i think i have some around here somewhere. why?
@@ -88,7 +88,8 @@ joey: all right pheebs, stick out your plate!
 phoebe: oh. (joey flips the pancake and phoebe catches it and throws it on her plate.)
 [scene: bloomingdale’s, rachel’s new job.]
 rachel: (on the phone) monica, i’m quitting! i just helped an 81 year old woman put on a thong and she didn’t even buy it! (pause) i’m telling you i’m quitting! that’s it! i’m talking to my boss right now! (pause) yes i am! (pause) yes i am! yes i am! yes i am! yes i am! yes i am! okay bye, call me when you get this message. (hangs up as her boss, mr. waltham, walks in.) oh! mr. waltham, i ah really need to talk to you.
-mr. waltham: in a moment, please, i’m in the middle of a task. and you have a customer.
+mr.
+waltham: in a moment, please, i’m in the middle of a task. and you have a customer.
 (it’s a really good-looking man, joshua, that rachel has an instant crush on. well actually it’s tate donovan, so it’s not like she’s really testing her acting skills.)
 rachel: hi!
 joshua: hi, i’m joshua.
@@ -100,7 +101,8 @@ joshua: anyway, she burned all of my clothes. i got away with two things. this s
 rachel: well, at least that’s a great suit.
 joshua: yeah, but it wasn’t much fun dropping it off at the dry cleaners in the skirt. (rachel laughs) so i need everything down to underwear, so if you’re willing, i’m all yours.
 rachel: okay.
-mr. waltham: rachel, you needed to speak to me?
+mr.
+waltham: rachel, you needed to speak to me?
 rachel: no-no, that wasn’t me! (to joshua) well, we should get started. let me show you my underwear. (joshua turns at that) the selection of underwear we carry.
 (he walks out and rachel stares at his butt as he leaves. he makes a wrong turn.)
 rachel: oh-oh, sorry, it’s this way, it’s this way. (motions to the correct way.)
@@ -251,7 +253,8 @@ rachel: i uh, i have two tickets to the knicks game tonight if you’re interest
 joshua: wow! that would be great.
 rachel: really?
 joshua: yeah, that would be fantastic! my-my nephew is crazy about the knicks! this is fantastic, thank you so much rachel. (he takes the tickets and leaves as mr. waltham returns.)
-mr. waltham: good morning.
+mr.
+waltham: good morning.
 joshua: hi!
 (mr. waltham admires joshua’s butt as he leaves.)
 [scene: kathy’s apartment, chandler is knocking on the door.]
@@ -295,10 +298,12 @@ phoebe: how? how is your fault?
 chandler: because, i-i should’ve called! y’know if i had just called her after our big, stupid fight, she never would’ve gone out with nick, and they would’ve ended up in bed together. i threw her at his man nipples!
 rachel: honey, this is not your fault, just because you guys had a fight, it does not justify her sleeping with someone.
 ross: well, if-if she thought they were on a break…
-(they all turn and glare at him.)
-closing credits
+(they all turn and glare at him.)r
 [scene: bloomingdale’s, rachel is sitting at her desk as mr. waltham comes in.]
-mr. waltham: rachel, one of your customers seems to have left his billfold. a joshua bergen.
+mr.
+waltham: rachel, one of your customers seems to have left his billfold. a joshua bergen.
 rachel: really?
-mr. waltham: will you call him?
-rachel: yes! i will! absolutely! (she takes out his license and her license and holds them face to face with each other. she then proceeds to act like dark helmut in spaceballs, and mimic a conversation between the two of them.) hello, rachel. hi, joshua. i left my wallet here on purpose. really? yes, i just wanted to see you again. oh, i’m glad. rachel, i’d like to say something to you. yes? how you doin’?<EPISODE_END>
+mr.
+waltham: will you call him?
+rachel: yes! i will! absolutely! (she takes out his license and her license and holds them face to face with each other. she then proceeds to act like dark helmut in spaceballs, and mimic a conversation between the two of them.) hello, rachel. hi, joshua. i left my wallet here on purpose. really? yes, i just wanted to see you again. oh, i’m glad. rachel, i’d like to say something to you. yes? how you doin’?r
+<EPISODE_END>

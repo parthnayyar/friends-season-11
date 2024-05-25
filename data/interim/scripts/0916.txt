@@ -1,4 +1,5 @@
-<EPISODE_START>916 - the one with the boob job
+<EPISODE_START>
+the one with the boob job
 [scene: chandler and monica's apartment. chandler and monica are looking through some papers.]
 chandler: did you see our bank statement? can this be right?
 monica: i know...god. i haven't seen my savings take a hit like this since i was a kid and they came up with double-stuffed oreos. what happened to all our money?
@@ -12,8 +13,7 @@ chandler: no! we're not borrowing money.
 monica: why not?
 chandler: because we don't do that. we are bings! and if there's one thing my father taught me was... well to always knock before going into the pool house... but the other thing was never borrow money.
 monica: wow! i had no idea you had this much pride.
-chandler: that's right! i do! and i'm your man. and i'm going to get us through this situation even if it means you working twice as hard.
-opening credits
+chandler: that's right! i do! and i'm your man. and i'm going to get us through this situation even if it means you working twice as hard.r
 [scene: phoebe's apartment. mike and phoebe seem to have finished watching a movie on television.]
 mike: i'm gonna go. (he kisses phoebe on the cheek)
 phoebe: why??
@@ -50,7 +50,8 @@ joey: two thousand dollars!? what do you think i am? i soap opera star!?
 monica: yeah...
 joey: that's right i am! (opens drawer and rummages through it. rachel enters)
 rachel: hi you guys!
-joey & monica: hey!
+joey &
+monica: hey!
 joey: oo...what's in the bag?
 rachel: oh er... well you know emma started crawling? i realised that this place, is very unsafe for a baby. so i went to the store and got some stuff to baby-proof the apartment.
 joey: oh...baby-proofing... why is this such a big deal now? y'know, when i was a kid it was like.. "whoops! joey fell down the stairs!" or er.. "whoops! joey electrocuted himself again!" huh!
@@ -67,7 +68,8 @@ rachel: there is a hardware store right down the street?
 [scene: central perk. ross, chandler and monica are sitting on the couch. phoebe and mike enters.]
 phoebe: hey you guys! ok, we've got great news.
 mike: phoebe and i are moving in together.
-monica, chandler, ross: congratulations!/good for you!/great!
+monica, chandler,
+ross: congratulations!/good for you!/great!
 phoebe: i know it's so exciting! you know i've never lived with a guy before.
 monica: well you know it's just like living with a girl. only they don't steal your makeup. unless they're playing "this is what my sister would look like" (looks at chandler)
 chandler: yeah.... she's not so cute.
@@ -218,7 +220,8 @@ rachel: joey! why did you tell chandler that monica was getting a boob job?
 joey: because she is!
 monica: joey, chandler knows i borrowed the money.
 joey: mmmm hmm! for your boob job!
-monica, rachel, chandler: it's over/joe!
+monica, rachel,
+chandler: it's over/joe!
 joey: ok so i'm out four thousand dollars and nobody's boobs are getting any bigger?
 [scene: phoebe's apartment. ross is helping with the packing, phoebe and mike are also there.]
 ross: hey! what do you guys think about this. "ross: the divorce-force".
@@ -262,7 +265,7 @@ mike: ok... so...(they hug) goodbye.
 chandler/joey/rachel/monica: bye bye mike!/cya mike!/bye mike!/bye bye now!
 rachel: i'm so sorry pheebs.
 monica: we're all sorry... (they have a group hug)
-chandler: ah, look on the bright side, i mean you won't have to live with this ugly chair! that was here already huh? i love you. (they hug again)
-ending credits
+chandler: ah, look on the bright side, i mean you won't have to live with this ugly chair! that was here already huh? i love you. (they hug again)r
 [scene: joey's apartment. joey is struggling with the fridge. he finally gets it open and falls on the floor]
-joey: ah hah! i did it! ha ha! alright... (he takes a box out, about to close fridge, then thinks.) better take all i can carry. who knows when i'll be able to get in here again!<EPISODE_END>
+joey: ah hah! i did it! ha ha! alright... (he takes a box out, about to close fridge, then thinks.) better take all i can carry. who knows when i'll be able to get in here again!r
+<EPISODE_END>

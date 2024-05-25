@@ -1,4 +1,5 @@
-<EPISODE_START>the one with chandler's work laugh
+<EPISODE_START>
+the one with chandler's work laugh
 [scene: monica and rachel's, rachel is trying to pry more information about chandler and monica from joey who's sitting on the couch and busy downing a pizza.]
 rachel: come on joey!!!
 joey: rach, i told you everything i knew last night! look, it's not that big of a deal, so monica and chandler are doing it.
@@ -14,8 +15,7 @@ rachel: you don't know anything.
 joey: ohh, i know one thing!
 rachel: what?
 joey: they did it right there on the couch.
-(he points to where she's sitting and she jumps up quickly.)
-opening credits
+(he points to where she's sitting and she jumps up quickly.)r
 [scene: central perk, everyone is there as ross enters.]
 joey: hey ross!
 phoebe: hey!
@@ -153,7 +153,8 @@ rachel: you walked around all night in the city by yourself?
 joey: (snaps his fingers) he hooked up! he hooked up with someone.
 ross: look, i don't have to answer your questions! okay? i'm a big boy, i can do whatever i want!
 joey: he hooked up!! tell us about her!
-[suddenly the door opens and ross's mystery girl enters. i'll give you a hint to who it is: oh….my….gawd!! uh-huh, it's janice.]
+[suddenly the door opens and ross's mystery girl enters. i'll give you a hint to who it
+is: oh….my….gawd!! uh-huh, it's janice.]
 janice: (entering) ross you left you scarf in…(sees everyone.) hey you guys. (does the laugh.)
 (they all turn and with shocked looks on their faces stare at ross. ross is at a loss for words at this moment.)
 commercial break
@@ -286,8 +287,7 @@ janice: okay.
 (joey enters.)
 joey: umm, hi.
 janice: oh hi! well, i guess that's two out of three, joey. (laughs and exits.)
-(joey looks at ross with a horrified look on his face.)
-ending credits
+(joey looks at ross with a horrified look on his face.)r
 [scene: chandler, joey, and ross's, chandler is reading a magazine as ross hands him a beer.]
 ross: dude, we got to talk.
 chandler: okay.
@@ -298,4 +298,5 @@ chandler: (realizes what ross just said and the implications to him) i am mad! b
 ross: okay.
 chandler: i also want you to remember that i let you live here rent free!
 ross: all right.
-chandler: and, i want you to remember that i gave you twenty (counts his money) seven dollars. no strings attached. now, if you can't remember that, i think we should write it down—let's write it down!<EPISODE_END>
+chandler: and, i want you to remember that i gave you twenty (counts his money) seven dollars. no strings attached. now, if you can't remember that, i think we should write it down—let's write it down!r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with joey's big break
+<EPISODE_START>
+the one with joey's big break
 [scene: central perk, everyone but phoebe are there reading. rachel is sitting on the couch flanked by ross and monica. she suddenly stops reading and starts blinking her left eye as if it's bothering her. the problem is that joey is on her left and thinks she's winking at him and winks back. ross is watching this and isn't quite sure of what to make of it.]
 ross: what's going on?
 rachel: well, my eye is a little itchy.
@@ -26,8 +27,7 @@ joey: me too! me too! me too! (yeah, he does the same thing.)
 rachel: just stop it! come on!
 (joey howls in pain and holds his eye.)
 chandler: you okay there man?
-joey: yeah, i got too excited!
-opening credits
+joey: yeah, i got too excited!r
 [scene: monica and rachel's, ross, chandler, monica, and phoebe are eating breakfast.]
 ross: all right, i gotta go. i'm taking ben to the park.
 phoebe: ohh, give him a kiss for me!
@@ -109,42 +109,58 @@ monica: (looks at it more closely) oh that's an eye removal machine.
 rachel: all right, i'm outta here!
 monica: i'm kidding! i'm kidding!
 (rachel heads for the door but is intercepted by the doctor.)
-the doctor: hi rachel!
+the
+doctor: hi rachel!
 rachel: hey!
-the doctor: i'm dr. miller. monica told me you were a little nervous, but don't
+the
+doctor: i'm dr. miller. monica told me you were a little nervous, but don't
 worry everything's gonna be just fine.
 rachel: so were done then!
-dr. miller: almost! but first, we gotta start.
+dr.
+miller: almost! but first, we gotta start.
 rachel: okay.
-dr. miller: this is a glaucoma test.
+dr.
+miller: this is a glaucoma test.
 rachel: uh-huh.
-dr. miller: sit down.
+dr.
+miller: sit down.
 rachel: okay.
-dr. miller: but your chin here. (she does so.) now, you'll feel a small puff of air in each eye.
+dr.
+miller: but your chin here. (she does so.) now, you'll feel a small puff of air in each eye.
 rachel: (jerks back from the tester) what?!
 monica: a small puff of air, now come on!
-dr. miller: here we go.
+dr.
+miller: here we go.
 rachel: all right.
-dr. miller: 1…2…3! (rachel jerks back on 3.)
+dr.
+miller: 1…2…3! (rachel jerks back on 3.)
 rachel: i'm sorry. all right, i'll just stay in here this time. (puts her head back.) okay.
-dr. miller: ready?
+dr.
+miller: ready?
 rachel: uh-huh.
-dr. miller: 1…2… (she flinches on 2 this time.)
+dr.
+miller: 1…2… (she flinches on 2 this time.)
 monica: y'know what, i'm gonna hold her head.
 rachel: okay.
-dr. miller: that's okay.
+dr.
+miller: that's okay.
 monica: okay. (monica backs off.)
 rachel: okay. okay!
-dr. miller: 1…2! (she flinches again.) (gives up.) y'know what? you're young; you probably don't have glaucoma.
+dr.
+miller: 1…2! (she flinches again.) (gives up.) y'know what? you're young; you probably don't have glaucoma.
 rachel: (really excited) great!! it was very, very nice to meet you sir--ow! hey! what are you doing?! are you crazy! (he took out that thing they use to look at people's retinas and looked at rachel's when she was shaking his hand causing her to flinch and scream at him.)
-dr. miller: okay. you've got a small, minor infection in that left eye. i want you to take these drops three times a day and you'll be as good as new.
+dr.
+miller: okay. you've got a small, minor infection in that left eye. i want you to take these drops three times a day and you'll be as good as new.
 rachel: yeah, no, i don't-i don't put things in my eye.
-dr. miller: okay then, i guess we'll see you back here in three months.
+dr.
+miller: okay then, i guess we'll see you back here in three months.
 rachel: great!
-dr. miller: and i'll fit you for a glass eye.
+dr.
+miller: and i'll fit you for a glass eye.
 rachel: okay, just give me the damn drops! (grabs them and storms out.)
 monica: dr. miller? (she covers her right eye and reads from the chart) p e c f d.
-dr. miller: very good monica! you know where they are.
+dr.
+miller: very good monica! you know where they are.
 monica: i sure do! (she runs over to a drawer, opens it, and grabs a lollipop.) (to rachel) and you don't get one!
 [scene: central perk, phoebe, rachel, monica, and joey are there.]
 rachel: y'know, i-i gotta tell ya, those eye drops are a miracle. my eye is a 100% better.
@@ -295,7 +311,7 @@ rachel: oh my god! you really are freakishly strong!
 (monica starts biting on the eyedropper, spraying the fluid all over. but rachel keeps turning her head back and forth and monica keeps missing.)
 rachel: monica! stop it!
 monica: (spitting out the eyedropper) damn! it's empty!
-rachel: wow, y'know if joey and chandler walked in right now, we could make a fortune! (monica is straddling rachel and holding her arms down. in a rather risqu� pose, at least for primetime tv.)
+rachel: wow, y'know if joey and chandler walked in right now, we could make a fortune! (monica is straddling rachel and holding her arms down. in a rather risqu pose, at least for primetime tv.)
 [scene: monica and rachel's, time lapse, phoebe and monica are playing cards as the phone rings.]
 phoebe: ooh that is definitely chandler, joey, or ross. (thinks) or-or rachel!
 monica: (answers the phone) hello? (listens.) (to phoebe) it's joey. (phoebe's proud of herself.) (to joey) i'm so glad you called! chandler told me what happened. y'know he's really upset about it.
@@ -340,9 +356,11 @@ stanley: i don't know. a week? maybe two? the money will turn up! people will al
 joey: no!
 stanley: eh, worth a shot. (gets into his car.) look joey, let me know where you're staying, okay? (the car peels away.)
 (i think one of the grips walk up to joey, mainly because there's a credit for the grip. what the heck is a grip anyway?!)
-the grip: hey pal, are you joey tribbiani?
+the
+grip: hey pal, are you joey tribbiani?
 joey: yeah.
-the grip: these got left for ya. (he hands him a bunch of helium balloons.)
+the
+grip: these got left for ya. (he hands him a bunch of helium balloons.)
 joey: thanks. (the grip walks away.) (reading the card.) congratulations on your big break.
 (the rest of the crew start to drive away leaving joey sad, alone, and holding his congratulatory balloons as the song comes up again. la-la-la. see, i've been through the desert on a horse with no name! it felt good to be out of the rain! in the desert you can't remember your name, 'cause there ain't no one for to give you no pain. la-la-la, la, la, la…)
 [scene: monica and rachel's, the phone is ringing.]
@@ -354,9 +372,9 @@ monica: joey, what's it like on a movie set, huh? do you have a dressing room? d
 joey: uh, well yeah-yeah, i've got all of that going on. yeah, listen uh, i want you to make sure you tell chandler that he couldn't have been more wrong! uh-oh! i gotta go monica, my uh, my sushi's here!
 [cut to joey hanging up the phone in vegas. he's wearing a roman gladiator's uniform and goes over to join a family to pose for a picture. you see, he's apparently taken a job at caesar's palace.]
 joey: (to the family) sorry about that. thanks for waitin'.
-the husband: okay!
-joey: everybody smile! (the picture is taken) okay, thanks a lot! enjoy your stay at caesar's! we hope it's toga-rrific! (the family leaves.) kill me. kill me now.
-ending credits
+the
+husband: okay!
+joey: everybody smile! (the picture is taken) okay, thanks a lot! enjoy your stay at caesar's! we hope it's toga-rrific! (the family leaves.) kill me. kill me now.r
 [scene: monica and rachel's, the gang is surrounding rachel at key positions.]
 ross: hey rach, can you pass me the tv guide?
 rachel: yep!
@@ -365,4 +383,5 @@ monica: go!!
 (phoebe jumps to the floor as ross tackles rachel off of the couch. chandler helps push rachel onto the floor by jumping over the back of the couch. phoebe grabs rachel's head to hold it still and opens rachel's eye as monica jumps onto chandler's back to administer the torture--i mean medicine.)
 rachel: what?!! stop it! stop it! oh my god!
 monica: okay! okay! okay! (she succeeds in getting the eye drops in and everyone climbs off of rachel.) we'll see you in about 3 to 4 hours.
-rachel: oh! (she's trying to recover while still on the floor.)<EPISODE_END>
+rachel: oh! (she's trying to recover while still on the floor.)r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the candy hearts
+<EPISODE_START>
+the one with the candy hearts
 [scene: central perk, ross is eyeing a beautiful woman at the counter, and joey and chandler are egging him on to go talk to her. no pun intended. i mean it.]
 joey: i'm tellin' you ross, she wants you.
 ross: she barely knows me. we just live in the same building.
@@ -17,8 +18,7 @@ ross: i think it's insane.
 chandler: she'll love it. go with the egg, my friend.
 (ross walks over to the woman, egg in hand.)
 joey: think it'll work?
-chandler: no, it's suicide. the man's got an egg.
-opening credits
+chandler: no, it's suicide. the man's got an egg.r
 [scene: central perk, monica, rachel, phoebe, joey, chandler are there. ross is still talking to the beautiful woman.]
 monica: you can not do this.
 rachel: do what, do what?
@@ -148,7 +148,8 @@ phoebe: ok, and i have the, uh receipt for my dinner with nokululu oon ah ah.
 monica: look, here's a picture of scotty jared naked.
 rachel: (looking at picture) hey he's wearing a sweater.
 monica: no.
-rachel and phoebe: eww!
+rachel and
+phoebe: eww!
 rachel: and here we have the last of paulo's grappa.
 monica: hey, rachel, isn't that stuff almost pure...
 (rachel throws the alcohol in the fire. a burst of flames shoots up from it.)
@@ -174,7 +175,8 @@ carol: oh, no no no. i'm fine. i'm fine.
 ross: come on. these people'll scooch down. you guys'll scooch, won't you? let's try scooching! come on. come on. uh, kristen riggs, this is carol willick. carol, kristin. uh, carol teaches sixth grade. and, kristin, kristin...(struggling)...does something that, funnily enough, wasn't even her major!
 [scene: monica and rachel's, firemen are there to handle the bonfire that got out of control.]
 fireman no. 1: what do we got there?
-fireman no. 2: a piece of something: boxer shorts, greeting cards, and what looks like a half-charred picture—wow, that guy's hairier than the chief!
+fireman no. 2: a piece of
+something: boxer shorts, greeting cards, and what looks like a half-charred picture—wow, that guy's hairier than the chief!
 monica: you know, it's a really funny story how this happened.
 fireman no. 3: it's all right. it's all right. you don't have to explain. this isn't the first boyfriend bonfire that we've seen get out of control.
 fireman no. 1: you're our third call tonight.
@@ -212,8 +214,7 @@ carol: you know that thing you put over here with the pin in it? it's time to ta
 ross: that's easy for you to say, you found one already.
 carol: all you need is a woman who likes men and you'll be set.
 (a beautiful woman walks by ross, he stares at her.)
-carol: not her.
-closing credits
+carol: not her.r
 [scene: monica and rachel's, the girls are talking with the firemen.]
 fireman no. 3: we get off around midnight, why don't we pick you up then?
 rachel: so, um, will you bring the truck?
@@ -225,4 +226,5 @@ rachel: oh, they're firemen guys.
 [scene: out in the hall, the firemen are talking.]
 fireman no. 1: you guys tell them you were married?
 fireman no. 2: no way!
-fireman no. 3: are you kidding? my girlfriend doesn't know, i'm not gonna tell them!<EPISODE_END>
+fireman no. 3: are you kidding? my girlfriend doesn't know, i'm not gonna tell them!r
+<EPISODE_END>

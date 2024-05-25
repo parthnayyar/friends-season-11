@@ -1,4 +1,5 @@
-<EPISODE_START>the one with all the kissing
+<EPISODE_START>
+the one with all the kissing
 [scene: chandler and joey's bathroom, chandler and monica are sharing a candlelight bubble bath while drinking champagne and they clink their glasses.]
 monica: you look cute in bubbles.
 chandler: ehh, you're just liquored up.
@@ -20,8 +21,7 @@ chandler: hey joe!
 (monica goes back underwater as joey re-enters.)
 chandler: yeah, can i get a 3-piece, some cole slaw, some beans, and a coke-(yelps in
 pain as monica grabs him underwater)-diet coke.
-(joey gives him a thumbs up and heads for the chicken.)
-opening credits
+(joey gives him a thumbs up and heads for the chicken.)r
 [scene: monica and rachel's, chandler, joey, and monica are eating breakfast.]
 phoebe: (entering) hey!
 chandler: hey, pheebs!
@@ -261,14 +261,14 @@ phoebe: atlantic city, baby! let's roll some bones! hey joey, high-five for roll
 (they high-five and howl, but phoebe suddenly stops and the guys gasp and retreat in shock.)
 joey: uh, pheebs, you're leaking?
 monica: oh my god! you're water broke!
-the guys: ohh!
+the
+guys: ohh!
 phoebe: all right. well, don't worry, i call shotgun! (she starts out the door.)
 all: whoa-whoa-whoa-whoa! wait-wait!
 chandler: pheebs! we have to take you to the hospital now!
 ross: pheebs, pheebs, the babies are coming now.
 rachel: high-five, the babies are coming! (they all high-five.)
-phoebe: wait, wait, remember when my water broke? (they all high-five again.)
-ending credits
+phoebe: wait, wait, remember when my water broke? (they all high-five again.)r
 [scene: the hallway between the apartments, they are taking phoebe to the hospital but chandler and monica hold back.]
 monica: i can't believe phoebe's gonna have her babies!
 chandler: i know, it's beautiful. amazing.
@@ -277,4 +277,5 @@ chandler: y'know what else i can't believe? i had to kiss phoebe and rachel ever
 monica: do you know anything about women?
 chandler: no.
 monica: that's all right.
-chandler: okay. (they kiss again.)<EPISODE_END>
+chandler: okay. (they kiss again.)r
+<EPISODE_END>

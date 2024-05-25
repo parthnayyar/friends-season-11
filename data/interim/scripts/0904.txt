@@ -1,4 +1,5 @@
-<EPISODE_START>904 - the one with the sharks
+<EPISODE_START>
+the one with the sharks
 [scene: ross is in central perk. phoebe comes in.]
 phoebe: oh hey ross oh i'm so glad someone's here could you zip me up?
 ross: sure.
@@ -29,7 +30,7 @@ phoebe: uh huh (terns to ross) how do i look (all her make up has gone everywher
 ross: do you have a compact in your purse?
 phoebe: (goes to cry) no
 ross: you look great.
-(opening credits)
+()
 [scene: monica enters central perk.]
 monica:: hey joey
 joey: hey, this girl won't turn around and i can't tell whether she's hot or not, what do you think?
@@ -93,13 +94,14 @@ ross: well then i didn't need to bother you or the four other mike hanagens i bo
 mike: hey wait wait wait wait wait! is that true what you said phoebe's never had a serious relationship?
 ross: of course she has. if she'd never had a serious relationship i'd go round broadcasting it like some unstoppable moron.
 mike: but you did say it
-ross: yes, yes i did. and i will also say what i'm about to say vis-�-vis the following phoebe has never had a serious relationship since her. super-serious relationship with. vicrum.
+ross: yes, yes i did. and i will also say what i'm about to say vis--vis the following phoebe has never had a serious relationship since her. super-serious relationship with. vicrum.
 mike: vicrum?
 ross: what that's a real name!
 [scene: chandler arrives home from work.]
 chandler: (enters singing) oklahoma where the wind comes sweeping down the plane, stop it! why couldn't they have sent me to texas? 7 o clock maybe i'll hit the gym (sits down) who am i kidding pay-per-view porn.
 -cuts to monica (she's just arrived outside his room she fixes a bent photo hanging on the wall then sprays mint in her mouth and enter)
-chandler: do not disturb do not disturb! monica: (smiles)
+chandler: do not disturb do not disturb!
+monica: (smiles)
 monica:: is everything all right?
 chandler: everything's great, just watching some regular television there, what a pleasant surprise. (she hugs him, and she knows what he was doing so she looks at the tv and sees sharks swimming around thinking chandler was giving himself a treat to sharks.)
 monica:: i'm gonna go freshen up ok
@@ -171,7 +173,8 @@ hayley: i really, really think i would remember sleeping with you
 joey: come on, come on, search your brain all right. it was (thinks) a certain amount of time ago, i was here you were here, we had sex (starts pointing out the places) here, here, here not there. anything?
 hayley: no it's not ringing any bells.
 joey: my god woman! how many people do you have to had been with not to remember any of this?
-hayley's roommate: hey hayley you've really gotta fix that doorknob. joey!
+hayley's
+roommate: hey hayley you've really gotta fix that doorknob. joey!
 joey: ooooooooooh, i slept with you! and you obviously remember me hey! i still got it. (turns back to hayley) so were good. (she just glares at him) i'll let myself out.
 [scene: phoebe is sitting with mike, explaining about vicrum.]
 phoebe: .and i said vicrum you can't just call every time you get lonely you know, you, you gave up that right when you slept with rachel.
@@ -220,4 +223,5 @@ monica:: im very, very drunk right now.
 [scene: phoebe is in central-perk with joey telling him what ross said t her at the beginning.]
 joey: (looks at a girl walk in) see ordinarily i would talk to her, but my confidence is shaken did i sleep with her? did i not sleep with her?
 phoebe: you know maybe this is a wake up call, about your whole dating attitude. your in your thirty's and you've never had a serious relationship and you have never been in a long term relationship, here you go from woman to woman, meaningless experience to meaningless experience never even worrying that it doesn't tern into anything serious.
-joey: your right! i love my life! (he gets up to go and speak to the girl and he turns back and sits down) i actually did sleep with her.<EPISODE_END>
+joey: your right! i love my life! (he gets up to go and speak to the girl and he turns back and sits down) i actually did sleep with her.
+<EPISODE_END>

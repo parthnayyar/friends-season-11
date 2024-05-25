@@ -1,5 +1,5 @@
-<EPISODE_START>friends
-1008 - the one with the late thanksgiving
+<EPISODE_START>
+the one with the late thanksgiving
 monica: hey guys!
 rachel: hi!
 phoebe: hey!
@@ -24,8 +24,7 @@ phoebe: am i? really? am i? well, why don't you cook thanksgiving dinner and pro
 monica: that's my favourite kind! okay, we are doing this!
 chandler: don't let yourself get manipulated this way!
 monica: hey, stay out of this, chandler! this is between me... and me!
-chandler: we are supposed to make these decisions together! did you not watch the doctor phil i taped for you?
-opening credits
+chandler: we are supposed to make these decisions together! did you not watch the doctor phil i taped for you?r
 [scene: joey and rachel's apartment. rachel and monica are in there, and phoebe enters]
 phoebe: hey!
 rachel: hi! happy thanksgiving!
@@ -194,7 +193,8 @@ monica: oh! they're late and they're sloppy!
 (rachel comes out of her apartment}
 rachel: alright, emma is napping... (then to ross) what happened to your shirt?
 ross: i got mugged. and they stole my pocket.
-phoebe: we're just... we're trying to figure out an excuse. hey! ooh! how about this: we can say that monica told us 5 o'clock, not 4 o'clock. that way we're right on time! (others start to agree but she continues) or... or, we can plant pcp in the apartment and call the cops on her.
+phoebe: we're just... we're trying to figure out an excuse. hey! ooh! how about
+this: we can say that monica told us 5 o'clock, not 4 o'clock. that way we're right on time! (others start to agree but she continues) or... or, we can plant pcp in the apartment and call the cops on her.
 ross: (sarcastic) that would be a good way to get rid of all the pcp we have lying around.
 rachel: you know what, we just say that she said it was 5 o'clock. we'll just act casual. we're not late, we're right on time. (when she finishes talking, a note is pushed from under monica's and chandler's door, into the hall. ross picks it up and reads it out loud)
 ross: (reading the note) we know you're out there. (rachel gasps)
@@ -213,7 +213,8 @@ joey: ooh! well played, phoebe buffay, well played.
 rachel: alright, enough, enough, come on. let's just all go in at the same time.
 all: alright, okay. (phoebe reaches for the door, and tries to open it but it's locked)
 phoebe: it's locked.
-ross: wha...? oh sure, now they lock it, but when they're having sex on the couch, its like: "come on in, my butt is surprisingly hairy".
+ross: wha...? oh sure, now they lock it, but when they're having sex on the couch, its
+like: "come on in, my butt is surprisingly hairy".
 rachel: alright, come on... (starts to knock on the door) alright, you guys. we're so sorry we're late. please let us in, so we can have dinner together.
 [cut to monica and chandler]
 monica: no! everything's cold. the turkey's dried out and the... the stuffing is all soggy.
@@ -258,7 +259,8 @@ ross: (staring back, and then breaks off) (to phoebe and rachel) yeah, he can do
 rachel: oh!
 (joey sticks his head through the gap. monica and chandler are now sitting at the dinner table. there is another smaller table full of food standing in front of the front door)
 (monica and chandler do not look amused by joeys head in the door)
-joey: oh! it all looks so beautiful: the turkey, the stuffing...
+joey: oh! it all looks so
+beautiful: the turkey, the stuffing...
 (monica is now smiling)
 chandler: the cranberries...?
 monica: oh! enough! a monkey could have made 'em!
@@ -267,7 +269,8 @@ chandler: he's doing that weird eye contact thing. don't look at him, don't look
 joey: come on you guys, we want you to know we're (his eye widen even more) very very sorry. (monica and chandler are now covering their eyes with their hands) (then to the others in the hall) right guys?
 (ross head appears above joey's, rachel's below joey's and phoebe's at the bottom)
 ross: i feel terrible.
-phoebe and rachel: so, so sorry.
+phoebe and
+rachel: so, so sorry.
 joey: (smiling) now let's not ruin this day. you worked so hard. let's move past this and try to have a nice meal all together, huh?
 chandler: the floating heads do make a good point.
 monica: yeah, they do seem to feel pretty bad.
@@ -346,7 +349,8 @@ phoebe: just a sec., we're kind in the middle of something here.
 joey: ooh! stop putting things down my pants!
 chandler: come on guys, push!
 joey: yeah! come on!
-joey and chandler: push! push! push!
+joey and
+chandler: push! push! push!
 (the chain breaks loose from the wall, and because joey was pushing with all his might, he propells into the kitchen, towards the table with all the food. this table has wheels underneath it, and when joey falls on this table, he rides into the living room, with all the food falling off, until finally joey also falls off... joey gets up quickly, a bit agitated, and acting as nothing happened. he is covered in food stains.)
 chandler: my cranberries!
 joey: (looking at himself) man, i've got food all over me.
@@ -376,5 +380,5 @@ joey: oh, i know how you feel...
 (monica and chandler are looking curiously at joey.)
 rachel: really?
 joey: sure. i went through the exact same thing with alicia mae emory... the waiting, the wandering... then one day... i get that call from toys "r" us... she was in stock!
-chandler: that is the exact same thing.
-the end<EPISODE_END>
+chandler: that is the exact same thing.r
+<EPISODE_END>

@@ -1,4 +1,5 @@
-<EPISODE_START>the one with chandler in a box
+<EPISODE_START>
+the one with chandler in a box
 [scene: chandler and joey's, joey is sitting at the counter reading a magazine as the phone rings.]
 joey: (answering phone) hello.
 chandler: (on phone) hey, it’s me. i know you can’t stand to be in the same room as me, so i just thought i’d try and apologize over the phone. all i… (joey hangs up the phone in disgust.)
@@ -11,8 +12,7 @@ chandler: look i never should have kissed your girlfriend, but i’m… (joey ha
 joey: (answering phone) stop callin’!!
 voice: (on phone) hey! hey! hey! this is 92.3, wxrk, k-rock for our $1,000 daily challenge.
 joey: all right!
-voice: what is the name of your roommate who is very, very sorry and would do anything… (joey realizes it’s chandler and hangs up the phone in anger.)
-opening credits
+voice: what is the name of your roommate who is very, very sorry and would do anything… (joey realizes it’s chandler and hangs up the phone in anger.)r
 [scene: monica and rachel's, everyone but joey and chandler are there getting ready for thanksgiving.]
 chandler: (entering) aww, turkey! aww, giving thanks! aww!
 phoebe: look everyone, it’s the spirit of thanksgiving!
@@ -112,7 +112,8 @@ rachel: ooh, so cute, that i’m thinking about jamming this pen in my eye.
 nurse: dr. burke will see you know.
 monica: oh no-no-no, not dr. burke. dr. burke is out of town. the-the on-call doctor will see me now.
 nurse: dr. richard burke is out of town. dr. timothy burke, his son, will see you now.
-dr. timothy burke: ready?
+dr. timothy
+burke: ready?
 (monica looks at rachel, who gives her the thumbs up.)
 [scene: chandler and joey's, joey is packing as chandler rushes in.]
 chandler: hey! i’m sorry! that—(sees that joey is about to leave) where are you going?
@@ -294,8 +295,7 @@ chandler: man, this is…
 (joey says something unintelligible and they hug.)
 joey: now go! ‘cause you can still catch her! and merry christmas from you’re secret santa! (chandler runs out and closes the door.)
 (after he’s gone.)
-joey: all right, who got chandler? ‘cause i uh, need to trade.
-closing credits
+joey: all right, who got chandler? ‘cause i uh, need to trade.r
 [scene: monica and rachel's balcony, the gang is all there watching chandler.]
 rachel: oh, he sees her!
 monica: oh, he’s catching up to her!
@@ -304,4 +304,5 @@ ross: he’s taking her purse!
 joey: uhh, that’s not them. i’m gonna go call the police.
 phoebe: oh, there they are!
 (they watch them making up and sigh)
-phoebe: all right, get a room.<EPISODE_END>
+phoebe: all right, get a room.r
+<EPISODE_END>

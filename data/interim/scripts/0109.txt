@@ -1,11 +1,11 @@
-<EPISODE_START>the one where underdog gets away
+<EPISODE_START>
+the one where underdog gets away
 [scene: central perk, rachel is confronting her boss, terry.]
 rachel: terry, i, i, i know that i haven't worked here very long, but i was wondering, do you think it would be possible if i got a $100 advance in my salary?
 terry: an advance?
 rachel: it's so that i can spend thanksgiving with my family. see, every year we go skiing in vail, and normally my father pays for my ticket, but i sort of started the whole independence thing, you know, which is actually why i took this job.
 terry: rachel, rachel, sweetheart. you're a terrible, terrible waitress. really, really awful.
-rachel: ok, i, i hear what you're sayin'. i'm with you. um, but i, but i'm trying really hard. and i think i'm doing better. i really do. does anybody need coffee? (everyone in the place raises their hand) oh, look at that.
-opening credits
+rachel: ok, i, i hear what you're sayin'. i'm with you. um, but i, but i'm trying really hard. and i think i'm doing better. i really do. does anybody need coffee? (everyone in the place raises their hand) oh, look at that.r
 [scene: central perk, rachel is approaching a customer.]
 rachel: excuse me, sir. hi, you come in here all time. i was just wondering, do you think there's a possibility that you could give me an advance on my tips?
 guy: huh?
@@ -116,7 +116,8 @@ girl: i just remembered, i have to do something.
 joey: oh. what?
 girl: um, leave.
 joey: wait, wait, wait!
-(joey turns around and sees his face on a poster in the subway. the poster says: what mario isn't telling you...v.d., you never know who might have it. a variety of scenes are shown with the poster displayed all over new york city.)
+(joey turns around and sees his face on a poster in the subway. the poster
+says: what mario isn't telling you...v.d., you never know who might have it. a variety of scenes are shown with the poster displayed all over new york city.)
 [scene: central perk, joey enters, amongst snickers from the gang.]
 joey: so i guess you all saw it.
 rachel: saw what?
@@ -261,8 +262,9 @@ chandler: i'd like to propose a toast. little toast here, ding ding. i know this
 all: that's so sweet.
 ross: and hey, here's to a lousy christmas.
 rachel: and a crappy new year.
-chandler: here, here!
-closing credits
-[scene: the subway, joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. the captions read, as follows:
+chandler: here, here!r
+[scene: the subway, joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. the captions read, as
+follows:
 bladder control problem stop wife beating hemorrhoids? winner of 3 tony awards...
-he's finally happy with that and walks away.]<EPISODE_END>
+he's finally happy with that and walks away.]r
+<EPISODE_END>

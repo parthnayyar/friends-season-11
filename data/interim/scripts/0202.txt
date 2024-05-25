@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the breast milk
+<EPISODE_START>
+the one with the breast milk
 [scene: monica and rachel's, carol and susan are showing off ben to the gang.]
 monica: (entering from her bedroom carrying a present) ok, these were unbelievably expensive, and i know he's gonna grow out of them in like, 20 minutes, but i couldn't resist. (there a little pair of nike shoes.)
 phoebe: oh, look at these! hey, ben. just do it. (ben starts to cry) oh my god, oh, ok, was that too much pressure for him?
@@ -20,8 +21,7 @@ carol: it did at first, but not anymore.
 joey: chandler?
 chandler: so, uh, how often can you do it?
 carol: as much as he needs.
-joey: ok, i got one, i got one. uh, if he blows into one, does the other one get bigger?
-opening credits
+joey: ok, i got one, i got one. uh, if he blows into one, does the other one get bigger?r
 [scene: central perk, the gang is all there.]
 julie: rachel, do you have any muffins left?
 rachel: yeah, i forget which ones.
@@ -53,18 +53,23 @@ annabelle: hey, joey. so did you hear about the new guy?
 joey: who?
 annabelle: nobody knows his name. me and the girls just call him the hombre man.
 (the hombre man enters.)
-hombre man: (to a customer) hombre? (the guy says yes, and gets his sample.)
+hombre
+man: (to a customer) hombre? (the guy says yes, and gets his sample.)
 joey: what's he doin' in my section?
 annabelle: i guess he doesn't know.
 joey: well, he's gonna. i'll see you a little later, ok? (to the hombre man) hey, how ya doin'?
-hombre man: mornin'.
+hombre
+man: mornin'.
 joey: listen, i know you're new, but it's kinda understood that everything from young men's to the escalator is my territory.
-hombre man: your territory, huh?
+hombre
+man: your territory, huh?
 joey: yeah. bijan for men?
 guy: no thanks.
-hombre man: hombre?
+hombre
+man: hombre?
 guy: yeah. all right. (they guy gets his sample and leaves.)
-hombre man: (to joey) you were saying?
+hombre
+man: (to joey) you were saying?
 [scene: central perk, phoebe is there as monica enters.]
 monica: phoebe, listen. you were with me, and we were shopping all day.
 phoebe: what?
@@ -83,7 +88,8 @@ phoebe: (monica is yanking on her bra strap) bras! we bought bras! we bought bra
 [scene: the department store, joey is trying to sell some cologne.]
 joey: (to a guy) bijan for men? (to a guy) bijan for men? (to a woman) bijan for... (sees it's a woman and stops.) (to annabelle who walks up.) hey, annabelle, uh, listen, i was wondering if maybe after work you and i could go maybe grab a cup of coffee.
 annabelle: oh, actually i sorta have plans.
-hombre man: (entering) ready, annabelle?
+hombre
+man: (entering) ready, annabelle?
 annabelle: you bet. (to joey) maybe some other time?
 joey: (to a co-worker) hey, it's not the first time i lost a girl to a cowboy spraying cologne. (a customer walks by.) bijan for men? (the customer ignores him, and joey starts to chase him) bijan for men?!
 [scene: monica and rachel's, carol is dropping ben off for ross to watch.]
@@ -143,7 +149,8 @@ commercial break
 [scene: monica and rachel's, ben is playing in his crib while chandler and ross are leaning against the rim and are completely asleep.]
 monica: (on the phone) hi, who's this? (listens) hi, joanne. is rachel working? it's monica. (listens) yes, i know i did a horrible thing. (listens) joanne, it's not as simple as all that, ok? (listens) no, i don't care what steve thinks. (listens) hi, steve.
 (there's a knock on the door which is answered by phoebe.)
-carol and susan: hey! (this wakes chandler and ross up)
+carol and
+susan: hey! (this wakes chandler and ross up)
 carol: how did we do?
 phoebe: oh, i tasted ben's milk, and ross freaked out.
 ross: i did not freak out.
@@ -194,14 +201,19 @@ monica: (crying) i'd do anything for you. (they hug again.)
 phoebe: wait, wait, wait, wait! (runs over and joins in on the hug again.)
 [scene: the department store, joey and the hombre man are facing off in joey's section.]
 joey: mornin'. (the hombre man ignores him) i said, mornin'.
-hombre man: i heard ya.
-store guy: all right, everybody, i'm openin' the doors. you boys ready?
-hombre man: ready.
+hombre
+man: i heard ya.
+store
+guy: all right, everybody, i'm openin' the doors. you boys ready?
+hombre
+man: ready.
 joey: yeah, i'm ready.
 (an old west style showdown starts with joey and the hombre man staring each other down as the store guy slowly lets in the first customer while joey and the hombre man get ready to draw.  in slow motion they spot the customer, eye each other, draw, and as the customer walks into the middle joey's bottle misfires but the hombre man spays it into the customer's eyes.)
 customer: you idiot, you stupid cowboy, you blinded me, i'm suing!
-store guy: oh my god, todd! what the hell did you do?
-hombre man: i'm sorry. i am such a doofus. i'm so sorry, i'm so sorry.
+store
+guy: oh my god, todd! what the hell did you do?
+hombre
+man: i'm sorry. i am such a doofus. i'm so sorry, i'm so sorry.
 annabelle: (seeing the end result) my god, what happened?
 joey: these new kids, they never last. sooner or later, they all...stop lastin'. listen, uh, what do you say i buy you that cup of coffee now?
 annabelle: sure.
@@ -220,7 +232,7 @@ rachel: yeah, that'd be great. i'd love it.
 julie: i'd love it too. shoot, i gotta go. so, i'll talk to you later.
 rachel: all right, julie.
 julie: bye. (gets up.)
-rachel: bye. (after julie exits.) what a manipulative bitch.
-closing credits
+rachel: bye. (after julie exits.) what a manipulative bitch.r
 [scene: monica and rachel's, another showdown is occuring, only this time its between ross, a plate of cookies, and the breast milk.  they've been eyeing each other for a while now, and chandler and joey are getting bored.  he checks his ross and in frustration, shoves his watch in front of ross's eyes as if saying, "hurry it up already!"  finally, ross scratches his head, does that again, itches his nose, scratches his head, grabs the bottle, takes a big swig, and piles several cookies into his mouth.]
-ross: (with a mouthful) that's not bad.<EPISODE_END>
+ross: (with a mouthful) that's not bad.r
+<EPISODE_END>

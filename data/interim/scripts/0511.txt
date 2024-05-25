@@ -1,6 +1,8 @@
-<EPISODE_START>the one with all the resolutions
+<EPISODE_START>
+the one with all the resolutions
 [scene: monica and rachel's, monica and rachel are hosting a new year's party. so the place is crowded and in a shameless promotion for nbc they're watching jay leno's coverage of new year's from time square.]
-jay leno: (on tv to dick clark) is there any entertainment there? what are people
+jay
+leno: (on tv to dick clark) is there any entertainment there? what are people
 doing?
 joey: all right! here we go! 1999! the year of joey!
 chandler: (deadpan, standing next to monica) we're very happy for you.
@@ -39,8 +41,7 @@ ross: (to phoebe) happy new year, pheebs!
 phoebe: you too!
 rachel: (to joey) happy new year, joey!
 joey: so did that do anything for ya?
-(rachel slowly walks away.)
-opening credits
+(rachel slowly walks away.)r
 [scene: monica and rachel's, after the party. everyone has left, except for the gang.]
 ross: y'know what? i'm gonna go out on a limb and say no divorces in '99!
 rachel: but your divorce isn't even final yet.
@@ -72,7 +73,8 @@ rachel: what? they were like this!
 [scene: central perk, ross is talking to a beautiful woman as chandler and joey enter.]
 woman: i'll see you tomorrow.
 ross: okay! (she leaves.) (to chandler and joey.) hey!
-chandler and joey: hey!
+chandler and
+joey: hey!
 ross: i just asked that girl out.
 chandler: nice!
 joey: nice!! yeah! is that part of your resolution, your new thing for today?
@@ -91,7 +93,9 @@ ross: all right, see you later.
 joey: see ya! all right pheebs, i am ready for my first lesson.
 phoebe: okay. (joey tries to take the guitar.) oh no-no-no, you don't touch the guitar! first you learn here, (points to her head.) then you learn here. (points to the guitar.)
 joey: umm, okay.
-phoebe: okay, lesson one: chords. now, i don't know the actual names of the chords but umm, i-i-i made up names for the way my hand looks while i'm doing them. (she starts to show joey the chords. transcribers note: for this one you'll have to use your imagination, 'cause it would take me 50 pages to describe each one. so if you want to see them, you'll have to wait for this episode to come to a tv near you.) (holding up her hand and then reconfiguring her hand with each name.) so then, this is bear claw. okay, umm, turkey leg and old lady. (joey tries to imitate them.)
+phoebe: okay, lesson
+one: chords. now, i don't know the actual names of the chords but umm, i-i-i made up names for the way my hand looks while i'm doing them. (she starts to show joey the chords. transcribers
+note: for this one you'll have to use your imagination, 'cause it would take me 50 pages to describe each one. so if you want to see them, you'll have to wait for this episode to come to a tv near you.) (holding up her hand and then reconfiguring her hand with each name.) so then, this is bear claw. okay, umm, turkey leg and old lady. (joey tries to imitate them.)
 chandler: what an interesting approach to guitar instruction. y'know some might find it amusing, i myself find it regular.
 [scene: monica and rachel's, phoebe is entering with rachel.]
 phoebe: hey everybody, rachel was so good today. she didn't gossip at all.
@@ -129,7 +133,8 @@ monica: no! to take more pictures of all of us together. i mean i really think i
 joey: well, everyone will enjoy my music as well. (does a chord and monica starts taking pictures of him and phoebe. they both start to strike a pose with the excessive amount of pictures that monica takes.)
 [scene: elizabeth hornswoggle's apartment; ross is there on his date with her. they are sitting on the couch watching a movie. ross is obviously hot.]
 ross: (talking to himself) my god! these pants are burning up! (he's still wearing the leather pants.) (she snuggles closer.) oh come on, she wants to snuggle now! what is she trying to kill me? it's like a volcano in here! (out loud.) are you hot?
-elizabeth hornswoggle: no.
+elizabeth
+hornswoggle: no.
 ross: okay, it must just be me then.
 (he shifts on the couch and a ripping sound emanates from his lower regions, the sound reminds one of a brief explosion of gas. in other words, it sounds like he farted. she has a look of horrific wonderment, wondering "did he just fart?")
 ross: that was just the pants on the couch. umm, hey, do you, do you mind if i use your bathroom?
@@ -264,13 +269,14 @@ rachel: and you know!!!
 joey: yeah, i know!!!!
 rachel: chandler and monica?!! oh, this is unbelievable!! how long have you known?
 joey: too long! oh my god, rach, i've been dying to talk to someone about this for so long! listen, listen, we can't say anything about this to anybody, they're so weird about that! listen… (phoebe returns and interrupts them.)
-joey and rachel: hey!
+joey and
+rachel: hey!
 phoebe: hey! it's raining. i don't want to fly in the rain. so…
 (pause.)
 joey: oh, i am going to go for a walk in the rain.
 rachel: ohhh, yeah, me too.
 (they both exit.)
-phoebe: that's weird. (pause.) i bet they're doing it.
-ending credits
+phoebe: that's weird. (pause.) i bet they're doing it.r
 [scene: central perk, phoebe, ross, and monica are there.]
-chandler: (entering) oh good, okay, i can't take it anymore. i can't take it anymore. so you win, okay? here! (hands him the 50 bucks he's about to owe him.) pheebs? flying a jet? better make it a spaceship so that you can get back to your home planet! and ross, phone call for you today, tom jones, he wants his pants back! and hornswoggle? what are you dating a character from fraggile rock?! (he sits down and sighs in relief.)<EPISODE_END>
+chandler: (entering) oh good, okay, i can't take it anymore. i can't take it anymore. so you win, okay? here! (hands him the 50 bucks he's about to owe him.) pheebs? flying a jet? better make it a spaceship so that you can get back to your home planet! and ross, phone call for you today, tom jones, he wants his pants back! and hornswoggle? what are you dating a character from fraggile rock?! (he sits down and sighs in relief.)r
+<EPISODE_END>

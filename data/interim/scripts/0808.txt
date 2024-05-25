@@ -1,4 +1,5 @@
-<EPISODE_START>the one with the stripper
+<EPISODE_START>
+the one with the stripper
 [scene: central perk, joey, monica, and chandler are sitting on the couch and chair as phoebe is getting coffee.]
 rachel: (coming from the bathroom) hey pheebs?
 phoebe: huh?
@@ -29,19 +30,23 @@ joey: this is so unfair! the one thing i wanted to do was throw my best friend a
 chandler: you went home with the waitress.
 joey: oh yeah, that was a pretty good night.
 chandler: i can’t believe you didn’t tell me! you know that the two pillars of marriage are openness and honesty!
-monica: ugh, i knew giving you that book was gonna come back and bite me in the ass!
-opening credits
+monica: ugh, i knew giving you that book was gonna come back and bite me in the ass!r
 [scene: a restaurant, rachel and phoebe are having dinner with dr. green, and everyone is looking at the menu.]
-dr. green: how about i order everyone the moroccan chicken?
+dr.
+green: how about i order everyone the moroccan chicken?
 phoebe: oh, i-i don’t eat meat.
-dr. green: it’s chicken.
+dr.
+green: it’s chicken.
 phoebe: yeah, i don’t eat that either.
-dr. green: i’ll never understand you lesbians. (to rachel) so baby, tell me…what is new with you.
+dr.
+green: i’ll never understand you lesbians. (to rachel) so baby, tell me…what is new with you.
 rachel: well actually umm…
 waiter: (interrupting) your ’74 lafite sir.
-dr. green: ’74?! i ordered the ’75! that’s a magnificent wine! the ’74 is sewage! why would you bring me sewage?! (the waiter’s dumbfounded) is that a hard question? are you an idiot? is that why you’re a waiter?
+dr.
+green: ’74?! i ordered the ’75! that’s a magnificent wine! the ’74 is sewage! why would you bring me sewage?! (the waiter’s dumbfounded) is that a hard question? are you an idiot? is that why you’re a waiter?
 waiter: this is why i told the manager i wouldn’t wait on you tonight! (runs off.)
-dr. green: oh come on! don’t be such a baby! (goes after him)
+dr.
+green: oh come on! don’t be such a baby! (goes after him)
 rachel: (to phoebe) in case you didn’t notice, that is a scary man.
 phoebe: he’s right though, the ’74 is absolute piss.
 rachel: this was such a huge mistake. i can’t tell him phoebe. i can’t, i can’t, i can’t, i can’t…
@@ -49,20 +54,27 @@ phoebe: rachel!
 rachel: no it’s okay, this is what’s gonna happen. i’m gonna wait a couple years and then the baby will tell him.
 phoebe: why, so he can get mad at the baby?
 rachel: hey, that is the…baby’s problem. (dr. green returns.) oh, everything okay with the waiter?
-dr. green: i have no idea, i went to the bathroom. so sweetie, you were starting to tell me what is uh, what is new with you.
+dr.
+green: i have no idea, i went to the bathroom. so sweetie, you were starting to tell me what is uh, what is new with you.
 rachel: well… umm, i got tivo.
-dr. green: what’s tivo?
+dr.
+green: what’s tivo?
 phoebe: it’s slang for pregnant.
 rachel: phoebe!
-dr. green: are you really pregnant?
+dr.
+green: are you really pregnant?
 rachel: well uh, yes and no. except not no. so to sum it up, yeah.
-dr. green: who is the father? oh no! please don’t tell me it’s her! (points at phoebe.)
+dr.
+green: who is the father? oh no! please don’t tell me it’s her! (points at phoebe.)
 rachel: no, it’s ross. it’s ross. you like ross. (he just shakes his head.) oh daddy, i hope you’re okay with all of this. i mean think about it, this is a good thing. you’re gonna—this is your first grandchild! you’re gonna be a poppy!
-dr. green: that’s true.
+dr.
+green: that’s true.
 rachel: yeah.
-dr. green: (laughs) poppy. (to phoebe) oh, i’m gonna be a poppy. (stops laughing) so when is the wedding?
+dr.
+green: (laughs) poppy. (to phoebe) oh, i’m gonna be a poppy. (stops laughing) so when is the wedding?
 rachel: who?
-dr. green: the wedding! there’s going to be a wedding. young lady, don’t you sit there and tell me my first grandchild is going to be a bastard! (rachel pauses) rachel karen green, tell me there is gonna be a wedding!!
+dr.
+green: the wedding! there’s going to be a wedding. young lady, don’t you sit there and tell me my first grandchild is going to be a bastard! (rachel pauses) rachel karen green, tell me there is gonna be a wedding!!
 rachel: february 2nd!
 (dr. green exhales in relief.)
 [scene: central perk, chandler and joey are reading a magazine and ross is chatting with mona.]
@@ -101,24 +113,31 @@ chandler: and joey.
 monica: thank you. all right, now who else do you want to invite?
 chandler: ah, no-no-no just ross. ross and joey is embarrassing enough.
 ross: uh actually, sorry i can’t even make it. i’m seeing mona again tonight.
-chandler: i understand: who would cancel an actual date to go to a fake bachelor party?
+chandler: i
+understand: who would cancel an actual date to go to a fake bachelor party?
 joey: (on cell phone) i’m sorry i gotta cancel tonight baby…
 [scene: the restaurant, dinner has ended and phoebe and rachel are talking. dr. green is not at the table.]
 phoebe: i’m sorry i won’t be able to make it to your imaginary wedding, but i’m really busy that day. yeah, i already have a unicorn baptism and a leprechaun bar mitzvah.
 rachel: i know. i know. i panicked, i panicked. i didn’t want him to start yelling at me like i was some ’74 latour.
 phoebe: it’s lafite. the ’74 latour is actually drinking quite nicely.
 rachel: all right here he comes. i’m gonna do this, i’m gonna tell him, i’m gonna be strong.
-dr. green: i just called a friend of mine.
+dr.
+green: i just called a friend of mine.
 rachel: yeah?
-dr. green: i think i may be able to book the plaza on short notice.
+dr.
+green: i think i may be able to book the plaza on short notice.
 rachel: really?! the plaza?!! oh daddy!! (hugs him and phoebe glares at her.) right. daddy, i need to talk to you. please, sit down.
-dr. green: what is it sweetie?
+dr.
+green: what is it sweetie?
 rachel: there’s not gonna be a wedding. ross and i are not getting married.
-dr. green: what?!
+dr.
+green: what?!
 rachel: i’m sorry daddy.
-dr. green: i don’t believe this!!
+dr.
+green: i don’t believe this!!
 rachel: oh now daddy, stay calm. please.
-dr. green: stay calm?!! how do you expect me to stay calm?! this is unacceptable rachel! and i wanna know why?!! is it because that punk ross won’t marry you?! that’s it! is that it?!
+dr.
+green: stay calm?!! how do you expect me to stay calm?! this is unacceptable rachel! and i wanna know why?!! is it because that punk ross won’t marry you?! that’s it! is that it?!
 rachel: yes. yes, he says i’m damaged goods.
 [scene: monica and chandler's, chandler’s bachelor party has begun, what there is of it, with only joey (wearing a gold paper top hat) and chandler (wearing what appears to be a burger king paper crown) enjoying a nice product placement of budweisers on ice.]
 joey: so you uh, nervous about getting married?
@@ -152,24 +171,30 @@ ross: so much more.
 (they start making out and she kicks the eighteenth century indian artifact from calcutta off of his apothecary table from the days of yore and the magical city of white plains.)
 mona: oh my god! oh my god! i’m so sorry!
 ross: aw forget it, it’s from pier one. (there’s an angry knock on the door.) sorry. (goes and opens the door to an irate dr. green.)
-dr. green: you think you can knock up my daughter and then not marry her?! i’m gonna kill you!!
+dr.
+green: you think you can knock up my daughter and then not marry her?! i’m gonna kill you!!
 ross: y’know this is actually not a great time for me.
 commercial break
 [scene: ross's apartment, continued from earlier.]
-dr. green: so? come on! explain yourself geller! first you get my rachel pregnant!
+dr.
+green: so? come on! explain yourself geller! first you get my rachel pregnant!
 mona: you got rachel pregnant?!
 ross: who did?!
-dr. green: you did!
+dr.
+green: you did!
 ross: yes. yes, yes i did. (to mona) but-but it was, it was just a one night thing. it meant nothing.
-dr. green: oh? really? that’s what my daughter means to you? nothing?
+dr.
+green: oh? really? that’s what my daughter means to you? nothing?
 ross: no! no sir umm, she means a lot to me. i mean, i care—i-i love rachel.
 mona: what?!
 ross: (to mona) oh but not that way. i mean…i mean i’m not in love with her. i love her like a, like a friend.
-dr. green: oh really? that’s how treat a friend? you get her in trouble and then refuse to marry her?
+dr.
+green: oh really? that’s how treat a friend? you get her in trouble and then refuse to marry her?
 ross: (to dr. green) hey! i offered to marry her!
 mona: wh…
 ross: (to mona) but i didn’t want to.
-dr. green: well why not? so you can spend your time with this tramp?!
+dr.
+green: well why not? so you can spend your time with this tramp?!
 mona: tramp?!
 ross: i’m sorry. dr. green, mona. mona, dr. green.
 [scene: monica and chandler's, chandler and joey are discussing what to do about the now naked hooker in the guestroom.]
@@ -185,7 +210,8 @@ chandler: oh actually, i’d rather you…yeah, go ahead. we’re gonna have to 
 [scene: ross's apartment, continued from earlier.]
 mona: how could you have kept all of this from me?
 ross: i was going to tell you, but…
-dr. green: but what?! you figured you’d get what you wanted and then dump her like you dumped rachel!
+dr.
+green: but what?! you figured you’d get what you wanted and then dump her like you dumped rachel!
 ross: hey! i did not dump rachel! (to mona) nor are we still together. (the phone rings and ross goes to answer it, only he’s trapped behind the apothecary table by dr. green.) can i just… (dr. green glares at him.) why don’t we just let the machine get that?
 joey: (on machine) hey ross. it’s joey. there’s a hooker over here and we thought maybe you’d know something about it.
 ross: no! no! no! no! no! i-i-i-i—i need to, i need to lie down.
@@ -232,7 +258,8 @@ monica: (entering quickly) she’s a hooker! she’s a hooker! she’s a… (sto
 [scene: joey and rachel's, rachel and phoebe are at the counter as ross enters.]
 ross: so your dad dropped by. he’s a pleasant man!
 rachel: (quietly) oh no…
-phoebe: i’d better go. (she goes and sits down in the la-z-boy e-cliner 3000, the chair that sit magazine called chair of the year, and they both look at her.) just over here: i don’t want to miss the fight.
+phoebe: i’d better go. (she goes and sits down in the la-z-boy e-cliner 3000, the chair that sit magazine called chair of the year, and they both look at her.) just over
+here: i don’t want to miss the fight.
 rachel: ross i’m so sorry. okay. i-i will promise i will straighten this out with him tomorrow in person, or via e-mail.
 ross: i don’t care about your dad! i care about mona! she was there and now she’s totally freaked out!
 rachel: oh okay, i’ll fix that to. what’s her e-mail address?
@@ -274,13 +301,15 @@ chandler: (puts on his crown) carry on.
 (she does so by taking off her jacket seductively, only she has trouble getting one hand out and slams the jacket on the chair angrily to remove it.)
 monica: ooh, these tennis shoes are so tight. i think i’ll take them off. (goes to do so.)
 chandler: could you not narrate?
-monica: gotcha sailor. (kicks one of her shoes off and it lands in the kitchen knocking something down, but she continues to strip.)
-closing credits
+monica: gotcha sailor. (kicks one of her shoes off and it lands in the kitchen knocking something down, but she continues to strip.)r
 [scene: joey and rachel's, rachel is being yelled at by her dad over the phone, and he’s been going on for so long rachel is holding the phone away from her ear and reading a book.]
-dr. green: (on phone) …just because you’re not in love with the guy you can’t…
+dr.
+green: (on phone) …just because you’re not in love with the guy you can’t…
 phoebe: (entering, quietly) wow, you told your dad the truth.
 rachel: about an hour ago.
 phoebe: wanna go see a movie?
 rachel: yes! (she gets up and sets the phone on the counter without hanging it up.) bye daddy. (phoebe and her leave.)
-dr. green: (on phone, not hearing her) …there’s gonna be a wedding! (joey enters from his room and goes to get a beer from the fridge.) that’s unacceptable rachel! what the hell does love have to do with it anyway?! there are more important things in a marriage other than love! (joey hears something and looks around for the source.) …constantly thinking about things! you have to think about the consequences of your decision. (joey finds that the sound is coming from the phone and puts it to his ear.)
-joey: (on phone) hey! i do too think about the consequences of my decisions! (listens) what gives you the right to… (listens) go to hell! (hangs up the phone and opens the fridge.) stupid guy on my phone.<EPISODE_END>
+dr.
+green: (on phone, not hearing her) …there’s gonna be a wedding! (joey enters from his room and goes to get a beer from the fridge.) that’s unacceptable rachel! what the hell does love have to do with it anyway?! there are more important things in a marriage other than love! (joey hears something and looks around for the source.) …constantly thinking about things! you have to think about the consequences of your decision. (joey finds that the sound is coming from the phone and puts it to his ear.)
+joey: (on phone) hey! i do too think about the consequences of my decisions! (listens) what gives you the right to… (listens) go to hell! (hangs up the phone and opens the fridge.) stupid guy on my phone.r
+<EPISODE_END>

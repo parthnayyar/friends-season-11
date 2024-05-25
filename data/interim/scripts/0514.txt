@@ -1,4 +1,5 @@
-<EPISODE_START>the one where everyone finds out
+<EPISODE_START>
+the one where everyone finds out
 [scene: monica and rachel's, everyone is eating some chinese food.]
 phoebe: (looking out the window) oh hey, you guys, look! ugly naked guy is putting stuff in boxes!
 (they all run and join her at the window.)
@@ -10,8 +11,7 @@ ross: hey! hey! if he's moving, maybe i should try to get his place!
 all: good idea! yes!
 ross: it would be so cool to live across from you guys!
 joey: hey, yeah! then we could do that telephone thing! y'know, you have a can, we have a can and it's connected by a string!
-chandler: or we can do the actual telephone thing.
-opening credits
+chandler: or we can do the actual telephone thing.r
 [scene: ugly naked guy's apartment, ross, rachel, and phoebe are checking out the place. luckily, ugly naked guy is nowhere to be seen.]
 ross: oh my god! i love this apartment! isn't it perfect?! i can't believe i never realized how great it is!
 rachel: well that is because your eye immediately goes to the big naked man.
@@ -31,7 +31,8 @@ rachel: i know!! i know!! i know!
 phoebe: you know?!!!
 rachel: yes, i know! and joey knows! but ross doesn't know so you have to stop screaming!!
 ross: (entering) what's going on?
-phoebe and rachel: ohhh!!!
+phoebe and
+rachel: ohhh!!!
 rachel: (trying to divert his attention from the window by jumping up and down) hi!! hi!
 ross: what?! what?!
 rachel: nothing! oh god, we're just so excited that you want to get this apartment!
@@ -296,11 +297,13 @@ phoebe: god! (she turns and buttons up.)
 joey: all right! so that's it! it's over! everybody knows!
 monica: well actually, ross doesn't.
 chandler: yes, and we'd appreciate it if no one told him yet.
-(joey suddenly gets very angry.)
-ending credits
+(joey suddenly gets very angry.)r
 [scene: ross's new apartment, he is showing his boss, dr. ledbetter his new place and new outlook on life.]
 ross: a new place for a new ross. i'm gonna have you and all the guys from work over once it's y'know, furnished.
-dr. ledbetter: i must say it's nice to see you back on your feet.
+dr.
+ledbetter: i must say it's nice to see you back on your feet.
 ross: well i am that. and that whole rage thing is definitely behind me.
-dr. ledbetter: i wonder if its time for you to rejoin our team at the museum?
-ross: oh donald that-that would be great. i am totally ready to come back to work. i—what? (he notices something through the window.) no! wh… what are you doing?!! (dr. ledbetter is slowly backing away.) get off my sister!!!!!!!!!!!!!<EPISODE_END>
+dr.
+ledbetter: i wonder if its time for you to rejoin our team at the museum?
+ross: oh donald that-that would be great. i am totally ready to come back to work. i—what? (he notices something through the window.) no! wh… what are you doing?!! (dr. ledbetter is slowly backing away.) get off my sister!!!!!!!!!!!!!r
+<EPISODE_END>
