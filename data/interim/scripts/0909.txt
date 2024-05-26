@@ -1,8 +1,7 @@
 <EPISODE_START>
 the one with rachel's phone number
 [scene: chandler's office in tulsa. his assistant is showing him photographs.]
-jo
-lynn: this kitty is mittens and this one is fitzhugh, and this little guy in the cat condo is jinkies.
+jo lynn: this kitty is mittens and this one is fitzhugh, and this little guy in the cat condo is jinkies.
 chandler: yep. that's a lot of cats jo lynn. single are ya?
 (phone rings. chandler answers using the speaker phone.)
 chandler: chandler bing.
@@ -24,7 +23,6 @@ monica: chandler look, i don't want to be one of those wives who says, "you can'
 chandler: i know. you're right. i want to see you too. i've just got to figure out a way to tell joey, you know? he's really looking forward to this.
 monica: tell him that you haven't seen your wife in a long time. tell him that having a long-distance relationship is really difficult. tell him that what little time we have is precious.
 chandler: yeah, ah, ah ... i'll think of something.
-[ ]
 [scene: ross and rachel's apartment. ross is in the living room covering emma. rachel enters wearing a sexy dress.]
 ross: wow! (pause) wow, you look ... uh ... it's just, ah ... that dress ... uh ...
 rachel: well, i hope the ends of these sentences are good.
@@ -37,8 +35,7 @@ rachel: phoebe's mike?
 ross: yeah.
 rachel: i didn't know you guys hung out.
 ross: we don't. but i thought it would be nice to get to know him. you know, maybe have a little dinner, drinks, conversation.
-rachel: oh that's so
-cute: ross and mike's first date. is that going to be awkward? i mean, what are you guys going to talk about?
+rachel: oh that's so cute: ross and mike's first date. is that going to be awkward? i mean, what are you guys going to talk about?
 ross: i don't know. but, you know, we, we have a lot in common, you know. he plays piano; i played keyboards in college. he's been divorced; i have some experience in that area.
 (rachel nods. there is a knock on the door.)
 rachel: yeah.
@@ -160,18 +157,7 @@ bill: "spuds" is your grandmother?
 rachel: that's my bubby!
 kevin: so, we're on our way to a couple of parties. um... maybe we can get your numbers and give you guys a call if we find something fun.
 phoebe: yeah... i'm sorry. we weren't really looking for anything to happen with you guys. i, i have a boyfriend.
-kevin: all right. it's no big deal.
-bill: so, she has a boyfriend. what is your situation?
-rachel: oh, well, it's complicated. i don't actually have a boyfriend. but um...
-bill: then, can i have your number?
-rachel: (pause) i'm sorry, no.
-bill: okay. (they start to walk away.)
-rachel: oh sure. (she pulls a business card from her purse and writes on it.)
-phoebe: (reading the card.) oh my god, you're giving your real number.
-bill: okay, thanks. i'll give you a call later tonight.
-rachel: great.
-bill: bye
-phoebe: bye. (the guys leave.) wow. so, that's great. you, bill, ross, and emma are going to be so happy together. what were you thinking?
+kevin: all right. it's no big deal. bill: so, she has a boyfriend. what is your situation? rachel: oh, well, it's complicated. i don't actually have a boyfriend. but um... bill: then, can i have your number? rachel: (pause) i'm sorry, no. bill: okay. (they start to walk away.) rachel: oh sure. (she pulls a business card from her purse and writes on it.) phoebe: (reading the card.) oh my god, you're giving your real number. bill: okay, thanks. i'll give you a call later tonight. rachel: great. bill: bye phoebe: bye. (the guys leave.) wow. so, that's great. you, bill, ross, and emma are going to be so happy together. what were you thinking?
 rachel: i don't know. he was cute, and he liked me. it was an impulse.
 phoebe: what about ross? what about your moment? don't you want to talk to ross about it?
 rachel: no. no, because i know exactly how the conversation's gonna go. "hey ross, you know, i think we had a moment before."
@@ -312,8 +298,7 @@ ross: (holds up the message) uh, rach.
 rachel: (still looking at emma) yeah?
 ross: (pauses, then crunches up the note and stuffs it in his pocket.) never mind.
 [end]
-[tag
-scene: central perk. phoebe and mike are on the sofa. ross enters.]
+[tag scene: central perk. phoebe and mike are on the sofa. ross enters.]
 ross: hey you guys. (he sits.)
 mike: hey.
 phoebe: hey. i'll be right back. i've got to go to the bathroom. (she rises and exits.)

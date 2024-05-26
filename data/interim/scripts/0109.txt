@@ -116,8 +116,7 @@ girl: i just remembered, i have to do something.
 joey: oh. what?
 girl: um, leave.
 joey: wait, wait, wait!
-(joey turns around and sees his face on a poster in the subway. the poster
-says: what mario isn't telling you...v.d., you never know who might have it. a variety of scenes are shown with the poster displayed all over new york city.)
+(joey turns around and sees his face on a poster in the subway. the poster says: what mario isn't telling you...v.d., you never know who might have it. a variety of scenes are shown with the poster displayed all over new york city.)
 [scene: central perk, joey enters, amongst snickers from the gang.]
 joey: so i guess you all saw it.
 rachel: saw what?
@@ -263,8 +262,7 @@ all: that's so sweet.
 ross: and hey, here's to a lousy christmas.
 rachel: and a crappy new year.
 chandler: here, here!r
-[scene: the subway, joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. the captions read, as
-follows:
+[scene: the subway, joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. the captions read, as follows:
 bladder control problem stop wife beating hemorrhoids? winner of 3 tony awards...
 he's finally happy with that and walks away.]r
 <EPISODE_END>

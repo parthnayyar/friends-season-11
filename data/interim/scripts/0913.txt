@@ -1,12 +1,9 @@
 <EPISODE_START>
 the one where monica sings
 aired: 30/01/2003
-written
-by: sherry bilsing-graham & ellen plummer
-teleplay
-by: steven rosenhaus
-transcribed
-by: phdb (phdb2000@hotmail.com) and sebastiano (sebapop@libero.it)
+written by: sherry bilsing-graham & ellen plummer
+teleplay by: steven rosenhaus
+transcribed by: phdb (phdb2000@hotmail.com) and sebastiano (sebapop@libero.it)
 [scene: chandler and monica's]
 chandler: hey!
 ross: yeah! yeah! ok! sure! look! can we...can we talk about what
@@ -107,14 +104,11 @@ rachel: or...i could call in sick and not deal with it at all...
 phoebe: wow! five-month maternity leave, you're back for four days, kiss
 a co-worker, call in sick, they are lucky to have you!!
 [scene: beauty salon]
-salon
-girl: hi
+salon girl: hi
 joey: hey. i'm here for my eyebrow appointment.
-salon
-girl: name?
+salon girl: name?
 joey: chandler bing.
-salon
-girl: ok. very good. have a seat right over here mr. bing and sonia
+salon girl: ok. very good. have a seat right over here mr. bing and sonia
 will be right with you.
 joey: ok thanks.(joey touches the hot wax). i touched the
 stuff
@@ -163,11 +157,9 @@ chandler: oh come on! hello! hi! my name is chandler, here's my friend
 ross right here, and we were wondering you know if you're up for it. we only
 need six more people for a human pyramid...swoop!! swoop!!
 ross: hum...so...hum...oh hey i noticed you were reading the
-paper...another flood in europe? heres a
-question: "would you...would you
+paper...another flood in europe? heres a question: "would you...would you
 rather drown or be burnt alive?"
-blonde
-girl: sorry...we were just leaving
+blonde girl: sorry...we were just leaving
 chandler: we still got it!
 [scene: ross']
 rachel: who is it?
@@ -267,8 +259,7 @@ ross: this is great. rachel's gonna keep kissing guys until she finds the
 one she wants and i'm gonna die alone.
 chandler: by drowning or...?!
 michelle: why would he break up with me?
-her
-friend: i don't know sweetie.
+her friend: i don't know sweetie.
 michelle: all i ever wanted was just love him and have him love me back.
 i mean, am i so unlovable?
 chandler: well...
@@ -491,12 +482,9 @@ just touch yourself for anything?
 endoctype html public "-//w3c//dtd html 4.0 transitional//en">
 913 - the one where monica sings
 aired: 30/01/2003
-written
-by: sherry bilsing-graham & ellen plummer
-teleplay
-by: steven rosenhaus
-transcribed
-by: phdb (phdb2000@hotmail.com) and sebastiano (sebapop@libero.it)
+written by: sherry bilsing-graham & ellen plummer
+teleplay by: steven rosenhaus
+transcribed by: phdb (phdb2000@hotmail.com) and sebastiano (sebapop@libero.it)
 [scene: chandler and monica's]
 chandler: hey!
 ross: yeah! yeah! ok! sure! look! can we...can we talk about what
@@ -597,14 +585,11 @@ rachel: or...i could call in sick and not deal with it at all...
 phoebe: wow! five-month maternity leave, you're back for four days, kiss
 a co-worker, call in sick, they are lucky to have you!!
 [scene: beauty salon]
-salon
-girl: hi
+salon girl: hi
 joey: hey. i'm here for my eyebrow appointment.
-salon
-girl: name?
+salon girl: name?
 joey: chandler bing.
-salon
-girl: ok. very good. have a seat right over here mr. bing and sonia
+salon girl: ok. very good. have a seat right over here mr. bing and sonia
 will be right with you.
 joey: ok thanks.(joey touches the hot wax). i touched the
 stuff
@@ -653,11 +638,9 @@ chandler: oh come on! hello! hi! my name is chandler, here's my friend
 ross right here, and we were wondering you know if you're up for it. we only
 need six more people for a human pyramid...swoop!! swoop!!
 ross: hum...so...hum...oh hey i noticed you were reading the
-paper...another flood in europe? heres a
-question: "would you...would you
+paper...another flood in europe? heres a question: "would you...would you
 rather drown or be burnt alive?"
-blonde
-girl: sorry...we were just leaving
+blonde girl: sorry...we were just leaving
 chandler: we still got it!
 [scene: ross']
 rachel: who is it?
@@ -757,8 +740,7 @@ ross: this is great. rachel's gonna keep kissing guys until she finds the
 one she wants and i'm gonna die alone.
 chandler: by drowning or...?!
 michelle: why would he break up with me?
-her
-friend: i don't know sweetie.
+her friend: i don't know sweetie.
 michelle: all i ever wanted was just love him and have him love me back.
 i mean, am i so unlovable?
 chandler: well...

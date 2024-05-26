@@ -52,8 +52,7 @@ monica: it is in the living room where there is also a light! and no one will ki
 chandler: what?! (monica kicks him in the shin.) ow! (he gets out of bed and heads into the living room.)
 [scene: phoebe's apartment, there is a beeping noise coming from the living room and phoebe sleepily goes to investigate.]
 phoebe: (crossing her fingers and closing her eyes) please don’t be a space ship. please don’t be a space ship. (she turns on the light and looks around and finds that it’s the smoke detector that’s beeping.) oh thank god! (she moves a chair over and starts to investigate how to make the beeping turn off, in frustration she yanks the thing off of the wall. she sets it down and heads for bed, just as she gets there it beeps again. she opens the cover and removes the battery, but it still beeps.) how could you be beeping?! i just disconnected you! i took out your battery! how can…
-smoke
-detector: beep!
+smoke detector: beep!
 phoebe: don’t interrupt me!!
 [scene: the roof, ross and joey are banging on the door.]
 ross: rachel!! monica!!
@@ -175,23 +174,17 @@ tag: how did you know they were in my bottom drawer?
 rachel: (pause as she realizes her lame attempt to shift the blame has failed) i am so hot for you right now.
 [scene: phoebe's apartment, there is someone pounding on the door and phoebe sleepily walks over and answers it. as she nears the door, the pounding stops and she can hear the smoke detector’s wail.]
 phoebe: oh my god! how did you get back here?!
-a disembodied
-voice: (yelling through the door) phoebe buffay?!
+a disembodied voice: (yelling through the door) phoebe buffay?!
 phoebe: (scared) fire alarm? (she opens the door to reveal a fireman holding the blanket with the smoke detector.) oh! hi, officer—fireman, can-can i help you?
-the
-fireman: we found your fire alarm in the trash chute.
+the fireman: we found your fire alarm in the trash chute.
 phoebe: that’s not mine.
-the
-fireman: yes it is.
+the fireman: yes it is.
 phoebe: how do you know?
-the
-fireman: the next time you want to dump a fire alarm in a trash chute, don’t wrap it in a blanket that says, "property of phoebe buffay not monica."
+the fireman: the next time you want to dump a fire alarm in a trash chute, don’t wrap it in a blanket that says, "property of phoebe buffay not monica."
 phoebe: okay do you—okay, do you have a search warrant? because the last time i checked this was still america!
-the
-fireman: please reattach this, it’s against the law to disconnect them.
+the fireman: please reattach this, it’s against the law to disconnect them.
 phoebe: fine! (she takes the blanket.) but please god; tell me how to stop them from going off!
-the
-fireman: there’s a reset button under the plastic cover.
+the fireman: there’s a reset button under the plastic cover.
 phoebe: there’s a reset button?! ugh, thank you! thank you! (he exits and she goes to shut it off.) there’s a reset button! my god! why didn’t i see that! (she takes off the plastic cover and looks for the button.) reset button, reset button, where is there a reset button? (finds it.) oh here it is! (picks it up off of the floor.) oh! (she presses it hard, but of course it would help if the button was still attached to the detector. in frustration she presses it so hard it causes pain in her thumb.) ohh, god!
 [scene: the fire escape, joey is now hanging off of the bottom rung of the ladder that won’t move and ross is watching from above.]
 ross: okay, do-do you have a good grip?

@@ -7,75 +7,57 @@ all: no.
 monica: [looking at some kind of glass sculpture thing] wow joey, this is, uhh...
 joey: art.
 monica: art it is.
-ross: [looking at a glass table with a panther shaped base] look, check this out. is it a
-coffee table, is it a panther? there's no need to decide.
-rachel: [holding a pillow made out of 4 inch red fur] hey, nice pillow. so now tell me, is
-this genuine muppet skin?
-phoebe:
-[looking at a water sculpture that looks like a window with rain running down it]
-hey, excellent, excellent water-table thing.
+ross: [looking at a glass table with a panther shaped base] look, check this out. is it a coffee table, is it a panther? there's no need to decide.
+rachel: [holding a pillow made out of 4 inch red fur] hey, nice pillow. so now tell me, is this genuine muppet skin?
+phoebe: [looking at a water sculpture that looks like a window with rain running down it] hey, excellent, excellent water-table thing.
 joey: thanks, yeah. i love this but ya know what, it makes me wanna pee.
 phoebe: yeah, well me too, yeah. i think that's the challenge.
 joey: hey, how come, uhh, chandler didn't come?
 ross: well uh, it's cause he had a thing with, wi-, with the thing.
 joey: right, i go-, i got it.
 phoebe: so why don't ya show us the rest of your casa?
-joey: yeah. uh, oh, oh, the best part, c'mon. [leads them to the bathroom, gestures
-towards toilet, everyone stares, uncomprehending] heh?
+joey: yeah. uh, oh, oh, the best part, c'mon. [leads them to the bathroom, gestures towards toilet, everyone stares, uncomprehending] heh?
 rachel: hey, nice toilet.
 joey: no no no, behind it.
 ross: wha-, you have a phone in here?
 joey: that's right, i have a phone in here.
 monica: joey, promise me something.
 joey: yeah.
-monica: never call me from that phone.
-opening titles
-[scene: central perk. monica, chandler, and ross are seated. rachel is walking over
-with coffee and a piece of pie.]
-[someone bumps into rachel and she drops the pie in a guy's hood that's seated at the
-table. she improvises by using the plate as a saucer for the coffee.]
-rachel: ok, here we go. honey, i'm sorry, they were all out of apple pie, someone just got
-the last piece.
+monica: never call me from that phone. opening titles
+[scene: central perk. monica, chandler, and ross are seated. rachel is walking over with coffee and a piece of pie.]
+[someone bumps into rachel and she drops the pie in a guy's hood that's seated at the table. she improvises by using the plate as a saucer for the coffee.]
+rachel: ok, here we go. honey, i'm sorry, they were all out of apple pie, someone just got the last piece.
 [phoebe enters]
-phoebe: oh my god, oh my god, oh my god, oh my god. you are not gonna believe this. i have
-just been discovered.
+phoebe: oh my god, oh my god, oh my god, oh my god. you are not gonna believe this. i have just been discovered.
 chandler: now wait a minute, i claimed you in the name of france four years ago.
-phoebe: anyway, ok, now promise you won't like, freak out and say how great this is until
-i'm done, ok.
+phoebe: anyway, ok, now promise you won't like, freak out and say how great this is until i'm done, ok.
 all: ok.
-phoebe: ok. i just met this producer of this like, teeny record company, who said that i
-have a very fresh, offbeat sound and she wants to do a demo of smelly cat.
+phoebe: ok. i just met this producer of this like, teeny record company, who said that i have a very fresh, offbeat sound and she wants to do a demo of smelly cat.
 all:
 [congradulating her and celebrating]
 phoebe: i told you not to do that yet. and, she wants to do a video.
 all:
 [celebrating more]
-phoebe: i'm not done yet, ok. god. ok, if that goes well, they may even want to make an
-album.
+phoebe: i'm not done yet, ok. god. ok, if that goes well, they may even want to make an album.
 [everyone is quiet, unsure if she's done or not]
 phoebe: i'm done now.
 all:
 [celebrating]
 [the guy with the pie in his hood get up to leave]
-rachel: oh god. ross, ok, if you care about me at all, you will get the pie out of the
-man's hood.
+rachel: oh god. ross, ok, if you care about me at all, you will get the pie out of the man's hood.
 ross: get the what?
 rachel: pie in the hood, pie in the hood. go.
 [ross goes over behind the guy and grabs the pie out of his hood as he leaves]
 guy: what're you doing?
-ross: i'm sorry, my pie was, was in your hood. now i just have to get the coffee out of
-that guy's pants and i'll be back in the hospital by 7. [swats at an imaginary insect by
-his head, guy leaves promptly]
-[scene: monica and rachel's apartment. monica is outside the bathroom yelling at ross
-who's in the bathroom.]
+ross: i'm sorry, my pie was, was in your hood. now i just have to get the coffee out of that guy's pants and i'll be back in the hospital by 7.
+[swats at an imaginary insect by his head, guy leaves promptly]
+[scene: monica and rachel's apartment. monica is outside the bathroom yelling at ross who's in the bathroom.]
 monica: damnit ross, get your butt out of the bathroom.
 ross: calm down, i'm blow drying.
 [rachel enters with laundry and starts folding]
 monica: blow drying what, you have no hair.
 rachel: what's goin' on?
-monica: your boyfriend has been in there for over an hour. i can't believe it, it's like
-i'm living with him again. he's here when i go to sleep, he's here when i wake up, he's
-here when i want to use the shower, ughh. it's like i'm sixteen all over again .
+monica: your boyfriend has been in there for over an hour. i can't believe it, it's like i'm living with him again. he's here when i go to sleep, he's here when i wake up, he's here when i want to use the shower, ughh. it's like i'm sixteen all over again .
 rachel: well, you're not sixteen, you're both adults now.
 monica: get out you dufus!!
 rachel: or ya know, he's rubber and you're glue.
@@ -85,13 +67,14 @@ ross: [in a childish voice] i hope you cleaned your hair out of the drain.
 monica: shut up.
 ross: [childish voice] shut up.
 monica: cut it out.
-ross: [childish voice] mi-mi-mii.
+ross:
+[childish voice] mi-mi-mii.
 [monica goes in the bathroom]
-rachel: [sarcastically] i've never wanted you more.
+rachel:
+[sarcastically] i've never wanted you more.
 [scene: chandler's apartment. chandler is sitting on the bar wearing huge dog-slippers]
-chandler: so, whaddya say boys, should i call him? [squeezes the ear of one of the
-slippers and it barks] well, ya know what they say. ask your slippers a question... you're
-going crazy.
+chandler: so, whaddya say boys, should i call him?
+[squeezes the ear of one of the slippers and it barks] well, ya know what they say. ask your slippers a question... you're going crazy.
 [joey's apartment, phone rings]
 joey: hello.
 chandler: hey.
@@ -112,52 +95,33 @@ chandler: i still can't believe they promoted her to lieutenant.
 joey: naa, you're just sayin' that 'cause you're in love with yasmine blepe.
 chandler: well, how could anyone not be in love with yasmine blepe?
 joey: hey, hey, they're runnin'
-chandler: see, this is the brilliance of the show. i say always keep them running. all the
-time, running. run. run yasmine, run like the wind.
+chandler: see, this is the brilliance of the show. i say always keep them running. all the time, running. run. run yasmine, run like the wind.
 [scene: central perk. joey is sitting between monica and phoebe.]
 monica: but i thought you wanted to live by yourself.
-joey: i did. i thought it'd be great. i figured i'd have like, time alone with my thoughts
-but, ya know, it turns out i don't have as many thoughts as you'd think.
+joey: i did. i thought it'd be great. i figured i'd have like, time alone with my thoughts but, ya know, it turns out i don't have as many thoughts as you'd think.
 phoebe: joey, why don't you talk to chandler about moving back?
-joey: you really think he'd take me? i mean, we had a pretty good talk last night but,
-when i moved out, i hurt him bad.
+joey: you really think he'd take me? i mean, we had a pretty good talk last night but, when i moved out, i hurt him bad.
 monica: i promise you, he would definitely want you back.
 [scene: chandler's apartment. chandler is sitting between rachel and ross.]
 ross: i'm telling you, there's no way he's moving back.
-chandler: but we had one of the greatest talks we ever had last night. i mean it was, it
-was like when we first started living together.
-ross: look, i know you don't want to hear this right now but, we've seen him in his new
-place, alright. and he's happy, he's, he's decorated.
+chandler: but we had one of the greatest talks we ever had last night. i mean it was, it was like when we first started living together.
+ross: look, i know you don't want to hear this right now but, we've seen him in his new place, alright. and he's happy, he's, he's decorated.
 rachel: look, chandler, he has moved on, ok, you have to too.
 chandler: but...
-ross: no. you're just gonna have to accept the fact that you're just friends now, ok,
-you're not... rommmates anymore.
+ross: no. you're just gonna have to accept the fact that you're just friends now, ok, you're not... rommmates anymore.
 [scene: recording studio. phoebe is getting ready to record smelly cat.]
 producer: ok phoebe, you ready to try one?
-phoebe: ok. [singing] smelly cat, smell-ly cat, what are they feeding you? smelly cat
-[back up singers start singing smelly, smelly, smelly, smelly behind her] oh woah,
-oh my god. i mean like, who was that?
+phoebe: ok. [singing] smelly cat, smell-ly cat, what are they feeding you? smelly cat [back up singers start singing smelly, smelly, smelly, smelly behind her] oh woah, oh my god. i mean like, who was that?
 producer:they're your backup singers... beind you.
-phoebe: oh!! oh i thought they were just watching me. you know, like at, like at an
-aquarium, ya know.
+phoebe: oh!! oh i thought they were just watching me. you know, like at, like at an aquarium, ya know.
 producer: alrighty. from the top.
-phoebe: ok. [singing] smelly cat, smell-ly cat, what are they feeding you? smelly cat
-[back up singers - smelly, smelly, smelly, really bad smelly cat, it's not your fault]
-ok, sorry. i'm just, i'm just not getting that everyone um, gets how smelly this cat
-acually is. i just think that maybe if we could talk about this, 'cause i need to feel
-that you really care about the cat.
-producer: honey, uh we, we can talk about this. it's just that it's costing about a
-hundred dollars a minute to be in here.
+phoebe: ok. [singing] smelly cat, smell-ly cat, what are they feeding you? smelly cat [back up singers - smelly, smelly, smelly, really bad smelly cat, it's not your fault] ok, sorry. i'm just, i'm just not getting that everyone um, gets how smelly this cat acually is. i just think that maybe if we could talk about this, 'cause i need to feel that you really care about the cat.
+producer: honey, uh we, we can talk about this. it's just that it's costing about a hundred dollars a minute to be in here.
 phoebe: oh ok. so, um, the cat stinks but you love it, let's go.
 [scene: monica and chandler's apartment. ross is on the phone.]
-ross: no, there is no way he was a velociraptor. no tony, look at the cranial ridge, ok.
-if dino was a velociraptor, he would have eaten the flintstones. yeah, yeah. [monica comes
-out of her room] oh, were you takin' a nap?
+ross: no, there is no way he was a velociraptor. no tony, look at the cranial ridge, ok. if dino was a velociraptor, he would have eaten the flintstones. yeah, yeah. [monica comes out of her room] oh, were you takin' a nap?
 monica: i was.
-ross: oh i-, oh wait, tony can you hang on? that's the other line.
-[gets the other line]
-hello. oh yeah she's here but uh, can she call you back? ok thanks. [hangs up the other
-line] call joanna. [back on with tony] hi.
+ross: oh i-, oh wait, tony can you hang on? that's the other line. [gets the other line] hello. oh yeah she's here but uh, can she call you back? ok thanks. [hangs up the other line] call joanna. [back on with tony] hi.
 monica: did she leave a number?
 ross: did you see me write one down?
 monica: i don't have her number, butt-munch.
@@ -165,31 +129,23 @@ ross: well, she'll call back, don't be such a baby.
 monica: i'm not a baby, you're the baby.
 ross: look, you wanna get off my back?
 monica: you wanna get out of my face?
-ross: wait hold on tony, hold on. [answers second line] hello. hi, yeah no, she's right
-here. um hold on. [gets first line] hi tony, can i call you back? that's uh, that's my
-sister's boyfriend.
+ross: wait hold on tony, hold on. [answers second line] hello. hi, yeah no, she's right here. um hold on. [gets first line] hi tony, can i call you back? that's uh, that's my sister's boyfriend.
 monica: give me that.
 ross: ok.
 monica: hi sweetie, look before i forget, did i leave my diaphram at your place? hi mom.
 [she starts throwing oranges at ross who's looking pleased with himself]
-[scene: chandler's apartment. chandler is sitting on the bar, bouncing a ball against
-the door. joey walks in right as he throws the ball and catches it.]
+[scene: chandler's apartment. chandler is sitting on the bar, bouncing a ball against the door. joey walks in right as he throws the ball and catches it.]
 joey: hey.
 chandler: so uhh, how's the palace?
-joey: you know it's funny you should mention that 'cause i was thinkin'... what's with the
-boxes?
+joey: you know it's funny you should mention that 'cause i was thinkin'... what's with the boxes?
 chandler: oh, uhh, actually i uh, have some news.
-eddie: hey chan, is that joey guy gonna come by and pick up his moose hat or should i just
-toss it out?
+eddie: hey chan, is that joey guy gonna come by and pick up his moose hat or should i just toss it out?
 chandler: well, uh, why don't you ask him yourself. joey, this is my new roommate eddie.
 eddie: nice to meet ya.
-joey: likewise. uh, i'll take that. [grabs moose hat] it's what i came for. so, this is
-new. where'd you two meet?
-eddie: at the uh, supermarket, in the uh, ethnic food section. i helped him pick out a
-chorizo.
+joey: likewise. uh, i'll take that. [grabs moose hat] it's what i came for. so, this is new. where'd you two meet?
+eddie: at the uh, supermarket, in the uh, ethnic food section. i helped him pick out a chorizo.
 joey: wow.
-chandler: well you know, we got to talking and uh, he said he needed a place and i had a
-spare room.
+chandler: well you know, we got to talking and uh, he said he needed a place and i had a spare room.
 joey: oh, now it's a spare room?
 chandler: well yeah, in that it's not being used and i... have it to spare.
 joey: well i uh, got what i came for. [puts on moose hat] i'll uh, i'll see you guys.
@@ -207,23 +163,19 @@ all: hey.
 phoebe: oh, check it out, oh check it out. it's smelly cat the video.
 all:
 [cheer]
-phoebe: now ok, i haven't seen it yet so, if you don't like it, well, so what, none of you
-ever made a video. [puts the tape in] ok.
-[the video is a very dramatic episode with an obviously dubbed voice for phoebe. everyone
-watches in disbeliefe]
+phoebe: now ok, i haven't seen it yet so, if you don't like it, well, so what, none of you ever made a video.
+[puts the tape in] ok.
+[the video is a very dramatic episode with an obviously dubbed voice for phoebe. everyone watches in disbeliefe]
 phoebe: oh my god.
 ross: i know.
-phoebe: i sound amazing. i, i, i've never heard myself sing before. i mean, except in my
-own head. oh, this is so cool, now i can hear what you hear.
+phoebe: i sound amazing. i, i, i've never heard myself sing before. i mean, except in my own head. oh, this is so cool, now i can hear what you hear.
 rachel: pretty uhm, different huh?
 phoebe: oh, i am sorry but i am incredibly talented.
-[scene: chandler and eddie's apartment. joey stops by. chandler is reading the paper
-and eddie is fixing eggs.]
+[scene: chandler and eddie's apartment. joey stops by. chandler is reading the paper and eddie is fixing eggs.]
 eddie: hi joey, what's goin' on man?
 joey: eddie.
 chandler: morning.
-joey: morning. i just uh, came by to pick up my mail. [looks for the mail on the table by
-the door, it's not there] where's the mail?
+joey: morning. i just uh, came by to pick up my mail. [looks for the mail on the table by the door, it's not there] where's the mail?
 chandler: oh it's uh, over there on the table.
 joey: you don't keep it over here on this table any more?
 chandler: no, eddie likes to keep it over there.
@@ -231,28 +183,21 @@ eddie: alright, here you go my friend. eggs a-la eddie, huh?
 chandler: oh, ooh.
 joey: huh.
 chandler: what?
-joey: no i just uh, thought you liked your eggs with the bread with the hole in the
-middle, a-la me.
+joey: no i just uh, thought you liked your eggs with the bread with the hole in the middle, a-la me.
 chandler: well i do, but uh, eddie makes them this way and, well they're pretty darn good.
 eddie: well you guys, i'm outta here. see ya pals.
 chandler: see ya.
 [eddie leaves]
 joey: so how you two gettin' along?
 chandler: oh, i couldn't be happier.
-joey: great, well, i'm happy for ya.
-[picks up the orange juice carton and it's empty]
-alright that's it. he just comes in here, mr. jonny neweggs, with his, his, his movin' the
-mail and his, his 'see ya pals'. and now there's no juice. there's no juice f or the
-people who need the juice and want the juice. i need the juice.
+joey: great, well, i'm happy for ya. [picks up the orange juice carton and it's empty] alright that's it. he just comes in here, mr. jonny neweggs, with his, his, his movin' the mail and his, his 'see ya pals'. and now there's no juice. there's no juice f or the people who need the juice and want the juice. i need the juice.
 chandler: there's another carton right over there.
 joey: hey, this isn't about juice anymore, alright man.
 chandler: alright, so what's it about?
 joey: eggs. who's eggs do you like better, his or mine, huh?
 chandler: well i like both eggs equally.
-joey: oh come on. nobody likes two different kinds of eggs equally. you like one better
-than the other and i wanna know which.
-chandler: well what's the difference? your eggs aren't here anymore, are they? you took
-your eggs and you left. you really expect me to never find new eggs?
+joey: oh come on. nobody likes two different kinds of eggs equally. you like one better than the other and i wanna know which.
+chandler: well what's the difference? your eggs aren't here anymore, are they? you took your eggs and you left. you really expect me to never find new eggs?
 [scene: monica and rachel's apartment. ross and monica are fighting over the remote.]
 monica: i wanna watch entertainment tonight.
 ross: tough noogies, we're watching predators of the serengetti.
@@ -263,28 +208,21 @@ monica: bite me.
 rachel: oh my god.
 ross: well, monica keeps changin' the channel.
 monica: oh that's great, why don't you tell mommy on me.
-rachel: now i'm mommy in this little play? alright look, i refuse to get sucked into this
-like, weird little geller dimension thing ok. so i'm gonna go and take a nice long hot
-bubble bath because you kids are driving me crazy.
+rachel: now i'm mommy in this little play? alright look, i refuse to get sucked into this like, weird little geller dimension thing ok. so i'm gonna go and take a nice long hot bubble bath because you kids are driving me crazy.
 [goes in the bathroom]
 monica: ok, what're we gonna do about this?
 ross: well, i guess we could tape entertainment tonight.
-monica: not that, this, us. oh my god, ross, you-re, you're, it's jus-, you-, ever sin-
-you been here.
+monica: not that, this, us. oh my god, ross, you-re, you're, it's jus-, you-, ever sin- you been here.
 ross: ow, ow, ok. alright, alright, mon, mon, you've gone ultrasonic again, alright.
 monica: i just can't stand you being here all the time.
-ross: why, why, why can't you stand me being here? i don't, i, we're just, ya know, we're
-just havin' fun.
+ross: why, why, why can't you stand me being here? i don't, i, we're just, ya know, we're just havin' fun.
 monica: fun? fun, you think this is fun?
-ross: yeah, c'mon i mean i though, you know, i thought we're just foolin' around. like
-when, uh, when we were kids.
+ross: yeah, c'mon i mean i though, you know, i thought we're just foolin' around. like when, uh, when we were kids.
 monica: ross, i hated you when we were kids.
 ross: you hated me when we were kids?
-monica: yes. i hated you. i mean i, i, loved you in a 'you're my brother so i have to'
-kind of way, but basically, yeah, i hated your guts.
+monica: yes. i hated you. i mean i, i, loved you in a 'you're my brother so i have to' kind of way, but basically, yeah, i hated your guts.
 ross: why did you hate me?
-monica: because, you were mean to me and you, you teased me and you always, always got
-your way.
+monica: because, you were mean to me and you, you teased me and you always, always got your way.
 ross: and that wasn't fun for you?
 monica: duh-huh!
 ross: i can't believe you hated me.
@@ -303,46 +241,33 @@ ross: ohh... ok.
 [phoebe enters]
 phoebe: hey.
 all: hey.
-phoebe: listen. you are not going to believe this but, that is not me singing on the
-video.
+phoebe: listen. you are not going to believe this but, that is not me singing on the video.
 all: no.
 phoebe: yes.
 rachel: well, how did you find out?
-phoebe: well, ok, the record company sent over this piece of paper for me to sign, saying
-that it's ok for someone else to sing for me. that was my first clue.
+phoebe: well, ok, the record company sent over this piece of paper for me to sign, saying that it's ok for someone else to sing for me. that was my first clue.
 monica: so what're you gonna do?
 phoebe: well, i can't work with people who would do this.
 monica: sure.
 phoebe: i mean this poor woman.
 ross: what woman?
-phoebe: the voice woman. ya know, i mean, she has a great voice but she doesn't have a
-video.
+phoebe: the voice woman. ya know, i mean, she has a great voice but she doesn't have a video.
 rachel: ok, phoebs. but what about you?
-phoebe: well i have a video, you have to pay attention. no this, this voice woman, she's
-so talented but, according to the producer people, they said she doesn't have like the
-right look or something, ya know. i mean, it's like, she's like one of those an imals at
-the pound who like nobody wants 'cause they're not pretty enough or you know. like, like
-some old dog who's just kind of like stinky and. huuuuh, oh my god, she's smelly cat. oh,
-oh that song has so many levels.
+phoebe: well i have a video, you have to pay attention. no this, this voice woman, she's so talented but, according to the producer people, they said she doesn't have like the right look or something, ya know. i mean, it's like, she's like one of those an imals at the pound who like nobody wants 'cause they're not pretty enough or you know. like, like some old dog who's just kind of like stinky and. huuuuh, oh my god, she's smelly cat. oh, oh that song has so many levels.
 [scene: chandler and eddie's apartment.]
 chandler: hey eddie, you uh, wanna play some foosball?
 eddie: no thanks man, i'm not uh, i'm not really into sports.
-chandler: [stares in disbeliefe] yeah o-, ok, alright. [oven timer goes off] doesn't
-matter, time for baywatch.
+chandler: [stares in disbeliefe] yeah o-, ok, alright. [oven timer goes off] doesn't matter, time for baywatch.
 eddie: y-, y-, you like that show?
 chandler: you don't like that show?
-eddie: wha-, n-, no. i mean it's just a bunch of pretty people runnin' around on the
-beach, ya know.
+eddie: wha-, n-, no. i mean it's just a bunch of pretty people runnin' around on the beach, ya know.
 chandler: well that's the brilliance of it. the pretty people... and the running.
 eddie: i tell ya, i-, i'm gonna go read in my room for a little while.
 chandler: oh o-, ok man.
-[joey's place. he's watching baywatch, lauging. he goes to say something to chandler in
-the other chair but no one's there. he goes to call chandler but decides not to.]
+[joey's place. he's watching baywatch, lauging. he goes to say something to chandler in the other chair but no one's there. he goes to call chandler but decides not to.]
 [chandler's. he's playing foosball by himself.]
 [joey's. playing ping pong by himself.]
-[all by myself is playing. chandler is sitting in front of a window while it's
-raining outside. we see joey through a rainy window. the camera zooms out to show it's
-just his tabletop water sculpture.]r
+[all by myself is playing. chandler is sitting in front of a window while it's raining outside. we see joey through a rainy window. the camera zooms out to show it's just his tabletop water sculpture.] 
 [scene: central perk. phoebe is performing smelly cat.]
 phoebe: [singing] smelly cat, smell-ly cat, what are they feeding you? everybody.
 all: smelly cat, smell-ly cat, it's not your fault.

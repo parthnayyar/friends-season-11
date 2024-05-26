@@ -18,17 +18,13 @@ chandler: maureen rosilla.
 ross: not hating yanni is not a real reason.
 (knock)
 monica: hello, mr. heckles.
-mr.
-heckles: you're doing it again.
+mr. heckles: you're doing it again.
 monica: we're not doing anything.
-mr.
-heckles: you're stomping. it's disturbing my birds.
+mr. heckles: you're stomping. it's disturbing my birds.
 rachel: you don't have birds.
-mr.
-heckles: i could have birds.
+mr. heckles: i could have birds.
 monica: ok, mr. heckles, we'll try to keep it down.
-mr.
-heckles: thank you. i'm going to rejoin my dinner party.
+mr. heckles: thank you. i'm going to rejoin my dinner party.
 rachel: all right, bye-bye.
 chandler: ok, janice. janice. you gotta give me janice. that wasn't about being picky.
 ross: we'll give you janice.
@@ -39,13 +35,10 @@ monica: stop with the broom, we're not making noise.
 rachel: we won. we won!
 monica: mr. heckles.
 rachel: how did this happen?
-mr.
-treeger: he musta been sweepin'. they found a broom in his hand.
+mr. treeger: he musta been sweepin'. they found a broom in his hand.
 monica: that's terrible.
-mr.
-treeger: i know. i was sweepin' yesterday. it coulda been me.ross: sure, sweepin'. you never know.
-mr.
-treeger: you never know.
+mr. treeger: i know. i was sweepin' yesterday. it coulda been me.ross: sure, sweepin'. you never know.
+mr. treeger: you never know.
 phoebe: ok, it's very faint, but i can still sense him in the building. go into the light, mr. heckles!
 chandler: ok, phoebe.
 phoebe: i'm sorry, but sometimes they need help. that's fine. go ahead and scoff. you know, there're a lot of things that i don't believe in, but that doesn't mean they're not true.
@@ -63,17 +56,13 @@ ross: you uh, you don't believe in gravity?
 phoebe: well, it's not so much that you know, like i don't believe in it, you know, it's just...i don't know, lately i get the feeling that i'm not so much being pulled down as i am being pushed.
 (knock)
 chandler: uh-oh. it's isaac newton, and he's pissed.
-mr.
-treeger: there she is. and over there, that's the other one. this is mr. buddy boyle, mr. heckles' attorney. he'd like to talk to you.
+mr. treeger: there she is. and over there, that's the other one. this is mr. buddy boyle, mr. heckles' attorney. he'd like to talk to you.
 monica: what can we do for you?
-mr.
-boyle: all right, kids. here's the deal. according to my client's will, he wants to leave all his earthly possessions to "the noisy girls in the apartment above mine".
+mr. boyle: all right, kids. here's the deal. according to my client's will, he wants to leave all his earthly possessions to "the noisy girls in the apartment above mine".
 monica: well, what about his family?
-mr.
-boyle: he didn't have any.
+mr. boyle: he didn't have any.
 rachel: ok, so let's talk money.
-mr.
-boyle: all right, there was none. let's talk signing. you be noisy girl number one, you be noisy girl number two.
+mr. boyle: all right, there was none. let's talk signing. you be noisy girl number one, you be noisy girl number two.
 monica: i can't believe that this whole time we thought he hated us. i mean, isn't it amazing how much you can touch someone's life, without even knowing it?...would you look at this dump? he hated us. this is his final revenge!
 rachel: have you ever seen so much crap?
 chandler: actually, i think this apartment sullies the good name of crap
@@ -210,6 +199,5 @@ joey: oh, yeah.
 ross: you comin'?
 chandler: yeah, jus' second. good-bye mr. heckles. we'll try to keep it down.
 alison: oh, my major was totally useless. i mean, how often do you look in the classifieds and see "philosopher wanted"?
-chandler: sure. (my god, that's a big head! it didn't look this big in the office. maybe it's the lighting. my head must look like a golf ball at work. all right, don't get hung up on it, quick, quick, list five things you like about
-her: nice smile, good dresser...big head, big head, big head!)r
+chandler: sure. (my god, that's a big head! it didn't look this big in the office. maybe it's the lighting. my head must look like a golf ball at work. all right, don't get hung up on it, quick, quick, list five things you like about her: nice smile, good dresser...big head, big head, big head!)r
 <EPISODE_END>

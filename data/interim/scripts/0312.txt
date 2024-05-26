@@ -141,11 +141,9 @@ man: (to rachel) ah, excuse me, are you rachel green?
 rachel: yes.
 man: (being joined by the rest of the barbershop quartet) one, two, three...
 quartet: (singing) congratulations on your first week at your brand new job! it won't be long before your the boss.
-the bass
-barber: omm-pah, omm-pah, omm-pah.
+the bass barber: omm-pah, omm-pah, omm-pah.
 quartet: (singing) and you know who will be there to support... you?! your one and only boyfriend...
-the bass
-barber: it's nice to have a boyfriend.
+the bass barber: it's nice to have a boyfriend.
 quartet: your loyal loving boyfriend ross..... ross!
 commercial break
 [scene: monica and rachel's, ross and rachel are entering the living room from her bedroom.]
@@ -273,8 +271,7 @@ julio: (to him) i am julio.
 (the rest of barbershop quartet enters, and joins him.)
 man: (singing) mister pretensous, (monica stands up in the background) you think there's no one finer, well but your poems are unpublished, and you work in a diner.
 quartet: your no god's gift to women, that's all in your headdddd. you are just a buttmunch.
-bass
-singer: no one likes a buttmunch.
+bass singer: no one likes a buttmunch.
 quartet: and your also bad in bedd-edd-edd!.
 (monica waves at julio.)r
 <EPISODE_END>

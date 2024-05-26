@@ -1,8 +1,6 @@
 <EPISODE_START>
 the one where nana dies twice
-[scene: chandler's office, chandler is on a coffee break.
-shelley enters.)
-shelley: hey gorgeous, how's it going?
+[scene: chandler's office, chandler is on a coffee break. shelley enters.) shelley: hey gorgeous, how's it going?
 chandler: dehydrated japanese noodles under fluorescent lights... does it get better than this?
 shelley: question. you're not dating anybody, are you, because i met somebody who would be perfect for you.
 chandler: ah, y'see, perfect might be a problem. had you said 'co-dependent', or 'self-destructive'...
@@ -40,17 +38,13 @@ rachel: monica, your dad just beeped in, but can you make it quick? talking to r
 monica: hey dad, what's up? (listens) oh god. ross, it's nana.
 [scene: the hospital, mr. and mrs. geller are there, along with aunt lillian. ross and monica enter and everyone says hi and kisses.)
 ross: so, uh, how's she doing?
-aunt
-lillian: the doctor says it's a matter of hours.
+aunt lillian: the doctor says it's a matter of hours.
 monica: how-how are you, mom?
-mrs.
-geller: me? i'm fine, fine. i'm glad you're here. ...what's with your hair?
+mrs. geller: me? i'm fine, fine. i'm glad you're here. ...what's with your hair?
 monica: what?
-mrs.
-geller: what's different?
+mrs. geller: what's different?
 monica: nothing.
-mrs.
-geller: oh, maybe that's it.
+mrs. geller: oh, maybe that's it.
 (monica strides over to ross, who is making coffee, and talks to him aside.)
 monica: she is unbelievable, our mother is...
 ross: okay, relax, relax. we are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover.
@@ -59,8 +53,7 @@ monica: oh god!
 [cut to the hospital, later. everyone is talking about nana.]
 monica: the fuzzy little mints at the bottom of her purse.
 ross: oh! ...yeah, they were gross. oh, you know what i loved? her sweet 'n' los. how she was always stealing them from- from restaurants.
-mr.
-geller: not just restaurants, from our house.
+mr. geller: not just restaurants, from our house.
 (the nurse comes out of nana's room.)
 nurse: mrs. geller?
 (everyone stands up. cut to ross and monica in nana's room.)
@@ -72,20 +65,14 @@ ross: bye, nana.
 (he goes to kiss her but she moves. monica screams. ross shouts and stares in disbelief. monica runs out of the room.)
 monica: ross!
 (ross runs out too.)
-mrs.
-geller: what is going on?!
+mrs. geller: what is going on?!
 ross: y'know how-how the nurse said that-that nana had passed? well, she's not, quite..
-mrs.
-geller: what?
+mrs. geller: what?
 ross: she's not- past, she's present, she's back.
-aunt
-lillian: (reentering) what's going on?
-mr.
-geller: she may have died.
-aunt
-lillian: she may have died?
-mr.
-geller: we're looking into it.
+aunt lillian: (reentering) what's going on?
+mr. geller: she may have died.
+aunt lillian: she may have died?
+mr. geller: we're looking into it.
 (monica returns with the nurse and they go into nana's room.)
 ross: i, uh, i'll go see. (he goes in)
 nurse: this almost never happens!
@@ -113,32 +100,24 @@ joey: now, see, i don't believe any of that. i think once you're dead, you're de
 phoebe: y'know, i dunno who this is, but it's not debbie. (hands back the pencil)
 [scene: nana's house, ross, mrs. geller and aunt lillian are going through clothes.]
 ross: i thought it was gonna be a closed casket.
-mrs.
-geller: well, that doesn't mean she can't look nice!
+mrs. geller: well, that doesn't mean she can't look nice!
 (they open a cupboard which, amongst other things, contains a chest of drawers)
-mrs.
-geller: sweetie, you think you can get in there?
+mrs. geller: sweetie, you think you can get in there?
 ross: (sarcastic) i don't see why not.
 (he tries pushing against the chest of drawers. then he opens one of the drawers and climbs into the closet using that; he falls behind the chest of drawers with a shout.)
 ross: here's my retainer!
 [scene: monica and rachel's, monica is talking to her father.]
-mr.
-geller: i was just thinking. when my time comes-
+mr. geller: i was just thinking. when my time comes-
 monica: dad!
-mr.
-geller: listen to me! when my time comes, i wanna be buried at sea.
+mr. geller: listen to me! when my time comes, i wanna be buried at sea.
 monica: you what?
-mr.
-geller: i wanna be buried at sea, it looks like fun.
+mr. geller: i wanna be buried at sea, it looks like fun.
 monica: define fun.
-mr.
-geller: c'mon, you'll make a day of it! you'll rent a boat, pack a lunch...
+mr. geller: c'mon, you'll make a day of it! you'll rent a boat, pack a lunch...
 monica: ...and then we throw your body in the water... gee, that does sound fun.
-mr.
-geller: everyone thinks they know me. everyone says 'jack geller, so predictable'. maybe after i'm gone, they'll say 'buried at sea! huh!'.
+mr. geller: everyone thinks they know me. everyone says 'jack geller, so predictable'. maybe after i'm gone, they'll say 'buried at sea! huh!'.
 monica: that's probably what they'll say.
-mr.
-geller: i'd like that.
+mr. geller: i'd like that.
 [scene: chandler's office, shelley is drinking coffee; chandler enters.]
 chandler: hey, gorgeous.
 shelley: (sheepish) hey. look, i'm sorry about yesterday, i, um-
@@ -157,33 +136,24 @@ shelley: well, i think brian's a little out of your league.
 chandler: excuse me? you don't think i could get a brian? because i could get a brian. believe you me. ...i'm really not.
 [scene: nana's bedroom, ross is holding a dress out from inside the closet.]
 ross: (holding a dress out from inside the closet) this one?
-aunt
-lillian: no.
+aunt lillian: no.
 ross: i have shown you everything we have. unless you want your mother to spend eternity in a lemon yellow pant-suit, go with the burgundy.
-aunt
-lillian: you know, whatever we pick, she would've told us it's the wrong one.
-mrs.
-geller: you're right. we'll go with the burgundy.
+aunt lillian: you know, whatever we pick, she would've told us it's the wrong one.
+mrs. geller: you're right. we'll go with the burgundy.
 ross: oh! a fine choice. i'm coming out. (starts to climb over the furniture)
-aunt
-lillian: wait! we need shoes!
+aunt lillian: wait! we need shoes!
 (ross falls back inside)
 ross: okay. um, how about these? (holds out a pair)
-mrs.
-geller: that's really a day shoe.
+mrs. geller: that's really a day shoe.
 ross: and where she's going everyone else'll be dressier?
-aunt
-lillian: could we see something in a slimmer heel?
+aunt lillian: could we see something in a slimmer heel?
 ross: (forages around) okay, i have nothing in an evening shoe in the burgundy. i can show you something in a silver that may work.
-aunt
-lillian: no, it really should be burgundy.
-mrs.
-geller: mm. unless we go with a different dress?
+aunt lillian: no, it really should be burgundy.
+mrs. geller: mm. unless we go with a different dress?
 ross: no! nonono, wait a sec. i may have something in the back.
 (he finds a shoebox (out of shot), pulls it down and opens it. it is full of sweet 'n' lo's.)
 ross: oh my god..
-mrs.
-geller: is everything all right, dear?
+mrs. geller: is everything all right, dear?
 ross: yeah, just... just nana stuff.
 (he reaches up higher and knocks down another shoebox lid. sweet 'n' lo's rain down on him)
 commercial break
@@ -203,8 +173,7 @@ chandler: well, don't we look nice all dressed up?...it's stuff like that, isn't
 (they all leave.)
 [scene: the cemetary, after the funeral.]
 monica: it was a really beautiful service.
-mrs.
-geller: it really was. oh, c'mere, sweetheart. (hugs her) y'know, i think it might be time for you to start using night cream.
+mrs. geller: it really was. oh, c'mere, sweetheart. (hugs her) y'know, i think it might be time for you to start using night cream.
 (joey listens to his overcoat for a second and sighs, then notices chandler watching)
 joey: what?
 chandler: nothing, just your overcoat sounds remarkably like brent mussberger.
@@ -225,8 +194,7 @@ ross: what, what is it?
 phoebe: you missed a belt loop.
 ross: oh! no-n-
 phoebe: okay, it's in spasm.
-mrs.
-geller: here, sweetie, here. i took these when i had my golfing accident. (hands ross a bottle of pills. then turns to monica and pats her hair over her ears)
+mrs. geller: here, sweetie, here. i took these when i had my golfing accident. (hands ross a bottle of pills. then turns to monica and pats her hair over her ears)
 (cut to chandler and a woman, andrea, reaching for the same slice of meat)
 chandler: oh, no-
 andrea: sorry- hi, i'm dorothy's daughter.
@@ -247,48 +215,34 @@ ross: no.
 rachel: you!
 ross: oh.. you don't get it! (passes out and slumps across her)
 (cut to joey watching tv in the corner. he makes an extravagant gesture of disappointment.)
-mr.
-geller: whaddya got there?
+mr. geller: whaddya got there?
 joey: (hides the tv, but he still has an earphone) just a, uh... hearing disability.
-mr.
-geller: what's the score?
+mr. geller: what's the score?
 joey: seventeen-fourteen giants... three minutes to go in the third.
-mr.
-geller: beautiful! (turns to watch with him)
+mr. geller: beautiful! (turns to watch with him)
 (time lapse. a large crowd of men are now watching the game)
 rachel: (still trapped under ross) pheebs, could you maybe hand me a cracker?
-mrs.
-geller: (to monica) your grandmother would have hated this.
+mrs. geller: (to monica) your grandmother would have hated this.
 monica: well, sure, what with it being her funeral and all.
-mrs.
-geller: no, i'd be hearing about 'why didn't i get the honey-glazed ham?', i didn't spend enough on flowers, and if i spent more she'd be saying 'why are you wasting your money? i don't need flowers, i'm dead'.
+mrs. geller: no, i'd be hearing about 'why didn't i get the honey-glazed ham?', i didn't spend enough on flowers, and if i spent more she'd be saying 'why are you wasting your money? i don't need flowers, i'm dead'.
 monica: that sounds like nana.
-mrs.
-geller: do you know what it's like to grow up with someone who is critical of every single thing you say?
+mrs. geller: do you know what it's like to grow up with someone who is critical of every single thing you say?
 monica: ...i can imagine.
-mrs.
-geller: i'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.
+mrs. geller: i'm telling you, it's a wonder your mother turned out to be the positive, life-affirming person that she is.
 monica: that is a wonder. so tell me something, mom. if you had to do it all over again, i mean, if she was here right now, would you tell her?
-mrs.
-geller: tell her what?
+mrs. geller: tell her what?
 monica: how she drove you crazy, picking on every little detail, like your hair... for example.
-mrs.
-geller: i'm not sure i know what you're getting at.
+mrs. geller: i'm not sure i know what you're getting at.
 monica: do you think things would have been better if you'd just told her the truth?
-mrs.
-geller: ...no. i think some things are better left unsaid. i think it's nicer when people just get along.
+mrs. geller: ...no. i think some things are better left unsaid. i think it's nicer when people just get along.
 monica: huh.
-mrs.
-geller: more wine, dear?
+mrs. geller: more wine, dear?
 monica: oh, i think so.
-mrs.
-geller: (reaches out to fiddle with monica's hair again, and realises) those earrings look really lovely on you.
+mrs. geller: (reaches out to fiddle with monica's hair again, and realises) those earrings look really lovely on you.
 monica: thank you. they're yours.
-mrs.
-geller: actually they were nana's.
+mrs. geller: actually they were nana's.
 (there is a cry of disappointment from the crowd of men.)
-mr.
-geller: now i'm depressed! ...(to everyone) even more than i was.
+mr. geller: now i'm depressed! ...(to everyone) even more than i was.
 [scene: central perk, the gang are looking at old photos.]
 rachel: hey, who's this little naked guy?
 ross: that little naked guy would be me.

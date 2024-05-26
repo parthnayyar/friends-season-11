@@ -1,11 +1,9 @@
 <EPISODE_START>
 the one with all the haste
 [scene: rachel’s bedroom; rachel is awoken by a man singing in the next apartment.]
-the singing
-man: (singing, duh) morning’s here! sunshine is here! the sky is clear, the morning’s here! the morning’s here!
+the singing man: (singing, duh) morning’s here! sunshine is here! the sky is clear, the morning’s here! the morning’s here!
 rachel: hey!! do you have to do that? it’s saturday!
-the singing
-man: oh come on! morning’s here! (starts singing) morning’s here! the morning is here! sunshine is here!
+the singing man: oh come on! morning’s here! (starts singing) morning’s here! the morning is here! sunshine is here!
 (rachel slams shut her window and storms into the living room, where joey and monica are eating breakfast.)
 rachel: i hate this apartment! i hate the color of these walls! i hate the fact that this place still smells like bird! i hate that singing guy!
 joey: are you kidding? i love that guy! (starts singing) morning’s here! morning is here—
@@ -299,17 +297,13 @@ monica: (to ross) i can’t believe you’re getting married!
 ross: yeah. (they hug again.)
 joey: monica and rachel made out. (giggles like a schoolboy and monica glares at him.)r
 [scene: joey’s bedroom, he is awoken by the singing guy.]
-the singing
-man: (singing) morning’s here! the morning’s here!
+the singing man: (singing) morning’s here! the morning’s here!
 (joey joins him.)
 both: sunshine is here! the sky is clear, the morning’s here!
-the singing
-man: hey! you’re back!
+the singing man: hey! you’re back!
 joey: hey! (singing) get into gear!
-the singing
-man: (singing) breakfast is near!
+the singing man: (singing) breakfast is near!
 both: the dark of night has disappeared!!
-the singing
-man: i’ll see you tomorrow morning!
+the singing man: i’ll see you tomorrow morning!
 joey: (happily) okay!r
 <EPISODE_END>

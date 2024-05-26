@@ -87,29 +87,21 @@ nurse: hi!
 rachel: hi!
 nurse: just so you know, dr. long can’t be here today, she was called to the hospital, so dr. schiff will be seeing you.
 rachel: oh, okay. hey, can i ask you a question? was it me, or-or was the guy who took my blood sample really cute? y’know who i’m talking about, bald haircut, hairy fingers… (stops when she realizes it was her.)
-dr.
-schiff: (entering) hi rachel? i’m dr. schiff. (by the way, he’s an attractive man.)
+dr. schiff: (entering) hi rachel? i’m dr. schiff. (by the way, he’s an attractive man.)
 rachel: yes, you are.
-dr.
-schiff: so, how’s it going?
+dr. schiff: so, how’s it going?
 rachel: oh, really, really good. but enough about me, come on! where-where are you from? what do you do?
-dr.
-schiff: i’m a doctor.
+dr. schiff: i’m a doctor.
 rachel: right! right! i-i actually meant in your spare time, do you cook? do you ski? or do you just hang out with your wife or girlfriend?
-dr.
-schiff: uh, i don’t have a wife or girlfriend, but i do like to ski.
+dr. schiff: uh, i don’t have a wife or girlfriend, but i do like to ski.
 rachel: oh, i love to ski! how amazing is this?!
-dr.
-schiff: so, are you experiencing any discomfort?
+dr. schiff: so, are you experiencing any discomfort?
 rachel: no. i’m very comfortable.
-dr.
-schiff: any painful gas?
+dr. schiff: any painful gas?
 rachel: no! shoot, dr. schiff what kind of question is that?!
-dr.
-schiff: okay then, would you like to lie down on the table?
+dr. schiff: okay then, would you like to lie down on the table?
 rachel: well would you like me to lie down on the table?
-dr.
-schiff: i’m sorry, is there something going on here?
+dr. schiff: i’m sorry, is there something going on here?
 rachel: do you feel it too?
 [scene: central perk, monica and phoebe are there as rachel enters.]
 rachel: hi.

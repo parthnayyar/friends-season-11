@@ -94,17 +94,14 @@ rachel: sorry. sorry.
 ross: okay, i uh, i can't see you anymore.
 rachel: yeah, i know. it's ridiculous! i can't see you either.
 [scene: chandler and monica's weekend, a hotel clerk is showing them their new room.]
-hotel
-clerk: i think you'll find this room more to your liking.
+hotel clerk: i think you'll find this room more to your liking.
 chandler: okay, great. (he grabs the remote and turns on the tv to the chase.)
-hotel
-clerk: (watching the chase) they say he's only got half a tank left.
+hotel clerk: (watching the chase) they say he's only got half a tank left.
 chandler: half a tank? we still got a lot of high-speed chasing to do!
 monica: we're switching rooms again.
 chandler: what? why?
 monica: this is a garden view room, and we paid for an ocean view room.
-hotel
-clerk: our last ocean view room was unacceptable to you.
+hotel clerk: our last ocean view room was unacceptable to you.
 monica: (to chandler) excuse me, umm, can i talk to you over here for just a second?
 chandler: uh-huh. (he doesn't take his eyes off the tv.)
 monica: chandler!
@@ -179,8 +176,7 @@ ross: that's not advice!
 joey: i told ya.
 ross: i'm going to the bathroom. (gets up and exits.)
 joey: man, if anyone asked me to give up any of you, i couldn't do it.
-chandler and
-phoebe: yeah, me either.
+chandler and phoebe: yeah, me either.
 monica: maybe i could do it.
 rachel: (entering) hi!
 joey: hi, rach.
