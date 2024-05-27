@@ -1,3 +1,5 @@
+import os
+import sys
 import torch
 from dataloader import DataLoader
 
@@ -119,28 +121,37 @@ class Model(torch.nn.Module):
             if idx_next.item() == 1: break
         return idx
     
-    def estimate_loss(self, eval_iters, dataloader, batch_size, device): 
+    def estimate_loss(self, eval_iters, dataloader, batch_size, device, debug=False): 
         with torch.no_grad():
             out = {}
             self.eval()
             for split in ['train', 'val']:
+                if debug: print(f'{split} data', end=': ')
                 losses = torch.zeros(eval_iters)
                 for i in range(eval_iters):
                     X, Y = dataloader.get_batch(split, self.block_size, batch_size, device)
                     _, loss = self(X, device, targets=Y)
                     losses[i] = loss.item()
+                    if debug and i%(eval_iters//5)==0: print(f'{i+1}/{eval_iters} done', end=', ') 
+                    if debug and i==eval_iters-1: print(f'{i+1}/{eval_iters} done') 
                 out[split] = losses.mean()
             self.train()
             return out
     
-    def train_model(self, train, test, max_iters, eval_iters, batch_size, lr, device):
-        dataloader = DataLoader(train, test)
+    def train_model(self, train, val, max_iters, eval_iters, batch_size, lr, device, debug=False):
+        if debug: print('training start')
+        dataloader = DataLoader(train, val)
         optimizer = torch.optim.AdamW(self.parameters(), lr=lr)
+        tr_losses, val_losses = [], []
         for i in range(max_iters):
             # every once in a while evaluate the loss on train and val sets
             if i % eval_iters == 0 or iter == max_iters - 1:
-                losses = self.estimate_loss(eval_iters, dataloader, batch_size, device)
-                print(f"step {i}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}")
+                if debug: print(f'Evaluate losses at step: {i}')
+                losses = self.estimate_loss(eval_iters, dataloader, batch_size, device, debug=debug)
+                tr_loss, val_loss = losses['train'], = losses['val']
+                print(f'step {i}: train loss {tr_loss:.4f}, val loss {val_loss:.4f}')
+                tr_losses.append(tr_loss)
+                val_losses.append(val_loss)
             # sample a batch of data
             xb, yb = dataloader.get_batch('train', self.block_size, batch_size, device)
             # evaluate the loss
@@ -148,3 +159,5 @@ class Model(torch.nn.Module):
             optimizer.zero_grad(set_to_none=True)
             loss.backward()
             optimizer.step()
+        if debug: print('training finish')
+        return tr_losses, val_losses
