@@ -1,5 +1,3 @@
-import os
-import sys
 import torch
 from dataloader import DataLoader
 
@@ -17,15 +15,13 @@ class Head(torch.nn.Module):
         # output of size (batch, time-step, head size)
         B,T,C = x.shape
         k = self.key(x)   # (B,T,hs)
-        q = self.query(x) # (B,T,hs)
         # compute attention scores ("affinities")
-        wei = q @ k.transpose(-2,-1) * k.shape[-1]**-0.5 # (B, T, hs) @ (B, hs, T) -> (B, T, T)
+        wei = self.query(x) @ k.transpose(-2,-1) * k.shape[-1]**-0.5 # (B, T, hs) @ (B, hs, T) -> (B, T, T)
         wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf')) # (B, T, T)
         wei = torch.nn.functional.softmax(wei, dim=-1) # (B, T, T)
         wei = self.dropout(wei)
         # perform the weighted aggregation of the values
-        v = self.value(x) # (B,T,hs)
-        out = wei @ v # (B, T, T) @ (B, T, hs) -> (B, T, hs)
+        out = wei @ self.value(x) # (B, T, T) @ (B, T, hs) -> (B, T, hs)
         return out
     
 class MultiHeadAttention(torch.nn.Module):
@@ -57,8 +53,8 @@ class Block(torch.nn.Module):
         # n_embd: embedding dimension, n_head: the number of heads we'd like
         super().__init__()
         self.sa = MultiHeadAttention(n_head, n_embd // n_head, n_embd, block_size, dropout)
-        self.ffwd = FeedFoward(n_embd, dropout)
         self.ln1 = torch.nn.LayerNorm(n_embd)
+        self.ffwd = FeedFoward(n_embd, dropout)
         self.ln2 = torch.nn.LayerNorm(n_embd)
 
     def forward(self, x):
@@ -88,9 +84,7 @@ class Model(torch.nn.Module):
     def forward(self, idx, device, targets=None): 
         B, T = idx.shape
         # idx and targets are both (B,T) tensor of integers
-        tok_emb = self.token_embedding_table(idx) # (B,T,C)
-        pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # (T,C)
-        x = tok_emb + pos_emb # (B,T,C)
+        x = self.token_embedding_table(idx) + self.position_embedding_table(torch.arange(T, device=device)) # (B,T,C) + (T,C) = (B,T,C)
         x = self.blocks(x) # (B,T,C)
         x = self.ln_f(x) # (B,T,C)
         logits = self.lm_head(x) # (B,T,vocab_size)
@@ -102,24 +96,26 @@ class Model(torch.nn.Module):
             loss = torch.nn.functional.cross_entropy(logits, targets)
         return logits, loss
     
-    def generate(self, idx, max_new_tokens): 
-        # idx is (B, T) array of indices in the current context
-        for _ in range(max_new_tokens):
-            # crop idx to the last block_size tokens
-            idx_cond = idx[:, -self.block_size:]
-            # get the predictions
-            logits, _ = self(idx_cond)
-            # focus only on the last time step
-            logits = logits[:, -1, :] # becomes (B, C)
-            # apply softmax to get probabilities
-            probs = torch.nn.functional.softmax(logits, dim=-1) # (B, C)
-            # sample from the distribution
-            idx_next = torch.multinomial(probs, num_samples=1) # (B, 1)
-            # append sampled index to the running sequence
-            idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
-            # break if <EPISODE_END> reached
-            if idx_next.item() == 1: break
-        return idx
+    def generate(self, idx, max_new_tokens, device): 
+        with torch.no_grad():
+            # idx is (B, T) array of indices in the current context
+            for _ in range(max_new_tokens):
+                # crop idx to the last block_size tokens
+                idx_cond = idx[:, -self.block_size:]
+                # get the predictions
+                logits, __ = self(idx_cond, device)
+                __ = None
+                # focus only on the last time step
+                logits = logits[:, -1, :] # becomes (B, C)
+                # apply softmax to get probabilities
+                probs = torch.nn.functional.softmax(logits, dim=-1) # (B, C)
+                # sample from the distribution
+                idx_next = torch.multinomial(probs, num_samples=1) # (B, 1)
+                # append sampled index to the running sequence
+                idx = torch.cat((idx, idx_next), dim=1) # (B, T+1)
+                # break if <EPISODE_END> reached
+                if idx_next.item() == 1: break
+            return idx
     
     def estimate_loss(self, eval_iters, dataloader, batch_size, device, debug=False): 
         with torch.no_grad():
@@ -132,7 +128,7 @@ class Model(torch.nn.Module):
                     X, Y = dataloader.get_batch(split, self.block_size, batch_size, device)
                     _, loss = self(X, device, targets=Y)
                     losses[i] = loss.item()
-                    if debug and i%(eval_iters//5)==0: print(f'{i+1}/{eval_iters} done', end=', ') 
+                    if debug and i%(eval_iters//1)==0: print(f'{i+1}/{eval_iters} done', end=', ') 
                     if debug and i==eval_iters-1: print(f'{i+1}/{eval_iters} done') 
                 out[split] = losses.mean()
             self.train()
@@ -148,14 +144,14 @@ class Model(torch.nn.Module):
             if i % eval_iters == 0 or iter == max_iters - 1:
                 if debug: print(f'Evaluate losses at step: {i}')
                 losses = self.estimate_loss(eval_iters, dataloader, batch_size, device, debug=debug)
-                tr_loss, val_loss = losses['train'], = losses['val']
+                tr_loss, val_loss = losses['train'], losses['val']
                 print(f'step {i}: train loss {tr_loss:.4f}, val loss {val_loss:.4f}')
                 tr_losses.append(tr_loss)
                 val_losses.append(val_loss)
             # sample a batch of data
             xb, yb = dataloader.get_batch('train', self.block_size, batch_size, device)
             # evaluate the loss
-            _, loss = self(xb, yb)
+            _, loss = self(xb, device, targets=yb)
             optimizer.zero_grad(set_to_none=True)
             loss.backward()
             optimizer.step()
